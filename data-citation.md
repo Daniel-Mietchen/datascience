@@ -1,5 +1,5 @@
 # About
-Here, I am collecting information pertaining to the citation of data, be it from the formal scholarly literature or from elsewhere, or in a manner readable by humans or machines.
+This file is to facilitate the collection of information pertaining to the citation of data, be it from the formal scholarly literature or from elsewhere, or in a manner readable by humans or machines.
 
 # Examples
 * [Joint Declaration of Data Citation Principles](https://www.force11.org/datacitation)
