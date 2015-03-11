@@ -3,5 +3,7 @@ This file hosts information regarding data management plans and how they could b
 
 # Existing tools
 
-* https://dmp.cdlib.org/
-* https://dmponline.dcc.ac.uk/ 
+* [DMPTOOL](https://dmp.cdlib.org/)
+  * not machine readable 
+* [DMPonline](https://dmponline.dcc.ac.uk/) 
+  * machine readability on the horizon
