@@ -8,7 +8,7 @@ This file collects information on crowdsourcing in relation to research, especia
 * WikiPathways
 * Wikidata
   * [Wikidata for Research](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research)
-   * [Wiki4R](http://dx.doi.org/10.5281/zenodo.13906) &ndash; a Horizon 2020 proposal (drafted in the open) about using Wikidata in research contexts
+    * [Wiki4R](http://dx.doi.org/10.5281/zenodo.13906) &ndash; a Horizon 2020 proposal (drafted in the open) about using Wikidata in research contexts
 * Wikigenes
 
 ## Research funding
