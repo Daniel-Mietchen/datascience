@@ -14,3 +14,5 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Medicinal plants, human health and biodiversity: a broad review](http://dx.doi.org/10.1007/10_2014_273)
 * [Linking biodiversity, diet and health in policy and practice](http://dx.doi.org/10.1079/PNS2006494)
 * [Embedded in nature: human health and biodiversity](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1241805/)
+* [Big Data privacy report](https://www.whitehouse.gov/sites/default/files/docs/big_data_privacy_report_may_1_2014.pdf)
+* [STM Report 2015](http://www.stm-assoc.org/2015_02_20_STM_Report_2015.pdf)
