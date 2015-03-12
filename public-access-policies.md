@@ -11,7 +11,9 @@ This file serves the collection of information related to public access policies
 ## EU
 ### FP7
 * Open Access Pilot
+
 ### Horizon 2020
 * Public Access is mandatory
 * Open Data Pilot
+
 ### FP9?
