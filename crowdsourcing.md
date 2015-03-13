@@ -3,9 +3,12 @@ This file collects information on crowdsourcing in relation to research, especia
 
 # Target communities (sub-crowds)
 * Researchers
+ * via journals
+ * via societies
 * Patients
 * Physicians
 * Students
+ * [IFSMA](http://www.ifmsa.org/) 
 * Developers
 * Public
 
