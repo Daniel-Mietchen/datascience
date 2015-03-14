@@ -4,7 +4,7 @@ This file collects information on crowdsourcing in relation to research, especia
 # Target communities (sub-crowds)
 * Researchers
  * via journals
-  * expanding the [Topic Pages](http://wikiambassador.jiscinvolve.org/wp/2014/03/28/publishing-scholarly-wikipedia/) approach to other areas, especially rare diseases and neglected tropical diseases
+   * expanding the [Topic Pages](http://wikiambassador.jiscinvolve.org/wp/2014/03/28/publishing-scholarly-wikipedia/) approach to other areas, especially rare diseases and neglected tropical diseases
  * via societies
 * Patients
 * Physicians
