@@ -16,3 +16,5 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Embedded in nature: human health and biodiversity](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1241805/)
 * [Big Data privacy report](https://www.whitehouse.gov/sites/default/files/docs/big_data_privacy_report_may_1_2014.pdf)
 * [STM Report 2015](http://www.stm-assoc.org/2015_02_20_STM_Report_2015.pdf)
+* [Patterns of Patronage: Why Grants Won Over Prizes in Science](http://www.atriumtech.com/muic2008/icsc302/papers/WhyGrantsOverPrizes.pdf)
+* [Wikipedia – challenges and new horizons in enhancing medical education](http://dx.doi.org/10.1186/s12909-015-0309-2)
