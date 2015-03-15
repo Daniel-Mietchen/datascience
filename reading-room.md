@@ -19,5 +19,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Patterns of Patronage: Why Grants Won Over Prizes in Science](http://www.atriumtech.com/muic2008/icsc302/papers/WhyGrantsOverPrizes.pdf)
 * [Wikipedia – challenges and new horizons in enhancing medical education](http://dx.doi.org/10.1186/s12909-015-0309-2)
 * [Crowdsourcing the identification of organisms: A case-study of iSpot](http://dx.doi.org/10.3897/zookeys.480.8803)
+
 > We propose that the success of iSpot arises from the structure of its social network that efficiently connects beginners and experts, overcoming the social as well as geographic barriers that normally separate the two. 
 * [Is there a library-sized hole in the internet?](http://www.researchinformation.info/news/news_story.php?news_id=1847)
