@@ -21,4 +21,5 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Crowdsourcing the identification of organisms: A case-study of iSpot](http://dx.doi.org/10.3897/zookeys.480.8803)
 
 > We propose that the success of iSpot arises from the structure of its social network that efficiently connects beginners and experts, overcoming the social as well as geographic barriers that normally separate the two. 
+
 * [Is there a library-sized hole in the internet?](http://www.researchinformation.info/news/news_story.php?news_id=1847)
