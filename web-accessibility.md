@@ -2,8 +2,10 @@
 This file contains notes on how to make Web-based materials &ndash; and data in particular &ndash; accessible to users with disabilities.
 
 #General regulations regarding web accessibility
-## W3C 
-* [Web Content Accessibility Guidelines (WCAG)](http://www.w3.org/WAI/intro/wcag)
+## International 
+* W3C: [Web Content Accessibility Guidelines (WCAG)](http://www.w3.org/WAI/intro/wcag)
+* ISO: [ISO/IEC TR 29138-X:2009, Information technology -- Accessibility considerations for people with disabilities](http://www.jtc1access.org/TR29138.htm)
+  * comes in three parts (X=1: User needs summary; X=2: Standards inventory; X=3: Guidance on user needs mapping)
 
 ## US
 * [United States Access Board](http://www.access-board.gov/)
