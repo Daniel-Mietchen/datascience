@@ -7,6 +7,7 @@ This file serves the collection of information related to public access policies
   * [SPARC overview of responses](http://www.sparc.arl.org/advocacy/national/directive) (regularly updated)
     * Apart from NIH, two agencies so far (AHRQ and NASA) opted for an approach based on PubMed Central for handling the literature part
   * [NIH policies on access and sharing](http://grants.nih.gov/grants/sharing.htm)
+  * [NSF policy](http://www.nsf.gov/news/special_reports/public_access/)
 
 ## EU
 ### FP7
@@ -17,3 +18,6 @@ This file serves the collection of information related to public access policies
 * Open Data Pilot
 
 ### FP9?
+
+## Non-governmental organizations
+*[Wikimedia](http://blog.wikimedia.org/2015/03/18/wikimedia-open-access-policy/)
