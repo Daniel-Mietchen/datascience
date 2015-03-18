@@ -20,4 +20,4 @@ This file serves the collection of information related to public access policies
 ### FP9?
 
 ## Non-governmental organizations
-*[Wikimedia](http://blog.wikimedia.org/2015/03/18/wikimedia-open-access-policy/)
+* [Wikimedia](http://blog.wikimedia.org/2015/03/18/wikimedia-open-access-policy/)
