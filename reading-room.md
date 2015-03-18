@@ -29,3 +29,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Data Sharing Expectations for Clinical Research Funded by NIMH](http://grants.nih.gov/grants/guide/notice-files/NOT-MH-15-012.html#sthash.0eteQibW.dpuf)
 * [Reinventing Healthcare to Serve People, Not Institutions](http://www.slideshare.net/timoreilly/reinventing-healthcare-to-serve-people-not-institutions)
 * [Precision Medicine: The Future or Simply Politics?](http://jama.jamanetwork.com/article.aspx?articleid=2203797)
+
+# Collaborative workflows
+* [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
