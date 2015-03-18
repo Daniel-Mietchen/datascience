@@ -23,3 +23,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
 > We propose that the success of iSpot arises from the structure of its social network that efficiently connects beginners and experts, overcoming the social as well as geographic barriers that normally separate the two. 
 
 * [Is there a library-sized hole in the internet?](http://www.researchinformation.info/news/news_story.php?news_id=1847)
+* [Refining the brightest and best new ideas in research data management](http://www.researchinformation.info/news/news_story.php?news_id=1863&task=delete)
+* [Professor uses data gathered from squirrels to make music](http://news.psu.edu/story/348178/2015/03/16/research/professor-uses-data-gathered-squirrels-make-music)
+* [Assessing the research potential of access to clinical trial data](http://blog.wellcome.ac.uk/2015/03/17/the-research-potential-of-clinical-trial-data/)
+* [Data Sharing Expectations for Clinical Research Funded by NIMH](http://grants.nih.gov/grants/guide/notice-files/NOT-MH-15-012.html#sthash.0eteQibW.dpuf)
+* [Reinventing Healthcare to Serve People, Not Institutions](http://www.slideshare.net/timoreilly/reinventing-healthcare-to-serve-people-not-institutions)
+* [Precision Medicine: The Future or Simply Politics?](http://jama.jamanetwork.com/article.aspx?articleid=2203797)
