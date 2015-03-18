@@ -10,12 +10,12 @@ The bot's activity has revealed a number of [inconsistencies in the XML at PMC](
 This sparked the formation of the [JATS for Reuse](https://github.com/jats4r) (JATS4R) Working Group that now elaborates recommendations on how best to tag articles in JATS, so as to facilitate reuse.
 
 ## Stats  
-*[Page views of medical pages on the English Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Popular_pages)  
-*[GLAMorous](http://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Uploaded+with+Open+Access+Media+Importer)  
-*[BaGLAMa](http://tools.wmflabs.org/glamtools/baglama2/#gid=129&month=201502)  
-*[Cite-o-Meter](http://tools.wmflabs.org/cite-o-meter/)  
-*[Cocytus](http://events.labs.crossref.org/events/types/WikipediaCitation)  
-*[Total DOIs cited from the English Wikipedia](https://dx.doi.org/10.6084/m9.figshare.1299540)  
+* [Page views of medical pages on the English Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Popular_pages)  
+* [GLAMorous](http://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Uploaded+with+Open+Access+Media+Importer)  
+* [BaGLAMa](http://tools.wmflabs.org/glamtools/baglama2/#gid=129&month=201502)  
+* [Cite-o-Meter](http://tools.wmflabs.org/cite-o-meter/)  
+* [Cocytus](http://events.labs.crossref.org/events/types/WikipediaCitation)  
+* [Total DOIs cited from the English Wikipedia](https://dx.doi.org/10.6084/m9.figshare.1299540)  
 
 ## ImageJ
 [ImageJ](http://imagej.nih.gov/ij/) is a widely used software package for visualizing and analyzing biomedical data.
