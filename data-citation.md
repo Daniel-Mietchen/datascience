@@ -3,6 +3,7 @@ This file is to facilitate the collection of information pertaining to the citat
 
 # Quotes
 * [NIH Public Access Plan  for Increasing Access to Scientific Publications and Digital Scientific Data from NIH Funded Scientific Research (02/2015)](http://grants.nih.gov/grants/NIH-Public-Access-Plan.pdf) (PDF)  
+
 > NIH will explore ways to advance data as a legitimate form of scholarship through data citation and other means. 
 
 # Resources
