@@ -8,6 +8,7 @@ This file collects information on crowdsourcing in relation to research, especia
  * via societies
 * Patients
 * Physicians
+  * [PDQ (Physician Data Query)](http://www.cancer.gov/cancertopics/pdq)
 * Students
  * [IFSMA](http://www.ifmsa.org/) 
 * Developers
