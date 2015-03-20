@@ -2,7 +2,11 @@
 This file collects information pertaining to ways in which the interaction between scientific data and journalism could be enhanced, particulary in the context of open research.
 
 # Some thoughts on the topic
-* [embedded journalism](https://en.wikipedia.org/wiki/Embedded_journalism) as a term is almost exclusively used in military contexts, but the concept of embedding journalists might well be better suited to the research process
+* [Opening up research proposals](https://www.newschallenge.org/challenge/2014/submissions/opening-up-research-proposals) 
+
+> We see no principle reason why approaches like embedded journalism would have to remain limited to military contexts, or prohibited to report negative results.  
+
+Indeed, the concept of embedding journalists might well be better suited to the research process.
 
 * [The Transformative Nature of Transparency in Research Funding](http://dx.doi.org/10.1371/journal.pbio.1002027)
 > Journalists, museums, or other science communicators could begin to interact with research projects before these even start and embed themselves and their audiences into the research process much more than they can now, thereby facilitating new approaches to public engagement with science. 
