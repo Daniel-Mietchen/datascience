@@ -31,6 +31,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Precision Medicine: The Future or Simply Politics?](http://jama.jamanetwork.com/article.aspx?articleid=2203797)
 * [Science Bots: a Model for the Future of Scientific Computation?](http://arxiv.org/abs/1503.04374)
 * [Research data at your fingertips](http://www.allianzinitiative.de/fileadmin/user_upload/redakteur/2015_Positionspapier_AG_Forschungsdaten_en.pdf)
+* [People’s health at the centre of new global blueprint to reduce disaster risks](http://www.who.int/mediacentre/news/releases/2015/disaster-risk-reduction/en/)
 
 # Collaborative workflows
 * [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
