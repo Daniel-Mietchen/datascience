@@ -22,3 +22,7 @@ This file is to facilitate the collection of information pertaining to the citat
 * [RDA Data Citation Working Group](https://rd-alliance.org/groups/data-citation-wg.html)
     * Basic idea: [implement dynamic data citation by assigning identifier to a query with time stamp](https://twitter.com/hilaryhanahoe/status/575096544933752832) 
     * Details: [Dynamic Data Citation: which time-stamp to assign?](https://rd-alliance.org/group/data-citation-wg/post/dynamic-data-citation-which-time-stamp-assign.html)
+
+# Events
+* [Open Research Data: Implications for Science and Society](http://opendataconference2015.pon.edu.pl/) (Warsaw, Poland, May 28–29, 2015)
+   * [Call for papers](http://opendataconference2015.pon.edu.pl/call-for-proposals/) (deadline: March 31)
