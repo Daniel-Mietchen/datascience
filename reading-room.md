@@ -19,7 +19,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Patterns of Patronage: Why Grants Won Over Prizes in Science](http://www.atriumtech.com/muic2008/icsc302/papers/WhyGrantsOverPrizes.pdf)
 * [Wikipedia – challenges and new horizons in enhancing medical education](http://dx.doi.org/10.1186/s12909-015-0309-2)
 * [Crowdsourcing the identification of organisms: A case-study of iSpot](http://dx.doi.org/10.3897/zookeys.480.8803)
-* [HHS Sustainability](http://www.hhs.gov/about/sustainability/index.html
 
 > We propose that the success of iSpot arises from the structure of its social network that efficiently connects beginners and experts, overcoming the social as well as geographic barriers that normally separate the two. 
 
@@ -37,6 +36,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Big Data for Advancing Dementia Research &ndash; An Evaluation of Data Sharing Practices in Research on Age-related Neurodegenerative Diseases ](http://dx.doi.org/10.1787/5js4sbddf7jk-en)
 * [Open Collaboration Data Factories](http://www.datafactories.org/)
 * [Wikipedia Chemical Structure Explorer: substructure and similarity searching of molecules from Wikipedia](http://dx.doi.org/10.1186/s13321-015-0061-y)
+* [HHS Sustainability](http://www.hhs.gov/about/sustainability/index.html)
 
 # Webinars
 ## Upcoming
