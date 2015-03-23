@@ -35,6 +35,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Drug Safety in the Digital Age](http://dx.doi.org/10.1056/NEJMp1401767)
 * [Big Data for Advancing Dementia Research &ndash; An Evaluation of Data Sharing Practices in Research on Age-related Neurodegenerative Diseases ](http://dx.doi.org/10.1787/5js4sbddf7jk-en)
 * [Open Collaboration Data Factories](http://www.datafactories.org/)
+* [Wikipedia Chemical Structure Explorer: substructure and similarity searching of molecules from Wikipedia](http://dx.doi.org/10.1186/s13321-015-0061-y)
 
 # Collaborative workflows
 * [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
