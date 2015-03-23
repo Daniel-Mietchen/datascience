@@ -10,7 +10,15 @@ as key factors on how to achieve that.
 
 The bot's activity has revealed a number of [inconsistencies in the XML at PMC](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2014/Inconsistent_XML_as_a_Barrier_to_Reuse_of_Open_Access_Content), since the XML standard in use at PMC ([JATS](http://jats.nlm.nih.gov/)) is by design not very prescriptive and leaves lots of room for interpretation.
 
-This sparked the formation of the [JATS for Reuse](https://github.com/jats4r) (JATS4R) Working Group that now elaborates recommendations on how best to tag articles in JATS, so as to facilitate reuse.
+This sparked the formation of the [JATS for Reuse](https://github.com/jats4r) (JATS4R) Working Group that now 
+elaborates recommendations on how best to tag articles in JATS, so as to facilitate reuse.
+
+## PubMed Central
+* adopting JATS4R recommendations
+* implementing data citation as per JATS 1.1d2
+* providing high-res images via API
+* more fine-grained search, e.g. for [supplementary video or audio files](http://www.ncbi.nlm.nih.gov/pmc/?term=(%22supplementary+material%22)+AND+(audio+OR+movie+OR+sound+OR+video+OR+animation))
+* make the ingestion XSLT and schematrons public
 
 ## Stats  
 * [Page views of medical pages on the English Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Popular_pages)  
@@ -19,6 +27,7 @@ This sparked the formation of the [JATS for Reuse](https://github.com/jats4r) (J
 * [Cite-o-Meter](http://tools.wmflabs.org/cite-o-meter/)  
 * [Cocytus](http://events.labs.crossref.org/events/types/WikipediaCitation)  
 * [Total DOIs cited from the English Wikipedia](https://dx.doi.org/10.6084/m9.figshare.1299540)  
+
 
 ## ImageJ
 [ImageJ](http://imagej.nih.gov/ij/) is a widely used software package for visualizing and analyzing biomedical data.
