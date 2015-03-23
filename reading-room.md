@@ -37,5 +37,13 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Open Collaboration Data Factories](http://www.datafactories.org/)
 * [Wikipedia Chemical Structure Explorer: substructure and similarity searching of molecules from Wikipedia](http://dx.doi.org/10.1186/s13321-015-0061-y)
 
+# Webinars
+## Upcoming
+
+## Past
+* [NCBI Webinars & Courses](http://www.ncbi.nlm.nih.gov/education/webinars/)
+  * March 5, 2015: NCBI and the NIH Public Access Policy: PubMed Central Submissions, My NCBI, My Bibliography and SciENcv 
+  * Oct 15, 2014: An Introduction to NCBI's E-Utilities, an NCBI AP
+
 # Collaborative workflows
 * [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
