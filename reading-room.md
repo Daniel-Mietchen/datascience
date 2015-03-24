@@ -39,6 +39,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [HHS Sustainability](http://www.hhs.gov/about/sustainability/index.html)
 * [Protein crystallography for non-crystallographers, or how to get the best (but not more) from published macromolecular structures](http://dx.doi.org/10.1111/j.1742-4658.2007.06178.x)
 * [Riding the wave - How Europe can gain from the rising tide of scientific data - Final report of the High Level Expert Group on Scientific Data - October 2010](http://ec.europa.eu/information_society/newsroom/cf/itemlongdetail.cfm?item_id=6204)
+* [If We Share Data, Will Anyone Use Them? Data Sharing and Reuse in the Long Tail of Science and Technology](http://dx.doi.org/10.1371/journal.pone.0067332)
 
 # Webinars
 ## Upcoming
