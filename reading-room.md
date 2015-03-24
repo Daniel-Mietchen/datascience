@@ -37,6 +37,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Open Collaboration Data Factories](http://www.datafactories.org/)
 * [Wikipedia Chemical Structure Explorer: substructure and similarity searching of molecules from Wikipedia](http://dx.doi.org/10.1186/s13321-015-0061-y)
 * [HHS Sustainability](http://www.hhs.gov/about/sustainability/index.html)
+* [Protein crystallography for non-crystallographers, or how to get the best (but not more) from published macromolecular structures](http://dx.doi.org/10.1111/j.1742-4658.2007.06178.x)
 
 # Webinars
 ## Upcoming
