@@ -15,7 +15,7 @@ This file is to facilitate the collection of information pertaining to the citat
 * [The citation revolution will not be televised: the end of papers and the rise of data.](http://blogs.lse.ac.uk/impactofsocialsciences/2014/09/05/citation-revolution-end-of-papers-rise-of-data/)
 * [Analyzing data citation practices according to the Data Citation Index](http://arxiv.org/abs/1501.06285)
 
-> Sharing research data at a large scale benefits funding bodies, as they see how their investment pays back through an increased use and re-use of data ([Wood et al., 2010](http://arxiv.org/abs/1501.06285)).
+> Sharing research data at a large scale benefits funding bodies, as they see how their investment pays back through an increased use and re-use of data ([Wood et al., 2010](http://ec.europa.eu/information_society/newsroom/cf/itemlongdetail.cfm?item_id=6204)).
 
 * [ESRC guidelines on data citation](http://www.esrc.ac.uk/funding-and-guidance/grant-holders/data-citation.aspx)
 * [Data Citation and Sharing: What’s in it for me?](http://blogs.lse.ac.uk/impactofsocialsciences/2014/01/07/data-citation-and-sharing-whats-in-it-for-me/)
