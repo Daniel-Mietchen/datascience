@@ -43,6 +43,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Sharing and Reporting the Results of Clinical Trials](http://dx.doi.org/10.1001/jama.2014.10716)
 * [When data sharing gets close to 100%: what human paleogenetics can teach the open science movement.](http://www.ncbi.nlm.nih.gov/pubmed/25799293)
 * [Finding the Missing Link for Big Biomedical Data](http://dx.doi.org/10.1001/jama.2014.4228)
+* [Improving patient flow across organisations and pathways](http://www.health.org.uk/publications/improving-patient-flow-across-organisations-and-pathways/)
  
 
 # Webinars
