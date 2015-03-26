@@ -1,5 +1,5 @@
 # About
-This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet.
+This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on reading through these resources and putting them into the context of the more thematically focused files in this repository.
 
 # List
 * [NIH Fiscal Year 2016 Budget Request](http://www.nih.gov/about/director/budgetrequest/fy2016testimony.htm)
@@ -46,6 +46,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Improving patient flow across organisations and pathways](http://www.health.org.uk/publications/improving-patient-flow-across-organisations-and-pathways/)
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
+* [How Big Data is Changing the Hiring Game](http://hirevue.com/blog/how-big-data-is-changing-the-hiring-game)
 
 # Webinars
 ## Upcoming
