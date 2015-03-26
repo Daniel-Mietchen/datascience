@@ -19,7 +19,9 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * providing high-res images via API
 * more fine-grained search, e.g. for [supplementary video or audio files](http://www.ncbi.nlm.nih.gov/pmc/?term=(%22supplementary+material%22)+AND+(audio+OR+movie+OR+sound+OR+video+OR+animation))
 * make the ingestion XSLT and schematrons public
-    * (useful to publishers)[https://twitter.com/invisiblecomma/status/579980606601318400]
+    * probably useful for PMC partner repositories (think PMC International but also SciELO or NASA)
+    * [useful to publishers](https://twitter.com/invisiblecomma/status/579980606601318400)
+    * [useful for Wikisource](https://github.com/wpoa/JATS-to-Mediawiki)
 
 ## Stats  
 * [Page views of medical pages on the English Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Popular_pages)  
