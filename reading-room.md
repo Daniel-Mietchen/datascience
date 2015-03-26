@@ -47,6 +47,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
 * [How Big Data is Changing the Hiring Game](http://hirevue.com/blog/how-big-data-is-changing-the-hiring-game)
+* [19 Excellent Free & Open Data Sources for Doing #DataScience](http://www.data-mania.com/blog/19-excellent-free-open-data-sources-for-doing-datascience/)
 
 # Webinars
 ## Upcoming
