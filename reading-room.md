@@ -41,6 +41,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Riding the wave - How Europe can gain from the rising tide of scientific data - Final report of the High Level Expert Group on Scientific Data - October 2010](http://ec.europa.eu/information_society/newsroom/cf/itemlongdetail.cfm?item_id=6204)
 * [If We Share Data, Will Anyone Use Them? Data Sharing and Reuse in the Long Tail of Science and Technology](http://dx.doi.org/10.1371/journal.pone.0067332)
 * [Sharing and Reporting the Results of Clinical Trials](http://dx.doi.org/10.1001/jama.2014.10716)
+* [When data sharing gets close to 100%: what human paleogenetics can teach the open science movement.](http://www.ncbi.nlm.nih.gov/pubmed/25799293)
+* [Finding the Missing Link for Big Biomedical Data](http://dx.doi.org/10.1001/jama.2014.4228)
+ 
 
 # Webinars
 ## Upcoming
