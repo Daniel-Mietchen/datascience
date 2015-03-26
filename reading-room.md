@@ -49,6 +49,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [How Big Data is Changing the Hiring Game](http://hirevue.com/blog/how-big-data-is-changing-the-hiring-game)
 * [19 Excellent Free & Open Data Sources for Doing #DataScience](http://www.data-mania.com/blog/19-excellent-free-open-data-sources-for-doing-datascience/)
 * [Astronomy’s Looming Big Data Problem Has a New Solution](http://motherboard.vice.com/read/astronomys-looming-big-data-problem-has-a-new-solution)
+* [FuturICT](http://www.futurict.eu/)
 
 # Webinars
 ## Upcoming
