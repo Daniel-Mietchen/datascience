@@ -1,5 +1,5 @@
 # About
-This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on reading through these resources and putting them into the context of the more thematically focused files in this repository.
+This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
 
 # List
 * [NIH Fiscal Year 2016 Budget Request](http://www.nih.gov/about/director/budgetrequest/fy2016testimony.htm)
@@ -48,6 +48,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [A modern guide to getting started with Data Science and Python](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
 * [How Big Data is Changing the Hiring Game](http://hirevue.com/blog/how-big-data-is-changing-the-hiring-game)
 * [19 Excellent Free & Open Data Sources for Doing #DataScience](http://www.data-mania.com/blog/19-excellent-free-open-data-sources-for-doing-datascience/)
+* [Astronomy’s Looming Big Data Problem Has a New Solution](http://motherboard.vice.com/read/astronomys-looming-big-data-problem-has-a-new-solution)
 
 # Webinars
 ## Upcoming
