@@ -63,3 +63,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 # Collaborative workflows
 * [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
+
+# Possible new subtopics to track
+* sustainability
+* Python for data science
+* data science and health care
+
