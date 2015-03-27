@@ -13,7 +13,7 @@ The bot's activity has revealed a number of [inconsistencies in the XML at PMC](
 This sparked the formation of the [JATS for Reuse](https://github.com/jats4r) (JATS4R) Working Group that now 
 elaborates recommendations on how best to tag articles in JATS, so as to facilitate reuse ([overview](http://www.ncbi.nlm.nih.gov/books/NBK279901/)).
 
-## PubMed Central
+### Further ideas 
 * adopting JATS4R recommendations
 * implementing data citation as per JATS 1.1d2
 * providing high-res images via API
