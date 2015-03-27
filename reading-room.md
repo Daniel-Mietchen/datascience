@@ -50,6 +50,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [19 Excellent Free & Open Data Sources for Doing #DataScience](http://www.data-mania.com/blog/19-excellent-free-open-data-sources-for-doing-datascience/)
 * [Astronomy’s Looming Big Data Problem Has a New Solution](http://motherboard.vice.com/read/astronomys-looming-big-data-problem-has-a-new-solution)
 * [FuturICT](http://www.futurict.eu/)
+* [Data-driven Health Care](https://drive.google.com/file/d/0B7A4xAg1D39_R3ZqeU1Rb0dzSlk/edit)
 
 # Webinars
 ## Upcoming
