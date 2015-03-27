@@ -1,5 +1,5 @@
 # About
-This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
+This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on sorting and reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
 
 # List
 * [NIH Fiscal Year 2016 Budget Request](http://www.nih.gov/about/director/budgetrequest/fy2016testimony.htm)
@@ -51,6 +51,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Astronomy’s Looming Big Data Problem Has a New Solution](http://motherboard.vice.com/read/astronomys-looming-big-data-problem-has-a-new-solution)
 * [FuturICT](http://www.futurict.eu/)
 * [Data-driven Health Care](https://drive.google.com/file/d/0B7A4xAg1D39_R3ZqeU1Rb0dzSlk/edit)
+* [State of the art review: the data revolution in critical care](http://dx.doi.org/10.1186%2Fs13054-015-0801-4)
 
 # Webinars
 ## Upcoming
