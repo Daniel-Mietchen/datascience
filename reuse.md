@@ -13,8 +13,10 @@ The bot's activity has revealed a number of [inconsistencies in the XML at PMC](
 This sparked the formation of the [JATS for Reuse](https://github.com/jats4r) (JATS4R) Working Group that now 
 elaborates recommendations on how best to tag articles in JATS, so as to facilitate reuse ([overview](http://www.ncbi.nlm.nih.gov/books/NBK279901/)).
 
-### Further ideas 
+### Desireable features
 * adopting JATS4R recommendations
+* exposing license via API
+* search by license
 * implementing data citation as per JATS 1.1d2
 * providing high-res images via API
 * more fine-grained search, e.g. for [supplementary video or audio files](http://www.ncbi.nlm.nih.gov/pmc/?term=(%22supplementary+material%22)+AND+(audio+OR+movie+OR+sound+OR+video+OR+animation))
