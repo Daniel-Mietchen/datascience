@@ -52,6 +52,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [FuturICT](http://www.futurict.eu/)
 * [Data-driven Health Care](https://drive.google.com/file/d/0B7A4xAg1D39_R3ZqeU1Rb0dzSlk/edit)
 * [State of the art review: the data revolution in critical care](http://dx.doi.org/10.1186%2Fs13054-015-0801-4)
+* [Blue Button](http://healthit.gov/patients-families/your-health-data)
 
 # Webinars
 ## Upcoming
