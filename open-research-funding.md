@@ -8,3 +8,4 @@ Outlines of some ideas in this regard are available from
 * [Introducing ThinkLab — A platform for massively collaborative open science](http://thinklab.com/blog/introducing-thinklab-a-platform-for-massively-collaborative-open-science/38)
 * [How to find grant proposal samples?](http://academia.stackexchange.com/questions/1652/how-to-find-grant-proposal-samples)
 * [Journal of Brief Ideas](http://beta.briefideas.org/all)
+* [Wikimedia grants](https://meta.wikimedia.org/wiki/Grants)
