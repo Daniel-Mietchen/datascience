@@ -2,7 +2,7 @@
 This file serves to collect thoughts on how to stimulate the reuse of open data, and on how to quantify such reuse. [This blog post](http://clintlalonde.net/2014/01/16/building-knowledge-tools-for-the-public-good/) considers some of the conditions that have to be met for reuse to happen, and the importance of generativity in the systems involved. Another blog post [highlighted](http://abject.ca/syndication-and-content/)  
 > Open tools, open media, and syndication  
 
-as key factors on how to achieve that.
+as key factors on how to achieve that. There are others, and the precise mixture probably depends much on context.
 
 # Examples
 ## JATS
@@ -11,7 +11,7 @@ as key factors on how to achieve that.
 The bot's activity has revealed a number of [inconsistencies in the XML at PMC](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2014/Inconsistent_XML_as_a_Barrier_to_Reuse_of_Open_Access_Content), since the XML standard in use at PMC ([JATS](http://jats.nlm.nih.gov/)) is by design not very prescriptive and leaves lots of room for interpretation.
 
 This sparked the formation of the [JATS for Reuse](https://github.com/jats4r) (JATS4R) Working Group that now 
-elaborates recommendations on how best to tag articles in JATS, so as to facilitate reuse.
+elaborates recommendations on how best to tag articles in JATS, so as to facilitate reuse ([overview](http://www.ncbi.nlm.nih.gov/books/NBK279901/)).
 
 ## PubMed Central
 * adopting JATS4R recommendations
