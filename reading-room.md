@@ -59,7 +59,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 ## Past
 * [NCBI Webinars & Courses](http://www.ncbi.nlm.nih.gov/education/webinars/)
   * March 5, 2015: NCBI and the NIH Public Access Policy: PubMed Central Submissions, My NCBI, My Bibliography and SciENcv 
-  * Oct 15, 2014: An Introduction to NCBI's E-Utilities, an NCBI AP
+  * Oct 15, 2014: An Introduction to NCBI's E-Utilities, an NCBI API
 
 # Collaborative workflows
 * [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
