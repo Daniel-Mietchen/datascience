@@ -78,4 +78,5 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * sustainability
 * Python for data science
 * data science and health care
+* training
 
