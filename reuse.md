@@ -13,7 +13,7 @@ The bot's activity has revealed a number of [inconsistencies in the XML at PMC](
 This sparked the formation of the [JATS for Reuse](https://github.com/jats4r) (JATS4R) Working Group that now 
 elaborates recommendations on how best to tag articles in JATS, so as to facilitate reuse ([overview](http://www.ncbi.nlm.nih.gov/books/NBK279901/)).
 
-### Desireable features
+### Desirable features
 * adopting JATS4R recommendations
 * exposing license via API
 * search by license
