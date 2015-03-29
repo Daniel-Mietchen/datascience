@@ -1,5 +1,5 @@
 # About 
-This file serves to collect thoughts on how to stimulate the reuse of open data, and on how to quantify such reuse. [This blog post](http://clintlalonde.net/2014/01/16/building-knowledge-tools-for-the-public-good/) considers some of the conditions that have to be met for reuse to happen, and the importance of generativity in the systems involved. Another blog post [highlighted](http://abject.ca/syndication-and-content/)  
+This file serves to collect thoughts on how to stimulate the reuse of open data, and on how to quantify such reuse. Reuse is to be understood here as non-primary use, i.e. use in a way that was not the primary purpose of collecting the respective data. [This blog post](http://clintlalonde.net/2014/01/16/building-knowledge-tools-for-the-public-good/) considers some of the conditions that have to be met for reuse to happen, and the importance of generativity in the systems involved. Another blog post [highlighted](http://abject.ca/syndication-and-content/)  
 > Open tools, open media, and syndication  
 
 as key factors on how to achieve that. There are others, and the precise mixture probably depends much on context.
