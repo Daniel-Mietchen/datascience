@@ -57,6 +57,11 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Data Driven: Creating a Data Culture](http://www.oreilly.com/data/free/data-driven.csp)
 * [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 * [OpenSaaS and the future of government IT innovation](http://opensource.com/government/14/1/opensaas-and-government-innovation)
+* [A New Open-Source Model For SaaS](http://www.forbes.com/sites/ciocentral/2010/11/09/a-new-open-source-model-for-saas/)
+* [Data Science: An Introduction (Wikibooks)](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction)
+* [The First Ever Data Scientist](http://101.datascience.community/2012/05/02/the-first-ever-data-scientist/)
+* [Data Science: The Paper that Started it All](http://101.datascience.community/2013/01/18/data-science-the-paper-that-started-it-all/) 
+  * [PDF of that paper](http://www.stat.purdue.edu/~wsc/papers/datascience.pdf)
 
 # Webinars
 ## Upcoming
