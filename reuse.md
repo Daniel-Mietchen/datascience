@@ -17,7 +17,7 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * adopting JATS4R recommendations
 * exposing license via API
 * search by license
-* implementing data citation as per JATS 1.1d2
+* help standardize the implementing of data citation as per JATS 1.1d2
 * providing high-res images via API
 * more fine-grained search, e.g. for [supplementary video or audio files](http://www.ncbi.nlm.nih.gov/pmc/?term=(%22supplementary+material%22)+AND+(audio+OR+movie+OR+sound+OR+video+OR+animation))
 * make the ingestion XSLT and schematrons public
