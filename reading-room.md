@@ -62,6 +62,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [The First Ever Data Scientist](http://101.datascience.community/2012/05/02/the-first-ever-data-scientist/)
 * [Data Science: The Paper that Started it All](http://101.datascience.community/2013/01/18/data-science-the-paper-that-started-it-all/) 
   * [PDF of that paper](http://www.stat.purdue.edu/~wsc/papers/datascience.pdf)
+* Helmsley Trust: [Biomedical Research Infrastructure](http://helmsleytrust.org/programs/health-biomedical-research-infrastructure)
+* [Visible prices](http://www.paigemorgan.net/visibleprices/)
+  * Think of a medical spin to it
+
 
 # Webinars
 ## Upcoming
