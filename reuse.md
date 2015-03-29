@@ -35,4 +35,6 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 
 
 ## ImageJ
-[ImageJ](http://imagej.nih.gov/ij/) is a widely used software package for visualizing and analyzing biomedical data.
+* [ImageJ](http://imagej.nih.gov/ij/) is a widely used software package for visualizing and analyzing biomedical data.
+    * [on Google Scholar](http://scholar.google.co.uk/scholar?hl=en&q=ImageJ&btnG=&as_sdt=1%2C5&as_sdtp=)
+    * [on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:ImageJ)
