@@ -65,6 +65,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 # Webinars
 ## Upcoming
+* March 31: [Where to Start with Structured Data and Content](http://www.digitalgov.gov/event/where-to-start-with-structured-data-and-content/)
 
 ## Past
 * [NCBI Webinars & Courses](http://www.ncbi.nlm.nih.gov/education/webinars/)
