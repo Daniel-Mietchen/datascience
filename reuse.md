@@ -13,7 +13,7 @@ The bot's activity has revealed a number of [inconsistencies in the XML at PMC](
 This sparked the formation of the [JATS for Reuse](https://github.com/jats4r) (JATS4R) Working Group that now 
 elaborates recommendations on how best to tag articles in JATS, so as to facilitate reuse ([overview](http://www.ncbi.nlm.nih.gov/books/NBK279901/)).
 
-### Desirable features
+### Improving reusability
 * adopting JATS4R recommendations
 * exposing license via API
 * search by license
@@ -38,3 +38,7 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [ImageJ](http://imagej.nih.gov/ij/) is a widely used software package for visualizing and analyzing biomedical data.
     * [on Google Scholar](http://scholar.google.co.uk/scholar?hl=en&q=ImageJ&btnG=&as_sdt=1%2C5&as_sdtp=)
     * [on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:ImageJ)
+
+## Research questions
+* What kinds of reuses are there?
+* How are they distributed over time, space, discipline, application sector, user populations, operating systems?
