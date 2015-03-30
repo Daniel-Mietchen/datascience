@@ -84,4 +84,5 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * Python for data science
 * data science and health care
 * training
+* feedback
 
