@@ -36,3 +36,5 @@ This file collects information on crowdsourcing in relation to research, especia
 ## Research funding
 * [SciFund](http://scifundchallenge.org/)
 * [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
+* Science prizes
+* Competitions
