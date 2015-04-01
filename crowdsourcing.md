@@ -13,6 +13,7 @@ This file collects information on crowdsourcing in relation to research, especia
  * [IFSMA](http://www.ifmsa.org/) 
 * Developers
     * [Big Data Challenge](http://bigdata.csail.mit.edu/challenge)
+    * [The Galaxy Challenge](https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge)
 * Public
     * [Open Data Stack Exchange](http://opendata.stackexchange.com/)
     * [Open Science Stack Exchange](http://area51.stackexchange.com/proposals/65426/open-science)
