@@ -10,7 +10,9 @@ This file serves the collection of information related to public access policies
   * [NSF policy](http://www.nsf.gov/news/special_reports/public_access/)
 
 ## UK
+* [Open Access at RCUK](http://www.rcuk.ac.uk/research/openaccess/)
 * [RCUK Common Principles on Data Policy](http://www.rcuk.ac.uk/research/datapolicy/)
+* [Open Access at HEFCE](http://www.hefce.ac.uk/rsrch/oa/)
 
 ## EU
 ### FP7
