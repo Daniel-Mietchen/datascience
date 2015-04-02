@@ -9,6 +9,9 @@ This file serves the collection of information related to public access policies
   * [NIH policies on access and sharing](http://grants.nih.gov/grants/sharing.htm)
   * [NSF policy](http://www.nsf.gov/news/special_reports/public_access/)
 
+## UK
+* [RCUK Common Principles on Data Policy](http://www.rcuk.ac.uk/research/datapolicy/)
+
 ## EU
 ### FP7
 * Open Access Pilot
