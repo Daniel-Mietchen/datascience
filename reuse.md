@@ -15,8 +15,9 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 
 ### Improving reusability
 * adopting [JATS4R recommendations](http://jats4r.github.io/#tag-recs)
-      * Background: [Inconsistent XML as a Barrier to Reuse of Open Access Content](http://www.ncbi.nlm.nih.gov/books/NBK159964/)
-      * [Improving the reusability of JATS](http://www.ncbi.nlm.nih.gov/books/NBK279901/)
+      * Background: 
+           * [Inconsistent XML as a Barrier to Reuse of Open Access Content](http://www.ncbi.nlm.nih.gov/books/NBK159964/)
+           * [Improving the reusability of JATS](http://www.ncbi.nlm.nih.gov/books/NBK279901/)
 * providing [high-res images via API](https://github.com/wpoa/JATS-to-Mediawiki/issues/20#issuecomment-47401660)
 * make the ingestion XSLT and schematrons public
     * probably useful for PMC partner repositories (think PMC International but also SciELO or NASA)
