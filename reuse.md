@@ -19,7 +19,7 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
            * [Inconsistent XML as a Barrier to Reuse of Open Access Content](http://www.ncbi.nlm.nih.gov/books/NBK159964/)
            * [Improving the reusability of JATS](http://www.ncbi.nlm.nih.gov/books/NBK279901/)
 * providing [high-res images via API](https://github.com/wpoa/JATS-to-Mediawiki/issues/20#issuecomment-47401660)
-* making the ingestion XSLT and schematrons public
+* making the ingestion XSLT and schematrons public (and under an open license)
     * probably useful for PMC partner repositories (think PMC International but also SciELO or NASA)
     * [useful to publishers](https://twitter.com/invisiblecomma/status/579980606601318400)
     * [useful for Wikisource](https://github.com/wpoa/JATS-to-Mediawiki)
