@@ -70,9 +70,11 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 # Webinars
 ## Upcoming
-* March 31: [Where to Start with Structured Data and Content](http://www.digitalgov.gov/event/where-to-start-with-structured-data-and-content/)
+* TBD
 
 ## Past
+* [DigitalGov University](http://www.digitalgov.gov/)
+  * March 31, 2015: [Where to Start with Structured Data and Content](http://www.digitalgov.gov/event/where-to-start-with-structured-data-and-content/)
 * [NCBI Webinars & Courses](http://www.ncbi.nlm.nih.gov/education/webinars/)
   * March 5, 2015: NCBI and the NIH Public Access Policy: PubMed Central Submissions, My NCBI, My Bibliography and SciENcv 
   * Oct 15, 2014: An Introduction to NCBI's E-Utilities, an NCBI API
