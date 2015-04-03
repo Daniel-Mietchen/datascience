@@ -66,6 +66,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Visible prices](http://www.paigemorgan.net/visibleprices/)
   * Think of a medical spin to it
 * [Science as a public enterprise: the case for open data](http://dx.doi.org/10.1016/S0140-6736(11)60647-8)
+* [prose.io](http://prose.io/)
 
 # Webinars
 ## Upcoming
