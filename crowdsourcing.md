@@ -32,6 +32,7 @@ This file collects information on crowdsourcing in relation to research, especia
   * [Dengue fever](https://www.wikidata.org/wiki/Q30953)
   * [Pathogen transmission ontology](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
   * [WikiProject Chemistry](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_Chemistry#Collaboration_with_PubChem)
+  * [NIH-related properties](https://www.wikidata.org/wiki/Template:NIH_properties)
 * [Wikigenes](https://www.wikigenes.org/)
 
 ## Research funding
