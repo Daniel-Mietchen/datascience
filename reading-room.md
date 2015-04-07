@@ -68,10 +68,11 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Science as a public enterprise: the case for open data](http://dx.doi.org/10.1016/S0140-6736(11)60647-8)
 * [prose.io](http://prose.io/)
 * [Enabling data linkage to maximise the value of public health research data](http://comms.wellcome.ac.uk/q/120yuherT64A1lz3Ov51/wv)
+* [Awesome public datasets on GitHub](http://www.kdnuggets.com/2015/04/awesome-public-datasets-github.html)
 
 # Webinars
 ## Upcoming
-* April 13, 2015: [Enabling data linkage to maximise the value of public health research data](http://comms.wellcome.ac.uk/q/120yuherT64A1lz3Ov51/wv) ([dial-in link](https://global.gotowebinar.com/join/1749839036310336769/845590656))
+* April 13, 2015: [Enabling data linkage to maximise the value of public health research data](http://comms.wellcome.ac.uk/q/120yuherT64A1lz3Ov51/wv)
 
 ## Past
 * [DigitalGov University](http://www.digitalgov.gov/)
