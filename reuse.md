@@ -7,8 +7,9 @@ as key factors on how to achieve that. There are others, and the precise mixture
 # Research questions
 * How are research objects being used?
 * What kinds of reuses are there?
+* What are useful ways to track these kinds of reuses?
 * How is reuse distributed over time, space, discipline, application sector, user populations, operating systems?
-* How can reuse be encouraged and quantified?
+* How can reuse be encouraged?
 
 # Examples
 ## JATS
