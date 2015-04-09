@@ -42,5 +42,7 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
     * [on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:ImageJ)
 
 ## Research questions
+* How are research objects being used?
 * What kinds of reuses are there?
-* How are they distributed over time, space, discipline, application sector, user populations, operating systems?
+* How is reuse distributed over time, space, discipline, application sector, user populations, operating systems?
+* How can reuse be encouraged and quantified?
