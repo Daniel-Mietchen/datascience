@@ -75,6 +75,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Frictionless data](http://blog.okfn.org/2013/04/24/frictionless-data-making-it-radically-easier-to-get-stuff-done-with-data/)
   * [Gdoc](https://docs.google.com/document/d/1vZQaEQ6Rm8eFk54XBN9KhBGQE1KomesFJg3kRalO4AU/edit#)
 
+#Videos to watch
+* [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
+  * and maybe other TED MED talks 
+
 # Webinars
 ## Upcoming
 * April 13, 2015: [Enabling data linkage to maximise the value of public health research data](http://comms.wellcome.ac.uk/q/120yuherT64A1lz3Ov51/wv)
@@ -90,7 +94,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
 
 # Possible new subtopics to track
-* sustainability
 * Python for data science
 * data science and health care
 * training
