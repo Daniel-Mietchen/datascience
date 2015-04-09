@@ -69,6 +69,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [prose.io](http://prose.io/)
 * [Enabling data linkage to maximise the value of public health research data](http://comms.wellcome.ac.uk/q/120yuherT64A1lz3Ov51/wv)
 * [Awesome public datasets on GitHub](http://www.kdnuggets.com/2015/04/awesome-public-datasets-github.html)
+* [The Wealth of the Commons: A World Beyond Market and State](http://www.wealthofthecommons.org/essay/creative-commons-governing-intellectual-commons-below)
+* [Towards a Design Space for a Commons Provenance System](http://about.project-octopus.org/pub/Project_Octopus_-_Towards_a_Design_Space_for_a_Commons_Provenance_System.pdf)
 
 # Webinars
 ## Upcoming
