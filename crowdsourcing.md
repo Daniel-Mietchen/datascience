@@ -39,5 +39,7 @@ This file collects information on crowdsourcing in relation to research, especia
 * [SciFund](http://scifundchallenge.org/)
 * [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
 * Science prizes
-  * Example: [Ecosummit Award 2015](http://ecosummit.net/award)
+  * Examples: 
+    * [Ecosummit Award 2015](http://ecosummit.net/award)
+    * [Apps4EU](http://pro.europeana.eu/blogpost/apps4eu-award-prize-for-best-open-data-startup-2015)
 * Competitions
