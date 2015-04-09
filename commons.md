@@ -5,4 +5,4 @@ This file collects information related to the concept of the Commons, as it appl
 * [Overview](http://bd2k.nih.gov/commons.html)
 
 #Internationally
-*[World Intellectual Freedom Organization](https://d.wifo.org/t/shuttleworth-fellowship-application-open-draft/13)
+* [World Intellectual Freedom Organization](https://d.wifo.org/t/shuttleworth-fellowship-application-open-draft/13)
