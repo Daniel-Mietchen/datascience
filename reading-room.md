@@ -72,6 +72,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [The Wealth of the Commons: A World Beyond Market and State](http://www.wealthofthecommons.org/essay/creative-commons-governing-intellectual-commons-below)
 * [Towards a Design Space for a Commons Provenance System](http://about.project-octopus.org/pub/Project_Octopus_-_Towards_a_Design_Space_for_a_Commons_Provenance_System.pdf)
 * [Data Journalism Handbook](http://datajournalismhandbook.org/)
+* [Frictionless data](http://blog.okfn.org/2013/04/24/frictionless-data-making-it-radically-easier-to-get-stuff-done-with-data/)
+  * [Gdoc](https://docs.google.com/document/d/1vZQaEQ6Rm8eFk54XBN9KhBGQE1KomesFJg3kRalO4AU/edit#)
 
 # Webinars
 ## Upcoming
