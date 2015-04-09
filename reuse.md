@@ -4,6 +4,12 @@ This file serves to collect thoughts on how to stimulate the reuse of open data,
 
 as key factors on how to achieve that. There are others, and the precise mixture probably depends much on context.
 
+# Research questions
+* How are research objects being used?
+* What kinds of reuses are there?
+* How is reuse distributed over time, space, discipline, application sector, user populations, operating systems?
+* How can reuse be encouraged and quantified?
+
 # Examples
 ## JATS
 [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/) (PMC) is a repository for scholarly literature in the biomedical field. Some of its content is available under terms that allow for [Reusing, Revising, Remixing and Redistributing Research](http://blogs.plos.org/blog/2012/10/23/reusing-revising-remixing-and-redistributing-research/), e.g. to extract audio and video materials from these articles and upload them to Wikimedia Commons, as the [Open Access Media Importer](http://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) does. 
@@ -41,8 +47,3 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
     * [on Google Scholar](http://scholar.google.co.uk/scholar?hl=en&q=ImageJ&btnG=&as_sdt=1%2C5&as_sdtp=)
     * [on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:ImageJ)
 
-## Research questions
-* How are research objects being used?
-* What kinds of reuses are there?
-* How is reuse distributed over time, space, discipline, application sector, user populations, operating systems?
-* How can reuse be encouraged and quantified?
