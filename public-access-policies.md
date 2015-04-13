@@ -8,6 +8,7 @@ This file serves the collection of information related to public access policies
     * Apart from NIH, three agencies so far (AHRQ, NASA, NIST) opted for an approach based on PubMed Central for handling the literature part
   * [NIH policies on access and sharing](http://grants.nih.gov/grants/sharing.htm)
   * [NSF policy](http://www.nsf.gov/news/special_reports/public_access/)
+  * several of these agencies envision a "research data commons"
 
 ## UK
 * [Open Access at RCUK](http://www.rcuk.ac.uk/research/openaccess/)
