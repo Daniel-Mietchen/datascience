@@ -84,9 +84,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 # Webinars
 ## Upcoming
-* April 13, 2015: [Enabling data linkage to maximise the value of public health research data](http://comms.wellcome.ac.uk/q/120yuherT64A1lz3Ov51/wv)
 
 ## Past
+* Wellcome Trust
+ * April 13, 2015: [Enabling data linkage to maximise the value of public health research data](http://comms.wellcome.ac.uk/q/120yuherT64A1lz3Ov51/wv)
 * [DigitalGov University](http://www.digitalgov.gov/)
   * March 31, 2015: [Where to Start with Structured Data and Content](http://www.digitalgov.gov/event/where-to-start-with-structured-data-and-content/)
 * [NCBI Webinars & Courses](http://www.ncbi.nlm.nih.gov/education/webinars/)
