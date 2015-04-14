@@ -4,7 +4,7 @@ This file collects information related to the concept of the Commons, as it appl
 #In the US
 * At NIH
       * [Overview](http://bd2k.nih.gov/commons.html)
-* multiple other agencies (e.g. NIST) have also indicated in a "research data commons" 
+* multiple other agencies (e.g. NIST) have also indicated interest in a "research data commons" 
 
 #Internationally
 * [Zenodo](https://zenodo.org/)
