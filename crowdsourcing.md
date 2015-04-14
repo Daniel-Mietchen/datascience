@@ -36,10 +36,15 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Wikigenes](https://www.wikigenes.org/)
 
 ## Research funding
-* [SciFund](http://scifundchallenge.org/)
-* [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
 * Science prizes
   * Examples: 
+    * [Space Apps Challenges](https://2015.spaceappschallenge.org/challenge/)
+      * [Category: Humans](https://2015.spaceappschallenge.org/challenge/category/humans/)
+        * [Data Treasure Hunting](https://2015.spaceappschallenge.org/challenge/data-treasure-hunting/)
+      * [Submissions overview](https://2015.spaceappschallenge.org/project/)
     * [Ecosummit Award 2015](http://ecosummit.net/award)
     * [Apps4EU](http://pro.europeana.eu/blogpost/apps4eu-award-prize-for-best-open-data-startup-2015)
 * Competitions
+  * [Competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) 
+* [SciFund](http://scifundchallenge.org/)
+* [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
