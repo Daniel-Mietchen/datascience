@@ -75,6 +75,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Frictionless data](http://blog.okfn.org/2013/04/24/frictionless-data-making-it-radically-easier-to-get-stuff-done-with-data/)
   * [Gdoc](https://docs.google.com/document/d/1vZQaEQ6Rm8eFk54XBN9KhBGQE1KomesFJg3kRalO4AU/edit#)
 * [Play to Cure: Genes in Space](http://www.scientificamerican.com/citizen-science/play-to-cure-genes-in-space/)
+* [Database citation in supplementary data linked to Europe PubMed Central full text biomedical articles](http://dx.doi.org/10.1186/2041-1480-6-1)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
