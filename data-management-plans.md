@@ -2,6 +2,8 @@
 This file hosts information regarding data management plans and how they could be made machine readable. Data management plans are typically created on a per-project basis in the framework of a grant application. They describe what kind of data are to be generated during the project, how they are going to be stored, analysed, protected, long-term preserved, or made accessible to other researchers or the public. Machine readability has not been much of a concern so far but is beginning to attract interest.
 
 # Policies
+* Overview
+ * [data management plans (@ Columbia)](http://scholcomm.columbia.edu/data-management/nsf-data-management-plan-requirements-2/) 
 * NIH
   * [NIH Data Sharing Policy](http://grants.nih.gov/grants/policy/data_sharing/)
   * [NIH Data Sharing Policy and Implementation Guidance](http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm)
