@@ -19,3 +19,6 @@ This file hosts information regarding data management plans and how they could b
   * not machine readable 
 * [DMPonline](https://dmponline.dcc.ac.uk/) 
   * machine readability on the horizon
+
+# See also
+* [Public Access policies](https://github.com/Daniel-Mietchen/datascience/blob/master/public-access-policies.md)
