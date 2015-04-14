@@ -76,6 +76,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [Gdoc](https://docs.google.com/document/d/1vZQaEQ6Rm8eFk54XBN9KhBGQE1KomesFJg3kRalO4AU/edit#)
 * [Play to Cure: Genes in Space](http://www.scientificamerican.com/citizen-science/play-to-cure-genes-in-space/)
 * [Database citation in supplementary data linked to Europe PubMed Central full text biomedical articles](http://dx.doi.org/10.1186/2041-1480-6-1)
+* [Internet publicity of data problems in the bioscience literature correlates with enhanced corrective action](https://dx.doi.org/10.7717/peerj.313)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
