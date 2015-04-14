@@ -3,9 +3,8 @@ This file collects information related to the concept of the Commons, as it appl
 
 #In the US
 * At NIH
-      * Overviews
-          * [Datascience](https://datascience.nih.gov/commons)
-          * [BD2k](http://bd2k.nih.gov/commons.html)
+      * Overview
+          * [Datascience](https://datascience.nih.gov/commons) 
 * multiple other agencies (e.g. NIST) have also indicated interest in a "research data commons" 
 
 #Internationally
