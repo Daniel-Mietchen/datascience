@@ -1,5 +1,5 @@
 # About
-This file serves the collection of information related to public access policies, particularly of research funders.
+This file serves the collection of information related to public access policies, particularly those issued by research funders.
 
 # Examples
 ## US National Agencies
@@ -27,6 +27,9 @@ This file serves the collection of information related to public access policies
 
 ## Non-governmental organizations
 * [Wikimedia](http://blog.wikimedia.org/2015/03/18/wikimedia-open-access-policy/)
+
+# Research questions
+* [What are the effects of delays in data sharing?](https://lists.okfn.org/pipermail/open-science/2015-April/003923.html)
 
 # See also
 * [policies around data management](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md#policies)
