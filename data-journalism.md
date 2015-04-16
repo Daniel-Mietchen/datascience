@@ -17,6 +17,9 @@ This file collects information pertaining to ways in which the interaction betwe
 # Examples of science journalism with a focus on data
 * [The History Of Europe Lies In British People's DNA](http://www.buzzfeed.com/christinekenneally/the-history-of-europe-lies-in-british-peoples-dna)
 
+# Engaging visualizations
+* [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
   * Deadline: June 15, 2015  
