@@ -48,3 +48,11 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
     * [on Google Scholar](http://scholar.google.co.uk/scholar?hl=en&q=ImageJ&btnG=&as_sdt=1%2C5&as_sdtp=)
     * [on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:ImageJ)
 
+## British Library's Mechanical Curator collection
+* [UKSG 2015 Mechanical curator and British Library labs](http://www.slideshare.net/benosteen/uksg-2015-mechanical-curator-and-british-library-labs)
+     * contains overview of use and reuse of the collection
+
+## Te Papa Tongarewa/ Museum of New Zealand
+* [Reusing Te Papa’s collections images, by the numbers](http://blog.tepapa.govt.nz/2015/04/10/reusing-te-papas-collections-images-by-the-numbers/)
+     * qualitative and quantitative indications of reuse
+     * e.g. [“I knit, and would love to make this into a knitting pattern…”](http://collections.tepapa.govt.nz/Object/711029)
