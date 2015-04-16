@@ -30,6 +30,7 @@ This file serves the collection of information related to public access policies
 
 # Research questions
 * [What are the effects of delays in data sharing?](https://lists.okfn.org/pipermail/open-science/2015-April/003923.html)
+* [Are there any good reasons to withhold the results of clinical trials?](https://twitter.com/bengoldacre/status/588306140976574464)
 
 # See also
 * [policies around data management](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md#policies)
