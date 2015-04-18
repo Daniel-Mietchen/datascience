@@ -13,6 +13,7 @@ This file hosts information regarding data management plans and how they could b
   * [NSF Data Sharing Policy](http://www.nsf.gov/bfa/dias/policy/dmp.jsp)
   * [NSF Data Management Plan Requirements](http://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_2.jsp#dmp)
   * [Data Management & Sharing FAQ](http://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp)
+* [Declaration on Access to Research Data from Public Funding](http://acts.oecd.org/Instruments/ShowInstrumentView.aspx?InstrumentID=157)
 
 # Existing tools
 * [DMPTOOL](https://dmp.cdlib.org/)
