@@ -17,3 +17,6 @@ Some platforms that already open up some aspects of the funding process are desc
 The educational value of open grant proposals is highlighted in
 * [How to find grant proposal samples?](http://academia.stackexchange.com/questions/1652/how-to-find-grant-proposal-samples),  
 which also links to numerous examples of grant proposals that have already been made public.
+
+# See also
+* [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
