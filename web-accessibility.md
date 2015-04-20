@@ -11,6 +11,7 @@ This file contains notes on how to make Web-based materials &ndash; and data in 
 * [United States Access Board](http://www.access-board.gov/)
 * [Rehabilitation Act, Section 508](http://www.section508.gov/)
   * [Test compliance](http://www.pr.com/press-release/603922)
+* [Improving Accessibility of Government Websites](https://www.whitehouse.gov/blog/2015/04/16/improving-accessibility-government-websites)
 
 ## Europe
 * [Overview](http://ec.europa.eu/ipg/standards/accessibility/eu_policy/index_en.htm)
