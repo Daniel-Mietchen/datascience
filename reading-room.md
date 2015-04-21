@@ -79,6 +79,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Internet publicity of data problems in the bioscience literature correlates with enhanced corrective action](https://dx.doi.org/10.7717/peerj.313)
 * [How to anonymously share data?](http://opendata.stackexchange.com/questions/4988/how-to-anonymously-share-data)
 * [The What, Why, and How of Born-Open Data](http://pcl.missouri.edu/content/what-why-and-how-born-open-data)
+* [Software Carpentry: lessons learned](http://dx.doi.org/10.12688%2Ff1000research.3-62.v1)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
