@@ -23,3 +23,6 @@ This file collects information pertaining to ways in which the interaction betwe
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
   * Deadline: June 15, 2015  
+
+# See also
+* [Doing Journalism with Data](http://datadrivenjournalism.net/)
