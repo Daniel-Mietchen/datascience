@@ -9,6 +9,7 @@ This file is to facilitate the collection of information pertaining to the citat
 # Resources
 * [Joint Declaration of Data Citation Principles](https://www.force11.org/datacitation)
 * [Data Citation to JATS mapping](https://github.com/data-citation-working-group/data-citation-workshop-2014)
+      * [JATS-Con talk](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2015)
 * [Achieving human and machine accessibility of cited data in scholarly publications](https://peerj.com/preprints/697/)
 * [BioCADDIE white paper](https://biocaddie.org/sites/default/files/shared-documents/Meetings/White_Paper/white_paper_v_1_2_nih_approved.pdf)
     * [live version](https://docs.google.com/document/d/15mKJ8EUtJXm11ThjITZfqwNAkP4RdT9Q0QRHKDgKnZA/edit)
