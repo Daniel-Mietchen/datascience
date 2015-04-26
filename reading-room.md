@@ -89,7 +89,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Den Haag Manifesto &mdash; Five steps to bringing Persistent Identifiers and Linked Open Data together](http://www.knowledge-exchange.info/Default.aspx?ID=462)
 * [Examplotron](http://examplotron.org/)
   * [blog post](http://eric.van-der-vlist.com/blog/2013/08/21/examplotron-is-moving-on/)
-
+* [Final Research Unplugged to focus on sonification](http://news.psu.edu/story/353884/2015/04/21/research/final-research-unplugged-focus-sonification)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
