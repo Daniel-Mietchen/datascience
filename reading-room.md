@@ -104,7 +104,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * Python for data science
   * cf. section over at [Learning Python](https://github.com/Daniel-Mietchen/learningpython/blob/master/resources.md#for-data-analysis)
 * data science and health care
-  * e.g. [IBM Expands Footprint into Healthcare Big Data Analytics](http://healthitcaucus.com/ibm-expands-footprint-into-healthcare-big-data-analytics/)
+  * [IBM Expands Footprint into Healthcare Big Data Analytics](http://healthitcaucus.com/ibm-expands-footprint-into-healthcare-big-data-analytics/)
+  * [How Big Data Is Changing Healthcare](http://www.forbes.com/sites/bernardmarr/2015/04/21/how-big-data-is-changing-healthcare/)
 * training
 * feedback
 
