@@ -109,6 +109,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 # Collaborative workflows
 * [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
+* [GitHub for government](https://github.com/government)
 
 # Possible new subtopics to track
 * Python for data science
