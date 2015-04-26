@@ -42,6 +42,9 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Cocytus](http://events.labs.crossref.org/events/types/WikipediaCitation)  
 * [Total DOIs cited from the English Wikipedia](https://dx.doi.org/10.6084/m9.figshare.1299540)  
 
+## Wikimedia Commons
+* [Category:PD US NIH](https://commons.wikimedia.org/wiki/Category:PD_US_NIH)
+      * [Example](https://commons.wikimedia.org/wiki/File:Metastatic_Melanoma_Cells_Nci-vol-9872-300.jpg) from [NCI Visuals](https://visualsonline.cancer.gov/browseaction.cfm?entrydate=newest) 
 
 ## ImageJ
 * [ImageJ](http://imagej.nih.gov/ij/) is a widely used software package for visualizing and analyzing biomedical data.
