@@ -103,6 +103,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 # Possible new subtopics to track
 * Python for data science
 * data science and health care
+  * e.g. [IBM Expands Footprint into Healthcare Big Data Analytics](http://healthitcaucus.com/ibm-expands-footprint-into-healthcare-big-data-analytics/)
 * training
 * feedback
 
