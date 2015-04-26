@@ -82,6 +82,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Software Carpentry: lessons learned](http://dx.doi.org/10.12688%2Ff1000research.3-62.v1)
 * [FIWARE](http://www.fiware.org/)
   * [finodex](http://www.finodex-project.eu/)
+* [Centre of Genomics and Policy](http://www.genomicsandpolicy.org/en)
+  * [Bartha Maria Knoppers](http://www.genomicsandpolicy.org/en/team-member/no9)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
