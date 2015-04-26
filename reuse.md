@@ -47,6 +47,10 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [ImageJ](http://imagej.nih.gov/ij/) is a widely used software package for visualizing and analyzing biomedical data.
     * [on Google Scholar](http://scholar.google.co.uk/scholar?hl=en&q=ImageJ&btnG=&as_sdt=1%2C5&as_sdtp=)
     * [on Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:ImageJ)
+    * [BoneJ](http://bonej.org/)
+          * [BoneJ: free and extensible bone image analysis in ImageJ](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3193171/)
+    * [Fiji](https://github.com/fiji/fiji/)
+    * [Other ImageJ-based software](http://rsb.info.nih.gov/ij/links.html)
 
 ## British Library's Mechanical Curator collection
 * [UKSG 2015 Mechanical curator and British Library labs](http://www.slideshare.net/benosteen/uksg-2015-mechanical-curator-and-british-library-labs)
