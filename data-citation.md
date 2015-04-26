@@ -8,6 +8,7 @@ This file is to facilitate the collection of information pertaining to the citat
 
 # Resources
 * [Joint Declaration of Data Citation Principles](https://www.force11.org/datacitation)
+* [The Evolution of Data Citation: From Principles to Implementation](http://www.iassistdata.org/downloads/iqvol371_4_altman.pdf)
 * [Data Citation to JATS mapping](https://github.com/data-citation-working-group/data-citation-workshop-2014)
       * [JATS-Con talk](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2015)
 * [Achieving human and machine accessibility of cited data in scholarly publications](https://peerj.com/preprints/697/)
