@@ -102,6 +102,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 # Possible new subtopics to track
 * Python for data science
+  * cf. section over at [Learning Python](https://github.com/Daniel-Mietchen/learningpython/blob/master/resources.md#for-data-analysis)
 * data science and health care
   * e.g. [IBM Expands Footprint into Healthcare Big Data Analytics](http://healthitcaucus.com/ibm-expands-footprint-into-healthcare-big-data-analytics/)
 * training
