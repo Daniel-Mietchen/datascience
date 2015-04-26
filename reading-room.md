@@ -2,6 +2,7 @@
 This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on sorting and reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
 
 # List
+* [Big names or big ideas: Do peer-review panels select the best science proposals?](http://dx.doi.org/10.1126/science.aaa0185)
 * [NIH Fiscal Year 2016 Budget Request](http://www.nih.gov/about/director/budgetrequest/fy2016testimony.htm)
 * [Science Gossip](http://www.sciencegossip.org/) &ndash; a citizen science project
 * [Clinical Trial Data: Share and Share Alike?](http://dx.doi.org/10.1001/jama.2015.481)
