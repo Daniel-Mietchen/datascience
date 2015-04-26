@@ -94,6 +94,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Is software a primary product of science?](http://ivory.idyll.org/blog/2015-more-on-software.html)
 * [Why you can't run your company with big data](https://www.linkedin.com/pulse/why-you-cant-run-your-company-data-rob-lawrence)
 * [Why Big Data And The Internet of Things Are A Perfect Match](http://www.datamation.com/applications/why-big-data-and-the-internet-of-things-are-a-perfect-match.html)
+* [Visualization of Migration of Honey Buzzards](https://vimeo.com/85808414)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
