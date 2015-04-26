@@ -16,7 +16,7 @@ This file is to facilitate the collection of information pertaining to the citat
     * [live version](https://docs.google.com/document/d/15mKJ8EUtJXm11ThjITZfqwNAkP4RdT9Q0QRHKDgKnZA/edit)
 * [The citation revolution will not be televised: the end of papers and the rise of data.](http://blogs.lse.ac.uk/impactofsocialsciences/2014/09/05/citation-revolution-end-of-papers-rise-of-data/)
 * [Data Citation Index](http://wokinfo.com/products_tools/multidisciplinary/dci/)
-          * [Analyzing data citation practices according to the Data Citation Index](http://arxiv.org/abs/1501.06285)
+     * [Analyzing data citation practices according to the Data Citation Index](http://arxiv.org/abs/1501.06285)  
 
 > Sharing research data at a large scale benefits funding bodies, as they see how their investment pays back through an increased use and re-use of data ([Wood et al., 2010](http://ec.europa.eu/information_society/newsroom/cf/itemlongdetail.cfm?item_id=6204)).
 
