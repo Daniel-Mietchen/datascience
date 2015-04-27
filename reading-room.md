@@ -106,6 +106,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [3rd plenary meeting](https://events.oicr.on.ca/global-alliance-3rd-plenary-meeting) (June 9-11, Leiden)
 * [ENIGMA (Evidence-based Network for the Interpretation of Germline Mutant Alleles)](http://enigmaconsortium.org/)
 * [NIH director sees solving data puzzle as key to U.S. precision medicine](http://www.reuters.com/article/2015/03/07/us-usa-health-precision-idUSKBN0M302520150307)
+* [Introducing the Scholarly Markdown Bundle](http://blog.martinfenner.org/2015/04/23/introducing-scholarly-markdown-bundle/)
+* [Research Object Bundle 1.0](https://researchobject.github.io/specifications/bundle/)
+* [R Compendium](http://journal.r-project.org/archive/2011-2/RJournal_2011-2_Lundholm.pdf)
 
 
 #Videos to watch
@@ -134,6 +137,12 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * data science and health care
   * [IBM Expands Footprint into Healthcare Big Data Analytics](http://healthitcaucus.com/ibm-expands-footprint-into-healthcare-big-data-analytics/)
   * [How Big Data Is Changing Healthcare](http://www.forbes.com/sites/bernardmarr/2015/04/21/how-big-data-is-changing-healthcare/)
+* emergency response/ disaster relief
+  * [A Force for Good: How Digital Jedis are Responding to the Nepal Earthquake](http://irevolution.net/2015/04/27/digital-jedis-nepal-earthquake/)
+  * [Disaster Information Management Research Center (NLM)](http://disasterinfo.nlm.nih.gov/)
+    * part of [Specialized Information Services](http://sis.nlm.nih.gov/)
+  * [People locator](https://pl.nlm.nih.gov/nepalearthquake/)
+  * [Emergency Access Initiative Resources](http://eai.nlm.nih.gov/)
 * training
 * feedback
 
