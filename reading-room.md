@@ -109,6 +109,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Introducing the Scholarly Markdown Bundle](http://blog.martinfenner.org/2015/04/23/introducing-scholarly-markdown-bundle/)
 * [Research Object Bundle 1.0](https://researchobject.github.io/specifications/bundle/)
 * [R Compendium](http://journal.r-project.org/archive/2011-2/RJournal_2011-2_Lundholm.pdf)
+* [National Network of Libraries of Medicine (NN/LM)](http://nnlm.gov/)
 
 
 #Videos to watch
@@ -143,6 +144,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
     * part of [Specialized Information Services](http://sis.nlm.nih.gov/)
   * [People locator](https://pl.nlm.nih.gov/nepalearthquake/)
   * [Emergency Access Initiative Resources](http://eai.nlm.nih.gov/)
+* Future of NLM
+ * [NIH Director’s Statement on Dr. Lindberg’s retirement](http://www.nih.gov/about/director/11062014_statement_lindberg.htm) 
+ * [New Working Group to Chart the Course for the NIH National Library of Medicine](http://www.nih.gov/about/director/02032015_working-group_nlm.htm)
+ * [Request for Information (RFI) Soliciting Input into the Deliberations of the Advisory Committee to the NIH Director (ACD) Working Group on the National Library of Medicine (NLM)](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-067.html)
 * training
 * feedback
 
