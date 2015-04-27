@@ -18,6 +18,10 @@ The educational value of open grant proposals is highlighted in
 * [How to find grant proposal samples?](http://academia.stackexchange.com/questions/1652/how-to-find-grant-proposal-samples),  
 which also links to numerous examples of grant proposals that have already been made public.
 
+# Relevat funding policies
+* [NIH Grants Policy Statement](http://grants.nih.gov/grants/policy/nihgps/index.htm)
+   * with changes as of March 2015 (only supplied as PDF, not available in machine readable form or as diff) 
+
 # Relevant funding schemes
 * [Disaster Health Information Outreach and Collaboration Project 2015 (RFQ No. NIHLM2015383)](http://disasterinfo.nlm.nih.gov/dimrc/2015disasteroutreachrfq.html)
    * deadline: July 6, 2015
