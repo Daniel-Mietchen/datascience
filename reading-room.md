@@ -4,6 +4,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 # List
 * [Big names or big ideas: Do peer-review panels select the best science proposals?](http://dx.doi.org/10.1126/science.aaa0185)
 * [NIH Fiscal Year 2016 Budget Request](http://www.nih.gov/about/director/budgetrequest/fy2016testimony.htm)
+  * [Slides by Francis Collins on the FY16 budget roll-out](http://www.nih.gov/about/director/budgetrequest/fy2016_directorsbudgetrequest_slides.pdf)
+* [Working Group on Data and Informatics](http://acd.od.nih.gov/diwg.htm)
 * [Science Gossip](http://www.sciencegossip.org/) &ndash; a citizen science project
 * [Clinical Trial Data: Share and Share Alike?](http://dx.doi.org/10.1001/jama.2015.481)
 * [What difference does quantity make? On the epistemology of Big Data in biology](http://dx.doi.org/10.1177/2053951714534395)
