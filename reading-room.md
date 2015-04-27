@@ -110,7 +110,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Research Object Bundle 1.0](https://researchobject.github.io/specifications/bundle/)
 * [R Compendium](http://journal.r-project.org/archive/2011-2/RJournal_2011-2_Lundholm.pdf)
 * [National Network of Libraries of Medicine (NN/LM)](http://nnlm.gov/)
-
+* [Drug approved for Alzheimer's](http://fortune.com/2015/04/23/alzheimers-drug-research/)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
