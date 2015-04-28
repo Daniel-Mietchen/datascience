@@ -175,6 +175,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
  * [NIH Director’s Statement on Dr. Lindberg’s retirement](http://www.nih.gov/about/director/11062014_statement_lindberg.htm) 
  * [New Working Group to Chart the Course for the NIH National Library of Medicine](http://www.nih.gov/about/director/02032015_working-group_nlm.htm)
  * [Request for Information (RFI) Soliciting Input into the Deliberations of the Advisory Committee to the NIH Director (ACD) Working Group on the National Library of Medicine (NLM)](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-067.html)
+* informed consent
+  * [Moral Concerns and the Willingness to Donate to a Research Biobank](http://dx.doi.org/10.1001/jama.2014.16363)
 * training
 * feedback
 
