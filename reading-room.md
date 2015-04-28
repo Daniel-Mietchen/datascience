@@ -9,6 +9,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [Slides by Francis Collins on the FY16 budget roll-out](http://www.nih.gov/about/director/budgetrequest/fy2016_directorsbudgetrequest_slides.pdf)
 * [Working Group on Data and Informatics](http://acd.od.nih.gov/diwg.htm)
 * [Science Gossip](http://www.sciencegossip.org/) &ndash; a citizen science project
+* [Is climate change affecting the UK’s orchids?](http://www.orchidobservers.org/)
 * [Clinical Trial Data: Share and Share Alike?](http://dx.doi.org/10.1001/jama.2015.481)
 * [What difference does quantity make? On the epistemology of Big Data in biology](http://dx.doi.org/10.1177/2053951714534395)
 * [Interactions of Cultures and Top People of Wikipedia from Ranking of 24 Language Editions](http://dx.doi.org/10.1371/journal.pone.0114825)
@@ -177,6 +178,12 @@ This file hosts metadata about or links to resources that seem relevant for acti
  * [Request for Information (RFI) Soliciting Input into the Deliberations of the Advisory Committee to the NIH Director (ACD) Working Group on the National Library of Medicine (NLM)](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-067.html)
 * informed consent
   * [Moral Concerns and the Willingness to Donate to a Research Biobank](http://dx.doi.org/10.1001/jama.2014.16363)
+* peer review
+  * [the Winnower](https://thewinnower.com/)
+  * [Axios](http://axiosreview.org/)
+  * [Publons](https://publons.com/)
+  * [PubPeer](https://pubpeer.com/)
+  * [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/)
 * training
 * feedback
 
