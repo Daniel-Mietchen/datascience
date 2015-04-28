@@ -32,3 +32,5 @@ which also links to numerous examples of grant proposals that have already been 
 
 # See also
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
+* [Fantasy Science Funding](http://ways.org/en/topics/fantasy_science_funding)
+* [Crowdfunding Scientific Research](http://crowdfunding.about.com/od/Placeholderrr/tp/Top-Sites-for-Crowdfunding-Scientific-Research.htm)
