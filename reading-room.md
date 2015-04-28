@@ -2,7 +2,6 @@
 This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on sorting and reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
 
 # List
-* [Big names or big ideas: Do peer-review panels select the best science proposals?](http://dx.doi.org/10.1126/science.aaa0185)
 * [What should a modern scientific infrastructure look like?](http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/)
 * [Guidelines for Participating in Wikipedia from NIH](http://www.nih.gov/icd/od/ocpl/resources/wikipedia/)
 * [NIH Fiscal Year 2016 Budget Request](http://www.nih.gov/about/director/budgetrequest/fy2016testimony.htm)
@@ -120,7 +119,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [On "Bold"](http://www.wsj.com/articles/book-review-bold-by-peter-h-diamandis-and-steven-kotler-1424130914)
 * [Royal Society event on the future of scientific communication](https://royalsociety.org/events/2015/04/future-of-scholarly-scientific-communication-part-1/)
 * [On PMC Handling Author Manuscripts](http://scholarlykitchen.sspnet.org/2013/07/16/the-price-of-posting-pubmed-central-spends-most-of-its-budget-handling-author-manuscripts/)
-* [Slay peer review ‘sacred cow’, says former BMJ chief](http://www.timeshighereducation.co.uk/news/slay-peer-review-sacred-cow-says-former-bmj-chief/2019812.article)
 * [Timo Hannay on future of science communication](http://www.huffingtonpost.co.uk/dr-timo-hannay/digital-science_b_7108034.html)
 
 > Freed of the practical and economic constraints of print, journals will also need to encompass a far wider range of contribution sizes, just as the unit of publication in mainstream publishing has broken beyond the traditional bounds of a book and now ranges anywhere from a tweet to Wikipedia. With the advent of collaborative online databases, it is now perfectly feasible for a useful contribution to the scientific corpus to be comprised of literally one 'bit' of information. And, given the exponential arc of technological progress, within a decade or two the maximum size of a new scientific contribution may well exceed the sum total of all the scientific data that exist today.
@@ -137,14 +135,26 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [NIH BioSketch](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-032.html)
 * [How to use crowdfunding to support your research](http://www.elsevier.com/connect/how-to-use-crowdfunding-to-support-your-research)
 * [Crowdfunded science: harnessing the wisdom of the crowd, or selling out?](http://www.theguardian.com/science/2015/jan/02/crowdfunded-science-scientists-fund-research)
-
-
+* [Great Github list of public data sets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
+* [Wildscreen Arkive](http://www.arkive.org/education/team-wild)
+* [Effectiveness of public deliberation methods for gathering input on issues in healthcare: Results from a randomized trial](http://dx.doi.org/10.1016/j.socscimed.2015.03.024)
+* ['Living figures' make their debut](http://dx.doi.org/10.1038/nature.2015.17382)
+* [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](http://dx.doi.org/10.1371/journal.pbio.1002128)
+* [Rigor and Reproducibility](http://www.nih.gov/science/reproducibility/index.htm)
+* [Bibliometrics: The Leiden Manifesto for research metrics](http://dx.doi.org/10.1038/520429a)
+* [NASA's Data Portal](http://open.nasa.gov/blog/2015/04/07/welcome-to-nasas-data-portal/)
+* [If Britain’s top economists were in charge, what policies would they implement?](http://www.ft.com/cms/s/2/7da2852c-e3af-11e4-9a82-00144feab7de.html#axzz3XZSthOA9)
+  * see also [Spending on Science, new paper](http://haskelecon.blogspot.co.uk/2015/04/spending-on-science-new-paper.html?m=1) 
+* [How to Get All Trials Reported: Audit, Better Data, and Individual Accountability](http://dx.doi.org/10.1371/journal.pmed.1001821)
+* [Medical Subject Headings (MeSH) RDF](http://id.nlm.nih.gov/mesh/)
+  * [on GitHub](https://github.com/HHS/meshrdf/issues/)
+* [Code.org](http://code.org/) 
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
   * and maybe other [TED MED](https://www.youtube.com/user/tedmed) talks 
 
-# Webinars
+# Events
 ## Upcoming
 
 ## Past
@@ -159,6 +169,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 # Collaborative workflows
 * [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
 * [GitHub for government](https://github.com/government)
+* [Lazarus](http://www.cs.manchester.ac.uk/our-research/activities/lazarus/)
+* [Hypothesis](https://hypothes.is/)
 
 # Possible new subtopics to track
 * Python for data science
@@ -179,10 +191,14 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * informed consent
   * [Moral Concerns and the Willingness to Donate to a Research Biobank](http://dx.doi.org/10.1001/jama.2014.16363)
 * peer review
+  * [Big names or big ideas: Do peer-review panels select the best science proposals?](http://dx.doi.org/10.1126/science.aaa0185)
+  * [Slay peer review ‘sacred cow’, says former BMJ chief](http://www.timeshighereducation.co.uk/news/slay-peer-review-sacred-cow-says-former-bmj-chief/2019812.article)
+  * [Classical peer review: an empty gun](http://dx.doi.org/10.1186/bcr274)
   * [the Winnower](https://thewinnower.com/)
   * [Axios](http://axiosreview.org/)
   * [Publons](https://publons.com/)
   * [PubPeer](https://pubpeer.com/)
+  * [Academic Karma](http://academickarma.org/)
   * [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/)
   * [Peer review by endorsement](http://blog.scienceopen.com/2015/04/welcome-jan-velterop-peer-review-by-endorsement/)
 * quotes
