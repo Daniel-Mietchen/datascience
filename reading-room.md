@@ -3,6 +3,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 # List
 * [Big names or big ideas: Do peer-review panels select the best science proposals?](http://dx.doi.org/10.1126/science.aaa0185)
+* [What should a modern scientific infrastructure look like?](http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/)
 * [NIH Fiscal Year 2016 Budget Request](http://www.nih.gov/about/director/budgetrequest/fy2016testimony.htm)
   * [Slides by Francis Collins on the FY16 budget roll-out](http://www.nih.gov/about/director/budgetrequest/fy2016_directorsbudgetrequest_slides.pdf)
 * [Working Group on Data and Informatics](http://acd.od.nih.gov/diwg.htm)
