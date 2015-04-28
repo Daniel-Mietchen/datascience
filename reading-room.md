@@ -205,6 +205,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [starting point](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/FESIN_North_American_Mycoflora_Workshop/Quotes)
 * rankings
   * how to slant them towards exposing openness of the players involved?
+* reducing red tape
+  * instead of describing the consortium, just send links to brief descriptions online that can be reused for multiple funding applications
 * training
 * feedback
 
