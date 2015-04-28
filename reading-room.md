@@ -184,6 +184,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [Publons](https://publons.com/)
   * [PubPeer](https://pubpeer.com/)
   * [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/)
+  * [Peer review by endorsement](http://blog.scienceopen.com/2015/04/welcome-jan-velterop-peer-review-by-endorsement/)
 * quotes
   * [starting point](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikimania_2012/FESIN_North_American_Mycoflora_Workshop/Quotes)
 * training
