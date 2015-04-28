@@ -208,6 +208,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * reward those whose ideas propagate through the system
 * reducing red tape
   * instead of describing the consortium, just send links to brief descriptions online that can be reused for multiple funding applications
+* expert attention
+  * needs to be directed in a way that is optimized on a systemic level 
 * training
 * feedback
 
