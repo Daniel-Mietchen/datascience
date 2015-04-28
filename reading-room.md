@@ -124,13 +124,24 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 > Freed of the practical and economic constraints of print, journals will also need to encompass a far wider range of contribution sizes, just as the unit of publication in mainstream publishing has broken beyond the traditional bounds of a book and now ranges anywhere from a tweet to Wikipedia. With the advent of collaborative online databases, it is now perfectly feasible for a useful contribution to the scientific corpus to be comprised of literally one 'bit' of information. And, given the exponential arc of technological progress, within a decade or two the maximum size of a new scientific contribution may well exceed the sum total of all the scientific data that exist today.
 
- 
+* [Live-blog: the Future of Scholarly Scientific Communication](http://svpow.com/2015/04/20/live-blog-the-future-of-scholarly-scientific-communication/)
+* [commcerce.gov big data project with Amazon Web Services, Google Cloud Platform, IBM, Microsoft Corp., and the Open Cloud Consortium](http://www.commerce.gov/news/press-releases/2015/04/us-secretary-commerce-penny-pritzker-announces-new-collaboration-unleash)
+* [BD2K on GitHub?](https://github.com/BD2K)
+* [Text mining at Europe PMC](http://europepmc.org/help#tmintegrated)
+* [Reuse of publicly available biomedical data is increasing and producing some great successes](http://synapse.ucsf.edu/articles/2015/04/02/may-i-have-peek-reuse-publicly-available-biomedical-data-increasing-and)
+* [TED MED Great Challenges](http://tedmed.com/greatchallenges/challenge/491312)
+* [Open research and collaborations](https://emckiernan.wordpress.com/2015/04/09/open-research-and-collaborations/)
+* [Draw Science](http://www.drawscience.org/)
+  * [Crowdfunding campaign](https://experiment.com/projects/draw-science-open-access-infographic-journal) 
+* [NIH BioSketch](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-032.html)
+* [How to use crowdfunding to support your research](http://www.elsevier.com/connect/how-to-use-crowdfunding-to-support-your-research)
+* [Crowdfunded science: harnessing the wisdom of the crowd, or selling out?](http://www.theguardian.com/science/2015/jan/02/crowdfunded-science-scientists-fund-research)
 
 
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
-  * and maybe other TED MED talks 
+  * and maybe other [TED MED](https://www.youtube.com/user/tedmed) talks 
 
 # Webinars
 ## Upcoming
