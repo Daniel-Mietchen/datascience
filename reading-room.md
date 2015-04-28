@@ -107,12 +107,26 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Global Alliance for Genomics and Health](http://genomicsandhealth.org/)
   * [3rd plenary meeting](https://events.oicr.on.ca/global-alliance-3rd-plenary-meeting) (June 9-11, Leiden)
 * [ENIGMA (Evidence-based Network for the Interpretation of Germline Mutant Alleles)](http://enigmaconsortium.org/)
+  * [Common genetic variants influence human subcortical brain structures](http://dx.doi.org/10.1038/nature14101)
 * [NIH director sees solving data puzzle as key to U.S. precision medicine](http://www.reuters.com/article/2015/03/07/us-usa-health-precision-idUSKBN0M302520150307)
 * [Introducing the Scholarly Markdown Bundle](http://blog.martinfenner.org/2015/04/23/introducing-scholarly-markdown-bundle/)
 * [Research Object Bundle 1.0](https://researchobject.github.io/specifications/bundle/)
 * [R Compendium](http://journal.r-project.org/archive/2011-2/RJournal_2011-2_Lundholm.pdf)
 * [National Network of Libraries of Medicine (NN/LM)](http://nnlm.gov/)
 * [Drug approved for Alzheimer's](http://fortune.com/2015/04/23/alzheimers-drug-research/)
+* [Apple wants to transform the pharmaceutical industry by changing the way clinical trials are done](http://www.washingtonpost.com/blogs/innovations/wp/2015/03/23/apple-isnt-just-satisfied-reinventing-health-care-its-targeting-clinical-trials-as-well%E2%80%8B/)
+* [Peter Diamandis' Bold a Reminder of How Entrepreneurs Will Control the World's Fate](http://www.huffingtonpost.com/vivek-wadhwa/peter-diamandis-bold_b_6525886.html)
+* [On "Bold"](http://www.wsj.com/articles/book-review-bold-by-peter-h-diamandis-and-steven-kotler-1424130914)
+* [Royal Society event on the future of scientific communication](https://royalsociety.org/events/2015/04/future-of-scholarly-scientific-communication-part-1/)
+* [On PMC Handling Author Manuscripts](http://scholarlykitchen.sspnet.org/2013/07/16/the-price-of-posting-pubmed-central-spends-most-of-its-budget-handling-author-manuscripts/)
+* [Slay peer review ‘sacred cow’, says former BMJ chief](http://www.timeshighereducation.co.uk/news/slay-peer-review-sacred-cow-says-former-bmj-chief/2019812.article)
+* [Timo Hannay on future of science communication](http://www.huffingtonpost.co.uk/dr-timo-hannay/digital-science_b_7108034.html)
+
+> Freed of the practical and economic constraints of print, journals will also need to encompass a far wider range of contribution sizes, just as the unit of publication in mainstream publishing has broken beyond the traditional bounds of a book and now ranges anywhere from a tweet to Wikipedia. With the advent of collaborative online databases, it is now perfectly feasible for a useful contribution to the scientific corpus to be comprised of literally one 'bit' of information. And, given the exponential arc of technological progress, within a decade or two the maximum size of a new scientific contribution may well exceed the sum total of all the scientific data that exist today.
+
+ 
+
+
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
