@@ -199,6 +199,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [Axios](http://axiosreview.org/)
   * [Publons](https://publons.com/)
   * [PubPeer](https://pubpeer.com/)
+  * [Peerage of Science](https://www.peerageofscience.org/)
   * [Academic Karma](http://academickarma.org/)
   * [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/)
   * [Peer review by endorsement](http://blog.scienceopen.com/2015/04/welcome-jan-velterop-peer-review-by-endorsement/)
