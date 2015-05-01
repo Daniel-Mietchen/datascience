@@ -150,6 +150,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [on GitHub](https://github.com/HHS/meshrdf/issues/)
 * [Code.org](http://code.org/) 
 * [Schimmer, R., Geschuhn, K. K., & Vogler, A. (2015). Disrupting the subscription journals’ business model for the necessary large-scale transformation to open access. doi:10.17617/1.3.](http://dx.doi.org/10.17617/1.3)
+* [What should a modern scientific infrastructure look like?](https://thewinnower.com/papers/what-should-a-modern-scientific-infrastructure-look-like)
+* [Paperity](http://paperity.org/)
+* [PressForward](http://pressforward.org/)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
