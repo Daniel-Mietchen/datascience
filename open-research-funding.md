@@ -18,6 +18,11 @@ The educational value of open grant proposals is highlighted in
 * [How to find grant proposal samples?](http://academia.stackexchange.com/questions/1652/how-to-find-grant-proposal-samples),  
 which also links to numerous examples of grant proposals that have already been made public.
 
+# Lists of public funding proposals
+* [Biology](http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/)
+* [Maths](http://www.math.rutgers.edu/~zeilberg/Opinion117Appendix.html)
+
+
 # Relevat funding policies
 * [NIH Grants Policy Statement](http://grants.nih.gov/grants/policy/nihgps/index.htm)
    * with changes as of March 2015 (only supplied as PDF, not available in machine readable form or as diff) 
