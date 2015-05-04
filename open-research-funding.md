@@ -25,7 +25,7 @@ which also links to numerous examples of grant proposals that have already been 
 * Currently being drafted:
    * [FreeTL for i2B2](https://docs.google.com/document/d/1MOSYD2aHQWqHaIjeGaHMXJX7oUTJLHEVDH9cT_FPGUI/edit)
 
-# Relevat funding policies
+# Relevant funding policies
 * [NIH Grants Policy Statement](http://grants.nih.gov/grants/policy/nihgps/index.htm)
    * with changes as of March 2015 (only supplied as PDF, not available in machine readable form or as diff) 
 
