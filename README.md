@@ -1,5 +1,5 @@
 # Data science
-Thoughts and activities around [http://datascience.nih.gov/ research data], with a focus on
+Thoughts and activities around [research data](http://datascience.nih.gov/), with a focus on
 * Analysis of different kinds of open models for use in research funding.
   * [How can research funding be opened up to the benefit of research?](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
 * Interfacing of the Commons with activities across institutional, disciplinary and international boundaries.
