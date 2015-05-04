@@ -41,3 +41,5 @@ which also links to numerous examples of grant proposals that have already been 
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
 * [Fantasy Science Funding](http://ways.org/en/topics/fantasy_science_funding)
 * [Crowdfunding Scientific Research](http://crowdfunding.about.com/od/Placeholderrr/tp/Top-Sites-for-Crowdfunding-Scientific-Research.htm)
+* Bourne PE, Chalupa LM (2006) Ten Simple Rules for Getting Grants. PLoS Comput Biol 2(2): e12. [doi:10.1371/journal.pcbi.0020012](http://dx.doi.org/10.1371/journal.pcbi.0020012)
+   * perhaps follow up on this with "Ten Simple Rules for Drafting Grant Proposals in Public"?
