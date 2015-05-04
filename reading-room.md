@@ -153,6 +153,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [What should a modern scientific infrastructure look like?](https://thewinnower.com/papers/what-should-a-modern-scientific-infrastructure-look-like)
 * [Paperity](http://paperity.org/)
 * [PressForward](http://pressforward.org/)
+* [Helping Doctors and Patients Make Sense of Health Statistics](http://www.psychologicalscience.org/journals/pspi/pspi_8_2_article.pdf)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
