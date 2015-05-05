@@ -26,4 +26,5 @@ This file collects information pertaining to ways in which the interaction betwe
 
 # See also
 * [Doing Journalism with Data](http://datadrivenjournalism.net/)
+* [Data Journalism Handbook](http://datajournalismhandbook.org/)
 * [Chris Wiggins](https://github.com/chrishwiggins) (Chief Data Scientitst at NY Times)
