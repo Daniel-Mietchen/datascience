@@ -24,6 +24,7 @@ This file contains notes on how to make Web-based materials &ndash; and data in 
 * [Access IQ](http://www.accessiq.org/) (Australia)
 * [Web Accessibility Toolbar](http://www.paciellogroup.com/resources/wat/)
 * [Web Accessibility tester](http://tenon.io/)
+* [NAD v. Harvard and NAD v. MIT](http://creeclaw.org/online-content-lawsuit-harvard-mit/)
 
 # See also
 * [What standards exist for accessibility of open data?](http://opendata.stackexchange.com/questions/4772/what-standards-exist-for-accessibility-of-open-data) at Open Data Stack Exchange
