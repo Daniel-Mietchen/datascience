@@ -219,6 +219,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * instead of describing the consortium, just send links to brief descriptions online that can be reused for multiple funding applications
 * expert attention
   * needs to be directed in a way that is optimized on a systemic level 
+* data science at NIH
+  * [ADDS website](http://datascience.nih.gov/)
+  * external reports
+    * [BioIT World 2015](http://www.bio-itworld.com/2015/5/4/phil-bourne-open-data-evangelist-nih-data-plan.html) 
 * training
 * feedback
 
