@@ -240,6 +240,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * needs to be directed in a way that is optimized on a systemic level 
 * crowdfunding for research
   * see section in [open-research-funding.md](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
-* training
+* careers and training
+  * [In research institutes, there should be a formal career track optimized for applied bioinformatics.](http://dx.doi.org/10.1038/520151a)
 * feedback
 
