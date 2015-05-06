@@ -235,6 +235,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * reward those whose ideas propagate through the system
 * reducing red tape
   * instead of describing the consortium, just send links to brief descriptions online that can be reused for multiple funding applications
+  * consider side effects of changes in procedure: [The impact of a streamlined funding application process on application time: two cross-sectional surveys of Australian researchers](http://dx.doi.org/10.1136/bmjopen-2014-006912)
 * expert attention
   * needs to be directed in a way that is optimized on a systemic level 
 * crowdfunding for research
