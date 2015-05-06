@@ -246,5 +246,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * see section in [open-research-funding.md](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
 * careers and training
   * [In research institutes, there should be a formal career track optimized for applied bioinformatics.](http://dx.doi.org/10.1038/520151a)
+* GitHub
+  * [thoughts on outage](https://news.ycombinator.com/item?id=9497821)
+  * [Open Data Policy on GitHub](https://github.com/project-open-data/project-open-data.github.io)
+   * [commentary from Sunlight Foundation](https://project-open-data.cio.gov/)
 * feedback
 
