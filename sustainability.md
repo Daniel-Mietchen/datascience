@@ -7,3 +7,4 @@ This file hosts information regarding the sustainability of data-related infrast
   * [NIH Earth Day](http://nems.nih.gov/Pages/earthday.aspx)
   * Talks
     * [Improving Accessibility and Sustainability of Research Data and Other Electronic Artifacts of Biomedical Research](http://www.ncbi.nlm.nih.gov/CBBresearch/Seminar/cgi-bin/presentation.cgi?date=4-14-2015)  
+* [ArXiv](https://confluence.cornell.edu/display/culpublic/arXiv+Sustainability+Initiative)
