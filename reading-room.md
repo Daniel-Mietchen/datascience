@@ -3,6 +3,19 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 # List
 * [What should a modern scientific infrastructure look like?](http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/)
+* [What scientific idea is ready for retirement?](http://edge.org/annual-question/what-scientific-idea-is-ready-for-retirement)
+  * [Scientific Knowledge Should Be Structured as "Literature"](http://edge.org/response-detail/25514)  
+> It is time for science to go agile.  
+> [..]  
+> academic publishing [must] move from its current read-only model and embrace a process as dynamic, up-to-date, and collaborative as science itself.  
+> [..]  
+> What academic literature needs goes deeper than the view of citations as kudos and shout-outs. It needs what software engineers have used for decades: dependency management.  
+> [..]  
+> An academic publisher worth their salt would also accommodate another pillar of modern software development: revision control. Code repositories, like wikis, are living documents, open not only for scrutiny, censure and approbation, but for modification.  
+> [..]  
+> A Git repository is the best of top-down and bottom-up, of dictatorship and democracy: its leaders set the purpose and vision, have ultimate control and final say—yet any citizen has an equal right to complain, propose reform, start a revolt, or simply pack their bags and found a new nation next door.  
+> [..]  
+> Authors need not thank "anonymous readers who spotted errors and provided critical feedback" when those readers' corrections are directly incorporated (with attribution) as differential edits. Those readers need not offer their suggestions as an act of obligation or charity, and they need not go unknown.  
 * [Guidelines for Participating in Wikipedia from NIH](http://www.nih.gov/icd/od/ocpl/resources/wikipedia/)
 * [NIH Fiscal Year 2016 Budget Request](http://www.nih.gov/about/director/budgetrequest/fy2016testimony.htm)
   * [Slides by Francis Collins on the FY16 budget roll-out](http://www.nih.gov/about/director/budgetrequest/fy2016_directorsbudgetrequest_slides.pdf)
