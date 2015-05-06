@@ -41,7 +41,7 @@ which also links to numerous examples of grant proposals that have already been 
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
 * [Fantasy Science Funding](http://ways.org/en/topics/fantasy_science_funding)
 * [Crowdfunding Scientific Research](http://crowdfunding.about.com/od/Placeholderrr/tp/Top-Sites-for-Crowdfunding-Scientific-Research.htm)
-   * need to collect examples of crowdfunding campaigns for research and analyze criteria for success (both financial and engagement-wise)
+   * need to collect examples of crowdfunding campaigns for research, analyze criteria for success (both financial and engagement-wise), and explore options for funders to interact with them
      * successful 
        * [OpenWorm]( https://www.indiegogo.com/projects/timmy-s-journey-a-statistics-game https://www.kickstarter.com/projects/openworm/openworm-a-digital-organism-in-your-browser)
      * unsuccessful
