@@ -6,6 +6,7 @@ This file collects information related to the concept of the Commons, as it appl
       * Overview
           * [Datascience](https://datascience.nih.gov/commons) 
 * multiple other agencies (e.g. NIST) have also indicated interest in a "research data commons" 
+* legal structure: [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation)
 
 #Internationally
 * [Zenodo](https://zenodo.org/)
