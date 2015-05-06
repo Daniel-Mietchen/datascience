@@ -13,6 +13,7 @@ Some platforms that already open up some aspects of the funding process are desc
 * [Wikimedia grants](https://meta.wikimedia.org/wiki/Grants)
 * [Journal of Brief Ideas](http://beta.briefideas.org/all)
 * [Introducing ThinkLab — A platform for massively collaborative open science](http://thinklab.com/blog/introducing-thinklab-a-platform-for-massively-collaborative-open-science/38)
+   * [ThinkLab as a vetting system for traditional grants](http://thinklab.com/discussion/thinklab-as-a-vetting-system-for-traditional-grants/58) 
 
 The educational value of open grant proposals is highlighted in
 * [How to find grant proposal samples?](http://academia.stackexchange.com/questions/1652/how-to-find-grant-proposal-samples),  
@@ -50,3 +51,4 @@ which also links to numerous examples of grant proposals that have already been 
    * perhaps follow up on this with "Ten Simple Rules for Drafting Grant Proposals in Public"?
    * similar: [Twenty tips for writing a research proposal](http://conservationbytes.com/2015/05/04/twenty-tips-for-writing-a-research-proposal/)
 * Public information available about NIH grants, as per [RePORT](http://report.nih.gov/award/index.cfm)
+* [Sandpit/ Ideas lab](http://knowinnovation.com/expertise/ideas-lab/)
