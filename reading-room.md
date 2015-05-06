@@ -171,6 +171,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
   * and maybe other [TED MED](https://www.youtube.com/user/tedmed) talks 
+  * see also [Only "Scientists" Can Do Science](http://edge.org/response-detail/25504)
 
 # Events
 ## Calendars
