@@ -67,3 +67,6 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
                * [that Wikipedia article](https://en.wikipedia.org/wiki/John_Buchanan_%28botanist%29)
           * [“I knit, and would love to make this into a knitting pattern…”](http://collections.tepapa.govt.nz/Object/711029) (item is NC-ND-licensed)
      * [GitHub repo](https://github.com/te-papa/image-downloads-stats)
+
+# See also
+* [Public Domain Status for Publicly Funded Works in the EU](https://meta.wikimedia.org/wiki/EU_policy/Issues_overview#Public_Domain_Status_for_Publicly_Funded_Works)
