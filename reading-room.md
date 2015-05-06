@@ -249,6 +249,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * GitHub
   * [thoughts on outage](https://news.ycombinator.com/item?id=9497821)
   * [Open Data Policy on GitHub](https://github.com/project-open-data/project-open-data.github.io)
-   * [commentary from Sunlight Foundation](https://project-open-data.cio.gov/)
+   * [commentary from Sunlight Foundation](http://sunlightfoundation.com/blog/2015/05/06/github-may-be-the-next-step-for-government-regulation/)
 * feedback
 
