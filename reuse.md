@@ -70,3 +70,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 
 # See also
 * [Public Domain Status for Publicly Funded Works in the EU](https://meta.wikimedia.org/wiki/EU_policy/Issues_overview#Public_Domain_Status_for_Publicly_Funded_Works)
+* [NIH 3D Print Exchange](http://3dprint.nih.gov/)
