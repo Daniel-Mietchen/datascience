@@ -48,3 +48,4 @@ which also links to numerous examples of grant proposals that have already been 
        * [Timmy's Journey: A Statistics Game](https://www.indiegogo.com/projects/timmy-s-journey-a-statistics-game)
 * [Ten Simple Rules for Getting Grants](http://dx.doi.org/10.1371/journal.pcbi.0020012)
    * perhaps follow up on this with "Ten Simple Rules for Drafting Grant Proposals in Public"?
+* Public information available about NIH grants, as per [RePORT](http://report.nih.gov/award/index.cfm)
