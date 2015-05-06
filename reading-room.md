@@ -186,6 +186,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * data science and health care
   * [IBM Expands Footprint into Healthcare Big Data Analytics](http://healthitcaucus.com/ibm-expands-footprint-into-healthcare-big-data-analytics/)
   * [How Big Data Is Changing Healthcare](http://www.forbes.com/sites/bernardmarr/2015/04/21/how-big-data-is-changing-healthcare/)
+* data science at NIH
+  * [ADDS website](http://datascience.nih.gov/)
+  * external reports
+    * [BioIT World 2015](http://www.bio-itworld.com/2015/5/4/phil-bourne-open-data-evangelist-nih-data-plan.html) 
 * emergency response/ disaster relief
   * [A Force for Good: How Digital Jedis are Responding to the Nepal Earthquake](http://irevolution.net/2015/04/27/digital-jedis-nepal-earthquake/)
   * [Disaster Information Management Research Center (NLM)](http://disasterinfo.nlm.nih.gov/)
@@ -219,10 +223,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * instead of describing the consortium, just send links to brief descriptions online that can be reused for multiple funding applications
 * expert attention
   * needs to be directed in a way that is optimized on a systemic level 
-* data science at NIH
-  * [ADDS website](http://datascience.nih.gov/)
-  * external reports
-    * [BioIT World 2015](http://www.bio-itworld.com/2015/5/4/phil-bourne-open-data-evangelist-nih-data-plan.html) 
+* crowdfunding for research
+  * see section in [open-research-funding.md](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
 * training
 * feedback
 
