@@ -168,6 +168,13 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [PressForward](http://pressforward.org/)
 * [Helping Doctors and Patients Make Sense of Health Statistics](http://www.psychologicalscience.org/journals/pspi/pspi_8_2_article.pdf)
 * [Excellent Science in the Digital Age](http://ec.europa.eu/digital-agenda/en/news/excellent-science-digital-age)
+* [The Information Age Is Over. Welcome to the Infrastructure Age.](http://gizmodo.com/the-information-age-is-over-welcome-to-infrastructure-1701477972/+AnnaleeNewitz)
+* [WikiBrain](http://shilad.github.io/wikibrain/)
+  * see also [IEG grant](https://meta.wikimedia.org/wiki/Grants:IEG/WikiBrainTools)
+* [PASTEUR4OA newsletter May 2015](http://us9.campaign-archive1.com/?u=5fbf4a76563e0df5ac5e3eef0&id=e396d8f8c3) with policy updates around OA across Europe
+* [PASTEUR4OA report on policy effectiveness](http://www.pasteur4oa.eu/news/109#.VUn6PheaRt8)
+* [PASTEUR4OA/Open Access to Research Data ](http://www.pasteur4oa.eu/news/108#.VUn6QxeaRt8)
+
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
