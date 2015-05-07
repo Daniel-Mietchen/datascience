@@ -246,6 +246,14 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * see section in [open-research-funding.md](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
 * careers and training
   * [In research institutes, there should be a formal career track optimized for applied bioinformatics.](http://dx.doi.org/10.1038/520151a)
+* Cloud storage and computing
+  * [Google Cloud Bigtable](https://cloud.google.com/bigtable/)
+   * [commentary](http://www.cio.com.au/article/574327/google-launches-service-storing-big-data/)
+  * Heroku
+  * Amazon
+  * [Git Large File Storage](https://git-lfs.github.com/)
+  * [Cloud platforms](https://en.wikipedia.org/wiki/Category:Cloud_platforms)
+  * [Cloud computing providers](https://en.wikipedia.org/wiki/Category:Cloud_computing_providers)
 * GitHub
   * [thoughts on outage](https://news.ycombinator.com/item?id=9497821)
   * [Open Data Policy on GitHub](https://github.com/project-open-data/project-open-data.github.io)
