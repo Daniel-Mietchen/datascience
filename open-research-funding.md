@@ -53,3 +53,4 @@ which also links to numerous examples of grant proposals that have already been 
    * similar: [Twenty tips for writing a research proposal](http://conservationbytes.com/2015/05/04/twenty-tips-for-writing-a-research-proposal/)
 * Public information available about NIH grants, as per [RePORT](http://report.nih.gov/award/index.cfm)
 * [Sandpit/ Ideas lab](http://knowinnovation.com/expertise/ideas-lab/)
+* [Registered Reports](https://osf.io/8mpji/wiki/home/)
