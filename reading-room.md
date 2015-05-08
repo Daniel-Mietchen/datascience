@@ -253,6 +253,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * see section in [open-research-funding.md](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
 * careers and training
   * [In research institutes, there should be a formal career track optimized for applied bioinformatics.](http://dx.doi.org/10.1038/520151a)
+  * [Young, Brilliant and Underfunded](http://www.nytimes.com/2014/10/03/opinion/young-brilliant-and-underfunded.html)
+   * [commentary in Science](http://news.sciencemag.org/funding/2014/10/updated-fountain-youth-congressmans-plan-make-nih-grantees-younger)
+   * [Nature commentary on retirement age](http://www.nature.com/polopoly_fs/1.17487!/menu/main/topColumns/topLeftColumn/pdf/521020a.pdf)
 * Cloud storage and computing
   * [Google Cloud Bigtable](https://cloud.google.com/bigtable/)
    * [commentary](http://www.cio.com.au/article/574327/google-launches-service-storing-big-data/)
