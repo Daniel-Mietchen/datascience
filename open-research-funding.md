@@ -19,9 +19,12 @@ The educational value of open grant proposals is highlighted in
 * [How to find grant proposal samples?](http://academia.stackexchange.com/questions/1652/how-to-find-grant-proposal-samples),  
 which also links to numerous examples of grant proposals that have already been made public.
 
-# Lists of public funding proposals
-* [Biology](http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/)
-* [Maths](http://www.math.rutgers.edu/~zeilberg/Opinion117Appendix.html)
+# Public list of research ideas or proposals
+* historic: [Scottish Book](https://en.wikipedia.org/wiki/Scottish_Book)
+* [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)
+* [Polymath project](https://en.wikipedia.org/wiki/Polymath_Project)
+* [Maths proposals](http://www.math.rutgers.edu/~zeilberg/Opinion117Appendix.html)
+* [Biology proposals](http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/)
 * How are preprint servers/ repositories being used for grant proposals?
 * Others:
    * [FreeTL for i2B2](https://docs.google.com/document/d/1MOSYD2aHQWqHaIjeGaHMXJX7oUTJLHEVDH9cT_FPGUI/edit)
