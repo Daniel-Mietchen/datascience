@@ -271,6 +271,97 @@ This file hosts metadata about or links to resources that seem relevant for acti
    * [commentary from Sunlight Foundation](http://sunlightfoundation.com/blog/2015/05/06/github-may-be-the-next-step-for-government-regulation/)
 * Future of the library
   * [Libraries of the Future (as of 1965)](http://comminfo.rutgers.edu/~tefko/Courses/e553/Readings/Licklider%20Libraries%20of%20the%20future%201965.pdf)
+
+> It actually defined the future as being the year 2000, and found it
+> quite a good read when skimming through it. An example (p.5), with OCR
+> errors:
+> "We need to substitute for the book a device that will make it easy to
+> transmit information without transporting material, and that will not
+> only present in- formation to people but also process it for them,
+> follow- ing procedures they specify, apply, monitor, and, if
+> necessary, revise and reapply. To provide those services, a meld of
+> Ubrary and computer is evidently required."
+> 
+> The author - Licklider, a psychologist - thought of the library as a
+> "procognitive system", which he described as follows (p.21):
+> "the aims of procognitive systems are to promote and facilitate the
+> acquisition, organization, and use of knowledge."
+> 
+> 
+> or (p. 35ff):
+> "The criteria that are clearly within our scope are those that pertain
+> to the needs and desires of users. The main
+> 
+> criteria in that group appear to be that the procognitive system:
+> 
+> 1 . Be available when and where needed. I 2. Handlebothdocumentsandfacts.*
+> 
+> 3. Permit several different categories of input, rang- ing from
+> authority-approved formal contributions (e.g., papers accepted by
+> recognized journals) to informal notes and comments.
+> 
+> 4. Makeavailableabodyofknowledgethatisorgan- ized both broadly and
+> deeply — and foster the improve- ment of such organization through
+> use.
+> 
+> 5. Facilitate its own further development by pro- viding tool-building
+> languages and techniques to users and preserving the tools they devise
+> and by recording meas- ures of its own performance and adapting in
+> such a way as to maximize the measures.
+> 
+> 6. Provide access to the body of knowledge through convenient
+> procedure-oriented and field-oriented lan- guages.
+> 
+> 7. Converse or negotiate with the user while he formulates his
+> requests and while responding to them. 8. Adjust itself to the level
+> of sophistication of the individual user, providing terse, streamlined
+> modes for experienced users working in their fields of expertness, and
+> functioning as a teaching machine to guide and im-
+> 
+> prove the efforts of neophytes.
+> 9. Permit users to deal either with metainformation
+> 
+> (through which they can work "at arms length" with
+> 
+> * "Facts," used here in a broad sense, refers to items of informa-
+> tion or knowledge derived from one or more documents and not con-
+> strained to the form or forms of the source passages. It refers also
+> to items of information or knowledge in systems or subsystems that do
+> not admit subdivision into documentlike units.
+> 
+> 
+> substantive information), or with substantive informa- tion
+> (directly), or with both at once.
+> 
+> 10. Provide the flexibiUty, legibiHty, and convenience of the printed
+> page at input and output and, at the same time, the dynamic quality
+> and immediate responsiveness of the oscilloscope screen and light pen.
+> 
+> 11. Facihtate joint contribution to and use of knowl- edge by several
+> or many co-workers.
+> 
+> 12. Present flexible, wide-band interfaces to other sys- tems, such as
+> research systems in laboratories, informa- tion-acquisition systems in
+> government, and application systems in business and industry.
+> 
+> 13. Reduce markedly the difiiculties now caused by the diversity of
+> publication languages, terminologies, and "symbologies."
+> 
+> 14. Essentially eliminate publication lag.
+> 
+> 15. Tend toward consoHdation and purification of knowledge instead of,
+> or as well as, toward progressive growth and unresolved equivocation.*
+> 
+> 16. Evidence neither the ponderousness now associ- ated with
+> overcentralization nor the confusing diversity and provinciality now
+> associated with highly distributed systems. (The user is presumably
+> indifferent to the de- sign decisions through which this is
+> accomplished.)
+> 
+> 17. Display desired degree of initiative, together with good
+> selectivity, in dissemination of recently acquired and "newly needed"
+> knowledge.
+> 
   * See also Brian Christian's farewell to the idea _[Scientific Knowledge Should Be Structured as "Literature"](http://edge.org/response-detail/25514)_
 * feedback
 
