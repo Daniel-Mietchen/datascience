@@ -271,5 +271,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
    * [commentary from Sunlight Foundation](http://sunlightfoundation.com/blog/2015/05/06/github-may-be-the-next-step-for-government-regulation/)
 * Future of the library
   * [Libraries of the Future (as of 1965)](http://comminfo.rutgers.edu/~tefko/Courses/e553/Readings/Licklider%20Libraries%20of%20the%20future%201965.pdf)
+  * See also Brian Christian's farewell to the idea _[Scientific Knowledge Should Be Structured as "Literature"](http://edge.org/response-detail/25514)_
 * feedback
 
