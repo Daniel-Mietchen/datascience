@@ -361,7 +361,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 > 17. Display desired degree of initiative, together with good
 > selectivity, in dissemination of recently acquired and "newly needed"
 > knowledge.
-> 
+>   
+
   * See also Brian Christian's farewell to the idea _[Scientific Knowledge Should Be Structured as "Literature"](http://edge.org/response-detail/25514)_
 * feedback
 
