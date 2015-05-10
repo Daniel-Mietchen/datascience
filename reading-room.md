@@ -180,6 +180,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
   * and maybe other [TED MED](https://www.youtube.com/user/tedmed) talks 
   * see also [Only "Scientists" Can Do Science](http://edge.org/response-detail/25504)
+*[Tal Danino on using bacteria to cure cancer](http://www.ted.com/talks/tal_danino_we_can_use_bacteria_to_detect_cancer_and_maybe_treat_it#t-243227)
 
 # Events
 ## Calendars
