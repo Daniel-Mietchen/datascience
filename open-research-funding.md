@@ -57,3 +57,4 @@ which also links to numerous examples of grant proposals that have already been 
 * Public information available about NIH grants, as per [RePORT](http://report.nih.gov/award/index.cfm)
 * [Sandpit/ Ideas lab](http://knowinnovation.com/expertise/ideas-lab/)
 * [Registered Reports](https://osf.io/8mpji/wiki/home/)
+* [great paper on incentives is in the pipeline](http://dx.doi.org/10.1371/journal.pcbi.1004232)
