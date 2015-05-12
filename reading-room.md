@@ -1,5 +1,5 @@
 # About
-This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on sorting and reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
+This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on sorting and reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.sla
 
 # List
 * [What should a modern scientific infrastructure look like?](http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/)
@@ -231,6 +231,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [Moral Concerns and the Willingness to Donate to a Research Biobank](http://dx.doi.org/10.1001/jama.2014.16363)
 * peer review
   * [Big names or big ideas: Do peer-review panels select the best science proposals?](http://dx.doi.org/10.1126/science.aaa0185)
+    * contrast this with [arxiv:0906.1943](http://arxiv.org/abs/0906.1943)
+      * [video](https://www.youtube.com/watch?v=7c0CoXFApnM)
+      * [citations](https://scholar.google.de/scholar?oe=utf-8&gws_rd=cr&um=1&ie=UTF-8&lr&cites=13685852829069688189)
+      * [Borda count](https://en.wikipedia.org/wiki/Borda_count)
   * [Slay peer review ‘sacred cow’, says former BMJ chief](http://www.timeshighereducation.co.uk/news/slay-peer-review-sacred-cow-says-former-bmj-chief/2019812.article)
   * [Classical peer review: an empty gun](http://dx.doi.org/10.1186/bcr274)
   * [the Winnower](https://thewinnower.com/)
