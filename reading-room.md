@@ -235,6 +235,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
       * [video](https://www.youtube.com/watch?v=7c0CoXFApnM)
       * [citations](https://scholar.google.de/scholar?oe=utf-8&gws_rd=cr&um=1&ie=UTF-8&lr&cites=13685852829069688189)
       * [Borda count](https://en.wikipedia.org/wiki/Borda_count)
+      * [tried at NSF](http://www.nsf.gov/pubs/2013/nsf13096/nsf13096.jsp)
+       * [discussion](https://groups.google.com/forum/#!topic/electionscience/Iuzd2DgrLkE)
   * [Slay peer review ‘sacred cow’, says former BMJ chief](http://www.timeshighereducation.co.uk/news/slay-peer-review-sacred-cow-says-former-bmj-chief/2019812.article)
   * [Classical peer review: an empty gun](http://dx.doi.org/10.1186/bcr274)
   * [the Winnower](https://thewinnower.com/)
