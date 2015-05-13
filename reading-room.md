@@ -354,6 +354,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 >   
 
   * See also Brian Christian's farewell to the idea _[Scientific Knowledge Should Be Structured as "Literature"](http://edge.org/response-detail/25514)_
+
 * Reproducibility
   * [Rigor and Reproducibility](http://www.nih.gov/science/reproducibility/index.htm)
   * [Offline: What is medicine's 5 sigma?](http://dx.doi.org/10.1016/S0140-6736(15)60696-1)
