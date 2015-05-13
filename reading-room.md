@@ -153,7 +153,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Effectiveness of public deliberation methods for gathering input on issues in healthcare: Results from a randomized trial](http://dx.doi.org/10.1016/j.socscimed.2015.03.024)
 * ['Living figures' make their debut](http://dx.doi.org/10.1038/nature.2015.17382)
 * [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](http://dx.doi.org/10.1371/journal.pbio.1002128)
-* [Rigor and Reproducibility](http://www.nih.gov/science/reproducibility/index.htm)
 * [Bibliometrics: The Leiden Manifesto for research metrics](http://dx.doi.org/10.1038/520429a)
 * [NASA's Data Portal](http://open.nasa.gov/blog/2015/04/07/welcome-to-nasas-data-portal/)
 * [If Britain’s top economists were in charge, what policies would they implement?](http://www.ft.com/cms/s/2/7da2852c-e3af-11e4-9a82-00144feab7de.html#axzz3XZSthOA9)
@@ -355,5 +354,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 >   
 
   * See also Brian Christian's farewell to the idea _[Scientific Knowledge Should Be Structured as "Literature"](http://edge.org/response-detail/25514)_
+* Reproducibility
+  * [Rigor and Reproducibility](http://www.nih.gov/science/reproducibility/index.htm)
+  * [Offline: What is medicine's 5 sigma?](http://dx.doi.org/10.1016/S0140-6736(15)60696-1)
 * feedback
 
