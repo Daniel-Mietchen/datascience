@@ -1,7 +1,8 @@
 # About
 This file collects information related to new approaches to peer review for all aspects of the research cycle, including classical publications (e.g. journal articles, monographs, conference proceedings), funding applications, software and data, and other aspects (e.g. measurement time).
 
-# Examples (sorted by step in research cycle)
+# Examples
+These examples are roughly sorted by step in research cycle
 * Ideas
 * Pre-registration
 * Funding proposals
@@ -14,10 +15,12 @@ This file collects information related to new approaches to peer review for all 
    * Monographs
    * Conferences
 * Post-publication peer review
+* Teaching
 * Infrastructure
    * [OpenAIRE Open Peer Review Tender](https://www.openaire.eu/outreach/tenders/peer-review-tender)
 
-
+# Unsorted
+Things listed here have yet to be sorted into the structure above.
 * peer review
   * [Big names or big ideas: Do peer-review panels select the best science proposals?](http://dx.doi.org/10.1126/science.aaa0185)
     * contrast this with [arxiv:0906.1943](http://arxiv.org/abs/0906.1943)
