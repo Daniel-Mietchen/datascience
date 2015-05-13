@@ -2,6 +2,7 @@
 Thoughts and activities around [research data](http://datascience.nih.gov/), with a focus on
 * Analysis of different kinds of open models for use in research funding.
   * [How can research funding be opened up to the benefit of research?](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
+  * [How can peer review be made more efficient?](https://github.com/Daniel-Mietchen/datascience/blob/master/peer-review.md)
 * Interfacing of the Commons with activities across institutional, disciplinary and international boundaries.
   * [How to conceptualize and implement a Commons infrastructure for research?](https://github.com/Daniel-Mietchen/datascience/blob/master/commons.md)
   * [What policies govern open access to research outputs?](https://github.com/Daniel-Mietchen/datascience/blob/master/public-access-policies.md)
