@@ -222,6 +222,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [People locator](https://pl.nlm.nih.gov/nepalearthquake/)
   * [Emergency Access Initiative Resources](http://eai.nlm.nih.gov/)
   * [OpenStreetMap rallies for Nepal ](https://www.mapbox.com/blog/mapping-nepal/)
+  * [Immediate lessons from the Nepal earthquake](http://dx.doi.org/10.1016/S0140-6736(15)60655-9)
 * Future of NLM
  * [NIH Director’s Statement on Dr. Lindberg’s retirement](http://www.nih.gov/about/director/11062014_statement_lindberg.htm) 
  * [New Working Group to Chart the Course for the NIH National Library of Medicine](http://www.nih.gov/about/director/02032015_working-group_nlm.htm)
