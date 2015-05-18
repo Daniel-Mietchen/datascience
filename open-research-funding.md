@@ -61,3 +61,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [Registered Reports](https://osf.io/8mpji/wiki/home/)
 * [great paper on incentives is in the pipeline](http://dx.doi.org/10.1371/journal.pcbi.1004232)
 * [Swedish Vetenskapsradet moves towards more openness](http://www.vr.se/download/18.4702e05d148edabbd9cdd591/1412862685498/Utkast+Nationella+riktlinjer+OA.pdf)
+* ["in FY 2012 – 2014, NSF conducted several pilot activities incorporating different variations of the more familiar approaches to merit review.  Table 15 lists these pilots"](https://www.nsf.gov/nsb/publications/2015/nsb201514.pdf)
