@@ -49,3 +49,6 @@ This file collects information on crowdsourcing in relation to research, especia
   * [Competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) 
 * [SciFund](http://scifundchallenge.org/)
 * [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
+
+# See also
+* [Neuchâtel herbarium](https://commons.wikimedia.org/wiki/File:Lugano_May5_2015b.pdf)
