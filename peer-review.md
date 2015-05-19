@@ -43,4 +43,4 @@ Things listed here have yet to be sorted into the structure above.
 * [Schroter S et al., 2010. Surveys of current status in biomedical science grant review: funding organisations' and grant reviewers' perspectives. BMC Med 8:62.](http://dx.doi.org/10.1186/1741-7015-8-62)
 * [Which science to fund? Time to review peer review (in NZ)](http://www.pmcsa.org.nz/wp-content/uploads/Which-science-to-fund-time-to-review-peer-review.pdf)
 * [Graves A et al., 2011. Funding grant proposals for scientific research: retrospective analysis of scores by members of grant review panel. BMJ 343:d4797.](http://dx.doi.org/10.1136/bmj.d4797)
-
+* [Videos permitted as part of applications for NIH funding](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-12-141.html)
