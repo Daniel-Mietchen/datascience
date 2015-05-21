@@ -46,3 +46,4 @@ Things listed here have yet to be sorted into the structure above.
 * [Videos permitted as part of applications for NIH funding](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-12-141.html)
 * [Open peer review: a randomised controlled trial](http://dx.doi.org/10.1192/bjp.176.1.47)
 * [Maintaining Confidentiality in NIH Peer Review](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-14-073.html)
+* [Protecting the Security of NIH Grant Applications](http://grants.nih.gov/grants/peer/guidelines_general/protecting_applications.pdf)
