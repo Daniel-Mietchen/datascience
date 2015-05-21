@@ -184,7 +184,13 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Passing Review: how the R-index aims to improve the peer-review system by quantifying reviewer contributions](http://blogs.lse.ac.uk/impactofsocialsciences/2015/05/20/passing-review-r-index-to-improve-peer-review-system/)
 * [Drug trials firm to challenge plans for greater transparency over results](http://www.theguardian.com/business/2015/may/18/drug-trials-firm-to-challenge-plans-for-greater-transparency-over-results)
 * [A Global Biomedical R&D Fund and Mechanism for Innovations of Public Health Importance](http://dx.doi.org/10.1371/journal.pmed.1001831)
-
+* [The Unreasonable Effectiveness of Data](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35179.pdf)
+* [A multi-subject, multi-modal human neuroimaging dataset](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4412149/)
+* [Asterank is a scientific and economic database of over 600,000 asteroids](http://www.asterank.com/)
+* [Supporting Diversity in Science through Social Networking](http://dx.doi.org/10.1371/journal.pbio.1001740)
+* [ImageNet](http://www.image-net.org/) (annotated image database for machine vision learning)
+  * [ImageNet challenge](http://image-net.org/challenges/LSVRC/2015/)
+* [Heart BD2K](http://www.heartbd2k.org/) has community science as its third pillar
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
@@ -235,6 +241,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [Immediate lessons from the Nepal earthquake](http://dx.doi.org/10.1016/S0140-6736(15)60655-9)
   * [Emergency Capacity Building (ECB) Project](https://en.wikipedia.org/wiki/ECB_Project)
   * [SMS Gateway to Nepal](http://sparrowsms.com/sms-gateway-nepal)
+  * [Nepal’s Aid System Is Broken. So These Lifesavers Hacked It](http://www.wired.com/2015/05/nepal-earthquake-aid/)
 * Future of NLM
  * [NIH Director’s Statement on Dr. Lindberg’s retirement](http://www.nih.gov/about/director/11062014_statement_lindberg.htm) 
  * [New Working Group to Chart the Course for the NIH National Library of Medicine](http://www.nih.gov/about/director/02032015_working-group_nlm.htm)
