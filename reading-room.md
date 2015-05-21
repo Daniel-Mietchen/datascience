@@ -46,7 +46,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Assessing the research potential of access to clinical trial data](http://blog.wellcome.ac.uk/2015/03/17/the-research-potential-of-clinical-trial-data/)
 * [Data Sharing Expectations for Clinical Research Funded by NIMH](http://grants.nih.gov/grants/guide/notice-files/NOT-MH-15-012.html#sthash.0eteQibW.dpuf)
 * [Reinventing Healthcare to Serve People, Not Institutions](http://www.slideshare.net/timoreilly/reinventing-healthcare-to-serve-people-not-institutions)
-* [Precision Medicine: The Future or Simply Politics?](http://jama.jamanetwork.com/article.aspx?articleid=2203797)
 * [Science Bots: a Model for the Future of Scientific Computation?](http://arxiv.org/abs/1503.04374)
 * [Research data at your fingertips](http://www.allianzinitiative.de/fileadmin/user_upload/redakteur/2015_Positionspapier_AG_Forschungsdaten_en.pdf)
 * [People’s health at the centre of new global blueprint to reduce disaster risks](http://www.who.int/mediacentre/news/releases/2015/disaster-risk-reduction/en/)
@@ -121,7 +120,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [3rd plenary meeting](https://events.oicr.on.ca/global-alliance-3rd-plenary-meeting) (June 9-11, Leiden)
 * [ENIGMA (Evidence-based Network for the Interpretation of Germline Mutant Alleles)](http://enigmaconsortium.org/)
   * [Common genetic variants influence human subcortical brain structures](http://dx.doi.org/10.1038/nature14101)
-* [NIH director sees solving data puzzle as key to U.S. precision medicine](http://www.reuters.com/article/2015/03/07/us-usa-health-precision-idUSKBN0M302520150307)
 * [Introducing the Scholarly Markdown Bundle](http://blog.martinfenner.org/2015/04/23/introducing-scholarly-markdown-bundle/)
 * [Research Object Bundle 1.0](https://researchobject.github.io/specifications/bundle/)
 * [R Compendium](http://journal.r-project.org/archive/2011-2/RJournal_2011-2_Lundholm.pdf)
@@ -357,6 +355,12 @@ This file hosts metadata about or links to resources that seem relevant for acti
 >   
 
   * See also Brian Christian's farewell to the idea _[Scientific Knowledge Should Be Structured as "Literature"](http://edge.org/response-detail/25514)_
+
+* Precision medicine
+  * [NIH director sees solving data puzzle as key to U.S. precision medicine](http://www.reuters.com/article/2015/03/07/us-usa-health-precision-idUSKBN0M302520150307)
+  * [Precision Medicine: The Future or Simply Politics?](http://jama.jamanetwork.com/article.aspx?articleid=2203797)
+  * [Alzheimer’s Disease Neuroimaging Initiative (ADNI)](http://www.adni-info.org/)
+  * [CURE Epilepsy](http://www.cureepilepsy.org/news/story.asp?id=142)
 
 * Reproducibility
   * [Rigor and Reproducibility](http://www.nih.gov/science/reproducibility/index.htm)
