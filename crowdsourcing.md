@@ -56,6 +56,10 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Wiki Project Med](https://meta.wikimedia.org/wiki/Wiki_Project_Med)
 * [Wikipedia and Medicine: Quantifying Readership, Editors, and the Significance of Natural Language](http://doi.org/10.2196/jmir.4069)
    * [commentary](http://blogs.lse.ac.uk/impactofsocialsciences/2015/05/19/towards-health-information-for-all-wikipedia/)
+* [Wikipedia as a basic scientific reference](http://sulab.org/2015/01/wikipedia-as-a-basic-scientific-reference/)
+* [Discovering new diseases with the internet: How to find a matching patient](http://matt.might.net/articles/rare-disease-internet-matchmaking/)
+* [Advice For Rare Disease Advocates Editing Wikipedia Entries](https://en.wikipedia.org/wiki/User:Ruraldreams)
+
 
 # See also
 * [Neuchâtel herbarium](https://commons.wikimedia.org/wiki/File:Lugano_May5_2015b.pdf)
