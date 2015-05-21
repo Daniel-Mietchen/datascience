@@ -51,5 +51,11 @@ This file collects information on crowdsourcing in relation to research, especia
 * [SciFund](http://scifundchallenge.org/)
 * [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
 
+## Medicine and Wikimedia
+* [WikiProject Medicine](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine)
+* [Wiki Project Med](https://meta.wikimedia.org/wiki/Wiki_Project_Med)
+* [Wikipedia and Medicine: Quantifying Readership, Editors, and the Significance of Natural Language](http://doi.org/10.2196/jmir.4069)
+   * [commentary](http://blogs.lse.ac.uk/impactofsocialsciences/2015/05/19/towards-health-information-for-all-wikipedia/)
+
 # See also
 * [Neuchâtel herbarium](https://commons.wikimedia.org/wiki/File:Lugano_May5_2015b.pdf)
