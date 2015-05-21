@@ -172,6 +172,18 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [PASTEUR4OA report on policy effectiveness](http://www.pasteur4oa.eu/news/109#.VUn6PheaRt8)
 * [PASTEUR4OA/Open Access to Research Data ](http://www.pasteur4oa.eu/news/108#.VUn6QxeaRt8)
 * [great paper on incentives is in the pipeline](http://dx.doi.org/10.1371/journal.pcbi.1004232)
+* [The Big Data Brain Drain: Why Science is in Trouble](http://jakevdp.github.io/blog/2013/10/26/big-data-brain-drain/)
+* [Hacking Academia: Data Science and the University](http://jakevdp.github.io/blog/2014/08/22/hacking-academia/)
+* [Prize4Life](https://en.wikipedia.org/wiki/Prize4Life)
+* [Pooled Resource Open-Access ALS Clinical Trials Database](https://nctu.partners.org/ProACT)
+* [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
+* [Software Carpentry lessons](http://software-carpentry.org/lessons.html)
+* [Reproducibility crisis: Blame it on the antibodies](http://dx.doi.org/10.1038/521274a)
+* [Statistics: P values are just the tip of the iceberg](http://dx.doi.org/10.1038/520612a)
+* [Growth of OA-only Journals Using a CC-BY License](http://oaspa.org/growth-of-oa-only-journals-using-a-cc-by-license/)
+* [Passing Review: how the R-index aims to improve the peer-review system by quantifying reviewer contributions](http://blogs.lse.ac.uk/impactofsocialsciences/2015/05/20/passing-review-r-index-to-improve-peer-review-system/)
+* [Drug trials firm to challenge plans for greater transparency over results](http://www.theguardian.com/business/2015/may/18/drug-trials-firm-to-challenge-plans-for-greater-transparency-over-results)
+* [A Global Biomedical R&D Fund and Mechanism for Innovations of Public Health Importance](http://dx.doi.org/10.1371/journal.pmed.1001831)
 
 
 #Videos to watch
