@@ -191,10 +191,12 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [ImageNet](http://www.image-net.org/) (annotated image database for machine vision learning)
   * [ImageNet challenge](http://image-net.org/challenges/LSVRC/2015/)
 * [Heart BD2K](http://www.heartbd2k.org/) has community science as its third pillar
+* [Johns Hopkins looks for alternative funding for research as NIH grants lag](http://www.bizjournals.com/baltimore/news/2015/01/08/hopkins-looks-for-alternative-funding-for-research.html?page=all)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
 * [BioSharing]https://www.biosharing.org/]
+* [BiodiversityCatalogue](https://www.biodiversitycatalogue.org/)
 
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
@@ -396,7 +398,7 @@ post publication peer review. Or improve research training and mentorship. Or ..
   * [Demystifying the NEW NIH Biosketch](http://www.sph.emory.edu/research/documents/NewNIHBiosketch.pdf)
   * [10 tips on mandatory new NIH biosketch & example](http://www.ipscell.com/2015/03/newnihsketch/)
   * [Endocrine Society Expresses Concern with New NIH Biosketch](https://www.endocrine.org/membership/email-newsletters/endocrine-insider/2015/april-2-2015/society-expresses-concern-with-new-nih-biosketch)
-  * 
+  * [outdated LaTeX class for NIH biosketches](https://www.ctan.org/tex-archive/macros/latex/contrib/nih)
 * collective action problems
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
 * feedback
