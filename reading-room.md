@@ -391,6 +391,12 @@ This file hosts metadata about or links to resources that seem relevant for acti
     * quote: "Can bad scientific practices be fixed? Part of the problem is that no-one is incentivised to be right. Instead, scientists are incentivised to be productive and innovative. Would a Hippocratic Oath for science 
 help? Certainly don’t add more layers of research red-tape. Instead of changing incentives, perhaps one could remove incentives altogether. Or insist on replicability statements in grant applications and research papers. Or emphasise collaboration, not competition. Or insist on preregistration of protocols. Or reward better pre and 
 post publication peer review. Or improve research training and mentorship. Or ..."
+* NIH Biosketch
+  * [NIH Notice](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-032.html)
+  * [Demystifying the NEW NIH Biosketch](http://www.sph.emory.edu/research/documents/NewNIHBiosketch.pdf)
+  * [10 tips on mandatory new NIH biosketch & example](http://www.ipscell.com/2015/03/newnihsketch/)
+  * [Endocrine Society Expresses Concern with New NIH Biosketch](https://www.endocrine.org/membership/email-newsletters/endocrine-insider/2015/april-2-2015/society-expresses-concern-with-new-nih-biosketch)
+  * 
 * collective action problems
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
 * feedback
