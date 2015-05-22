@@ -192,6 +192,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [ImageNet challenge](http://image-net.org/challenges/LSVRC/2015/)
 * [Heart BD2K](http://www.heartbd2k.org/) has community science as its third pillar
 
+# Services
+* [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
+* [BioSharing]https://www.biosharing.org/]
+
 #Videos to watch
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
   * and maybe other [TED MED](https://www.youtube.com/user/tedmed) talks 
