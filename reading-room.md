@@ -58,7 +58,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Riding the wave - How Europe can gain from the rising tide of scientific data - Final report of the High Level Expert Group on Scientific Data - October 2010](http://ec.europa.eu/information_society/newsroom/cf/itemlongdetail.cfm?item_id=6204)
 * [If We Share Data, Will Anyone Use Them? Data Sharing and Reuse in the Long Tail of Science and Technology](http://dx.doi.org/10.1371/journal.pone.0067332)
 * [Sharing and Reporting the Results of Clinical Trials](http://dx.doi.org/10.1001/jama.2014.10716)
-* [When data sharing gets close to 100%: what human paleogenetics can teach the open science movement.](http://www.ncbi.nlm.nih.gov/pubmed/25799293)
 * [Finding the Missing Link for Big Biomedical Data](http://dx.doi.org/10.1001/jama.2014.4228)
 * [Improving patient flow across organisations and pathways](http://www.health.org.uk/publications/improving-patient-flow-across-organisations-and-pathways/)
 * [Introduction to Statistics (using Python for data science)](http://work.thaslwanter.at/Stats/html/)
@@ -395,6 +394,7 @@ post publication peer review. Or improve research training and mentorship. Or ..
   * [outdated LaTeX class for NIH biosketches](https://www.ctan.org/tex-archive/macros/latex/contrib/nih)
 * open science in general
   * [When will ‘open science’ become simply ‘science’?](http://dx.doi.org/10.1007/10.1186/s13059-015-0669-2)
+  * [When data sharing gets close to 100%: what human paleogenetics can teach the open science movement.](http://www.ncbi.nlm.nih.gov/pubmed/25799293)
 * collective action problems
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
 * feedback
