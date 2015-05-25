@@ -64,3 +64,4 @@ which also links to numerous examples of grant proposals that have already been 
 * ["in FY 2012 – 2014, NSF conducted several pilot activities incorporating different variations of the more familiar approaches to merit review.  Table 15 lists these pilots"](https://www.nsf.gov/nsb/publications/2015/nsb201514.pdf)
    * Mechanism design: "One result of this approach is that proposals received a more comprehensive review than had [..] previously been the norm for this program."
 * [Currently open calls at NIH](http://grants.nih.gov/searchGuide/search_guide_results.cfm?SearchTerms=&TitleText=secondary&Status=1&PrimaryICActive=Any&AppPackage=Any&RelDate_On_After=&ExpDate_On_After=&Activity_Code=&Activity_Code_Groups=&AddFOAs=1&OrderDirection=DESC)
+* [Grant agencies versus the search for truth](http://dx.doi.org/10.1080/08989629308573824)
