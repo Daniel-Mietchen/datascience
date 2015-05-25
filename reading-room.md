@@ -393,7 +393,7 @@ post publication peer review. Or improve research training and mentorship. Or ..
   * [Endocrine Society Expresses Concern with New NIH Biosketch](https://www.endocrine.org/membership/email-newsletters/endocrine-insider/2015/april-2-2015/society-expresses-concern-with-new-nih-biosketch)
   * [outdated LaTeX class for NIH biosketches](https://www.ctan.org/tex-archive/macros/latex/contrib/nih)
 * open science in general
-  * [When will ‘open science’ become simply ‘science’?](http://dx.doi.org/10.1007/10.1186/s13059-015-0669-2)
+  * [When will ‘open science’ become simply ‘science’?](http://dx.doi.org/10.1186/s13059-015-0669-2)
   * [When data sharing gets close to 100%: what human paleogenetics can teach the open science movement.](http://www.ncbi.nlm.nih.gov/pubmed/25799293)
 * collective action problems
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
