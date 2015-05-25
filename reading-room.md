@@ -256,6 +256,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * instead of describing the consortium, just send links to brief descriptions online that can be reused for multiple funding applications
   * consider side effects of changes in procedure: [The impact of a streamlined funding application process on application time: two cross-sectional surveys of Australian researchers](http://dx.doi.org/10.1136/bmjopen-2014-006912)
   * The guidelines for submissions vary between funding lines and change over time, but usually only slightly so. Exposing their version history and provising diff links would help to better appreciate the changes.
+  * [Audit overload](http://www.timeshighereducation.co.uk/features/audit-overload/410612.article)
+  * [Bureaucracy: why won’t scholars break their paper chains?](http://www.timeshighereducation.co.uk/features/bureaucracy-why-wont-scholars-break-their-paper-chains/2020256.article)
 * expert attention
   * needs to be directed in a way that is optimized on a systemic level 
 * crowdfunding for research
