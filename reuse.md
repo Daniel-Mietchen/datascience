@@ -36,8 +36,12 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 
 ## Stats  
 * [Page views of medical pages on the English Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Popular_pages)  
-* [GLAMorous](http://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Uploaded+with+Open+Access+Media+Importer)  
-* [BaGLAMa](http://tools.wmflabs.org/glamtools/baglama2/#gid=129&month=201502)  
+* GLAMorous
+      * [Open Access Media Importer](http://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=Uploaded+with+Open+Access+Media+Importer)
+      * [NIH](http://tools.wmflabs.org/glamtools/glamorous.php?doit=1&category=National+Institutes+of+Health&use_globalusage=1&ns0=1&depth=20&show_details=1&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1)
+* BaGLAMa
+      * [Open Access Media Importer](http://tools.wmflabs.org/glamtools/baglama2/#gid=129&month=201502)  
+      * [NIH](http://tools.wmflabs.org/glamtools/baglama2/#gid=201&month=201504&giu=enwiki&server=en.wikipedia.org)
 * [Cite-o-Meter](http://tools.wmflabs.org/cite-o-meter/)  
 * [Cocytus](http://events.labs.crossref.org/events/types/WikipediaCitation)  
 * [Total DOIs cited from the English Wikipedia](https://dx.doi.org/10.6084/m9.figshare.1299540)  
