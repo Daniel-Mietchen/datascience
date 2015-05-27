@@ -23,6 +23,7 @@ which also links to numerous examples of grant proposals that have already been 
 # Public list of research ideas or proposals
 * historic: [Scottish Book](https://en.wikipedia.org/wiki/Scottish_Book)
 * [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)
+* [Jisc Elevator](http://elevator.jisc.ac.uk/e/2-startup-projects/ideas)
 * [Polymath project](https://en.wikipedia.org/wiki/Polymath_Project)
 * [Maths proposals](http://www.math.rutgers.edu/~zeilberg/Opinion117Appendix.html)
 * [Biology proposals](http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/)
