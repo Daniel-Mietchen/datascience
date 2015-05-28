@@ -13,7 +13,7 @@ Thoughts and activities around [research data](http://datascience.nih.gov/), wit
   * [How best to cite data?](https://github.com/Daniel-Mietchen/datascience/blob/master/data-citation.md)
   * [How to make data accessible for people with disabilities?](https://github.com/Daniel-Mietchen/datascience/blob/master/web-accessibility.md)
   * [How to sustain infrastructure for data sharing?](https://github.com/Daniel-Mietchen/datascience/blob/master/sustainability.md)
-* Using data to engage communities, both for experts and in the framework of citizen science projects.
+* Engaging communities with data, both experts and in the framework of citizen science projects.
   * [How best to integrate crowdsourcing components into data management?](https://github.com/Daniel-Mietchen/datascience/blob/master/crowdsourcing.md)
   * [How to make data management plans machine readable?](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md)
   * [How can quality data journalism be supported?](https://github.com/Daniel-Mietchen/datascience/blob/master/data-journalism.md)
