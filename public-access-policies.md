@@ -16,6 +16,10 @@ This file serves the collection of information related to public access policies
 * [RCUK Common Principles on Data Policy](http://www.rcuk.ac.uk/research/datapolicy/)
 * [Open Access at HEFCE](http://www.hefce.ac.uk/rsrch/oa/)
 
+## Finland
+* Open science and research roadmap 2014–2017: ["Open science and research leads to 
+surprising discoveries and creative insights"](http://openscience.fi/documents/14273/0/Open+Science+and+Research+Roadmap+2014-2017/e8eb7704-8ea7-48bb-92e6-c6c954d4a2f2)
+
 ## EU
 ### FP7
 * Open Access Pilot
