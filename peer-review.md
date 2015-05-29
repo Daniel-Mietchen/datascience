@@ -48,3 +48,5 @@ Things listed here have yet to be sorted into the structure above.
 * [Maintaining Confidentiality in NIH Peer Review](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-14-073.html)
 * [Protecting the Security of NIH Grant Applications](http://grants.nih.gov/grants/peer/guidelines_general/protecting_applications.pdf)
 * [Op-Ed: How Traditional Publishing Hurts Scientific Progress](http://www.wired.com/2012/03/michael-eisen-open-science/)
+* [Episcience Project](http://www.episciences.org/)
+   * [comment by Tim Gowers](https://gowers.wordpress.com/2013/01/16/why-ive-also-joined-the-good-guys/)
