@@ -191,6 +191,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [ImageNet challenge](http://image-net.org/challenges/LSVRC/2015/)
 * [Heart BD2K](http://www.heartbd2k.org/) has community science as its third pillar
 * [Johns Hopkins looks for alternative funding for research as NIH grants lag](http://www.bizjournals.com/baltimore/news/2015/01/08/hopkins-looks-for-alternative-funding-for-research.html?page=all)
+* [COAR: "Promoting Open Knowledge and Open Science: Current State of Repositories, May 2015"]
+(http://www.rcuk.ac.uk/RCUK-prod/assets/documents/international/COARStateOfRepositories.pdf)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
