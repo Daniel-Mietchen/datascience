@@ -170,7 +170,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [PASTEUR4OA newsletter May 2015](http://us9.campaign-archive1.com/?u=5fbf4a76563e0df5ac5e3eef0&id=e396d8f8c3) with policy updates around OA across Europe
 * [PASTEUR4OA report on policy effectiveness](http://www.pasteur4oa.eu/news/109#.VUn6PheaRt8)
 * [PASTEUR4OA/Open Access to Research Data ](http://www.pasteur4oa.eu/news/108#.VUn6QxeaRt8)
-* [great paper on incentives is in the pipeline](http://dx.doi.org/10.1371/journal.pcbi.1004232)
+* [great paper on incentives](http://dx.doi.org/10.1371/journal.pcbi.1004232)
 * [The Big Data Brain Drain: Why Science is in Trouble](http://jakevdp.github.io/blog/2013/10/26/big-data-brain-drain/)
 * [Hacking Academia: Data Science and the University](http://jakevdp.github.io/blog/2014/08/22/hacking-academia/)
 * [Prize4Life](https://en.wikipedia.org/wiki/Prize4Life)
