@@ -399,6 +399,7 @@ post publication peer review. Or improve research training and mentorship. Or ..
   * [outdated LaTeX class for NIH biosketches](https://www.ctan.org/tex-archive/macros/latex/contrib/nih)
 * open science in general
   * [When will ‘open science’ become simply ‘science’?](http://dx.doi.org/10.1186/s13059-015-0669-2)
+    * [on Reddit](http://www.reddit.com/r/science/comments/37r9j2/when_will_open_science_become_simply_science/)
   * [When data sharing gets close to 100%: what human paleogenetics can teach the open science movement.](http://www.ncbi.nlm.nih.gov/pubmed/25799293)
   * [Open science decoded](http://dx.doi.org/10.1038/nphys3313)
 * collective action problems
