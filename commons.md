@@ -13,3 +13,5 @@ This file collects information related to the concept of the Commons, as it appl
     * dedicated group on [Patient data](https://zenodo.org/collection/user-patient-data) (experimental)
 * [World Intellectual Freedom Organization](https://d.wifo.org/t/shuttleworth-fellowship-application-open-draft/13)
 * [International & Interdisciplinary Research Groups (IIRGs)](http://www.iash.ed.ac.uk/research/iirgs/)
+* [Towards a European Open Science Cloud](http://indico.cern.ch/event/388437/other-view?view=standard) (event)
+      * [paper](http://indico.cern.ch/event/388437/material/1/0.pdf)
