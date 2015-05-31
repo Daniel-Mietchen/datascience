@@ -399,6 +399,7 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * open science in general
   * [When will ‘open science’ become simply ‘science’?](http://dx.doi.org/10.1186/s13059-015-0669-2)
   * [When data sharing gets close to 100%: what human paleogenetics can teach the open science movement.](http://www.ncbi.nlm.nih.gov/pubmed/25799293)
+  * [Open science decoded](http://dx.doi.org/10.1038/nphys3313)
 * collective action problems
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
 * feedback
