@@ -30,6 +30,9 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 
 ### FP9?
 
+## G8
+* [G8 Open Data Charter](http://www.international.gc.ca/g8/open_data_charter-charte_du_g8_sur_les_donnees_ouvertes.aspx?lang=eng)
+
 ## Non-governmental organizations
 * [Wikimedia](http://blog.wikimedia.org/2015/03/18/wikimedia-open-access-policy/)
 
