@@ -196,7 +196,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
-* [BioSharing]https://www.biosharing.org/]
+* [BioSharing](https://www.biosharing.org/)
 * [BiodiversityCatalogue](https://www.biodiversitycatalogue.org/)
 
 # Events
