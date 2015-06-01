@@ -28,8 +28,6 @@ This page collects information on open collaboration in the context of emergency
 ## Nepal
 * [2015 Nepal earthquakes](https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake)
   * [A Force for Good: How Digital Jedis are Responding to the Nepal Earthquake](http://irevolution.net/2015/04/27/digital-jedis-nepal-earthquake/)
-  * [Disaster Information Management Research Center (NLM)](http://disasterinfo.nlm.nih.gov/)
-    * part of [Specialized Information Services](http://sis.nlm.nih.gov/)
   * [People locator](https://pl.nlm.nih.gov/nepalearthquake/)
   * [Emergency Access Initiative Resources](http://eai.nlm.nih.gov/)
   * [OpenStreetMap rallies for Nepal ](https://www.mapbox.com/blog/mapping-nepal/)
@@ -44,7 +42,10 @@ This page collects information on open collaboration in the context of emergency
 * [Crisis Commons](http://crisiscommons.org/)
 * [Ushahidi](https://en.wikipedia.org/wiki/Ushahidi)
 * [Google Crisis Response](https://en.wikipedia.org/wiki/Google_Crisis_Response)
-* [NIH: Division of Emergency Management](http://www.ors.od.nih.gov/ser/dem/)
+* NIH
+  * [Disaster Information Management Research Center (NLM)](http://disasterinfo.nlm.nih.gov/)
+    * part of [Specialized Information Services](http://sis.nlm.nih.gov/)
+  * [Division of Emergency Management](http://www.ors.od.nih.gov/ser/dem/)
 
 # See also
 * [List of natural disasters by death toll](https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll)
