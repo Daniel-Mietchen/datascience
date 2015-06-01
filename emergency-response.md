@@ -25,16 +25,15 @@ This page collects information on open collaboration in the context of emergency
 * [saveMLAK](https://en.wikipedia.org/wiki/SaveMLAK)
 * [Geigermap](http://japan.failedrobot.com/)
 
-## Nepal
-* [2015 Nepal earthquakes](https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake)
-  * [A Force for Good: How Digital Jedis are Responding to the Nepal Earthquake](http://irevolution.net/2015/04/27/digital-jedis-nepal-earthquake/)
-  * [People locator](https://pl.nlm.nih.gov/nepalearthquake/)
-  * [Emergency Access Initiative Resources](http://eai.nlm.nih.gov/)
-  * [OpenStreetMap rallies for Nepal ](https://www.mapbox.com/blog/mapping-nepal/)
-  * [Immediate lessons from the Nepal earthquake](http://dx.doi.org/10.1016/S0140-6736(15)60655-9)
-  * [Emergency Capacity Building (ECB) Project](https://en.wikipedia.org/wiki/ECB_Project)
-  * [SMS Gateway to Nepal](http://sparrowsms.com/sms-gateway-nepal)
-  * [Nepal’s Aid System Is Broken. So These Lifesavers Hacked It](http://www.wired.com/2015/05/nepal-earthquake-aid/)
+## [2015 Nepal earthquakes](https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake)
+* [A Force for Good: How Digital Jedis are Responding to the Nepal Earthquake](http://irevolution.net/2015/04/27/digital-jedis-nepal-earthquake/)
+* [People locator](https://pl.nlm.nih.gov/nepalearthquake/)
+* [Emergency Access Initiative Resources](http://eai.nlm.nih.gov/)
+* [OpenStreetMap rallies for Nepal ](https://www.mapbox.com/blog/mapping-nepal/)
+* [Immediate lessons from the Nepal earthquake](http://dx.doi.org/10.1016/S0140-6736(15)60655-9)
+* [Emergency Capacity Building (ECB) Project](https://en.wikipedia.org/wiki/ECB_Project)
+* [SMS Gateway to Nepal](http://sparrowsms.com/sms-gateway-nepal)
+* [Nepal’s Aid System Is Broken. So These Lifesavers Hacked It](http://www.wired.com/2015/05/nepal-earthquake-aid/)
 
 # Organizations
 * [Médecins Sans Frontières/Doctors without Borders](http://www.doctorswithoutborders.org/)
