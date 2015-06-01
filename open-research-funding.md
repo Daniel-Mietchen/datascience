@@ -12,6 +12,7 @@ and
 Some platforms that already open up some aspects of the funding process are described in the following posts:
 * [Wikimedia grants](https://meta.wikimedia.org/wiki/Grants)
    * [Funding Free Knowledge the Wiki Way - Wikimedia Foundation Participatory Grantmaking](https://commons.wikimedia.org/wiki/File:Funding_Free_Knowledge_the_Wiki_Way_-_Wikimedia_Foundation_Participatory_Grantmaking.pdf)
+   * [Wikimedia Sverige grant applications](https://se.wikimedia.org/wiki/Kategori:Ans%C3%B6kningar_2015)
 * [Journal of Brief Ideas](http://beta.briefideas.org/all)
 * [Introducing ThinkLab — A platform for massively collaborative open science](http://thinklab.com/blog/introducing-thinklab-a-platform-for-massively-collaborative-open-science/38)
    * [ThinkLab as a vetting system for traditional grants](http://thinklab.com/discussion/thinklab-as-a-vetting-system-for-traditional-grants/58) 
