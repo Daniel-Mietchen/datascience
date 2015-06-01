@@ -4,7 +4,7 @@ This page collects information on open collaboration in the context of emergency
 # Epidemics
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
-* Now part of [PLOS Currents: Outbreaks](http://dx.doi.org/10.1371/currents.outbreaks.8ed218c079fbded60c505f025ed45f67)
+  * Now part of [PLOS Currents: Outbreaks](http://dx.doi.org/10.1371/currents.outbreaks.8ed218c079fbded60c505f025ed45f67)
 
 ## [2011 E. coli O104:H4 outbreak](https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak)
 * [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
