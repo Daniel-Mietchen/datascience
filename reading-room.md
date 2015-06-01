@@ -233,17 +233,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [ADDS website](http://datascience.nih.gov/)
   * external reports
     * [BioIT World 2015](http://www.bio-itworld.com/2015/5/4/phil-bourne-open-data-evangelist-nih-data-plan.html) 
-* emergency response/ disaster relief
-  * [A Force for Good: How Digital Jedis are Responding to the Nepal Earthquake](http://irevolution.net/2015/04/27/digital-jedis-nepal-earthquake/)
-  * [Disaster Information Management Research Center (NLM)](http://disasterinfo.nlm.nih.gov/)
-    * part of [Specialized Information Services](http://sis.nlm.nih.gov/)
-  * [People locator](https://pl.nlm.nih.gov/nepalearthquake/)
-  * [Emergency Access Initiative Resources](http://eai.nlm.nih.gov/)
-  * [OpenStreetMap rallies for Nepal ](https://www.mapbox.com/blog/mapping-nepal/)
-  * [Immediate lessons from the Nepal earthquake](http://dx.doi.org/10.1016/S0140-6736(15)60655-9)
-  * [Emergency Capacity Building (ECB) Project](https://en.wikipedia.org/wiki/ECB_Project)
-  * [SMS Gateway to Nepal](http://sparrowsms.com/sms-gateway-nepal)
-  * [Nepal’s Aid System Is Broken. So These Lifesavers Hacked It](http://www.wired.com/2015/05/nepal-earthquake-aid/)
 * Future of NLM
  * [NIH Director’s Statement on Dr. Lindberg’s retirement](http://www.nih.gov/about/director/11062014_statement_lindberg.htm) 
  * [New Working Group to Chart the Course for the NIH National Library of Medicine](http://www.nih.gov/about/director/02032015_working-group_nlm.htm)
