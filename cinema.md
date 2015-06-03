@@ -16,6 +16,8 @@ This file collects examples of talks, lectures and other forms of presentations 
   * highlights traumatic brain injury and post-traumatic stress disorder as major injuries incurred by US soldiers in Iraq
   * discusses research silos
   * demands open science principles to be followed for medical research
+* [Computer Networks: The Heralds of Resource Sharing](https://archive.org/details/ComputerNetworks_TheHeraldsOfResourceSharing)
+  * [on Wikipedia](https://en.wikipedia.org/wiki/Computer_Networks:_The_Heralds_of_Resource_Sharing)
 
 # Maybe watch in the future
 * [TED MED](https://www.youtube.com/user/tedmed) talks 
