@@ -1,6 +1,6 @@
 # About
 This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on sorting and reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
-
+l
 # List
 * [What should a modern scientific infrastructure look like?](http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/)
 * [What scientific idea is ready for retirement?](http://edge.org/annual-question/what-scientific-idea-is-ready-for-retirement)
@@ -273,7 +273,11 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [Open Data Policy on GitHub](https://github.com/project-open-data/project-open-data.github.io)
    * [commentary from Sunlight Foundation](http://sunlightfoundation.com/blog/2015/05/06/github-may-be-the-next-step-for-government-regulation/)
 * Future of the library
-  * [Libraries of the Future (as of 1965)](http://comminfo.rutgers.edu/~tefko/Courses/e553/Readings/Licklider%20Libraries%20of%20the%20future%201965.pdf)
+  * Licklider
+    * [Man-Computer Symbiosis](http://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/50514/1/01226656.pdf)
+     * library as "thinking center"
+    * [The Computer as a Communication Device](http://memex.org/licklider.pdf)
+    * [Libraries of the Future (as of 1965)](http://comminfo.rutgers.edu/~tefko/Courses/e553/Readings/Licklider%20Libraries%20of%20the%20future%201965.pdf)
 
 > It actually defined the future as being the year 2000, and found it
 > quite a good read when skimming through it. An example (p.5), with OCR
