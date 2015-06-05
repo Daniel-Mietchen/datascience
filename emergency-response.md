@@ -47,6 +47,7 @@ This page collects information on open collaboration in the context of emergency
   * [Division of Emergency Management](http://www.ors.od.nih.gov/ser/dem/)
 
 # See also
+* [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
 * [List of natural disasters by death toll](https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll)
 * [List of foodborne illness outbreaks](https://en.wikipedia.org/wiki/List_of_foodborne_illness_outbreaks)
 * International Working Group (at HHS?)
