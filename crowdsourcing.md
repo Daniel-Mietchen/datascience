@@ -6,6 +6,7 @@ This file collects information on crowdsourcing in relation to research, especia
  * via journals
    * expanding the [Topic Pages](http://wikiambassador.jiscinvolve.org/wp/2014/03/28/publishing-scholarly-wikipedia/) approach to other areas, especially rare diseases and neglected tropical diseases
  * via societies
+ * via market places, e.g. [Assay Depot](https://www.assaydepot.com/)
 * Patients
 * Physicians
   * [PDQ (Physician Data Query)](http://www.cancer.gov/cancertopics/pdq)
