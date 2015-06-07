@@ -32,4 +32,6 @@ This file is to facilitate the collection of information pertaining to the citat
 
 # Events
 * [Open Research Data: Implications for Science and Society](http://opendataconference2015.pon.edu.pl/) (Warsaw, Poland, May 28–29, 2015)
-   * [Call for papers](http://opendataconference2015.pon.edu.pl/call-for-proposals/) (deadline: March 31)
+
+# See also
+* [Software citation](https://github.com/force11/force11-scwg)
