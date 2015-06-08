@@ -77,3 +77,6 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [NIH 3D Print Exchange](http://3dprint.nih.gov/)
 * reuse biographic info from ORCID to start an NIH Biosketch
 * PMC Europe has entity recognition tools and uses them to mine its corpus for identifiers from around 20 databases
+* Atul Butte's work
+      * e.g. [in his talk at NIH in June 2015](http://videocast.nih.gov/summary.asp?Live=16267&bhcp=1)
+* [Drug repositioning](https://en.wikipedia.org/wiki/Drug_repositioning)
