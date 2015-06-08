@@ -50,6 +50,9 @@ which also links to numerous examples of grant proposals that have already been 
 # See also
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
 * [Fantasy Science Funding](http://ways.org/en/topics/fantasy_science_funding)
+* ["Cost of the NSERC Science Grant Peer Review System Exceeds the Cost of Giving Every Qualified Researcher a Baseline Grant"](http://dx.doi.org/10.1080/08989620802689821)
+   * [my notes](http://ways.org/en/blogs/2009/apr/09/research_grant_systems_that_encourage_innovation)
+   * "Baseline funding, in which each researcher gets the same amount per year (Gordon, 1993; Poulin and Gordon, 2001). This protects each scientist from peer review. It is open to the objection that some scientists will do nothing useful with the money, and so it needs some modest checks and balances, such as requiring a public accounting of what research was accomplished. It also underfunds expensive research."
 * [Crowdfunding Scientific Research](http://crowdfunding.about.com/od/Placeholderrr/tp/Top-Sites-for-Crowdfunding-Scientific-Research.htm)
    * need to collect examples of crowdfunding campaigns for research, analyze criteria for success (both financial and engagement-wise), and explore options for funders to interact with them
      * successful 
