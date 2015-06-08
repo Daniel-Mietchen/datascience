@@ -80,3 +80,5 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * Atul Butte's work
       * e.g. [in his talk at NIH in June 2015](http://videocast.nih.gov/summary.asp?Live=16267&bhcp=1)
 * [Drug repositioning](https://en.wikipedia.org/wiki/Drug_repositioning)
+      * [dedicated conference](http://www.drugrepositioningconference.com/)
+      * NCATS [New Therapeutic Uses program](http://www.ncats.nih.gov/ntu)
