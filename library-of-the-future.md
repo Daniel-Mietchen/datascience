@@ -1,8 +1,13 @@
 # About
-This file collects thoughts about the library of the future, as well as about the future of the library, and anything in between.
+This file collects thoughts about the library of the future as well as about the future of the library, and anything in between.
 
-# Definitions
+# Intro
 * library as a space for providing access to recorded knowledge
+  * resilience at the library of Alexandria?
+  * difference to archives (focus more on documentation)
+* access for both humans and machines
+* knowledge about anything humans care about, within ethical limits (which may vary around the globe)
+* version history
 
 # Notes
 * Licklider's "thinking center"
