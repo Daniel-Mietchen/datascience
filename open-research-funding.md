@@ -43,9 +43,6 @@ which also links to numerous examples of grant proposals that have already been 
 * [Disaster Health Information Outreach and Collaboration Project 2015 (RFQ No. NIHLM2015383)](http://disasterinfo.nlm.nih.gov/dimrc/2015disasteroutreachrfq.html)
    * deadline: July 6, 2015
 * [RFA-CA-15-006 "Big Data to Knowledge (BD2K) Advancing Biomedical Science Using Crowdsourcing and Interactive Digital Media (UH2)."](http://grants.nih.gov/grants/guide/rfa-files/RFA-CA-15-006.html)
-   * deadlines: 
-      * Letter of Intent Due May 3, 2015
-      * Application Due June 3, 2015
 
 # See also
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
