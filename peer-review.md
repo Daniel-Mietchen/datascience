@@ -50,3 +50,4 @@ Things listed here have yet to be sorted into the structure above.
 * [Op-Ed: How Traditional Publishing Hurts Scientific Progress](http://www.wired.com/2012/03/michael-eisen-open-science/)
 * [Episcience Project](http://www.episciences.org/)
    * [comment by Tim Gowers](https://gowers.wordpress.com/2013/01/16/why-ive-also-joined-the-good-guys/)
+* ["peer recognition rather than peer review"](https://edge.org/response-detail/25424)
