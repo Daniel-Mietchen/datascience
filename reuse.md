@@ -82,3 +82,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Drug repositioning](https://en.wikipedia.org/wiki/Drug_repositioning)
       * [dedicated conference](http://www.drugrepositioningconference.com/)
       * NCATS [New Therapeutic Uses program](http://www.ncats.nih.gov/ntu)
+* [“Open” disclosure of innovations, incentives and follow-on reuse: Theory on processes of cumulative innovation and a field experiment in computational biology](http://dx.doi.org/10.1016/j.respol.2014.08.001)
