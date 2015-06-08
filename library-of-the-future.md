@@ -6,6 +6,8 @@ This file collects thoughts about the library of the future as well as about the
   * resilience at the library of Alexandria?
   * difference to archives (focus more on documentation)
 * access for both humans and machines
+  * besides free text, data and software become important
+  * artistic license vs standards
 * knowledge about anything humans care about, within ethical limits (which may vary around the globe)
 * version history
 
