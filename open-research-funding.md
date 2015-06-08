@@ -60,9 +60,10 @@ which also links to numerous examples of grant proposals that have already been 
    * perhaps follow up on this with "Ten Simple Rules for Drafting Grant Proposals in Public"?
    * similar: [Twenty tips for writing a research proposal](http://conservationbytes.com/2015/05/04/twenty-tips-for-writing-a-research-proposal/)
 * Public information available about NIH grants, as per [RePORT](http://report.nih.gov/award/index.cfm)
+   * cannot be searched by individual or by past vs ongoing grants
 * [Sandpit/ Ideas lab](http://knowinnovation.com/expertise/ideas-lab/)
 * [Registered Reports](https://osf.io/8mpji/wiki/home/)
-* [great paper on incentives is in the pipeline](http://dx.doi.org/10.1371/journal.pcbi.1004232)
+* [great paper on incentives](http://dx.doi.org/10.1371/journal.pcbi.1004232)
 * [Swedish Vetenskapsradet moves towards more openness](http://www.vr.se/download/18.4702e05d148edabbd9cdd591/1412862685498/Utkast+Nationella+riktlinjer+OA.pdf)
 * ["in FY 2012 – 2014, NSF conducted several pilot activities incorporating different variations of the more familiar approaches to merit review.  Table 15 lists these pilots"](https://www.nsf.gov/nsb/publications/2015/nsb201514.pdf)
    * Mechanism design: "One result of this approach is that proposals received a more comprehensive review than had [..] previously been the norm for this program."
