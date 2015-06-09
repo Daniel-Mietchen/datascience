@@ -19,3 +19,4 @@ This file collects thoughts about the library of the future as well as about the
 * "There is but one journal: The scientific literature." — [Richard Gordon](http://www.plosmedicine.org/annotation/listThread.action?root=16331)
 * amalgamation of G L A M in the digital realm
 * ["peer recognition rather than peer review"](https://edge.org/response-detail/25424)
+* [Knight News Challenge: Libraries](http://www.knightfoundation.org/blogs/knightblog/2015/1/30/22-projects-win-knight-news-challenge-libraries/)
