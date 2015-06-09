@@ -1,5 +1,5 @@
 # About
-This file collects thoughts about the library of the future as well as about the future of the library, and anything in between.
+This file collects thoughts about the research library of the future as well as about the future of the research library, and anything in between.
 
 # Intro
 * library as a space for providing access to recorded knowledge
