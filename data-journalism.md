@@ -29,3 +29,4 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Data Journalism Handbook](http://datajournalismhandbook.org/)
 * [Chris Wiggins](https://github.com/chrishwiggins) (Chief Data Scientitst at NY Times)
 * [Vega, a visualization grammar](https://github.com/trifacta/vega)
+* [GitHub showcases: Open journalism](https://github.com/showcases/open-journalism)
