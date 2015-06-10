@@ -22,9 +22,14 @@ This page collects information on open collaboration in the context of emergency
 # Earthquakes
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
 * sparked the formation of [Evidence Aid](http://www.evidenceaid.org/), which provides timely and evidence-based collaborative emergency responses
-  * no open licensing of their materials or website, but a few openly licensed papers, e.g. 
-    * [The Use of Systematic Reviews and Other Research Evidence in Disasters and Related Areas: Preliminary Report of a Needs Assessment Survey](http://dx.doi.org/10.1371%2Fcurrents.dis.ed42382881b3bf79478ad503be4693ea) (in PLOS Currents)
-    * [Optimal Evidence in Difficult Settings: Improving Health Interventions and Decision Making in Disasters](http://dx.doi.org/10.1371/journal.pmed.1001632) (in PLOS Medicine)
+   * motivation: [Sharing evidence on humanitarian relief](http://dx.doi.org/10.1136/bmj.331.7531.1485)
+  * no open licensing of their materials or website, but a number of openly licensed papers, e.g. 
+    * [Evidence for disaster risk reduction, planning and response: design of the Evidence Aid survey](http://dx.doi.org/10.1371/currents.RRN1270)
+    * [The Use of Systematic Reviews and Other Research Evidence in Disasters and Related Areas: Preliminary Report of a Needs Assessment Survey](http://dx.doi.org/10.1371/currents.dis.ed42382881b3bf79478ad503be4693ea)
+    * [Optimal Evidence in Difficult Settings: Improving Health Interventions and Decision Making in Disasters](http://dx.doi.org/10.1371/journal.pmed.1001632)
+    * [Evidence for perinatal and child health care guidelines in crisis settings: can Cochrane help?](http://dx.doi.org/10.1186/1471-2458-10-170)
+    * [How the Cochrane Collaboration Is Responding to the Asian Tsunami](http://dx.doi.org/10.1371%2Fjournal.pmed.0020169)
+    * [Prioritization of Themes and Research Questions for Health Outcomes in Natural Disasters, Humanitarian Crises or Other Major Healthcare Emergencies](http://dx.doi.org/10.1371/currents.dis.c9c4f4db9887633409182d2864b20c31)
 
 ## [2010 Haiti earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
 * [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
@@ -45,6 +50,7 @@ This page collects information on open collaboration in the context of emergency
 * [Emergency Capacity Building (ECB) Project](https://en.wikipedia.org/wiki/ECB_Project)
 * [SMS Gateway to Nepal](http://sparrowsms.com/sms-gateway-nepal)
 * [Nepal’s Aid System Is Broken. So These Lifesavers Hacked It](http://www.wired.com/2015/05/nepal-earthquake-aid/)
+* [The identity crisis frustrating Nepal's quake survivors](http://www.irinnews.org/report/101525/the-identity-crisis-frustrating-nepal-s-quake-survivors)
 
 # Organizations
 * [Médecins Sans Frontières/Doctors without Borders](http://www.doctorswithoutborders.org/)
