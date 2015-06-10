@@ -175,7 +175,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Hacking Academia: Data Science and the University](http://jakevdp.github.io/blog/2014/08/22/hacking-academia/)
 * [Prize4Life](https://en.wikipedia.org/wiki/Prize4Life)
 * [Pooled Resource Open-Access ALS Clinical Trials Database](https://nctu.partners.org/ProACT)
-* [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
 * [Software Carpentry lessons](http://software-carpentry.org/lessons.html)
 * [Reproducibility crisis: Blame it on the antibodies](http://dx.doi.org/10.1038/521274a)
 * [Statistics: P values are just the tip of the iceberg](http://dx.doi.org/10.1038/520612a)
@@ -397,5 +396,9 @@ post publication peer review. Or improve research training and mentorship. Or ..
   * [Open science decoded](http://dx.doi.org/10.1038/nphys3313)
 * collective action problems
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
+* data discovery
+  * [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
+  * [The Hague Declaration on Knowledge Discovery in the Digital Age](http://thehaguedeclaration.com/the-hague-declaration-on-knowledge-discovery-in-the-digital-age/)
+  * [Wikipedia tab for research data](https://io.datascience-paris-saclay.fr/appDisplayArtefactResearch.php)
 * feedback
 
