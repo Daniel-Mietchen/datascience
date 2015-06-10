@@ -1,20 +1,31 @@
 # About
-This page collects information on open collaboration in the context of emergency response or disaster relief efforts.
+This page collects information on open collaboration in the context of emergency response or disaster relief efforts. Open here refers to 
+* the preparedness of accepting contributions from anyone, making use of the Web
+* results being available under open licenses, as per the [Open Definition](http://opendefinition.org/)
 
 # Epidemics
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
+   * License: CC BY
   * Now part of [PLOS Currents: Outbreaks](http://dx.doi.org/10.1371/currents.outbreaks.8ed218c079fbded60c505f025ed45f67)
 
 ## [2011 E. coli O104:H4 outbreak](https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak)
 * [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
-
+  * License: CC0
+ 
 ## [Ebola virus epidemic in West Africa](https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)
 * [Wikipedia:Ebola translation task force](https://en.wikipedia.org/wiki/Wikipedia:Ebola_translation_task_force)
+  * License: CC BY-SA
 * [Ebola teaches tough lessons about rapid research](http://dx.doi.org/10.1038/521405a)
 * [Ebola treatments caught in limbo](http://dx.doi.org/10.1038/511520a)
 
 # Earthquakes
+## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
+* sparked the formation of [Evidence Aid](http://www.evidenceaid.org/), which provides timely and evidence-based collaborative emergency responses
+  * no open licensing of their materials or website, but a few openly licensed papers, e.g. 
+    * [The Use of Systematic Reviews and Other Research Evidence in Disasters and Related Areas: Preliminary Report of a Needs Assessment Survey](http://dx.doi.org/10.1371%2Fcurrents.dis.ed42382881b3bf79478ad503be4693ea) (in PLOS Currents)
+    * [Optimal Evidence in Difficult Settings: Improving Health Interventions and Decision Making in Disasters](http://dx.doi.org/10.1371/journal.pmed.1001632) (in PLOS Medicine)
+
 ## [2010 Haiti earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
 * [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
 
@@ -45,6 +56,7 @@ This page collects information on open collaboration in the context of emergency
   * [Disaster Information Management Research Center (NLM)](http://disasterinfo.nlm.nih.gov/)
     * part of [Specialized Information Services](http://sis.nlm.nih.gov/)
   * [Division of Emergency Management](http://www.ors.od.nih.gov/ser/dem/)
+* WHO expert group on 'Disability and disaster response' 
 
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
