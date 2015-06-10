@@ -405,5 +405,15 @@ post publication peer review. Or improve research training and mentorship. Or ..
   * [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
   * [The Hague Declaration on Knowledge Discovery in the Digital Age](http://thehaguedeclaration.com/the-hague-declaration-on-knowledge-discovery-in-the-digital-age/)
   * [Wikipedia tab for research data](https://io.datascience-paris-saclay.fr/appDisplayArtefactResearch.php)
+* [NIH Mission](http://www.nih.gov/about/mission.htm)
+
+> NIH’s mission is to seek fundamental knowledge about the nature and behavior of living systems and the application of that knowledge to enhance health, lengthen life, and reduce illness and disability.
+> The goals of the agency are:
+
+    to foster fundamental creative discoveries, innovative research strategies, and their applications as a basis for ultimately protecting and improving health;
+    to develop, maintain, and renew scientific human and physical resources that will ensure the Nation's capability to prevent disease;
+    to expand the knowledge base in medical and associated sciences in order to enhance the Nation's economic well-being and ensure a continued high return on the public investment in research; and
+    to exemplify and promote the highest level of scientific integrity, public accountability, and social responsibility in the conduct of science.
+* [NOAA Big Data Project](https://data-alliance.noaa.gov/)
 * feedback
 
