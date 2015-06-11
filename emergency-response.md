@@ -69,6 +69,7 @@ This page collects information on open collaboration in the context of emergency
 
 # Organizations
 * [Médecins Sans Frontières/Doctors without Borders](http://www.doctorswithoutborders.org/)
+* [OpenStreetMap: overview of humanitarian activities](http://wiki.openstreetmap.org/wiki/Category:Humanitarian_OSM_Team)
 * [Translators without Borders](http://translatorswithoutborders.org/)
 * [Crisis Commons](http://crisiscommons.org/)
 * [Ushahidi](https://en.wikipedia.org/wiki/Ushahidi)
