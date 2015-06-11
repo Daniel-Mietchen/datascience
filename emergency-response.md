@@ -38,8 +38,16 @@ This page collects information on open collaboration in the context of emergency
 * [Christchurch Recovery Map](https://en.wikipedia.org/wiki/Christchurch_Recovery_Map) through Ushahidi
 
 ## [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)
+* OpenStreetMap
+   * [coordination page](http://wiki.openstreetmap.org/wiki/2011_Sendai_earthquake_and_tsunami)
+   * [sinsai.info](http://www.sinsai.info/)
+    * run by OpenStreetMap Japan using Ushahidi
 * [saveMLAK](https://en.wikipedia.org/wiki/SaveMLAK)
 * [Geigermap](http://japan.failedrobot.com/)
+* [Japan’s Nuclear Woes Give Rise to Crowd-Sourced Radiation Maps In Asia and US](http://singularityhub.com/2011/03/24/japans-nuclear-woes-give-rise-to-crowd-sourced-radiation-maps-in-asia-and-us/)
+* [Japan’s Radiation Levels: Real-Time Crowd Sourcing](http://scienceblogs.com/deanscorner/2011/03/21/japans-radiation-levels-real-t/)
+* [Crowdsourcing Japan’s Nuclear Crisis](http://blogs.law.harvard.edu/herdict/2011/03/26/crowdsourcing-japans-nuclear-crisis/)
+* 
 
 ## [2015 Nepal earthquakes](https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake)
 * [A Force for Good: How Digital Jedis are Responding to the Nepal Earthquake](http://irevolution.net/2015/04/27/digital-jedis-nepal-earthquake/)
