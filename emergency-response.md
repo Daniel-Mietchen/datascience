@@ -69,3 +69,4 @@ This page collects information on open collaboration in the context of emergency
 * [List of natural disasters by death toll](https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll)
 * [List of foodborne illness outbreaks](https://en.wikipedia.org/wiki/List_of_foodborne_illness_outbreaks)
 * International Working Group (at HHS?)
+* [Open access as humanitarian aid](http://legacy.earlham.edu/~peters/fos/newsletter/04-02-11.htm#aid)
