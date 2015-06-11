@@ -1,3 +1,6 @@
+A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
+![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
+
 # About
 This page collects information on open collaboration in the context of emergency response or disaster relief efforts. Open here refers to 
 * the preparedness of accepting contributions from anyone, making use of the Web
@@ -47,7 +50,7 @@ This page collects information on open collaboration in the context of emergency
 * [Japan’s Nuclear Woes Give Rise to Crowd-Sourced Radiation Maps In Asia and US](http://singularityhub.com/2011/03/24/japans-nuclear-woes-give-rise-to-crowd-sourced-radiation-maps-in-asia-and-us/)
 * [Japan’s Radiation Levels: Real-Time Crowd Sourcing](http://scienceblogs.com/deanscorner/2011/03/21/japans-radiation-levels-real-t/)
 * [Crowdsourcing Japan’s Nuclear Crisis](http://blogs.law.harvard.edu/herdict/2011/03/26/crowdsourcing-japans-nuclear-crisis/)
-* 
+
 
 ## [2015 Nepal earthquakes](https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake)
 * [A Force for Good: How Digital Jedis are Responding to the Nepal Earthquake](http://irevolution.net/2015/04/27/digital-jedis-nepal-earthquake/)
@@ -59,6 +62,10 @@ This page collects information on open collaboration in the context of emergency
 * [SMS Gateway to Nepal](http://sparrowsms.com/sms-gateway-nepal)
 * [Nepal’s Aid System Is Broken. So These Lifesavers Hacked It](http://www.wired.com/2015/05/nepal-earthquake-aid/)
 * [The identity crisis frustrating Nepal's quake survivors](http://www.irinnews.org/report/101525/the-identity-crisis-frustrating-nepal-s-quake-survivors)
+
+# Typhoons
+## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
+* [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
 
 # Organizations
 * [Médecins Sans Frontières/Doctors without Borders](http://www.doctorswithoutborders.org/)
