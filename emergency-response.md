@@ -6,6 +6,15 @@ This page collects information on open collaboration in the context of emergency
 * the preparedness of accepting contributions from anyone, making use of the Web
 * results being available under open licenses, as per the [Open Definition](http://opendefinition.org/)
 
+The list below contains two main components:
+ 1. A list of events and open initiatives that were triggered by them.
+ 2. A list of organizations who have consistently provided emergency responses.
+
+I am particularly interested in the intersection between the two, i.e. organizations that use open approaches and consistently provide emergency responses. My motivation to collect this information is two-fold:
+ 1. is to advance my general understanding under which conditions open approaches are being favoured over closed ones,
+ 1. to see how my own activities as an open researcher or as a volunteer for open knowledge initiatives like Wikimedia can be integrated with emergency response activities.﻿
+
+
 # Epidemics
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
