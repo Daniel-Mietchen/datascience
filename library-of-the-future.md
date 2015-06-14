@@ -21,3 +21,5 @@ This file collects thoughts about the research library of the future as well as 
 * ["peer recognition rather than peer review"](https://edge.org/response-detail/25424)
 * [Knight News Challenge: Libraries](http://www.knightfoundation.org/blogs/knightblog/2015/1/30/22-projects-win-knight-news-challenge-libraries/)
 * [Rethinking Libraries in the Digital Age](https://vimeo.com/130224413)
+* [The Cobweb &mdash; Can the Internet be archived?](http://www.newyorker.com/magazine/2015/01/26/cobweb)
+* [What fiction has to say about the libraries of the future](https://theconversation.com/what-fiction-has-to-say-about-the-libraries-of-the-future-36314)
