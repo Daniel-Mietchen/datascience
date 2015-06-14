@@ -50,6 +50,9 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Category:PD US NIH](https://commons.wikimedia.org/wiki/Category:PD_US_NIH)
       * [Example](https://commons.wikimedia.org/wiki/File:Metastatic_Melanoma_Cells_Nci-vol-9872-300.jpg) from [NCI Visuals](https://visualsonline.cancer.gov/browseaction.cfm?entrydate=newest) 
 
+## OPENi
+* [OPENi](http://openi.nlm.nih.gov/faq.php?it=xg) is a searchable collection of images from PubMed Central and other sources
+
 ## ImageJ
 * [ImageJ](http://imagej.nih.gov/ij/) is a widely used software package for visualizing and analyzing biomedical data.
     * [on Google Scholar](http://scholar.google.co.uk/scholar?hl=en&q=ImageJ&btnG=&as_sdt=1%2C5&as_sdtp=)
