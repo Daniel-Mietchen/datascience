@@ -20,3 +20,4 @@ This file collects thoughts about the research library of the future as well as 
 * amalgamation of G L A M in the digital realm
 * ["peer recognition rather than peer review"](https://edge.org/response-detail/25424)
 * [Knight News Challenge: Libraries](http://www.knightfoundation.org/blogs/knightblog/2015/1/30/22-projects-win-knight-news-challenge-libraries/)
+* [Rethinking Libraries in the Digital Age](https://vimeo.com/130224413)
