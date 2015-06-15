@@ -23,3 +23,4 @@ This file collects thoughts about the research library of the future as well as 
 * [Rethinking Libraries in the Digital Age](https://vimeo.com/130224413)
 * [The Cobweb &mdash; Can the Internet be archived?](http://www.newyorker.com/magazine/2015/01/26/cobweb)
 * [What fiction has to say about the libraries of the future](https://theconversation.com/what-fiction-has-to-say-about-the-libraries-of-the-future-36314)
+* [NMC Horizon Report: 2014 Library Edition](http://www.nmc.org/publication/nmc-horizon-report-2014-library-edition/)
