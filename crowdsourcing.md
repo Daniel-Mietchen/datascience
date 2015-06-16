@@ -61,6 +61,7 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Wikipedia as a basic scientific reference](http://sulab.org/2015/01/wikipedia-as-a-basic-scientific-reference/)
 * [Discovering new diseases with the internet: How to find a matching patient](http://matt.might.net/articles/rare-disease-internet-matchmaking/)
 * [Advice For Rare Disease Advocates Editing Wikipedia Entries](https://en.wikipedia.org/wiki/User:Ruraldreams)
+* [Gratipay](https://gratipay.com/about/)
 
 
 # See also
