@@ -72,3 +72,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [Grant agencies versus the search for truth](http://dx.doi.org/10.1080/08989629308573824)
 * ["peer recognition rather than peer review"](https://edge.org/response-detail/25424)
 * [Experiment.com](https://experiment.com/)
+* [Gratipay](https://gratipay.com/about/)
