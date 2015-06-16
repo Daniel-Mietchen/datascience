@@ -15,6 +15,8 @@ This file serves the collection of information related to public access policies
 * [Open Access at RCUK](http://www.rcuk.ac.uk/research/openaccess/)
 * [RCUK Common Principles on Data Policy](http://www.rcuk.ac.uk/research/datapolicy/)
 * [Open Access at HEFCE](http://www.hefce.ac.uk/rsrch/oa/)
+* [Funders must encourage scientists to share](http://dx.doi.org/10.1038/522129a)
+  * [Expert Advisory Group on Data Access](http://www.wellcome.ac.uk/EAGDA)
 
 ## Finland
 * Open science and research roadmap 2014–2017: ["Open science and research leads to 
