@@ -95,3 +95,4 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [List of foodborne illness outbreaks](https://en.wikipedia.org/wiki/List_of_foodborne_illness_outbreaks)
 * International Working Group (at HHS?)
 * [Open access as humanitarian aid](http://legacy.earlham.edu/~peters/fos/newsletter/04-02-11.htm#aid)
+* [Google Public Alerts](http://google.org/publicalerts)
