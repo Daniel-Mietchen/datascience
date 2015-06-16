@@ -26,3 +26,5 @@ This file hosts information regarding data management plans and how they could b
 * [Wellcome tool to assess compliance with OA policy](https://twitter.com/EvoMRI/status/573239648790679552)
 * [Data management plan (enwiki)](https://en.wikipedia.org/wiki/Data_management_plan)
 * [Data Management Plan Writing Ready Reference](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1344&context=libraryscience)
+* [Funders must encourage scientists to share](http://dx.doi.org/10.1038/522129a)
+  * [Expert Advisory Group on Data Access](http://www.wellcome.ac.uk/EAGDA)
