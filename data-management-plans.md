@@ -28,3 +28,4 @@ This file hosts information regarding data management plans and how they could b
 * [Data Management Plan Writing Ready Reference](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1344&context=libraryscience)
 * [Funders must encourage scientists to share](http://dx.doi.org/10.1038/522129a)
   * [Expert Advisory Group on Data Access](http://www.wellcome.ac.uk/EAGDA)
+* [Research data management training](http://datalib.edina.ac.uk/mantra/)
