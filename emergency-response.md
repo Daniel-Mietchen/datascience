@@ -96,3 +96,4 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * International Working Group (at HHS?)
 * [Open access as humanitarian aid](http://legacy.earlham.edu/~peters/fos/newsletter/04-02-11.htm#aid)
 * [Google Public Alerts](http://google.org/publicalerts)
+* [Research for Health in Humanitarian Crises](http://www.elrha.org/r2hc/funding/apply/)
