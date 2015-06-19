@@ -31,3 +31,4 @@ This file hosts information regarding data management plans and how they could b
 * [Research data management training](http://datalib.edina.ac.uk/mantra/)
 * Process Management Plans
   * [example](https://www.coar-repositories.org/files/7_DMP_Vienna.pdf) (slides 10ff)
+* [CERN Analysis Preservation Framework](http://analysis-preservation.cern.ch/)
