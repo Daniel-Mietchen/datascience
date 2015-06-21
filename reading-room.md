@@ -27,7 +27,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Interactions of Cultures and Top People of Wikipedia from Ranking of 24 Language Editions](http://dx.doi.org/10.1371/journal.pone.0114825)
 * [What Drives Academic Data Sharing?](http://dx.doi.org/10.1371/journal.pone.0118053)
 * [To Apply or Not to Apply: A Survey Analysis of Grant Writing Costs and Benefits](http://dx.doi.org/10.1371/journal.pone.0118494)
-* [Mine the Gap: Leveraging Open Access Through Citizen Engagement in Science](http://www.open-shelf.ca/150301-mine-the-gap/)
 * [Global Farm Animal Production and Global Warming: Impacting and Mitigating Climate Change](http://dx.doi.org/10.1289/ehp.11034)
 * [Medicinal plants, human health and biodiversity: a broad review](http://dx.doi.org/10.1007/10_2014_273)
 * [Linking biodiversity, diet and health in policy and practice](http://dx.doi.org/10.1079/PNS2006494)
@@ -137,7 +136,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Live-blog: the Future of Scholarly Scientific Communication](http://svpow.com/2015/04/20/live-blog-the-future-of-scholarly-scientific-communication/)
 * [commcerce.gov big data project with Amazon Web Services, Google Cloud Platform, IBM, Microsoft Corp., and the Open Cloud Consortium](http://www.commerce.gov/news/press-releases/2015/04/us-secretary-commerce-penny-pritzker-announces-new-collaboration-unleash)
 * [BD2K on GitHub?](https://github.com/BD2K)
-* [Text mining at Europe PMC](http://europepmc.org/help#tmintegrated)
 * [Reuse of publicly available biomedical data is increasing and producing some great successes](http://synapse.ucsf.edu/articles/2015/04/02/may-i-have-peek-reuse-publicly-available-biomedical-data-increasing-and)
 * [TED MED Great Challenges](http://tedmed.com/greatchallenges/challenge/491312)
 * [Open research and collaborations](https://emckiernan.wordpress.com/2015/04/09/open-research-and-collaborations/)
@@ -408,7 +406,11 @@ post publication peer review. Or improve research training and mentorship. Or ..
   * [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
   * [The Hague Declaration on Knowledge Discovery in the Digital Age](http://thehaguedeclaration.com/the-hague-declaration-on-knowledge-discovery-in-the-digital-age/)
   * [Wikipedia tab for research data](https://io.datascience-paris-saclay.fr/appDisplayArtefactResearch.php)
-* [NIH Mission](http://www.nih.gov/about/mission.htm)
+* data mining:
+  * [Mine the Gap: Leveraging Open Access Through Citizen Engagement in Science](http://www.open-shelf.ca/150301-mine-the-gap/)
+  * [Text mining at Europe PMC](http://europepmc.org/help#tmintegrated)
+  * [Alzheimer's disease biomarker discovery using in silico literature mining and clinical validation]
+* [NIH Mission](http://www.nih.gov/about/mission.htm)(http://dx.doi.org/10.1186/1479-5876-10-217)
 
 > NIH’s mission is to seek fundamental knowledge about the nature and behavior of living systems and the application of that knowledge to enhance health, lengthen life, and reduce illness and disability.
 > The goals of the agency are:
