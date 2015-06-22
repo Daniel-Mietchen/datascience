@@ -14,6 +14,10 @@ This file collects thoughts about the research library of the future as well as 
 # Alternative structure
 ## Ten perspectives on the library of the future
 * inspired by the blind men and the elephant
+* accessibility
+  * blind and non-blind don't use different books any more, just different tools to read
+* bot-friendly
+  * machines are an integral part of knowledge creation, curation and consumption
 * confluence of GLAMs
 * knowledge center
   * learning center
@@ -21,12 +25,11 @@ This file collects thoughts about the research library of the future as well as 
 * standard-conscious
   * standard-compliant
   * standard-enforcing
+* building
 * silence
 * collaboration
 * maker spaces
 * queriable
-* bot-friendly
-* accessibility
 
 
 
