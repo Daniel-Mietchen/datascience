@@ -13,7 +13,7 @@ This file collects thoughts about the research library of the future as well as 
 
 # Alternative structure
 ## Ten perspectives on the library of the future
-* inspired by the blind men and the elephant
+* inspired by [the blind men and the elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 * accessibility
   * blind and non-blind don't use different books any more, just different tools to read
 * machine-friendly
