@@ -19,6 +19,8 @@ This file collects thoughts about the research library of the future as well as 
 * machine-friendly
   * machines are an integral part of knowledge creation, curation and consumption
   * APIs, bots, mining tools, annotation gadgets, accessibility tools
+  * machine-assisted translation
+  * "human API" (Mechanical Turk?)
 * confluence of GLAMs
   * not just books but any kind of media
 * building for physical objects and collections thereof, otherwise digital
