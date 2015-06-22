@@ -11,6 +11,25 @@ This file collects thoughts about the research library of the future as well as 
 * knowledge about anything humans care about, within ethical limits (which may vary around the globe)
 * version history
 
+# Alternative structure
+## Ten perspectives on the library of the future
+* inspired by the blind men and the elephant
+* confluence of GLAMs
+* knowledge center
+  * learning center
+  * discovery center
+* standard-conscious
+  * standard-compliant
+  * standard-enforcing
+* silence
+* collaboration
+* maker spaces
+* queriable
+* bot-friendly
+* accessibility
+
+
+
 # Notes
 * Licklider's "thinking center"
   * Licklider, J. C. R., "Man-Computer Symbiosis", IRE Transactions on Human Factors in Electronics, vol. HFE-1, 4-11, March 1960.
