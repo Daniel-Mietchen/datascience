@@ -16,16 +16,19 @@ This file collects thoughts about the research library of the future as well as 
 * inspired by the blind men and the elephant
 * accessibility
   * blind and non-blind don't use different books any more, just different tools to read
-* bot-friendly
+* machine-friendly
   * machines are an integral part of knowledge creation, curation and consumption
+  * APIs, bots, mining tools, annotation gadgets, accessibility tools
 * confluence of GLAMs
+  * not just books but any kind of media
+* building for physical objects and collections thereof, otherwise digital
+  * online vs. offline
 * knowledge center
   * learning center
   * discovery center
 * standard-conscious
   * standard-compliant
   * standard-enforcing
-* building
 * silence
 * collaboration
 * maker spaces
