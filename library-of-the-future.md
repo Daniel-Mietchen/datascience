@@ -37,6 +37,7 @@ This file collects thoughts about the research library of the future as well as 
   * learning and teaching center
     * cultivating awareness of ways to handle knowledge
   * discovery center
+  * space for cognitive adventures
 * standard-conscious
   * standard-compliant
   * standard-enforcing
