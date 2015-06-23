@@ -66,6 +66,8 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Advice For Rare Disease Advocates Editing Wikipedia Entries](https://en.wikipedia.org/wiki/User:Ruraldreams)
 * [Gratipay](https://gratipay.com/about/)
 
+## Journals
+* [Research Involvement and Engagement](http://www.researchinvolvement.com/)
 
 # See also
 * [Neuchâtel herbarium](https://commons.wikimedia.org/wiki/File:Lugano_May5_2015b.pdf)
