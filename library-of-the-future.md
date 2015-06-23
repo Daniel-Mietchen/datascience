@@ -29,6 +29,7 @@ This file collects thoughts about the research library of the future as well as 
   * "human API" (Mechanical Turk?)
 * confluence of GLAMs
   * not just books but any kind of media
+  * anchor for citizen science (think drones for fieldwork)
 * building for physical objects and collections thereof, otherwise digital
   * online vs. offline
   * indoors vs. outdoors
