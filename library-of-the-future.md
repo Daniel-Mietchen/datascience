@@ -46,8 +46,7 @@ This file collects thoughts about the research library of the future as well as 
   * practice of knowledge-related skills
   * maker spaces
 * free vs. open
-
-
+* spontaneity vs. schedule
 
 # Notes
 * Licklider's "thinking center"
