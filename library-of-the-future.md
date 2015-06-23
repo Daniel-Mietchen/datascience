@@ -14,27 +14,37 @@ This file collects thoughts about the research library of the future as well as 
 # Alternative structure
 ## Ten perspectives on the library of the future
 * inspired by [the blind men and the elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
+* user-driven
+  * service-oriented
 * accessibility
   * blind and non-blind don't use different books any more, just different tools to read
+  * 24/7, from anywhere, using any of many devices
+  * historical role in the democratization of knowledge
 * machine-friendly
   * machines are an integral part of knowledge creation, curation and consumption
   * APIs, bots, mining tools, annotation gadgets, accessibility tools
   * machine-assisted translation
+  * queriable
   * "human API" (Mechanical Turk?)
 * confluence of GLAMs
   * not just books but any kind of media
 * building for physical objects and collections thereof, otherwise digital
   * online vs. offline
 * knowledge center
-  * learning center
+  * learning and teaching center
+    * cultivating awareness of ways to handle knowledge
   * discovery center
 * standard-conscious
   * standard-compliant
   * standard-enforcing
 * silence
+  * place for focused work or study
 * collaboration
-* maker spaces
-* queriable
+  * participatory
+  * exchange of ideas
+  * practice of knowledge-related skills
+  * maker spaces
+* free vs. open
 
 
 
