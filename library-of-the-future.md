@@ -68,3 +68,5 @@ This file collects thoughts about the research library of the future as well as 
 * automated mining of text and data being browsed/ read on a given computer/ network
 * knowledge gap visualizations
 * [Jisc brochure on Libraries of the Future](http://www.webarchive.org.uk/wayback/archive/20140615174937/http://www.jisc.ac.uk/media/documents/publications/lotfbrochure.pdf)
+* [21st Century Academic Libraries](https://www.youtube.com/watch?v=akvVwaDPy2k)
+* [Future-Proofing the Research Library](https://www.youtube.com/watch?v=K--0hRr5N30)
