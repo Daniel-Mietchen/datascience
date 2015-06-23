@@ -63,3 +63,4 @@ This file collects thoughts about the research library of the future as well as 
 * [NMC Horizon Report: 2014 Library Edition](http://www.nmc.org/publication/nmc-horizon-report-2014-library-edition/)
 * automated mining of text and data being browsed/ read on a given computer/ network
 * knowledge gap visualizations
+* [Jisc brochure on Libraries of the Future](http://www.webarchive.org.uk/wayback/archive/20140615174937/http://www.jisc.ac.uk/media/documents/publications/lotfbrochure.pdf)
