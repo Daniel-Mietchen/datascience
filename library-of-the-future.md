@@ -46,6 +46,7 @@ This file collects thoughts about the research library of the future as well as 
 * collaboration
   * participatory
   * exchange of ideas
+  * networking
   * practice of knowledge-related skills
   * maker spaces
 * free vs. open
