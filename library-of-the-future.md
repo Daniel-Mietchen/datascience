@@ -16,6 +16,7 @@ This file collects thoughts about the research library of the future as well as 
 * inspired by [the blind men and the elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 * user-driven
   * service-oriented
+* shared resources
 * accessibility
   * blind and non-blind don't use different books any more, just different tools to read
   * 24/7, from anywhere, using any of many devices
