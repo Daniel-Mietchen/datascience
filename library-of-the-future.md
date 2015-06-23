@@ -70,3 +70,5 @@ This file collects thoughts about the research library of the future as well as 
 * [Jisc brochure on Libraries of the Future](http://www.webarchive.org.uk/wayback/archive/20140615174937/http://www.jisc.ac.uk/media/documents/publications/lotfbrochure.pdf)
 * [21st Century Academic Libraries](https://www.youtube.com/watch?v=akvVwaDPy2k)
 * [Future-Proofing the Research Library](https://www.youtube.com/watch?v=K--0hRr5N30)
+* [The Role of the Library, Part 2: Envisioning the Research Library of Tomorrow](https://www.youtube.com/watch?v=MQsz12jSrHM)
+* [Future of the Research Library: Heather Joseph on Open Access](https://www.youtube.com/watch?v=e5BV3M7CE4w)
