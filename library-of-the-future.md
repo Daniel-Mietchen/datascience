@@ -30,6 +30,7 @@ This file collects thoughts about the research library of the future as well as 
   * not just books but any kind of media
 * building for physical objects and collections thereof, otherwise digital
   * online vs. offline
+  * indoors vs. outdoors
 * knowledge center
   * learning and teaching center
     * cultivating awareness of ways to handle knowledge
