@@ -8,6 +8,9 @@ This file collects information on crowdsourcing in relation to research, especia
  * via societies
  * via market places, e.g. [Assay Depot](https://www.assaydepot.com/) (see also [From open source to open science](http://www.pharmaphorum.com/articles/from-open-source-to-open-science)), [Oncomine](https://www.oncomine.org/resource/login.html), [Ingenuity](http://www.ingenuity.com/)
 * Patients
+   * NHS involves patients in peer review of funding proposals
+   * [Patient Innovation](https://patient-innovation.com/)
+      * [awards](http://us3.campaign-archive1.com/?u=7ed42017b5a721b88e1910afb&id=2d6c3fee79)
 * Physicians
   * [PDQ (Physician Data Query)](http://www.cancer.gov/cancertopics/pdq)
 * Students
