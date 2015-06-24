@@ -192,6 +192,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [COAR: "Promoting Open Knowledge and Open Science: Current State of Repositories, May 2015"](http://www.rcuk.ac.uk/RCUK-prod/assets/documents/international/COARStateOfRepositories.pdf)
 * [Natural selection of academic papers](https://pandelisperakakis.files.wordpress.com/2012/10/nsap_perakakis_2010.pdf)
 * [Why Current Publication Practices May Distort Science](http://dx.doi.org/10.1371/journal.pmed.0050201)
+* [The NHS belongs to the people: a call to action](http://www.england.nhs.uk/2013/07/11/call-to-action/)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
