@@ -12,6 +12,7 @@ This file collects information on crowdsourcing in relation to research, especia
    * [Patient Innovation](https://patient-innovation.com/)
       * [awards](http://us3.campaign-archive1.com/?u=7ed42017b5a721b88e1910afb&id=2d6c3fee79)
    * [What does patient and public involvement (PPI) in research mean?](http://dx.doi.org/10.1308/147363514X13964537912088)
+   * [INVOLVE](http://www.invo.org.uk/)
 * Physicians
   * [PDQ (Physician Data Query)](http://www.cancer.gov/cancertopics/pdq)
 * Students
