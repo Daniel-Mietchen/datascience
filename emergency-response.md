@@ -97,3 +97,4 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Open access as humanitarian aid](http://legacy.earlham.edu/~peters/fos/newsletter/04-02-11.htm#aid)
 * [Google Public Alerts](http://google.org/publicalerts)
 * [Research for Health in Humanitarian Crises](http://www.elrha.org/r2hc/funding/apply/)
+* [Global Warming Is Now a "Medical Emergency" That Could Wipe Out 50 Years of Global Health Gains](http://www.motherjones.com/environment/2015/06/climate-change-medical-emergency)
