@@ -58,6 +58,7 @@ This file collects information on crowdsourcing in relation to research, especia
 * [SciFund](http://scifundchallenge.org/)
 * [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
 * [Experiment.com](https://experiment.com/)
+* [MoleCures](https://www.molecures.com/)
 
 ## Medicine and Wikimedia
 * [WikiProject Medicine](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine)
