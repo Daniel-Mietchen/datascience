@@ -193,6 +193,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Natural selection of academic papers](https://pandelisperakakis.files.wordpress.com/2012/10/nsap_perakakis_2010.pdf)
 * [Why Current Publication Practices May Distort Science](http://dx.doi.org/10.1371/journal.pmed.0050201)
 * [The NHS belongs to the people: a call to action](http://www.england.nhs.uk/2013/07/11/call-to-action/)
+* [“We the Scientists”: a Human Right to Citizen Science](http://dx.doi.org/10.1007/s13347-015-0204-0)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
