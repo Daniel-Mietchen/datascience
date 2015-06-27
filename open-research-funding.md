@@ -77,3 +77,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [NHS Research has patients to review proposals](https://twitter.com/EvoMRI/status/613284008357724160)
   * [The rise of patient peer review](http://news.sciencemag.org/health/2014/12/rise-patient-peer-review)
   * [Patient Innovation](https://patient-innovation.com/)
+* [Healing the NIH-Funded Biomedical Research Enterprise](http://dx.doi.org/10.1016/j.cell.2015.05.052) 
