@@ -194,6 +194,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Why Current Publication Practices May Distort Science](http://dx.doi.org/10.1371/journal.pmed.0050201)
 * [The NHS belongs to the people: a call to action](http://www.england.nhs.uk/2013/07/11/call-to-action/)
 * [“We the Scientists”: a Human Right to Citizen Science](http://dx.doi.org/10.1007/s13347-015-0204-0)
+* [Research groups: How big should they be?](https://dx.doi.org/10.7717/peerj.989)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
@@ -411,7 +412,7 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * data mining:
   * [Mine the Gap: Leveraging Open Access Through Citizen Engagement in Science](http://www.open-shelf.ca/150301-mine-the-gap/)
   * [Text mining at Europe PMC](http://europepmc.org/help#tmintegrated)
-  * [Alzheimer's disease biomarker discovery using in silico literature mining and clinical validation]
+  * [Alzheimer's disease biomarker discovery using in silico literature mining and clinical validation](http://dx.doi.org/10.1186/1479-5876-10-217)
 * [NIH Mission](http://www.nih.gov/about/mission.htm)(http://dx.doi.org/10.1186/1479-5876-10-217)
 
 > NIH’s mission is to seek fundamental knowledge about the nature and behavior of living systems and the application of that knowledge to enhance health, lengthen life, and reduce illness and disability.
