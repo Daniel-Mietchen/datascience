@@ -33,6 +33,7 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [search by license](http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/) via the [OA webservices API](http://www.ncbi.nlm.nih.gov/pmc/tools/oa-service/)
 * more fine-grained search, e.g. for [supplementary video or audio files](http://www.ncbi.nlm.nih.gov/pmc/?term=(%22supplementary+material%22)+AND+(audio+OR+movie+OR+sound+OR+video+OR+animation))
 * help standardize the implementation of data citation as per JATS 1.1d2 (cf. [JATS-Con paper](http://www.ncbi.nlm.nih.gov/books/NBK280240/))
+* JATS is one of the suggested metadata formats in NISO's [Protocol for Exchanging Serial Content (PESC)](http://www.niso.org/workrooms/pesc/)
 
 ## Stats  
 * [Page views of medical pages on the English Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Popular_pages)  
