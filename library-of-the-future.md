@@ -56,6 +56,7 @@ This file collects thoughts about the research library of the future as well as 
 * Licklider's "thinking center"
   * Licklider, J. C. R., "Man-Computer Symbiosis", IRE Transactions on Human Factors in Electronics, vol. HFE-1, 4-11, March 1960.
 * Learning center, learning spaces
+* [Toward a New Alexandria](http://www.newrepublic.com/article/books-and-arts/toward-new-alexandria)
 * Learning by doing: Maker spaces
 * "There is but one journal: The scientific literature." — [Richard Gordon](http://www.plosmedicine.org/annotation/listThread.action?root=16331)
 * amalgamation of G L A M in the digital realm
