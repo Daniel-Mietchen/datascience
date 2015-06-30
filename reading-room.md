@@ -69,6 +69,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [State of the art review: the data revolution in critical care](http://dx.doi.org/10.1186%2Fs13054-015-0801-4)
 * [Blue Button](http://healthit.gov/patients-families/your-health-data)
 * [Extreme cryptography paves way to personalized medicine](http://www.nature.com/news/extreme-cryptography-paves-way-to-personalized-medicine-1.17174)
+* [Get My Health Data](http://getmyhealthdata.org/)
 * [Data Driven: Creating a Data Culture](http://www.oreilly.com/data/free/data-driven.csp)
 * [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 * [OpenSaaS and the future of government IT innovation](http://opensource.com/government/14/1/opensaas-and-government-innovation)
