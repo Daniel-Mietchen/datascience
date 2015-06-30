@@ -34,3 +34,4 @@ This file hosts information regarding data management plans and how they could b
 * [CERN Analysis Preservation Framework](http://analysis-preservation.cern.ch/)
 * [Data and Software Preservation for Open Science, DASPOS](https://daspos.crc.nd.edu/)
 * machine readable contracts: [The Open Contracting Data Standard](http://standard.open-contracting.org/)
+* [Get My Health Data](http://getmyhealthdata.org/)
