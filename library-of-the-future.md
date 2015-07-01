@@ -75,3 +75,5 @@ This file collects thoughts about the research library of the future as well as 
 * [Future of the Research Library: Heather Joseph on Open Access](https://www.youtube.com/watch?v=e5BV3M7CE4w)
 * Library usage records as a way to track usage
 * [NLM strategic vision](http://www.nih.gov/news/health/jun2015/od-11.htm)
+* [Computers are good fossil hunters](http://www.smithsonianmag.com/science-nature/computers-are-good-fossil-hunters-129959989/)
+* [Computers read the fossil record](http://dx.doi.org/10.1038/523115a)
