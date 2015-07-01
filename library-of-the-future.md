@@ -74,3 +74,4 @@ This file collects thoughts about the research library of the future as well as 
 * [The Role of the Library, Part 2: Envisioning the Research Library of Tomorrow](https://www.youtube.com/watch?v=MQsz12jSrHM)
 * [Future of the Research Library: Heather Joseph on Open Access](https://www.youtube.com/watch?v=e5BV3M7CE4w)
 * Library usage records as a way to track usage
+* [NLM strategic vision](http://www.nih.gov/news/health/jun2015/od-11.htm)
