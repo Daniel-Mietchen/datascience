@@ -19,6 +19,15 @@ This file collects information pertaining to ways in which the interaction betwe
 
 # Engaging visualizations
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+* [Global shark tracker](http://www.ocearch.org/)
+* [What's there](http://www.whatsthere.co/) (real-time feed of Instagram photos by location)
+* [Synchronicity](http://michellechandra.github.io/synchronicity.html) (stream of sunset/ sunrise photos)
+* [Geigermap](http://japan.failedrobot.com/)
+* [The Internet in Real-Time](http://pennystocks.la/internet-in-real-time/)
+* [TRAVIC - Transit Visualization Client](http://tracker.geops.ch/?z=12&s=1&x=1275774.5528&y=6607134.7355&l=transport)
+* [Marin Traffic](http://www.marinetraffic.com/de/ais/home/centerx:140/centery:37/zoom:8)
+* [flightradar24](http://www.flightradar24.com/50.82,12.38/8)
+* [emoji tracker](http://emojitracker.com/) - imagine this to be research-relevant identifiers (and no blinking)
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
