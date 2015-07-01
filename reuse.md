@@ -88,3 +88,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
       * NCATS [New Therapeutic Uses program](http://www.ncats.nih.gov/ntu)
 * [“Open” disclosure of innovations, incentives and follow-on reuse: Theory on processes of cumulative innovation and a field experiment in computational biology](http://dx.doi.org/10.1016/j.respol.2014.08.001)
 * Library usage records as a way to track usage
+* ["using text mining to track how the museum's 80-million-specimen collection is used in research papers'](http://dx.doi.org/10.1038/523115a)
