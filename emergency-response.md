@@ -71,6 +71,8 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [SMS Gateway to Nepal](http://sparrowsms.com/sms-gateway-nepal)
 * [Nepal’s Aid System Is Broken. So These Lifesavers Hacked It](http://www.wired.com/2015/05/nepal-earthquake-aid/)
 * [The identity crisis frustrating Nepal's quake survivors](http://www.irinnews.org/report/101525/the-identity-crisis-frustrating-nepal-s-quake-survivors)
+* [Post-disaster needs assessment](http://icnr2015.mof.gov.np/uploaded/PDNA_Executive_Summary_new.pdf)
+* [Nepal Earthquakes 2015: A review of existing information with regards to mental health and psychosocial support](http://www.prime.uct.ac.za/research-uptake/prime-in-the-media/125-nepal-earthquakes-2015-a-review-of-existing-information-with-regards-to-mental-health-and-psychosocial-support?utm_content=bufferafcf0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 # Typhoons
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
@@ -88,6 +90,8 @@ I am particularly interested in the intersection between the two, i.e. organizat
     * part of [Specialized Information Services](http://sis.nlm.nih.gov/)
   * [Division of Emergency Management](http://www.ors.od.nih.gov/ser/dem/)
 * WHO expert group on 'Disability and disaster response' 
+* [Earthquakes without Frontiers](http://ewf.nerc.ac.uk/)
+* [Central Emergency Response Fund](http://www.unocha.org/cerf/)
 
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
