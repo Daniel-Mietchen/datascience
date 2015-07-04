@@ -31,7 +31,9 @@ This file collects information pertaining to ways in which the interaction betwe
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
-  * Deadline: June 15, 2015  
+* [Knight Foundation's prototype fund](http://www.knightfoundation.org/funding-initiatives/knight-prototype-fund/)
+    * [Knight Prototype Fund supports 10 new projects focused on data-driven storytelling and better information access](http://knightfoundation.org/press-room/press-release/knight-prototype-fund-supports-10-new-projects-foc/)
+    * [Knight Prototype Fund invests in 20 new projects focused on data-driven storytelling and community problem-solving](http://www.knightfoundation.org/press-room/press-release/knight-prototype-fund-invests-20-new-projects-focu/)
 
 # See also
 * [Doing Journalism with Data](http://datadrivenjournalism.net/)
