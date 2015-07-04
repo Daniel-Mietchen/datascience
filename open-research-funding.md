@@ -78,3 +78,7 @@ which also links to numerous examples of grant proposals that have already been 
   * [The rise of patient peer review](http://news.sciencemag.org/health/2014/12/rise-patient-peer-review)
   * [Patient Innovation](https://patient-innovation.com/)
 * [Healing the NIH-Funded Biomedical Research Enterprise](http://dx.doi.org/10.1016/j.cell.2015.05.052) 
+* [Is our funding system still fit for purpose?](http://www.artsprofessional.co.uk/magazine/285/article/our-funding-system-still-fit-purpose)
+   * although focused on the arts, some good suggestions here that are applicable more widely
+* [A New Funding Ecology for Social Change](http://collaboratei.com/2015/04/supporting-social-change-a-new-funding-ecology/)
+ * [commentary](http://www.gulbenkian.org.uk/blogs/maximising-social---cultural-value/121_The-ecology-for-funding-social-change--zeitgeist-or-useful-tool-.html) 
