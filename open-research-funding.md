@@ -83,3 +83,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [A New Funding Ecology for Social Change](http://collaboratei.com/2015/04/supporting-social-change-a-new-funding-ecology/)
  * [commentary](http://www.gulbenkian.org.uk/blogs/maximising-social---cultural-value/121_The-ecology-for-funding-social-change--zeitgeist-or-useful-tool-.html) 
  * [Ingenuity Unleashed: The spur of the Knight Challenge | Editorial](http://lj.libraryjournal.com/2015/03/opinion/editorial/ingenuity-unleashed-the-spur-of-the-knight-challenge-editorial/#_)
+ * [Real-life cognition challenge](http://studyforrest.org/pages/challenge.html) (a prize of EUR 5k for "studying the brain's behavior in situations with near-real-life complexity")
