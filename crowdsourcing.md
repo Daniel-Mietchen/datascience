@@ -11,6 +11,8 @@ This file collects information on crowdsourcing in relation to research, especia
    * NHS involves patients in peer review of funding proposals
    * [Patient Innovation](https://patient-innovation.com/)
       * [awards](http://us3.campaign-archive1.com/?u=7ed42017b5a721b88e1910afb&id=2d6c3fee79)
+    * [Tal Golesworthy How I repaired my own heart](https://www.youtube.com/watch?v=7Y-l5rLn1Gk)
+      * lots of gems in there, e.g. data conversion problems and social hurdles
    * [What does patient and public involvement (PPI) in research mean?](http://dx.doi.org/10.1308/147363514X13964537912088)
    * [INVOLVE](http://www.invo.org.uk/)
      * [People in Research](http://www.peopleinresearch.org/)
