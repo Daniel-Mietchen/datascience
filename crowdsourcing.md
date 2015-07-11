@@ -15,6 +15,8 @@ This file collects information on crowdsourcing in relation to research, especia
       * lots of gems in there, e.g. data conversion problems and social hurdles
       * [Personalized External Aortic Root Support (PEARS)](http://www.marfanaorticrootsupport.org/)
       * [ExoVasc® Personalised External Aortic Root Support](http://www.exstent.com/)
+   * [16 Year Old Develops Bluetooth Smart Solution to Keep Alzheimer’s Patients from Wandering]http://blog.bluetooth.com/16-year-old-develops-bluetooth-smart-solution-to-keep-alzheimers-patients-from-wandering/)
+     * [SafeWander™](http://www.safewander.com/)
    * [What does patient and public involvement (PPI) in research mean?](http://dx.doi.org/10.1308/147363514X13964537912088)
    * [INVOLVE](http://www.invo.org.uk/)
      * [People in Research](http://www.peopleinresearch.org/)
