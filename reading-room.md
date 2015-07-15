@@ -255,6 +255,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * The guidelines for submissions vary between funding lines and change over time, but usually only slightly so. Exposing their version history and provising diff links would help to better appreciate the changes.
   * [Audit overload](http://www.timeshighereducation.co.uk/features/audit-overload/410612.article)
   * [Bureaucracy: why won’t scholars break their paper chains?](http://www.timeshighereducation.co.uk/features/bureaucracy-why-wont-scholars-break-their-paper-chains/2020256.article)
+  * [Research Performance Progress Report (RPPR)](http://www.nsf.gov/bfa/dias/policy/rppr/index.jsp)
+    * [RPPR at NIH](http://grants.nih.gov/grants/rppr/index.htm)
 * expert attention
   * needs to be directed in a way that is optimized on a systemic level 
 * crowdfunding for research
