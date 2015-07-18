@@ -28,6 +28,8 @@ I am particularly interested in the intersection between the two, i.e. organizat
 ## [Ebola virus epidemic in West Africa](https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa)
 * [Wikipedia:Ebola translation task force](https://en.wikipedia.org/wiki/Wikipedia:Ebola_translation_task_force)
   * License: CC BY-SA
+  * [Wikipedia Emerges as Trusted Internet Source for Ebola Information](http://www.nytimes.com/2014/10/27/business/media/wikipedia-is-emerging-as-trusted-internet-source-for-information-on-ebola-.html?_r=0)
+  * in affected countries, Wikipedia was the most consulted source on Ebola (CFCF has references)
 * [Ebola teaches tough lessons about rapid research](http://dx.doi.org/10.1038/521405a)
 * [Ebola treatments caught in limbo](http://dx.doi.org/10.1038/511520a)
 
