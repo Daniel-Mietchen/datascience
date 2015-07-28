@@ -36,3 +36,4 @@ This file hosts information regarding data management plans and how they could b
 * machine readable contracts: [The Open Contracting Data Standard](http://standard.open-contracting.org/)
 * [Get My Health Data](http://getmyhealthdata.org/)
 * [Blue Button® Connector](http://bluebuttonconnector.healthit.gov/)
+* [Principles of data management and sharing at European Research Infrastructures](http://dx.doi.org/10.5281/zenodo.8304)
