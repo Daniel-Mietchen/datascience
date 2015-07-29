@@ -201,6 +201,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Speeding up scholarly communication for rapid sharing](https://www.timeshighereducation.co.uk/blog/speeding-scholarly-communication-rapid-sharing)
   * background: [Single Figure Publications: Towards a novel alternative format for scholarly communication](http://dx.doi.org/10.12688/f1000research.6742.1)
 * [10 Simple rules for design, provision, and reuse of persistent identifiers for life science data](http://dx.doi.org/10.5281/zenodo.18003)
+* [Editorial: The Rise of the Asterisk: One Step to Facilitate Team Science](http://dx.doi.org/10.1210/me.2015-1140)
+* [Sizing the Problem of Improving Discovery and Access to NIH-Funded Data: A Preliminary Study](http://dx.doi.org/10.1371/journal.pone.0132735)
+  * "About 12% of the articles explicitly mention deposition of datasets in recognized repositories, leaving 88% that are invisible datasets."
+* [How Do You Know Which Health Care Effectiveness Research You Can Trust? A Guide to Study Design for the Perplexed](http://dx.doi.org/10.5888/pcd12.150187) 
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
