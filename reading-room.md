@@ -198,6 +198,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [The NHS belongs to the people: a call to action](http://www.england.nhs.uk/2013/07/11/call-to-action/)
 * [“We the Scientists”: a Human Right to Citizen Science](http://dx.doi.org/10.1007/s13347-015-0204-0)
 * [Research groups: How big should they be?](https://dx.doi.org/10.7717/peerj.989)
+* [Speeding up scholarly communication for rapid sharing](https://www.timeshighereducation.co.uk/blog/speeding-scholarly-communication-rapid-sharing)
+  * background: [Single Figure Publications: Towards a novel alternative format for scholarly communication](http://dx.doi.org/10.12688/f1000research.6742.1)
+* [10 Simple rules for design, provision, and reuse of persistent identifiers for life science data](http://dx.doi.org/10.5281/zenodo.18003)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
