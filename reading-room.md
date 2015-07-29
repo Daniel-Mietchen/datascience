@@ -205,6 +205,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Sizing the Problem of Improving Discovery and Access to NIH-Funded Data: A Preliminary Study](http://dx.doi.org/10.1371/journal.pone.0132735)
   * "About 12% of the articles explicitly mention deposition of datasets in recognized repositories, leaving 88% that are invisible datasets."
 * [How Do You Know Which Health Care Effectiveness Research You Can Trust? A Guide to Study Design for the Perplexed](http://dx.doi.org/10.5888/pcd12.150187) 
+* [Who Will Pay for Public Access to Research Data?](http://www.ncbi.nlm.nih.gov/pubmed/23929969)
+  * [green copy](http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_084791.pdf)
+* [The Resource Identification Initiative: A cultural shift in publishing](http://dx.doi.org/10.12688/f1000research.6555.1) 
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
