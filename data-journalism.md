@@ -14,8 +14,13 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Science journalism at the end of the line?](http://ways.org/en/blogs/2009/jun/28/science_journalism_at_the_end_of_the_line)  
 > Science journalists could enrich their current "scientists found out" reports with some of the "scientists are investigating - let's see how they do it!" variant, or reports on topics like animal rights in research with more pertinent data. Finally, the public would benefit from all of this - shorter research cycles, more efficient use of research funds, and a better understanding of what it actually means when scientists "found out" or "are investigating" something.
 
-# Examples of science journalism with a focus on data
+# Examples of science journalism 
+## using data
 * [The History Of Europe Lies In British People's DNA](http://www.buzzfeed.com/christinekenneally/the-history-of-europe-lies-in-british-peoples-dna)
+## about data sharing
+* [Why medical journals must make researchers share data from clinical trials](https://theconversation.com/why-medical-journals-must-make-researchers-share-data-from-clinical-trials-44278)
+    * [Sharing Clinical Trial Data: Maximizing Benefits, Minimizing Risk](http://iom.nationalacademies.org/Reports/2015/Sharing-Clinical-Trial-Data.aspx)
+    * [Cochrane Collaboration statement on access to clinical trial data](http://community.cochrane.org/features/clinical-trials-statement-press-release)
 
 # Engaging visualizations
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
