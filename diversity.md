@@ -1,5 +1,5 @@
 # About
-This file collects information pertaining to workforce diversity, especially in data science and related fields.
+This file collects information pertaining to (workforce and subject) diversity, especially in data science and related fields.
 
 # Resources
 * [Let's Make Gender Diversity in Data Science a Priority Right from the Start](http://dx.doi.org/10.1371/journal.pbio.1002206)
