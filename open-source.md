@@ -4,7 +4,7 @@ This file hosts ideas around free and open-source software, especially as it rel
 # Examples
 ## Funding call for research-related software development
 * [Big Data to Knowledge (BD2K) Development of Software Tools and Methods for Biomedical Big Data in Targeted Areas of High Need (U01)](http://grants.nih.gov/grants/guide/rfa-files/RFA-CA-15-017.html)
-** "A software dissemination plan, with appropriate timelines, is expected to be included in the application. There is no prescribed single license for software produced through grants responding to this announcement. However, NIH does have goals for software dissemination, and reviewers will be instructed to evaluate the dissemination plan relative to these goals:
+  * "A software dissemination plan, with appropriate timelines, is expected to be included in the application. There is no prescribed single license for software produced through grants responding to this announcement. However, NIH does have goals for software dissemination, and reviewers will be instructed to evaluate the dissemination plan relative to these goals:
 
  1. The software should be freely available to biomedical researchers and educators in the non-profit sector, such as institutions of education, research institutions, and government laboratories. 
 
@@ -16,7 +16,7 @@ This file hosts ideas around free and open-source software, especially as it rel
 
  5. To further enhance the potential impact of their software, applicants may consider proposing a plan to manage and disseminate the improvements or customizations of their tools and resources by others.
 
- Any software dissemination plans by the institution (and its subcontractors as applicable) represent a commitment to support and abide by the plan."
+  Any software dissemination plans by the institution (and its subcontractors as applicable) represent a commitment to support and abide by the plan."
 
 ## Code repositories
 * Where should code of NIH-funded software go?
