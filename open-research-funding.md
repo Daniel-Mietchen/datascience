@@ -88,3 +88,5 @@ which also links to numerous examples of grant proposals that have already been 
  * [Young researchers' perspective on NIH funding](http://futureofresearch.org/2015/05/11/join-for-in-making-your-voice-heard-at-the-nih/)
  * [Point of view: Strategies from UW-Madison for rescuing biomedical research in the US](http://elifesciences.org/content/4/e09305.full)
    * with useful set of [Guiding themes and principles](http://elifesciences.org/lookup/doi/10.7554/eLife.09305.003) 
+* [Burden of Disease and NIH Funding Priorities](https://nexus.od.nih.gov/all/2015/06/19/burden-of-disease-and-nih-funding-priorities/)
+   * commentary: [Why the diseases that cause the most harm don’t always get the most research money](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/07/17/why-the-diseases-that-cause-the-most-harm-dont-always-get-the-most-research-money/)
