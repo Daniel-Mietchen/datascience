@@ -49,6 +49,8 @@ Things listed here have yet to be sorted into the structure above.
 * [Videos permitted as part of applications for NIH funding](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-12-141.html)
 * [Open peer review: a randomised controlled trial](http://dx.doi.org/10.1192/bjp.176.1.47)
 * [Maintaining Confidentiality in NIH Peer Review](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-14-073.html)
+   * [Reminder About Your Responsibilities in Maintaining the Integrity of NIH Peer Review](http://nexus.od.nih.gov/all/2015/06/18/responsibilities-integrity-peer-review/)
+     * "We all share the same objective: ensuring a fair review, free of bias, so that the most meritorious applications are identified for funding consideration by NIH. The peer review system belongs to the entire biomedical research community, not just to NIH — let’s do all we can as a community to preserve its integrity."
 * [Protecting the Security of NIH Grant Applications](http://grants.nih.gov/grants/peer/guidelines_general/protecting_applications.pdf)
 * [Op-Ed: How Traditional Publishing Hurts Scientific Progress](http://www.wired.com/2012/03/michael-eisen-open-science/)
 * [Episcience Project](http://www.episciences.org/)
