@@ -1,7 +1,7 @@
 # About
 This file serves the collection of information related to public access policies, particularly those issued by research funders.
 
-# Examples
+# Funders
 ## US
 * [Memonrandum M-13-13, Open Data Policy - Managing Information as an Asset (May 9, 2013)](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
 * [White House Directive from 2013 (Holdren memo)](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
@@ -35,7 +35,12 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 ## G8
 * [G8 Open Data Charter](http://www.international.gc.ca/g8/open_data_charter-charte_du_g8_sur_les_donnees_ouvertes.aspx?lang=eng)
 
-## Non-governmental organizations
+# Publishers
+* [PLOS](http://blogs.plos.org/everyone/2014/02/24/plos-new-data-policy-public-access-data-2/)
+* [BMJ](http://dx.doi.org/10.1136/bmj.h2373)
+  * [commentary](https://theconversation.com/why-medical-journals-must-make-researchers-share-data-from-clinical-trials-44278)
+
+# Other organizations
 * [Wikimedia](http://blog.wikimedia.org/2015/03/18/wikimedia-open-access-policy/)
 
 # Research questions
