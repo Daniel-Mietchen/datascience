@@ -82,3 +82,4 @@ This file collects information on crowdsourcing in relation to research, especia
 
 # See also
 * [Neuchâtel herbarium](https://commons.wikimedia.org/wiki/File:Lugano_May5_2015b.pdf)
+* [List of highest funded crowdfunding projects](https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects)
