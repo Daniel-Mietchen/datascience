@@ -90,3 +90,4 @@ which also links to numerous examples of grant proposals that have already been 
    * with useful set of [Guiding themes and principles](http://elifesciences.org/lookup/doi/10.7554/eLife.09305.003) 
 * [Burden of Disease and NIH Funding Priorities](https://nexus.od.nih.gov/all/2015/06/19/burden-of-disease-and-nih-funding-priorities/)
    * commentary: [Why the diseases that cause the most harm don’t always get the most research money](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/07/17/why-the-diseases-that-cause-the-most-harm-dont-always-get-the-most-research-money/)
+* [List of highest funded crowdfunding projects](https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects)
