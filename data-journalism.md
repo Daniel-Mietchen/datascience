@@ -44,3 +44,4 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Four ways to include data journalism in bootstrapped newsrooms](https://ijnet.org/en/blog/four-ways-include-data-journalism-bootstrapped-newsrooms)
 * [DataN &mdash; a training package for data journalism](http://www.data-n.com/)
 * [DataViva](http://en.dataviva.info/) &mdash; designed "to make reports obsolete"
+* [Story as Evidence, Evidence as Story](http://dx.doi.org/10.1001/jama.2015.3930) &mdash; on the role of data versus stories in communicating research with the public
