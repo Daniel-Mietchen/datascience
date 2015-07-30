@@ -86,3 +86,5 @@ which also links to numerous examples of grant proposals that have already been 
  * [Ingenuity Unleashed: The spur of the Knight Challenge | Editorial](http://lj.libraryjournal.com/2015/03/opinion/editorial/ingenuity-unleashed-the-spur-of-the-knight-challenge-editorial/#_)
  * [Real-life cognition challenge](http://studyforrest.org/pages/challenge.html) (a prize of EUR 5k for "studying the brain's behavior in situations with near-real-life complexity")
  * [Young researchers' perspective on NIH funding](http://futureofresearch.org/2015/05/11/join-for-in-making-your-voice-heard-at-the-nih/)
+ * [Point of view: Strategies from UW-Madison for rescuing biomedical research in the US](http://elifesciences.org/content/4/e09305.full)
+   * with useful set of [Guiding themes and principles](http://elifesciences.org/lookup/doi/10.7554/eLife.09305.003) 
