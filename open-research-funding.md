@@ -39,6 +39,8 @@ which also links to numerous examples of grant proposals that have already been 
 # Relevant funding policies
 * [NIH Grants Policy Statement](http://grants.nih.gov/grants/policy/nihgps/index.htm)
    * with changes as of March 2015 (only supplied as PDF, not available in machine readable form or as diff) 
+* [Reminder About Your Responsibilities in Maintaining the Integrity of NIH Peer Review](http://nexus.od.nih.gov/all/2015/06/18/responsibilities-integrity-peer-review/)
+   * "We all share the same objective: ensuring a fair review, free of bias, so that the most meritorious applications are identified for funding consideration by NIH. The peer review system belongs to the entire biomedical research community, not just to NIH — let’s do all we can as a community to preserve its integrity."
 
 # Relevant funding schemes
 * [Disaster Health Information Outreach and Collaboration Project 2015 (RFQ No. NIHLM2015383)](http://disasterinfo.nlm.nih.gov/dimrc/2015disasteroutreachrfq.html)
