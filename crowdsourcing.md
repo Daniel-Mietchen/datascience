@@ -67,6 +67,10 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Experiment.com](https://experiment.com/)
 * [MoleCures](https://www.molecures.com/)
 
+## Peer review
+* [Reminder About Your Responsibilities in Maintaining the Integrity of NIH Peer Review](http://nexus.od.nih.gov/all/2015/06/18/responsibilities-integrity-peer-review/)
+   * "We all share the same objective: ensuring a fair review, free of bias, so that the most meritorious applications are identified for funding consideration by NIH. The peer review system belongs to the entire biomedical research community, not just to NIH — let’s do all we can as a community to preserve its integrity."
+
 ## Medicine and Wikimedia
 * [WikiProject Medicine](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine)
 * [Wiki Project Med](https://meta.wikimedia.org/wiki/Wiki_Project_Med)
