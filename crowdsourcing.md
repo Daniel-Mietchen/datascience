@@ -42,7 +42,11 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Wikidata](http://wikidata.org/)
   * [Wikidata for Research](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research)
     * [Wiki4R](http://dx.doi.org/10.5281/zenodo.13906) &ndash; a Horizon 2020 proposal (drafted in the open) about using Wikidata in research contexts
-  * [Establishing Wikidata as the central hub for linked open life science data](http://blog.wikimedia.de/2014/10/22/establishing-wikidata-as-the-central-hub-for-linked-open-life-science-data/)
+    * Importing into Wikidata from external (curated) datasources
+       * [Establishing Wikidata as the central hub for linked open life science data](http://blog.wikimedia.de/2014/10/22/establishing-wikidata-as-the-central-hub-for-linked-open-life-science-data/)
+      * [Utilizing the Wikidata System to Improve the Quality of Medical Content in Wikipedia in Diverse Languages: A Pilot Study](http://doi.org/10.2196/jmir.4163)
+        * allows to pull from Wikidatainto Wikipedia
+    * Importing from Wikipedia into Wikidata [Wikipedia Knowledge Graph with DeepDive](https://meta.wikimedia.org/wiki/Research:Wikipedia_Knowledge_Graph_with_DeepDive)
   * [Dengue fever](https://www.wikidata.org/wiki/Q30953)
   * [Pathogen transmission ontology](https://www.wikidata.org/wiki/Property_talk:P1060#Ontology)
   * [WikiProject Chemistry](https://www.wikidata.org/wiki/Wikidata_talk:WikiProject_Chemistry#Collaboration_with_PubChem)
