@@ -56,3 +56,5 @@ Things listed here have yet to be sorted into the structure above.
 * [Episcience Project](http://www.episciences.org/)
    * [comment by Tim Gowers](https://gowers.wordpress.com/2013/01/16/why-ive-also-joined-the-good-guys/)
 * ["peer recognition rather than peer review"](https://edge.org/response-detail/25424)
+* [Towards an analytical understanding of peer review in research funding](www.researchgate.net/profile/Thomas_Koenig13/publication/279195198_Towards_an_analytical_understanding_of_peer_review_in_research_funding/links/558e3b8a08aed6ec4bf36de8.pdf)
+* [Peer review - the nuts and bolts](http://www.senseaboutscience.org/data/files/resources/99/Peer-review_The-nuts-and-bolts.pdf)
