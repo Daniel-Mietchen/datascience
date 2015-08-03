@@ -68,7 +68,8 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
      * contains overview of use and reuse of the collection
 
 ## Data Documentation Initiative
-* [website](http://www.ddialliance.org/) & "A metadata specification for the social and behavioral sciences"
+* ["A metadata specification for the social and behavioral sciences"](http://www.ddialliance.org/)
+* ["an effort to create an international standard in XML for metadata describing social science data"](http://www.ddialliance.org/alliance)
 
 ## Te Papa Tongarewa/ Museum of New Zealand
 * [Reusing Te Papa’s collections images, by the numbers](http://blog.tepapa.govt.nz/2015/04/10/reusing-te-papas-collections-images-by-the-numbers/)
