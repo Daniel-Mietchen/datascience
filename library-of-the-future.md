@@ -78,3 +78,4 @@ This file collects thoughts about the research library of the future as well as 
 * [Computers are good fossil hunters](http://www.smithsonianmag.com/science-nature/computers-are-good-fossil-hunters-129959989/)
 * [Computers read the fossil record](http://dx.doi.org/10.1038/523115a)
  * [Ingenuity Unleashed: The spur of the Knight Challenge | Editorial](http://lj.libraryjournal.com/2015/03/opinion/editorial/ingenuity-unleashed-the-spur-of-the-knight-challenge-editorial/#_)
+ * [The "Paper" of the Future](https://www.authorea.com/users/23/articles/8762/_show_article) &mdash; presenting authorea
