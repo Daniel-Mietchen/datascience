@@ -25,6 +25,10 @@ This file contains notes on how to make Web-based materials &ndash; and data in 
 * [Web Accessibility Toolbar](http://www.paciellogroup.com/resources/wat/)
 * [Web Accessibility tester](http://tenon.io/)
 * [NAD v. Harvard and NAD v. MIT](http://creeclaw.org/online-content-lawsuit-harvard-mit/)
+* [OpenDyslexic](http://opendyslexic.org/)
+  * [video](https://www.youtube.com/watch?v=VLtYFcHx7ec)
 
 # See also
 * [What standards exist for accessibility of open data?](http://opendata.stackexchange.com/questions/4772/what-standards-exist-for-accessibility-of-open-data) at Open Data Stack Exchange
+* [Publishers: Why is all your content not accessible?](http://www.digital-science.com/blog/guest/publishers-why-is-all-your-content-not-accessible/)
+* 
