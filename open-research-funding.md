@@ -16,6 +16,8 @@ Some platforms that already open up some aspects of the funding process are desc
 * [Journal of Brief Ideas](http://beta.briefideas.org/all)
 * [Introducing ThinkLab — A platform for massively collaborative open science](http://thinklab.com/blog/introducing-thinklab-a-platform-for-massively-collaborative-open-science/38)
    * [ThinkLab as a vetting system for traditional grants](http://thinklab.com/discussion/thinklab-as-a-vetting-system-for-traditional-grants/58) 
+* HHS IDEA Lab
+   * [Choosing the Ignite Summer 2015 Finalists: Our Selection Methodology and Reflections](http://www.hhs.gov/idealab/2015/04/16/choosing-the-ignite-summer-2015-finalists-our-selection-methodology-and-reflections/)
 
 The educational value of open grant proposals is highlighted in
 * [How to find grant proposal samples?](http://academia.stackexchange.com/questions/1652/how-to-find-grant-proposal-samples),  
