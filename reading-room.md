@@ -178,7 +178,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Prize4Life](https://en.wikipedia.org/wiki/Prize4Life)
 * [Pooled Resource Open-Access ALS Clinical Trials Database](https://nctu.partners.org/ProACT)
 * [Software Carpentry lessons](http://software-carpentry.org/lessons.html)
-* [Reproducibility crisis: Blame it on the antibodies](http://dx.doi.org/10.1038/521274a)
 * [Statistics: P values are just the tip of the iceberg](http://dx.doi.org/10.1038/520612a)
 * [Growth of OA-only Journals Using a CC-BY License](http://oaspa.org/growth-of-oa-only-journals-using-a-cc-by-license/)
 * [Passing Review: how the R-index aims to improve the peer-review system by quantifying reviewer contributions](http://blogs.lse.ac.uk/impactofsocialsciences/2015/05/20/passing-review-r-index-to-improve-peer-review-system/)
@@ -398,6 +397,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [CURE Epilepsy](http://www.cureepilepsy.org/news/story.asp?id=142)
 
 * Reproducibility
+  * [Reproducibility crisis: Blame it on the antibodies](http://dx.doi.org/10.1038/521274a)
   * [Rigor and Reproducibility](http://www.nih.gov/science/reproducibility/index.htm)
     * [related page](http://grants.nih.gov/reproducibility/index.htm)
     * blog post: [Enhancing Reproducibility in NIH-supported Research through Rigor and Transparency - See more at: http://nexus.od.nih.gov/all/2015/06/09/enhancing-reproducibility-in-nih-supported-research-through-rigor-and-transparency/#sthash.9D1ZYevA.dpuf](http://nexus.od.nih.gov/all/2015/06/09/enhancing-reproducibility-in-nih-supported-research-through-rigor-and-transparency/)
@@ -408,6 +408,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
     * quote: "Can bad scientific practices be fixed? Part of the problem is that no-one is incentivised to be right. Instead, scientists are incentivised to be productive and innovative. Would a Hippocratic Oath for science 
 help? Certainly don’t add more layers of research red-tape. Instead of changing incentives, perhaps one could remove incentives altogether. Or insist on replicability statements in grant applications and research papers. Or emphasise collaboration, not competition. Or insist on preregistration of protocols. Or reward better pre and 
 post publication peer review. Or improve research training and mentorship. Or ..."
+  * [Research Compendia](http://labs.researchcompendia.org/)
 * NIH Biosketch
   * [NIH Notice](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-032.html)
   * [Demystifying the NEW NIH Biosketch](http://www.sph.emory.edu/research/documents/NewNIHBiosketch.pdf)
