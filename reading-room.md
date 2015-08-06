@@ -70,6 +70,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [State of the art review: the data revolution in critical care](http://dx.doi.org/10.1186%2Fs13054-015-0801-4)
 * [Blue Button](http://healthit.gov/patients-families/your-health-data)
   * [Blue Button® Connector](http://bluebuttonconnector.healthit.gov/)
+* [OpenNotes](http://www.myopennotes.org/) &mdas; "sharing physician's notes with patients"
 * [Extreme cryptography paves way to personalized medicine](http://www.nature.com/news/extreme-cryptography-paves-way-to-personalized-medicine-1.17174)
 * [Get My Health Data](http://getmyhealthdata.org/)
 * [Data Driven: Creating a Data Culture](http://www.oreilly.com/data/free/data-driven.csp)
