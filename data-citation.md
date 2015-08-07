@@ -34,4 +34,6 @@ This file is to facilitate the collection of information pertaining to the citat
 * [Open Research Data: Implications for Science and Society](http://opendataconference2015.pon.edu.pl/) (Warsaw, Poland, May 28–29, 2015)
 
 # See also
-* [Software citation](https://github.com/force11/force11-scwg)
+* Software citation
+      * [Force11 Software Citation Working Group](https://github.com/force11/force11-scwg)
+      * [Invitation to comment on a proposal for a cohesive research software citation-enabling platform](http://astronomy-software-index.github.io/2015-workshop/)
