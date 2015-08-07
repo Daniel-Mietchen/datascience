@@ -66,13 +66,20 @@ This file collects information on crowdsourcing in relation to research, especia
     * [Apps4EU](http://pro.europeana.eu/blogpost/apps4eu-award-prize-for-best-open-data-startup-2015)
 * Competitions
   * [Competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) 
-* [SciFund](http://scifundchallenge.org/)
-* [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
-* [Experiment.com](https://experiment.com/)
-   * [Using Nanoparticles to Activate Immune Cells to Fight Tumors](https://experiment.com/projects/using-nanoparticles-to-activate-immune-cells-to-fight-tumors)
-* [MoleCures](https://www.molecures.com/)
-* [Wallacea](https://walacea.com/)
-   * [Worlds First Imaging Study of the Brain on LSD](https://walacea.com/campaigns/lsd/)
+  * [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
+* [Crowdfunding Scientific Research](http://crowdfunding.about.com/od/Placeholderrr/tp/Top-Sites-for-Crowdfunding-Scientific-Research.htm)
+   * need to collect examples of crowdfunding campaigns for research, analyze criteria for success (both financial and engagement-wise), and explore options for funders to interact with them
+     * successful 
+       * [OpenWorm]( https://www.indiegogo.com/projects/timmy-s-journey-a-statistics-game https://www.kickstarter.com/projects/openworm/openworm-a-digital-organism-in-your-browser)
+     * unsuccessful
+       * [Timmy's Journey: A Statistics Game](https://www.indiegogo.com/projects/timmy-s-journey-a-statistics-game)
+   * [MoleCures](https://www.molecures.com/)
+   * [SciFund](http://scifundchallenge.org/)
+   * [Experiment.com](https://experiment.com/)
+     * [Using Nanoparticles to Activate Immune Cells to Fight Tumors](https://experiment.com/projects/using-nanoparticles-to-activate-immune-cells-to-fight-tumors)
+   * [MoleCures](https://www.molecures.com/)
+   * [Wallacea](https://walacea.com/)
+     * [Worlds First Imaging Study of the Brain on LSD](https://walacea.com/campaigns/lsd/)
 
 ## Peer review
 * [Reminder About Your Responsibilities in Maintaining the Integrity of NIH Peer Review](http://nexus.od.nih.gov/all/2015/06/18/responsibilities-integrity-peer-review/)
