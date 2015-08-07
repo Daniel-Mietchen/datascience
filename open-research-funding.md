@@ -1,7 +1,7 @@
 # About
 This file helps to collect information about ways in which research funding could be made more open. 
 
-# Scope
+# Scopec
 The scope here, for the time being, is any aspect of the funding process, starting from the first inception of an idea, includes the grant drafting, submission and reviewing procedures as well as announcements about awards, calls or any communications about the progress of funded projects or their assessment, as well as long-term archival and citations or other forms of reuse of the research outputs produced from some specific line of funding.
 
 General outlines of ideas in this regard are available through
@@ -57,12 +57,7 @@ which also links to numerous examples of grant proposals that have already been 
    * [my notes](http://ways.org/en/blogs/2009/apr/09/research_grant_systems_that_encourage_innovation)
    * "Baseline funding, in which each researcher gets the same amount per year (Gordon, 1993; Poulin and Gordon, 2001). This protects each scientist from peer review. It is open to the objection that some scientists will do nothing useful with the money, and so it needs some modest checks and balances, such as requiring a public accounting of what research was accomplished. It also underfunds expensive research."
 * [Crowdfunding Scientific Research](http://crowdfunding.about.com/od/Placeholderrr/tp/Top-Sites-for-Crowdfunding-Scientific-Research.htm)
-   * need to collect examples of crowdfunding campaigns for research, analyze criteria for success (both financial and engagement-wise), and explore options for funders to interact with them
-     * successful 
-       * [OpenWorm]( https://www.indiegogo.com/projects/timmy-s-journey-a-statistics-game https://www.kickstarter.com/projects/openworm/openworm-a-digital-organism-in-your-browser)
-     * unsuccessful
-       * [Timmy's Journey: A Statistics Game](https://www.indiegogo.com/projects/timmy-s-journey-a-statistics-game)
-   * [MoleCures](https://www.molecures.com/)
+   * see corresponding section in [crowdsourcing.md](https://github.com/Daniel-Mietchen/datascience/blob/master/crowdsourcing.md)
 * [Ten Simple Rules for Getting Grants](http://dx.doi.org/10.1371/journal.pcbi.0020012)
    * perhaps follow up on this with "Ten Simple Rules for Drafting Grant Proposals in Public"?
    * similar: [Twenty tips for writing a research proposal](http://conservationbytes.com/2015/05/04/twenty-tips-for-writing-a-research-proposal/)
