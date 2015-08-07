@@ -21,6 +21,8 @@ These examples are roughly sorted by step in research cycle
 
 # Unsorted
 Things listed here have yet to be sorted into the structure above.
+* History of peer review
+   * [Credibility, peer review, and Nature, 1945–1990](http://dx.doi.org/10.1098/rsnr.2015.0029)
 * peer review
   * [Big names or big ideas: Do peer-review panels select the best science proposals?](http://dx.doi.org/10.1126/science.aaa0185)
     * contrast this with [arxiv:0906.1943](http://arxiv.org/abs/0906.1943)
