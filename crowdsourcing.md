@@ -69,7 +69,10 @@ This file collects information on crowdsourcing in relation to research, especia
 * [SciFund](http://scifundchallenge.org/)
 * [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
 * [Experiment.com](https://experiment.com/)
+   * [Using Nanoparticles to Activate Immune Cells to Fight Tumors](https://experiment.com/projects/using-nanoparticles-to-activate-immune-cells-to-fight-tumors)
 * [MoleCures](https://www.molecures.com/)
+* [Wallacea](https://walacea.com/)
+   * [Worlds First Imaging Study of the Brain on LSD](https://walacea.com/campaigns/lsd/)
 
 ## Peer review
 * [Reminder About Your Responsibilities in Maintaining the Integrity of NIH Peer Review](http://nexus.od.nih.gov/all/2015/06/18/responsibilities-integrity-peer-review/)
