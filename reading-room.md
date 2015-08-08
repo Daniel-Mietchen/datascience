@@ -431,6 +431,13 @@ post publication peer review. Or improve research training and mentorship. Or ..
   * [Mine the Gap: Leveraging Open Access Through Citizen Engagement in Science](http://www.open-shelf.ca/150301-mine-the-gap/)
   * [Text mining at Europe PMC](http://europepmc.org/help#tmintegrated)
   * [Alzheimer's disease biomarker discovery using in silico literature mining and clinical validation](http://dx.doi.org/10.1186/1479-5876-10-217)
+  * also think about discovering
+    * software
+     * [Software Discovery Index](http://softwarediscoveryindex.org/)
+    * policies
+    * collaborators
+    * equipment
+    * funding opportunities
 * [NIH Mission](http://www.nih.gov/about/mission.htm)
 
 > NIH’s mission is to seek fundamental knowledge about the nature and behavior of living systems and the application of that knowledge to enhance health, lengthen life, and reduce illness and disability.
