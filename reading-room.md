@@ -410,6 +410,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 help? Certainly don’t add more layers of research red-tape. Instead of changing incentives, perhaps one could remove incentives altogether. Or insist on replicability statements in grant applications and research papers. Or emphasise collaboration, not competition. Or insist on preregistration of protocols. Or reward better pre and 
 post publication peer review. Or improve research training and mentorship. Or ..."
   * [Research Compendia](http://labs.researchcompendia.org/)
+  * [The Recomputation Manifesto](http://arxiv.org/abs/1304.3674)
+  * [Virtual machines considered harmful for reproducibility](http://ivory.idyll.org/blog/vms-considered-harmful.html)
 * NIH Biosketch
   * [NIH Notice](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-032.html)
   * [Demystifying the NEW NIH Biosketch](http://www.sph.emory.edu/research/documents/NewNIHBiosketch.pdf)
