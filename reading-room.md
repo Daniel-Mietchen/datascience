@@ -427,10 +427,6 @@ post publication peer review. Or improve research training and mentorship. Or ..
   * [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
   * [The Hague Declaration on Knowledge Discovery in the Digital Age](http://thehaguedeclaration.com/the-hague-declaration-on-knowledge-discovery-in-the-digital-age/)
   * [Wikipedia tab for research data](https://io.datascience-paris-saclay.fr/appDisplayArtefactResearch.php)
-* data mining:
-  * [Mine the Gap: Leveraging Open Access Through Citizen Engagement in Science](http://www.open-shelf.ca/150301-mine-the-gap/)
-  * [Text mining at Europe PMC](http://europepmc.org/help#tmintegrated)
-  * [Alzheimer's disease biomarker discovery using in silico literature mining and clinical validation](http://dx.doi.org/10.1186/1479-5876-10-217)
   * also think about discovering
     * software
      * [Software Discovery Index](http://softwarediscoveryindex.org/)
@@ -438,6 +434,10 @@ post publication peer review. Or improve research training and mentorship. Or ..
     * collaborators
     * equipment
     * funding opportunities
+* data mining:
+  * [Mine the Gap: Leveraging Open Access Through Citizen Engagement in Science](http://www.open-shelf.ca/150301-mine-the-gap/)
+  * [Text mining at Europe PMC](http://europepmc.org/help#tmintegrated)
+  * [Alzheimer's disease biomarker discovery using in silico literature mining and clinical validation](http://dx.doi.org/10.1186/1479-5876-10-217)
 * [NIH Mission](http://www.nih.gov/about/mission.htm)
 
 > NIH’s mission is to seek fundamental knowledge about the nature and behavior of living systems and the application of that knowledge to enhance health, lengthen life, and reduce illness and disability.
