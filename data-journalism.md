@@ -34,6 +34,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [flightradar24](http://www.flightradar24.com/50.82,12.38/8)
 * [emoji tracker](http://emojitracker.com/) - imagine this to be research-relevant identifiers (and no blinking)
 * [Real-time Readership](http://jdc.jefferson.edu/) at an institutional repository
+* [Wikidata Galaxy](http://wiki.polyfra.me/)
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
