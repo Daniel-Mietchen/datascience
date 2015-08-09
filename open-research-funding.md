@@ -1,7 +1,7 @@
 # About
 This file helps to collect information about ways in which research funding could be made more open. 
 
-# Scopec
+# Scope
 The scope here, for the time being, is any aspect of the funding process, starting from the first inception of an idea, includes the grant drafting, submission and reviewing procedures as well as announcements about awards, calls or any communications about the progress of funded projects or their assessment, as well as long-term archival and citations or other forms of reuse of the research outputs produced from some specific line of funding.
 
 General outlines of ideas in this regard are available through
