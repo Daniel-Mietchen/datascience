@@ -60,3 +60,4 @@ Things listed here have yet to be sorted into the structure above.
 * ["peer recognition rather than peer review"](https://edge.org/response-detail/25424)
 * [Towards an analytical understanding of peer review in research funding](www.researchgate.net/profile/Thomas_Koenig13/publication/279195198_Towards_an_analytical_understanding_of_peer_review_in_research_funding/links/558e3b8a08aed6ec4bf36de8.pdf)
 * [Peer review - the nuts and bolts](http://www.senseaboutscience.org/data/files/resources/99/Peer-review_The-nuts-and-bolts.pdf)
+* Rowland F. The peer-review process. Learned Publishing. 2002;15(4): 247–258. doi: [10.1087/095315102760319206](http://dx.doi.org/10.1087/095315102760319206)
