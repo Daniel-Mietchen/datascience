@@ -7,6 +7,7 @@ This file collects information pertaining to (workforce and subject) diversity, 
 * [Speakerinnen.org](http://speakerinnen.org/en)
 * Friendly space policies/ code of conduct
    * [Mozilla Science Lab example](https://www.mozillascience.org/code-of-conduct)
+* [Are women still at a disadvantage in science?](http://www.dcscience.net/2015/06/15/are-women-still-at-a-disadvantage-in-science/)
 
 # See also
 * [Consideration of Sex as a Biological Variable in NIH-funded Research](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
