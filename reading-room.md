@@ -208,6 +208,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Who Will Pay for Public Access to Research Data?](http://www.ncbi.nlm.nih.gov/pubmed/23929969)
   * [green copy](http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_084791.pdf)
 * [The Resource Identification Initiative: A cultural shift in publishing](http://dx.doi.org/10.12688/f1000research.6555.1) 
+* [Father of Web Calls for Opening Up Clinical Research Data](http://www.bloomberg.com/news/articles/2015-07-15/father-of-internet-calls-for-opening-up-clinical-research-data)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
