@@ -54,9 +54,13 @@ which also links to numerous examples of grant proposals that have already been 
 # See also
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
 * [Fantasy Science Funding](http://ways.org/en/topics/fantasy_science_funding)
+* [To Apply or Not to Apply: A Survey Analysis of Grant Writing Costs and Benefits](http://arxiv.org/abs/1503.04201)
+   * "We find that the average proposal takes 116 PI hours and 55 CI hours to write; although time spent writing was not related to whether the grant was funded. Effort did translate into success, however, as academics who wrote more grants received more funding."
 * ["Cost of the NSERC Science Grant Peer Review System Exceeds the Cost of Giving Every Qualified Researcher a Baseline Grant"](http://dx.doi.org/10.1080/08989620802689821)
    * [my notes](http://ways.org/en/blogs/2009/apr/09/research_grant_systems_that_encourage_innovation)
    * "Baseline funding, in which each researcher gets the same amount per year (Gordon, 1993; Poulin and Gordon, 2001). This protects each scientist from peer review. It is open to the objection that some scientists will do nothing useful with the money, and so it needs some modest checks and balances, such as requiring a public accounting of what research was accomplished. It also underfunds expensive research."
+* [Collective allocation of science funding: from funding agencies to scientific agency](http://arxiv.org/abs/1304.1067)
+   * "We investigate a class of funding models in which all participants receive an equal portion of yearly funding, but are then required to anonymously donate a fraction of their funding to peers. The funding thus flows from one participant to the next, each acting as if he or she were a funding agency themselves. Here we show through a simulation conducted over large-scale citation data (37M articles, 770M citations) that such a distributed system for science may yield funding patterns similar to existing NIH and NSF distributions, but may do so at much lower overhead while exhibiting a range of other desirable features. " 
 * [Crowdfunding Scientific Research](http://crowdfunding.about.com/od/Placeholderrr/tp/Top-Sites-for-Crowdfunding-Scientific-Research.htm)
    * see corresponding section in [crowdsourcing.md](https://github.com/Daniel-Mietchen/datascience/blob/master/crowdsourcing.md)
 * [Ten Simple Rules for Getting Grants](http://dx.doi.org/10.1371/journal.pcbi.0020012)
