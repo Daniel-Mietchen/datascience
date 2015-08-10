@@ -270,6 +270,8 @@ di
   * [Research Performance Progress Report (RPPR)](http://www.nsf.gov/bfa/dias/policy/rppr/index.jsp)
     * [RPPR at NIH](http://grants.nih.gov/grants/rppr/index.htm)
    * [Smart contracts: Blockchain will eat white collar workers for breakfast](https://99bitcoins.com/smart-contracts-blockchain-will-eat-white-collar-workers-breakfast/)
+  * [The Rise and Fall of an Online Project. Is Bureaucracy
+Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/content/rise-and-fall-online-project-bureaucracy-killing-efficiency-open-knowledge-production)
 * expert attention
   * needs to be directed in a way that is optimized on a systemic level 
 * crowdfunding for research
