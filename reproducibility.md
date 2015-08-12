@@ -9,7 +9,7 @@ This file collects information related to the reproducibility and replicability 
     * "Ensure rigor and reproducibility" is part of the [Framework for the NIH Strategic Plan](http://www.nih.gov/about/strategic-plan/)
 * [Rigor and Reproducibility](http://www.nih.gov/science/reproducibility/index.htm)
     * [related page](http://grants.nih.gov/reproducibility/index.htm)
-    * blog post: [Enhancing Reproducibility in NIH-supported Research through Rigor and Transparency - See more at: http://nexus.od.nih.gov/all/2015/06/09/enhancing-reproducibility-in-nih-supported-research-through-rigor-and-transparency/#sthash.9D1ZYevA.dpuf](http://nexus.od.nih.gov/all/2015/06/09/enhancing-reproducibility-in-nih-supported-research-through-rigor-and-transparency/)
+    * blog post: [Enhancing Reproducibility in NIH-supported Research through Rigor and Transparency](http://nexus.od.nih.gov/all/2015/06/09/enhancing-reproducibility-in-nih-supported-research-through-rigor-and-transparency/)
     * NIH notices
      * [Enhancing Reproducibility through Rigor and Transparency](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-103.html)
      * [Consideration of Sex as a Biological Variable in NIH-funded Research](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
