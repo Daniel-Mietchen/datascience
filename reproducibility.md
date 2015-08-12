@@ -27,3 +27,6 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Journal of Visualized Experiments as an approach to reproducibility](http://www.forbes.com/sites/alexknapp/2015/03/29/solving-the-problem-of-scientific-reproducibility-with-peer-reviewed-video/)
 * [In science, irreproducible research is a quiet crisis](http://www.bostonglobe.com/ideas/2015/03/19/science-irreproducible-research-quiet-crisis/xunxnfuzwdwYSpVjkx2iQN/story.html)
 * [Studies show many studies are false](http://www.bostonglobe.com/lifestyle/2014/07/01/studies-show-many-studies-are-false/PP2NO6lKd7HMyTZa1iCHGP/story.html)
+* [On radical manuscript openness](http://www.r-bloggers.com/on-radical-manuscript-openness/)
+    * [website](http://learnbayes.org/papers/confidenceIntervalsFallacy/) 
+* [How can we perpetuate reproducibility?](http://openscience.stackexchange.com/questions/154/how-can-we-perpetuate-reproducibility)
