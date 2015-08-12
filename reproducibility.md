@@ -6,6 +6,7 @@ This file collects information related to the reproducibility and replicability 
 # Resources
 * [Reproducibility crisis: Blame it on the antibodies](http://dx.doi.org/10.1038/521274a)
 * [NIH plans to enhance reproducibility](http://dx.doi.org/10.1038/505612a)
+    * "Ensure rigor and reproducibility" is part of the [Framework for the NIH Strategic Plan](http://www.nih.gov/about/strategic-plan/)
 * [Rigor and Reproducibility](http://www.nih.gov/science/reproducibility/index.htm)
     * [related page](http://grants.nih.gov/reproducibility/index.htm)
     * blog post: [Enhancing Reproducibility in NIH-supported Research through Rigor and Transparency - See more at: http://nexus.od.nih.gov/all/2015/06/09/enhancing-reproducibility-in-nih-supported-research-through-rigor-and-transparency/#sthash.9D1ZYevA.dpuf](http://nexus.od.nih.gov/all/2015/06/09/enhancing-reproducibility-in-nih-supported-research-through-rigor-and-transparency/)
