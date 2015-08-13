@@ -93,3 +93,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [“Open” disclosure of innovations, incentives and follow-on reuse: Theory on processes of cumulative innovation and a field experiment in computational biology](http://dx.doi.org/10.1016/j.respol.2014.08.001)
 * Library usage records as a way to track usage
 * ["using text mining to track how the museum's 80-million-specimen collection is used in research papers'](http://dx.doi.org/10.1038/523115a)
+* [NIH Data Sharing Repositories](http://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html) &mdash; "This table lists NIH-supported data repositories that make data accessible for reuse."
