@@ -112,6 +112,7 @@ di
 * [Is software a primary product of science?](http://ivory.idyll.org/blog/2015-more-on-software.html)
 * [Why you can't run your company with big data](https://www.linkedin.com/pulse/why-you-cant-run-your-company-data-rob-lawrence)
 * [Why Big Data And The Internet of Things Are A Perfect Match](http://www.datamation.com/applications/why-big-data-and-the-internet-of-things-are-a-perfect-match.html)
+* [Beyond Just “Big” Data](http://spectrum.ieee.org/computing/software/beyond-just-big-data)
 * [Visualization of Migration of Honey Buzzards](https://vimeo.com/85808414)
 * [DataViva](http://en.dataviva.info/) &mdash; designed "to make reports obsolete"
 * [NIH research: Think globally](http://www.sciencemag.org/content/348/6231/159.full)
