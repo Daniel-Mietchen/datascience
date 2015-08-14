@@ -443,4 +443,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
     to exemplify and promote the highest level of scientific integrity, public accountability, and social responsibility in the conduct of science.
 * [NOAA Big Data Project](https://data-alliance.noaa.gov/)
 * feedback
-
+* [octopus genome](http://dx.doi.org/10.1038/nature.2015.18177)
+* [The future of science will soon be upon us](http://dx.doi.org/10.1038/524137a)
