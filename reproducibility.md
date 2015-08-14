@@ -33,3 +33,4 @@ post publication peer review. Or improve research training and mentorship. Or ..
     * [website](http://learnbayes.org/papers/confidenceIntervalsFallacy/) 
 * [How can we perpetuate reproducibility?](http://openscience.stackexchange.com/questions/154/how-can-we-perpetuate-reproducibility)
 * [NWO to start a pilot project that will fund replication research](http://www.ru.nl/bsi/news-events/events/workshop-daniel/)
+* [Trials and errors: The evidence base for new medicines is flawed. Time to fix it](http://www.economist.com/news/leaders/21659743-evidence-base-new-medicines-flawed-time-fix-it-trials-and-errors)
