@@ -17,4 +17,4 @@ This file collects information related to the concept of the Commons, as it appl
 * [International & Interdisciplinary Research Groups (IIRGs)](http://www.iash.ed.ac.uk/research/iirgs/)
 * [Towards a European Open Science Cloud](http://indico.cern.ch/event/388437/other-view?view=standard) (event)
       * [paper](http://indico.cern.ch/event/388437/material/1/0.pdf)
-
+* [Cloud technology: the advantages and disadvantages for universities](https://www.timeshighereducation.co.uk/blog/cloud-technology-advantages-and-disadvantages-universities)
