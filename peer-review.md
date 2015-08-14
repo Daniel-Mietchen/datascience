@@ -62,3 +62,4 @@ Things listed here have yet to be sorted into the structure above.
 * [Peer review - the nuts and bolts](http://www.senseaboutscience.org/data/files/resources/99/Peer-review_The-nuts-and-bolts.pdf)
 * Rowland F. The peer-review process. Learned Publishing. 2002;15(4): 247–258. doi: [10.1087/095315102760319206](http://dx.doi.org/10.1087/095315102760319206)
 * [The End of Peer Review and Traditional Publishing as We Know It](http://www.medscape.com/viewarticle/583316)
+* [Advice on writing reviews of academic papers](https://github.com/jtleek/reviews)
