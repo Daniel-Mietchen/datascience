@@ -1,6 +1,6 @@
 # About
 This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on sorting and reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
-di
+
 # List
 * [What should a modern scientific infrastructure look like?](http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/)
 * [What scientific idea is ready for retirement?](http://edge.org/annual-question/what-scientific-idea-is-ready-for-retirement)
