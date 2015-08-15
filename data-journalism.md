@@ -52,3 +52,4 @@ This file collects information pertaining to ways in which the interaction betwe
 * [DataN &mdash; a training package for data journalism](http://www.data-n.com/)
 * [DataViva](http://en.dataviva.info/) &mdash; designed "to make reports obsolete"
 * [Story as Evidence, Evidence as Story](http://dx.doi.org/10.1001/jama.2015.3930) &mdash; on the role of data versus stories in communicating research with the public
+* [Using Open Data, a Scientist Is Finding New York City’s Best Stories](http://observer.com/2015/08/using-open-data-a-scientist-is-finding-new-york-citys-best-stories/)
