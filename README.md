@@ -16,6 +16,6 @@ Thoughts and activities around [research data](http://datascience.nih.gov/), wit
 * Engaging communities with data, both experts and in the framework of citizen science projects.
   * [How best to integrate crowdsourcing components into data management?](https://github.com/Daniel-Mietchen/datascience/blob/master/crowdsourcing.md)
   * [How to make data management plans machine readable?](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md)
-  * [How can quality data journalism be supported?](https://github.com/Daniel-Mietchen/datascience/blob/master/data-journalism.md)
+  * [How can quality data journalism be supported?](https://github.com/Daniel-Mietchen/datascience/blob/master/data-driven-journalism.md)
 
 as well as a collection of further relevant resources in the [reading room](https://github.com/Daniel-Mietchen/datascience/blob/master/reading-room.md).
