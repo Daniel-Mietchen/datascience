@@ -448,3 +448,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [The future of science will soon be upon us](http://dx.doi.org/10.1038/524137a)
 * [SCAPE Project - Digital Preservation into the Petabyte Dimension](http://www.scape-project.eu/)
 * [The Tao of open science for ecology](http://dx.doi.org/10.1890/ES14-00402.1)
+* [Open data belongs in the academic curriculum](http://theodi.org/blog/open-data-academic-curriculum)
