@@ -35,6 +35,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [emoji tracker](http://emojitracker.com/) - imagine this to be research-relevant identifiers (and no blinking)
 * [Real-time Readership](http://jdc.jefferson.edu/) at an institutional repository
 * [Wikidata Galaxy](http://wiki.polyfra.me/)
+* [ESA's cool new interactive comet visualization tool based on amateur imaging work with open data](http://www.planetary.org/blogs/emily-lakdawalla/2015/08131133-esa-interactive-rosetta-comet-malmer.html)
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
