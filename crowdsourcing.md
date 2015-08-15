@@ -103,3 +103,4 @@ This file collects information on crowdsourcing in relation to research, especia
 * [List of highest funded crowdfunding projects](https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects)
 * [The Organization of Scientific Research in Open Collaborative Projects](http://dx.doi.org/10.1016/j.respol.2013.07.005)
 * [Runkeeper & Research: The Keeping Pace Study](https://medium.com/access-matters/runkeeper-research-b109eb9949c3)
+* [ESA's cool new interactive comet visualization tool based on amateur imaging work with open data](http://www.planetary.org/blogs/emily-lakdawalla/2015/08131133-esa-interactive-rosetta-comet-malmer.html)
