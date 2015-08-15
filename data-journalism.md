@@ -54,3 +54,4 @@ This file collects information pertaining to ways in which the interaction betwe
 * [DataViva](http://en.dataviva.info/) &mdash; designed "to make reports obsolete"
 * [Story as Evidence, Evidence as Story](http://dx.doi.org/10.1001/jama.2015.3930) &mdash; on the role of data versus stories in communicating research with the public
 * [Using Open Data, a Scientist Is Finding New York City’s Best Stories](http://observer.com/2015/08/using-open-data-a-scientist-is-finding-new-york-citys-best-stories/)
+* [$4.7 Million Data Journalism Initiative Launched in Africa](https://medium.com/code-for-africa/4-7-million-data-journalism-initiative-launched-in-africa-189856fa68d4)
