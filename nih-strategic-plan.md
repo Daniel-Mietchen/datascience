@@ -6,7 +6,7 @@ Not sure what the plan will mean in practice, but supposing it is useful and the
 Along with some metadata, the form asks for the following information (each with a maximum of 300 words):
 
  -  Potential benefits, drawbacks/challenges, and areas of consideration for the current framework 
- -  Compatibility of the framework with the broad scope of the NIH mission
+ -  Compatibility of the framework with the broad scope of the [NIH mission](http://www.nih.gov/about/mission.htm)
  -  Additional concepts in ICO strategic plans that are cross-cutting and should be included in this trans-NIH strategic plan
  -  Comprehensive trans-NIH research themes that have not been captured in the Areas of Opportunity that Apply Across Biomedicine
  -  Components of the Areas of Opportunity that Apply Across Biomedicine that are not applicable to an NIH-wide Strategic Plan
