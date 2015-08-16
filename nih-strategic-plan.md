@@ -14,6 +14,8 @@ Along with some metadata, the form asks for the following information (each with
  -  Components of the Areas of Opportunity that Apply Across Biomedicine that are not applicable to an NIH-wide Strategic Plan
  -  Future opportunities or emerging research needs
   - Provide responders to such RFIs with an option to have their responses made public
+
+  
 Attachments are permitted in "PDF, DOC, DOCX" formats.
 
   [1]: http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-118.html
