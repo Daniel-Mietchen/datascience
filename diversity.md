@@ -7,6 +7,9 @@ This file collects information pertaining to (workforce and subject) diversity, 
 * [Speakerinnen.org](http://speakerinnen.org/en)
 * Friendly space policies/ code of conduct
    * [Mozilla Science Lab example](https://www.mozillascience.org/code-of-conduct)
+   * [Creative Commons SUmmit 2015](https://summit.creativecommons.org/conduct/)
+     * draws on [http://confcodeofconduct.com/](http://confcodeofconduct.com/), [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) and the [Ada Initiative](https://adainitiative.org/)
+     * see also [anti-harassment policy](https://summit.creativecommons.org/anti-harassment-policy/)
 * [Are women still at a disadvantage in science?](http://www.dcscience.net/2015/06/15/are-women-still-at-a-disadvantage-in-science/)
 
 # See also
