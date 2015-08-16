@@ -10,11 +10,15 @@ Along with some metadata, the form asks for the following information (each with
  -  Compatibility of the framework with the broad scope of the [NIH mission](http://www.nih.gov/about/mission.htm)
   -  especially "to exemplify and promote the highest level of scientific integrity, public accountability, and social responsibility in the conduct of science."
  -  Additional concepts in ICO strategic plans that are cross-cutting and should be included in this trans-NIH strategic plan
+   - missing in this picture: open science
+     - but see recommendation 2 of the [report on NLM Strategic vision](http://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf):
+       - "NLM should lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
  -  Comprehensive trans-NIH research themes that have not been captured in the Areas of Opportunity that Apply Across Biomedicine (boxes 2-4)
   - Promote Fundamental Science
     - Basic science is the foundation for progress
     - Consequences of basic science discoveries are often unpredictable
     - Advances in clinical research methodologies stimulate scientific progress
+      - advances in almost any X stimulate scientific progress, so this is a tautology, unless perhaps in case it is referring to the spiral nature of research progress
     - Leaps in technology often catalyze major scientific advances
     - Data science increases the impact and efficiency of research
   - Improve Health Promotion and Disease Prevention
@@ -28,6 +32,8 @@ Along with some metadata, the form asks for the following information (each with
  -  Components of the Areas of Opportunity that Apply Across Biomedicine that are not applicable to an NIH-wide Strategic Plan
  -  Future opportunities or emerging research needs
   - Provide responders to such RFIs with an option to have their responses made public
+  - Make NIH RePORTER more comprehensively open, so that it can be used as a tool to discover research ideas,  data, equipment, software or other resources as well as potential collaborators, mentors, educators
+    - think feed of all NIH-funded MRI scans or gene sequences
 
   
 Attachments are permitted in "PDF, DOC, DOCX" formats.
