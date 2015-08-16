@@ -11,6 +11,20 @@ Along with some metadata, the form asks for the following information (each with
   -  especially "to exemplify and promote the highest level of scientific integrity, public accountability, and social responsibility in the conduct of science."
  -  Additional concepts in ICO strategic plans that are cross-cutting and should be included in this trans-NIH strategic plan
  -  Comprehensive trans-NIH research themes that have not been captured in the Areas of Opportunity that Apply Across Biomedicine (boxes 2-4)
+  - Promote Fundamental Science
+    - Basic science is the foundation for progress
+    - Consequences of basic science discoveries are often unpredictable
+    - Advances in clinical research methodologies stimulate scientific progress
+    - Leaps in technology often catalyze major scientific advances
+    - Data science increases the impact and efficiency of research
+  - Improve Health Promotion and Disease Prevention
+    - Importance of studying healthy individuals
+    - Advances in early diagnosis/detection
+    - Evidence-based interventions to eliminate health disparities
+  - Advance Treatments and Cures
+    - Unprecedented opportunities on the basis of molecular knowledge
+    - Breakdown of traditional disease boundaries
+    - Breakthroughs need partnerships and often come from unexpected directions
  -  Components of the Areas of Opportunity that Apply Across Biomedicine that are not applicable to an NIH-wide Strategic Plan
  -  Future opportunities or emerging research needs
   - Provide responders to such RFIs with an option to have their responses made public
