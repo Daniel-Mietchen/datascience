@@ -6,7 +6,9 @@ Not sure what the plan will mean in practice, but supposing it is useful and the
 Along with some metadata, the form asks for the following information (each with a maximum of 300 words):
 
  -  Potential benefits, drawbacks/challenges, and areas of consideration for the current framework 
+  -  The topic of reproducibility is currently buried as the 6th bullet ("Ensure rigor and reproducibility") in the 6th box ("Enhancing Stewardship") of the framework &mdash; I think it should have a higher visibility, perhaps as part of the "Fundamental Science" box
  -  Compatibility of the framework with the broad scope of the [NIH mission](http://www.nih.gov/about/mission.htm)
+  -  especially "to exemplify and promote the highest level of scientific integrity, public accountability, and social responsibility in the conduct of science."
  -  Additional concepts in ICO strategic plans that are cross-cutting and should be included in this trans-NIH strategic plan
  -  Comprehensive trans-NIH research themes that have not been captured in the Areas of Opportunity that Apply Across Biomedicine
  -  Components of the Areas of Opportunity that Apply Across Biomedicine that are not applicable to an NIH-wide Strategic Plan
