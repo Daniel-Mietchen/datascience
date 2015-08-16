@@ -1,5 +1,5 @@
 # About
-Following a request from the US Congress, the National Institutes of Health (NIH) are currently working on a 5 year Strategic Plan and [inviting public feedback][1] by August 16. This process is somewhat separate from strategic plans being developed in the individual Institutes and Centers that make up the NIH.
+Following a request from the US Congress, the National Institutes of Health (NIH) are currently working on a 5 year [Strategic Plan](http://www.nih.gov/about/strategic-plan/) and [inviting public feedback][1] by August 16. This process is somewhat separate from strategic plans being developed in the individual Institutes and Centers that make up the NIH.
 
 Not sure what the plan will mean in practice, but supposing it is useful and the process behind it indeed open for public input, I'd like to use this file (originally posted at the [Open Science Stack Exchange beta](http://openscience.stackexchange.com/questions/143/any-open-science-ideas-for-the-nih-wide-strategic-plan)) to entertain some thoughts as to what to submit in order to raise awareness of open science amongst those who are involved with that plan or similar strategic plans developed elsewhere.
 
