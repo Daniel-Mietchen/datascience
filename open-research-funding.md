@@ -49,12 +49,17 @@ which also links to numerous examples of grant proposals that have already been 
    * "We all share the same objective: ensuring a fair review, free of bias, so that the most meritorious applications are identified for funding consideration by NIH. The peer review system belongs to the entire biomedical research community, not just to NIH — let’s do all we can as a community to preserve its integrity."
 
 # Relevant funding schemes
+* This listing is not meant to be complete, but suggestions for additions are most welcome.
 ## At NIH
 * [Disaster Health Information Outreach and Collaboration Project 2015 (RFQ No. NIHLM2015383)](http://disasterinfo.nlm.nih.gov/dimrc/2015disasteroutreachrfq.html)
 * [RFA-CA-15-006 "Big Data to Knowledge (BD2K) Advancing Biomedical Science Using Crowdsourcing and Interactive Digital Media (UH2)."](http://grants.nih.gov/grants/guide/rfa-files/RFA-CA-15-006.html)
 
 ## Elsewhere
 * [National Organization for Rare Disorders: Requests for Proposals](http://rarediseases.org/for-clinicians-and-researchers/research-opportunities/requests-proposals/)
+
+# Data about research funding
+* [CORDIS - EU research projects under Horizon 2020 (2014-2020) ](http://open-data.europa.eu/en/data/dataset/cordis-h2020projects-under-horizon-2020-2014-2020)
+* [NIH RePORT](http://projectreporter.nih.gov/reporter.cfm)
 
 # See also
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
