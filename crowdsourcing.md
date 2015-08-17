@@ -104,3 +104,6 @@ This file collects information on crowdsourcing in relation to research, especia
 * [The Organization of Scientific Research in Open Collaborative Projects](http://dx.doi.org/10.1016/j.respol.2013.07.005)
 * [Runkeeper & Research: The Keeping Pace Study](https://medium.com/access-matters/runkeeper-research-b109eb9949c3)
 * [ESA's cool new interactive comet visualization tool based on amateur imaging work with open data](http://www.planetary.org/blogs/emily-lakdawalla/2015/08131133-esa-interactive-rosetta-comet-malmer.html)
+* [SmartRoadSense](http://smartroadsense.it/) &mdash; measures road quality in Italy using triaxial accelometers in smartphones
+   * [paper](http://www.thinkmind.org/index.php?view=article&articleid=ubicomm_2014_7_50_10113)
+
