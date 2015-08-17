@@ -1,5 +1,5 @@
 # About
-Following a request from the US Congress, the National Institutes of Health (NIH) are currently working on a 5 year [Strategic Plan](http://www.nih.gov/about/strategic-plan/) and [inviting public feedback][1] on their framework for the plan by August 16. This process is somewhat separate from strategic plans being developed in the individual Institutes and Centers that make up the NIH. The current framework outlines a number of Areas of Opportunity that Apply Across Biomedicine as follows:
+Following a request from the US Congress, the National Institutes of Health (NIH) are currently working on a 5 year [Strategic Plan](http://www.nih.gov/about/strategic-plan/) and [inviting public feedback][1] on their [framework for the plan](http://www.nih.gov/about/strategic-plan/strategic-plan-2015.pdf) by August 16. This process is somewhat separate from strategic plans being developed in the individual Institutes and Centers that make up the NIH. The current framework outlines a number of Areas of Opportunity that Apply Across Biomedicine as follows:
  - Promote Fundamental Science
    - Basic science is the foundation for progress
    - Consequences of basic science discoveries are often unpredictable
