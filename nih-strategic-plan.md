@@ -13,6 +13,10 @@ Along with some metadata, the form asks for the following information (each with
    - missing in this picture: open science
      - but see recommendation 2 of the [report on NLM Strategic vision](http://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf):
        - "NLM should lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
+       - in particular, Recommendation #2c: "NLM should lead efforts to promulgate and implement best practices in 
+open source, open science, standards, and data harmonization, forming partnerships across 
+communities, stakeholder organizations, agencies, and countries. NLM should be an active 
+participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
  -  Comprehensive trans-NIH research themes that have not been captured in the Areas of Opportunity that Apply Across Biomedicine (boxes 2-4)
   - Promote Fundamental Science
     - Basic science is the foundation for progress
