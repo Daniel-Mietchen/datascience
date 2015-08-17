@@ -10,7 +10,7 @@ Thoughts and activities around [research data](http://datascience.nih.gov/), wit
   * [How can data best be described in order to lay the groundwork for interoperability across data sources?](https://github.com/Daniel-Mietchen/datascience/blob/master/common-data-elements.md)
 * Quantifying the reuse of various research objects, so as to gather information on what needs to be sustained.
   * [How are research objects being used and reused, and how can reuse be encouraged and quantified?](https://github.com/Daniel-Mietchen/datascience/blob/master/reuse.md)
-  * [How best to cite data?](https://github.com/Daniel-Mietchen/datascience/blob/master/data-citation.md)
+  * [How best to cite data and software?](https://github.com/Daniel-Mietchen/datascience/blob/master/data-citation.md)
   * [How to make data accessible for people with disabilities?](https://github.com/Daniel-Mietchen/datascience/blob/master/web-accessibility.md)
   * [How to sustain infrastructure for data sharing?](https://github.com/Daniel-Mietchen/datascience/blob/master/sustainability.md)
 * Engaging communities with data, both experts and in the framework of citizen science projects.
