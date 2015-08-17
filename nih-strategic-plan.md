@@ -1,10 +1,11 @@
 # About
-Following a request from the US Congress, the National Institutes of Health (NIH) are currently working on a 5 year [Strategic Plan](http://www.nih.gov/about/strategic-plan/) and [inviting public feedback][1] on their [framework for the plan](http://www.nih.gov/about/strategic-plan/strategic-plan-2015.pdf) by August 16. This process is somewhat separate from strategic plans being developed in the individual Institutes and Centers that make up the NIH. The current framework outlines a number of Areas of Opportunity that Apply Across Biomedicine as follows:
+Following a request from the US Congress, the National Institutes of Health (NIH) are currently working on a 5 year [Strategic Plan](http://www.nih.gov/about/strategic-plan/) and developed a [framework for the plan](http://www.nih.gov/about/strategic-plan/strategic-plan-2015.pdf), on which they [invited public feedback](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-118.html) by August 16, 2015. This strategic planning process is somewhat separate from strategic plans being developed in the individual Institutes, Centers and Offices (IOCs) that make up the NIH. 
+
+The current framework outlines a number of *Areas of Opportunity that Apply Across Biomedicine*, which are being referred to in the questions:
  - Promote Fundamental Science
    - Basic science is the foundation for progress
    - Consequences of basic science discoveries are often unpredictable
    - Advances in clinical research methodologies stimulate scientific progress
-     - advances in almost any X stimulate scientific progress, so this is a tautology, unless perhaps in case it is referring to the spiral nature of research progress
    - Leaps in technology often catalyze major scientific advances
    - Data science increases the impact and efficiency of research
  - Improve Health Promotion and Disease Prevention
@@ -16,10 +17,9 @@ Following a request from the US Congress, the National Institutes of Health (NIH
    - Breakdown of traditional disease boundaries
    - Breakthroughs need partnerships and often come from unexpected directions
 
+Not sure what the plan will mean in practice, but assuming it is useful and the process behind it indeed open for public input, my main motivation to contribute to the process was to raise awareness of the potential of open science amongst those who are involved with that plan or with similar strategic planning elsewhere. 
 
-Not sure what the plan will mean in practice, but supposing it is useful and the process behind it indeed open for public input, I'd like to use this file (originally posted at the [Open Science Stack Exchange beta](http://openscience.stackexchange.com/questions/143/any-open-science-ideas-for-the-nih-wide-strategic-plan)) to entertain some thoughts as to what to submit in order to raise awareness of open science amongst those who are involved with that plan or similar strategic plans developed elsewhere.
-
-Along with some metadata, the form asks for the following information (each with a maximum of 300 words):
+Along with requesting some metadata, the form asked the following questions (in bold), allowing responses of a maximum of 300 words each (mine are included below).
 
  -  **Potential benefits, drawbacks/challenges, and areas of consideration for the current framework** 
   -  The "Unique moment of opportunity in biomedical research" that the framework refers to has a range of flavors, many of which revolve around the digital transformation that our society is currently undergoing, and research with it. 
@@ -47,7 +47,6 @@ Along with some metadata, the form asks for the following information (each with
   - Finding ways to experiment with such pathways will likely be beneficial for navigating NIH through those next five years.
   - On a practical note, I would welcome it if such RFIs would provide an option to make submissions public, so that everyone interested could share in their thoughts and engage with them more directly than will be possible through the upcoming report that will summarize the submissions. Mine is available via https://github.com/Daniel-Mietchen/datascience/blob/master/nih-strategic-plan.md .
 
-  
-Attachments are permitted in "PDF, DOC, DOCX" formats.
 
-  [1]: http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-118.html
+Attachments were permitted in "PDF, DOC, DOCX" formats, but I did not submit any.
+
