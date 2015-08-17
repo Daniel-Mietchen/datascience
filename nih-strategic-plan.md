@@ -56,4 +56,4 @@ My submission receipt at [http://grants.nih.gov/grants/rfi/review.cfm?ID=46](htt
 > 08/16/2015 at 11:57:51:335 PM
 
 # See also
-* The [National Organization for Rare Disorders (NORD)](http://rarediseases.org/) also made [their response to the RFI](http://rarediseases.org/assets/files/policy-statements/2015-08-14.NORD-Comments-on-Request-for-Information-%28RFI%29-Inviting-Comments-and-Suggestions-on-a-Framework-for-the-NIH-wide-Strategic-Plan.pdf) public.
+* The [National Organization for Rare Disorders (NORD)](http://rarediseases.org/) made [their response to the RFI](http://rarediseases.org/assets/files/policy-statements/2015-08-14.NORD-Comments-on-Request-for-Information-%28RFI%29-Inviting-Comments-and-Suggestions-on-a-Framework-for-the-NIH-wide-Strategic-Plan.pdf) public too.
