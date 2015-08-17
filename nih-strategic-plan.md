@@ -23,13 +23,13 @@ Along with some metadata, the form asks for the following information (each with
   - What I am missing here is an item on open science under "Promote Fundamental Science" (perhaps "Open science increases the impact and efficiency of research", i.e. analogous to its data science item) as well as the notions of sustainable infrastructure and of crowdsourcing beyond current standards. 
   - The latter two points do not neatly fit into any of the three main Areas of Opportunity, as they extend across all of them. Infrastructure is necessary for progress in any of the areas listed, but sustainability is an issue here, especially in light of a continuously evolving and increasingly international and networked reserch landscape.
   - As for crowdsourcing, many research databases are curated by a community rather than individuals or labs, and via citizen science, the public gets more and more involved in how research is being conducted. In addition to that, patient-led innovation can complement innovation led by researchers, physicians, companies or others, and the optimal parameters for that interplay have yet to be explored. 
-  - The recent BD2K RFA on Crowdsourcing and Interactive Digital Media is an important step along these lines. 
+  - The recent BD2K RFA on Crowdsourcing and Interactive Digital Media is an important step along these lines, and the Precision Medicine Initiative lends particular weight to such approaches.
  -  **Components of the Areas of Opportunity that Apply Across Biomedicine that are not applicable to an NIH-wide Strategic Plan**
   - I do not see any components of the proposed framework that would not be applicable to an NIH-wide Strategic Plan. 
  -  **Future opportunities or emerging research needs**
-  - Provide responders to such RFIs with an option to have their responses made public
-  - Make NIH RePORTER more comprehensively open, so that it can be used as a tool to discover research ideas,  data, equipment, software or other resources as well as potential collaborators, mentors, educators
-    - think feed of all NIH-funded MRI scans or gene sequences
+  - One aspect of the digital transformation that I haven't yet touched upon in my response is that of new pathways to discovery, which may involve data management plans, social media, robot scientists or many other components that have not traditionally been part of the research process. 
+  - Finding ways to experiment with such pathways will likely be beneficial for navigating NIH through those next five years.
+  - On a practical note, I would welcome it if such RFIs would provide an option to make submissions public, so that everyone interested could share in their thoughts and engage with them more directly than will be possible through the upcoming report that will summarize the submissions. Mine is available via https://github.com/Daniel-Mietchen/datascience/blob/master/nih-strategic-plan.md .
 
   
 Attachments are permitted in "PDF, DOC, DOCX" formats.
