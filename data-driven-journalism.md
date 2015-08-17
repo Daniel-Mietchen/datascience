@@ -38,6 +38,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Wikidata Galaxy](http://wiki.polyfra.me/)
 * [WikiReplay](http://cosmiclattes.github.io/wikireplay/player.html)
 * [ESA's cool new interactive comet visualization tool based on amateur imaging work with open data](http://www.planetary.org/blogs/emily-lakdawalla/2015/08131133-esa-interactive-rosetta-comet-malmer.html)
+* [SmartRoadSense](http://smartroadsense.it/) &mdash; measures road quality in Italy using triaxial accelometers in smartphones
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
