@@ -18,7 +18,7 @@ Along with some metadata, the form asks for the following information (each with
        - "be a leader and innovator in open science efforts worldwide"
        - "lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
        - and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
-       - While I fully support these recommendations, I think it makes sense to expand the idea of leadership in open science beyond NLM and across all of NIH.
+   - While I fully support these recommendations, I think it makes sense to expand the idea of leadership in open science beyond NLM and across all of NIH.
  -  **Comprehensive trans-NIH research themes that have not been captured in the Areas of Opportunity that Apply Across Biomedicine (boxes 2-4)**
   - Promote Fundamental Science
     - Basic science is the foundation for progress
