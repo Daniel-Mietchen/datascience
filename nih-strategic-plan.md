@@ -1,5 +1,21 @@
 # About
-Following a request from the US Congress, the National Institutes of Health (NIH) are currently working on a 5 year [Strategic Plan](http://www.nih.gov/about/strategic-plan/) and [inviting public feedback][1] by August 16. This process is somewhat separate from strategic plans being developed in the individual Institutes and Centers that make up the NIH.
+Following a request from the US Congress, the National Institutes of Health (NIH) are currently working on a 5 year [Strategic Plan](http://www.nih.gov/about/strategic-plan/) and [inviting public feedback][1] on their framework for the plan by August 16. This process is somewhat separate from strategic plans being developed in the individual Institutes and Centers that make up the NIH. The current framework outlines a number of Areas of Opportunity that Apply Across Biomedicine as follows:
+ - Promote Fundamental Science
+   - Basic science is the foundation for progress
+   - Consequences of basic science discoveries are often unpredictable
+   - Advances in clinical research methodologies stimulate scientific progress
+     - advances in almost any X stimulate scientific progress, so this is a tautology, unless perhaps in case it is referring to the spiral nature of research progress
+   - Leaps in technology often catalyze major scientific advances
+   - Data science increases the impact and efficiency of research
+ - Improve Health Promotion and Disease Prevention
+   - Importance of studying healthy individuals
+   - Advances in early diagnosis/detection
+   - Evidence-based interventions to eliminate health disparities
+ - Advance Treatments and Cures
+   - Unprecedented opportunities on the basis of molecular knowledge
+   - Breakdown of traditional disease boundaries
+   - Breakthroughs need partnerships and often come from unexpected directions
+
 
 Not sure what the plan will mean in practice, but supposing it is useful and the process behind it indeed open for public input, I'd like to use this file (originally posted at the [Open Science Stack Exchange beta](http://openscience.stackexchange.com/questions/143/any-open-science-ideas-for-the-nih-wide-strategic-plan)) to entertain some thoughts as to what to submit in order to raise awareness of open science amongst those who are involved with that plan or similar strategic plans developed elsewhere.
 
