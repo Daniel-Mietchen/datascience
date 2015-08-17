@@ -14,15 +14,11 @@ Along with some metadata, the form asks for the following information (each with
   -  The digital transformation affects key components of the NIH mission, providing new opportunities "to foster fundamental creative discoveries, innovative research strategies, and their applications as a basis for ultimately protecting and improving health" and "to exemplify and promote the highest level of scientific integrity, public accountability, and social responsibility in the conduct of science" as well as for "conducting and supporting research  [..] in directing programs for the collection, dissemination, and exchange of information in medicine and health, including the development and support of medical libraries and the training of medical librarians and other health information specialists."
   -  An emphasis on openness throughout the research cycle, as outlined above, would certainly help advance NIH in these directions.
  -  **Additional concepts in ICO strategic plans that are cross-cutting and should be included in this trans-NIH strategic plan**
-   - In line 
-   - 
-   - missing in this picture: open science
-     - but see recommendation 2 of the [report on NLM Strategic vision](http://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf):
-       - "NLM should lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
-       - in particular, Recommendation #2c: "NLM should lead efforts to promulgate and implement best practices in 
-open source, open science, standards, and data harmonization, forming partnerships across 
-communities, stakeholder organizations, agencies, and countries. NLM should be an active 
-participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
+   - The [report on the strategic vision for the National Library of Medicine](http://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf) recommends that NLM should
+       - "be a leader and innovator in open science efforts worldwide"
+       - "lead efforts to support and catalyze open science, data sharing, and research reproducibility, striving to promote the concept that biomedical information and its transparent analysis are public"
+       - and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
+       - While I fully support these recommendations, I think it makes sense to expand the idea of leadership in open science beyond NLM and across all of NIH.
  -  **Comprehensive trans-NIH research themes that have not been captured in the Areas of Opportunity that Apply Across Biomedicine (boxes 2-4)**
   - Promote Fundamental Science
     - Basic science is the foundation for progress
