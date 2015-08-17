@@ -50,3 +50,7 @@ Along with requesting some metadata, the form asked the following questions (in 
 
 Attachments were permitted in "PDF, DOC, DOCX" formats, but I did not submit any.
 
+My submission receipt at [http://grants.nih.gov/grants/rfi/review.cfm?ID=46](http://grants.nih.gov/grants/rfi/review.cfm?ID=46) stated 
+>  Thank You - Your Comments Have Been Received. You may want to print this page with your comments for your records.
+> 
+> 08/16/2015 at 11:57:51:335 PM
