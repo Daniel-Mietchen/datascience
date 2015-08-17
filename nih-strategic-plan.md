@@ -20,6 +20,11 @@ Along with some metadata, the form asks for the following information (each with
        - and, in particular, "lead efforts to promulgate and implement best practices in open source, open science, standards, and data harmonization, forming partnerships across communities, stakeholder organizations, agencies, and countries" as well as "be an active participant in the design and oversight of programs that incentivize and celebrate the open sharing of data and resources."
    - While I fully support these recommendations, I think it makes sense to expand the idea of leadership in open science beyond NLM and across all of NIH.
  -  **Comprehensive trans-NIH research themes that have not been captured in the Areas of Opportunity that Apply Across Biomedicine (boxes 2-4)**
+  - What I am missing here is an item on open science under "Promote Fundamental Science" (perhaps "Open science increases the impact and efficiency of research", i.e. analogous to its data science item) as well as the notions of sustainable infrastructure and of crowdsourcing beyond current standards. 
+  - The latter two points do not neatly fit into any of the three main Areas of Opportunity, as they extend across all of them. Infrastructure is necessary for progress in any of the areas listed, but sustainability is an issue here, especially in light of a continuously evolving and increasingly international and networked reserch landscape.
+  - As for crowdsourcing, many research databases are curated by a community rather than individuals or labs, and via citizen science, the public gets more and more involved in how research is being conducted. In addition to that, patient-led innovation can complement innovation led by researchers, physicians, companies or others, and the optimal parameters for that interplay have yet to be explored. 
+  - The recent BD2K RFA on Crowdsourcing and Interactive Digital Media is an important step along these lines. 
+ -  **Components of the Areas of Opportunity that Apply Across Biomedicine that are not applicable to an NIH-wide Strategic Plan**
   - Promote Fundamental Science
     - Basic science is the foundation for progress
     - Consequences of basic science discoveries are often unpredictable
@@ -35,7 +40,6 @@ Along with some metadata, the form asks for the following information (each with
     - Unprecedented opportunities on the basis of molecular knowledge
     - Breakdown of traditional disease boundaries
     - Breakthroughs need partnerships and often come from unexpected directions
- -  **Components of the Areas of Opportunity that Apply Across Biomedicine that are not applicable to an NIH-wide Strategic Plan**
  -  **Future opportunities or emerging research needs**
   - Provide responders to such RFIs with an option to have their responses made public
   - Make NIH RePORTER more comprehensively open, so that it can be used as a tool to discover research ideas,  data, equipment, software or other resources as well as potential collaborators, mentors, educators
