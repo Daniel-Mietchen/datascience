@@ -8,7 +8,7 @@ Along with some metadata, the form asks for the following information (each with
  -  Potential benefits, drawbacks/challenges, and areas of consideration for the current framework 
   -  The topic of reproducibility is currently buried as the 6th bullet ("Ensure rigor and reproducibility") in the 6th box ("Enhancing Stewardship") of the framework &mdash; I think it should have a higher visibility, perhaps as part of the "Fundamental Science" box
  -  Compatibility of the framework with the broad scope of the [NIH mission](http://www.nih.gov/about/mission.htm)
-  -  especially "to exemplify and promote the highest level of scientific integrity, public accountability, and social responsibility in the conduct of science."
+  -  especially "to foster fundamental creative discoveries, innovative research strategies, and their applications as a basis for ultimately protecting and improving health" and "to exemplify and promote the highest level of scientific integrity, public accountability, and social responsibility in the conduct of science."
  -  Additional concepts in ICO strategic plans that are cross-cutting and should be included in this trans-NIH strategic plan
    - missing in this picture: open science
      - but see recommendation 2 of the [report on NLM Strategic vision](http://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf):
