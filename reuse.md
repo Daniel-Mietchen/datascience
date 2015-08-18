@@ -99,3 +99,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
       * [Code reuse](https://en.wikipedia.org/wiki/Code_reuse)
       * [Code reusability principles](https://en.wikipedia.org/wiki/Reusability)
       * [Why Software Reuse has Failed and How to Make It Work for You](http://www1.cse.wustl.edu/~schmidt/reuse-lessons.html)
+      * [Java's top 20: The most used Java libraries on GitHub](http://www.javaworld.com/article/2924315/open-source-tools/javas-top-20-the-most-used-java-libraries-on-github.html)
