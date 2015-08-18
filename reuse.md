@@ -95,3 +95,7 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * ["using text mining to track how the museum's 80-million-specimen collection is used in research papers'](http://dx.doi.org/10.1038/523115a)
 * [NIH Data Sharing Repositories](http://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html) &mdash; "This table lists NIH-supported data repositories that make data accessible for reuse."
 * Think about tracking reuse of software libraries
+      * [Reuse metrics](https://en.wikipedia.org/wiki/Reuse_metrics)
+      * [Code reuse](https://en.wikipedia.org/wiki/Code_reuse)
+      * [Code reusability principles](https://en.wikipedia.org/wiki/Reusability)
+      * [Why Software Reuse has Failed and How to Make It Work for You](http://www1.cse.wustl.edu/~schmidt/reuse-lessons.html)
