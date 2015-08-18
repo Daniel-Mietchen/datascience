@@ -100,3 +100,5 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
       * [Code reusability principles](https://en.wikipedia.org/wiki/Reusability)
       * [Why Software Reuse has Failed and How to Make It Work for You](http://www1.cse.wustl.edu/~schmidt/reuse-lessons.html)
       * [Java's top 20: The most used Java libraries on GitHub](http://www.javaworld.com/article/2924315/open-source-tools/javas-top-20-the-most-used-java-libraries-on-github.html)
+      * [What's the Most Popular Ruby Library?](http://omniref.com/blog/blog/2014/07/23/whats-the-most-used-ruby-library/)
+      * [What are the top 10 most useful and influential Python libraries and frameworks?](http://www.quora.com/What-are-the-top-10-most-useful-and-influential-Python-libraries-and-frameworks)
