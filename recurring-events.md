@@ -5,9 +5,9 @@ This file contains information regarding recurring events and how they relate to
 
 # [Computer Science Education Week](https://csedweek.org/)
 
-# MozFest
+# [MozFest](https://wiki.mozilla.org/Mozfest/2015)
 
-# Open Access Week
+# [Open Access Week](http://www.openaccessweek.org/)
 
 # Open Data Day
 
