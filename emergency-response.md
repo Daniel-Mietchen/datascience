@@ -32,6 +32,7 @@ I am particularly interested in the intersection between the two, i.e. organizat
   * in affected countries, Wikipedia was the most consulted source on Ebola (CFCF has references)
 * [Ebola teaches tough lessons about rapid research](http://dx.doi.org/10.1038/521405a)
 * [Ebola treatments caught in limbo](http://dx.doi.org/10.1038/511520a)
+* [ReliefWeb data on Ebola](https://data.hdx.rwlabs.org/ebola)
 
 # Earthquakes
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
@@ -75,6 +76,7 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [The identity crisis frustrating Nepal's quake survivors](http://www.irinnews.org/report/101525/the-identity-crisis-frustrating-nepal-s-quake-survivors)
 * [Post-disaster needs assessment](http://icnr2015.mof.gov.np/uploaded/PDNA_Executive_Summary_new.pdf)
 * [Nepal Earthquakes 2015: A review of existing information with regards to mental health and psychosocial support](http://www.prime.uct.ac.za/research-uptake/prime-in-the-media/125-nepal-earthquakes-2015-a-review-of-existing-information-with-regards-to-mental-health-and-psychosocial-support?utm_content=bufferafcf0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [ReliefWeb Open Data on Nepal earthquakes](https://data.hdx.rwlabs.org/group/nepal-earthquake)
 
 # Typhoons
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
@@ -94,6 +96,9 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * WHO expert group on 'Disability and disaster response' 
 * [Earthquakes without Frontiers](http://ewf.nerc.ac.uk/)
 * [Central Emergency Response Fund](http://www.unocha.org/cerf/)
+* [ReliefWeb](http://labs.reliefweb.int/)
+  * [The Humanitarian Data Exchange](https://data.hdx.rwlabs.org/)
+    * []()
 
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
