@@ -80,6 +80,7 @@ This file collects information on crowdsourcing in relation to research, especia
    * [MoleCures](https://www.molecures.com/)
    * [Wallacea](https://walacea.com/)
      * [Worlds First Imaging Study of the Brain on LSD](https://walacea.com/campaigns/lsd/)
+   * [Crowdfunding a licensing switch from closed to FLOSS](https://www.indiegogo.com/projects/prosemirror/#/story)
 
 ## Peer review
 * [Reminder About Your Responsibilities in Maintaining the Integrity of NIH Peer Review](http://nexus.od.nih.gov/all/2015/06/18/responsibilities-integrity-peer-review/)
