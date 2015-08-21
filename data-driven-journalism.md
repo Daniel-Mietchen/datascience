@@ -17,6 +17,7 @@ This file collects information pertaining to ways in which the interaction betwe
 # Examples of science journalism 
 ## using data
 * [The History Of Europe Lies In British People's DNA](http://www.buzzfeed.com/christinekenneally/the-history-of-europe-lies-in-british-peoples-dna)
+
 ## about data sharing
 * [Why medical journals must make researchers share data from clinical trials](https://theconversation.com/why-medical-journals-must-make-researchers-share-data-from-clinical-trials-44278)
     * [Sharing Clinical Trial Data: Maximizing Benefits, Minimizing Risk](http://iom.nationalacademies.org/Reports/2015/Sharing-Clinical-Trial-Data.aspx)
