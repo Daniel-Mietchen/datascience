@@ -37,3 +37,5 @@ This file hosts information regarding data management plans and how they could b
 * [Get My Health Data](http://getmyhealthdata.org/)
 * [Blue Button® Connector](http://bluebuttonconnector.healthit.gov/)
 * [Principles of data management and sharing at European Research Infrastructures](http://dx.doi.org/10.5281/zenodo.8304)
+* [Ethereum](https://ethereum.org/)
+  * allows for smart contracts
