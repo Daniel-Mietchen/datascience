@@ -111,3 +111,5 @@ which also links to numerous examples of grant proposals that have already been 
 * [Projects recently funded by the Canadian Cancer Society Research Institute](http://www.cancer.ca/en/research/funding-results/recent-competition-results/)
 * [On Decreasing Returns to Scale in Research Funding](http://www.issi2015.org/files/downloads/all-papers/0584.pdf)
 * Think about a Grant Discovery Index beyond systems like the [NIH RePORTER](http://projectreporter.nih.gov/reporter.cfm)
+* [Ethereum](https://ethereum.org/)
+  * allows for decentralized funding
