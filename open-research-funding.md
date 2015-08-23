@@ -109,3 +109,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [Towards an analytical understanding of peer review in research funding](www.researchgate.net/profile/Thomas_Koenig13/publication/279195198_Towards_an_analytical_understanding_of_peer_review_in_research_funding/links/558e3b8a08aed6ec4bf36de8.pdf)
 * ["we’ve decided to remove eligibility criteria based on years of postdoctoral experience"](http://www.insight.mrc.ac.uk/2015/03/18/science-doesnt-only-need-sprinters/)
 * [Projects recently funded by the Canadian Cancer Society Research Institute](http://www.cancer.ca/en/research/funding-results/recent-competition-results/)
+* [On Decreasing Returns to Scale in Research Funding](http://www.issi2015.org/files/downloads/all-papers/0584.pdf)
