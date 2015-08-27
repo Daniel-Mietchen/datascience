@@ -32,3 +32,5 @@ This file contains notes on how to make Web-based materials &ndash; and data in 
 # See also
 * [What standards exist for accessibility of open data?](http://opendata.stackexchange.com/questions/4772/what-standards-exist-for-accessibility-of-open-data) at Open Data Stack Exchange
 * [Publishers: Why is all your content not accessible?](http://www.digital-science.com/blog/guest/publishers-why-is-all-your-content-not-accessible/) &mdash; story of a blind physicist and the (in)accessibility of the scholarly literature for him
+* [Web accessibility for the disabled makes sense for everyone](http://www.slate.com/articles/technology/future_tense/2015/07/ada_25th_anniversary_the_internet_should_be_accessible_for_the_disabled.html)
+* 
