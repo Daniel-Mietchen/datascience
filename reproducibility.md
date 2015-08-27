@@ -34,3 +34,8 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [How can we perpetuate reproducibility?](http://openscience.stackexchange.com/questions/154/how-can-we-perpetuate-reproducibility)
 * [NWO to start a pilot project that will fund replication research](http://www.ru.nl/bsi/news-events/events/workshop-daniel/)
 * [Trials and errors: The evidence base for new medicines is flawed. Time to fix it](http://www.economist.com/news/leaders/21659743-evidence-base-new-medicines-flawed-time-fix-it-trials-and-errors)
+* [The first imperative: Science that isn’t transparent isn’t science](http://www.theguardian.com/science/head-quarters/2015/jun/25/the-first-imperative-science-that-isnt-transparent-isnt-science)
+* [Self-correction in science at work](http://dx.doi.org/10.1126/science.aab3847)
+* [Developer of Robot Scientist Wants to Standardize Science](http://www.wired.com/2011/04/robot-scientist-language/)
+* [Registered clinical trials make positive findings vanish](http://dx.doi.org/10.1038/524269f)
+* 
