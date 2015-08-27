@@ -103,3 +103,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
       * [What's the Most Popular Ruby Library?](http://omniref.com/blog/blog/2014/07/23/whats-the-most-used-ruby-library/)
       * [What are the top 10 most useful and influential Python libraries and frameworks?](http://www.quora.com/What-are-the-top-10-most-useful-and-influential-Python-libraries-and-frameworks)
 * [Public Domain Protection: Uses and Reuses of Public Domain Works](http://copy-me.org/2015/08/public-domain-protection-uses-and-reuses-of-public-domain-works/)
+* [On the formalization and reuse of scientific research](http://dx.doi.org/10.1098/rsif.2011.0029)
