@@ -20,3 +20,6 @@ This file collects information related to the concept of the Commons, as it appl
 * [Cloud technology: the advantages and disadvantages for universities](https://www.timeshighereducation.co.uk/blog/cloud-technology-advantages-and-disadvantages-universities)
 * [Ethereum](https://ethereum.org/)
   * allows for exchanges of tokens of value (e.g. Commons credit)
+
+# See also
+*[Startup Crunches 100 Terabytes of Data in a Record 23 Minutes](http://www.wired.com/2014/10/startup-crunches-100-terabytes-data-record-23-minutes/)
