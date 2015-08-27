@@ -82,3 +82,7 @@ This file collects thoughts about the research library of the future as well as 
  * [Ingenuity Unleashed: The spur of the Knight Challenge | Editorial](http://lj.libraryjournal.com/2015/03/opinion/editorial/ingenuity-unleashed-the-spur-of-the-knight-challenge-editorial/#_)
  * [The "Paper" of the Future](https://www.authorea.com/users/23/articles/8762/_show_article) &mdash; presenting authorea
 * [Mapping Libraries: Creating Real-time Maps of Global Information](http://blogs.loc.gov/digitalpreservation/2015/07/mapping-libraries-creating-real-time-maps-of-global-information/)
+* [Neil Gaiman: Why our future depends on libraries, reading and daydreaming](http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming)
+* [Resolution on the Retention of Library Usage Records](http://www.ala.org/advocacy/intfreedom/statementspols/ifresolutions/libraryusagerecords)
+* unclear quote: ["a library is the delivery room for the birth of ideas"](https://www.google.de/search?tbm=bks&hl=en&q=%22a+library+is+the+delivery+room+for+the+birth+of+ideas%22)
+* [Toward a New Alexandria](http://www.newrepublic.com/article/books-and-arts/toward-new-alexandria)
