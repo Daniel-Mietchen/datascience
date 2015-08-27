@@ -63,3 +63,4 @@ Things listed here have yet to be sorted into the structure above.
 * Rowland F. The peer-review process. Learned Publishing. 2002;15(4): 247–258. doi: [10.1087/095315102760319206](http://dx.doi.org/10.1087/095315102760319206)
 * [The End of Peer Review and Traditional Publishing as We Know It](http://www.medscape.com/viewarticle/583316)
 * [Advice on writing reviews of academic papers](https://github.com/jtleek/reviews)
+* [Using simplified peer review processes to fund research: a prospective study](http://bmjopen.bmj.com/content/5/7/e008380.short)
