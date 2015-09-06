@@ -6,7 +6,7 @@ This file hosts information regarding the sustainability of data-related infrast
   * [SUSTAINIA100](http://www.sustainia.me/solutions)
     * [example](https://medium.com/@ECONYL/sustania-building-blocks-for-sustainable-society-ad762d4c996a)
 
-# Science-related sustainability
+# Research-related sustainability
 * Sustainability-related activities at NIH
   * [Green Teams](http://nems.nih.gov/teams/Pages/default.aspx)
   * [NIH Earth Day](http://nems.nih.gov/Pages/earthday.aspx)
