@@ -65,3 +65,5 @@ Things listed here have yet to be sorted into the structure above.
 * [The End of Peer Review and Traditional Publishing as We Know It](http://www.medscape.com/viewarticle/583316)
 * [Advice on writing reviews of academic papers](https://github.com/jtleek/reviews)
 * [Using simplified peer review processes to fund research: a prospective study](http://bmjopen.bmj.com/content/5/7/e008380.short)
+* [Independent Peer Review Manifesto](http://www.openscholar.org.uk/independent-peer-review-manifesto/)
+   * [Developing the first Open Peer Review Module for Institutional Repositories](http://www.openscholar.org.uk/developing-the-first-open-peer-review-module-for-institutional-repositories/)
