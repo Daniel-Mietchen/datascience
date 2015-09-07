@@ -209,6 +209,10 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * [green copy](http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_084791.pdf)
 * [The Resource Identification Initiative: A cultural shift in publishing](http://dx.doi.org/10.12688/f1000research.6555.1) 
 * [Father of Web Calls for Opening Up Clinical Research Data](http://www.bloomberg.com/news/articles/2015-07-15/father-of-internet-calls-for-opening-up-clinical-research-data)
+* [Publishing in transition – Do we still need scientific journals?](https://www.scienceopen.com/document/vid/ad4713e2-4db2-4e37-bcf3-94ff0311fc7c#abstract)
+* [A Local Doctor Wants to Make Cancer Research Open-Source](http://www.bostonmagazine.com/health/blog/2015/09/01/jay-bradner-open-source/)
+* [Sparrho](http://www.sparrho.com/search/list/?p=1&channel=48345&) &mdash; discovery tool
+* [A grant to help us integrate GitLab with open source OSF](https://about.gitlab.com/2015/09/03/a-grant-to-help-us-integrate-gitlab-with-open-source-osf/)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
