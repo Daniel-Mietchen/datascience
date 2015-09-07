@@ -67,3 +67,4 @@ Things listed here have yet to be sorted into the structure above.
 * [Using simplified peer review processes to fund research: a prospective study](http://bmjopen.bmj.com/content/5/7/e008380.short)
 * [Independent Peer Review Manifesto](http://www.openscholar.org.uk/independent-peer-review-manifesto/)
    * [Developing the first Open Peer Review Module for Institutional Repositories](http://www.openscholar.org.uk/developing-the-first-open-peer-review-module-for-institutional-repositories/)
+* [The Promise and Perils of Pre-Publication Review: A Multi-Agent Simulation of Biomedical Discovery Under Varying Levels of Review Stringency](http://dx.doi.org/10.1371/journal.pone.0010782)
