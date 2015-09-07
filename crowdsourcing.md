@@ -108,4 +108,4 @@ This file collects information on crowdsourcing in relation to research, especia
 * [ESA's cool new interactive comet visualization tool based on amateur imaging work with open data](http://www.planetary.org/blogs/emily-lakdawalla/2015/08131133-esa-interactive-rosetta-comet-malmer.html)
 * [SmartRoadSense](http://smartroadsense.it/) &mdash; measures road quality in Italy using triaxial accelometers in smartphones
    * [paper](http://www.thinkmind.org/index.php?view=article&articleid=ubicomm_2014_7_50_10113)
-
+* [The Invisible Prevalence of Citizen Science in Global Research: Migratory Birds and Climate Change](http://dx.doi.org/10.1371/journal.pone.0106508)
