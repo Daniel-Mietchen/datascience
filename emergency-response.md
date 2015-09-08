@@ -109,3 +109,4 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Google Public Alerts](http://google.org/publicalerts)
 * [Research for Health in Humanitarian Crises](http://www.elrha.org/r2hc/funding/apply/)
 * [Global Warming Is Now a "Medical Emergency" That Could Wipe Out 50 Years of Global Health Gains](http://www.motherjones.com/environment/2015/06/climate-change-medical-emergency)
+* Review: [Emergency Response 10 Years After Katrina](http://blogs.cdc.gov/publichealthmatters/2015/08/emergency-response-10-years-after-katrina/)
