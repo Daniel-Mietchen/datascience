@@ -18,6 +18,9 @@ Some platforms that already open up some aspects of the funding process are desc
    * [ThinkLab as a vetting system for traditional grants](http://thinklab.com/discussion/thinklab-as-a-vetting-system-for-traditional-grants/58) 
 * HHS IDEA Lab
    * [Choosing the Ignite Summer 2015 Finalists: Our Selection Methodology and Reflections](http://www.hhs.gov/idealab/2015/04/16/choosing-the-ignite-summer-2015-finalists-our-selection-methodology-and-reflections/)
+* [RIO Journal](http://riojournal.com/)
+   * [A new journal wants to publish your research ideas](http://news.sciencemag.org/scientific-community/2015/09/new-journal-wants-publish-your-research-ideas)
+   * [The journal of proposals, ideas, data and more](http://dx.doi.org/10.1038/525161f)
 
 The educational value of open grant proposals is highlighted in
 * [How to find grant proposal samples?](http://academia.stackexchange.com/questions/1652/how-to-find-grant-proposal-samples),  
