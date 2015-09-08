@@ -120,4 +120,4 @@ which also links to numerous examples of grant proposals that have already been 
 * Think about a Grant Discovery Index beyond systems like the [NIH RePORTER](http://projectreporter.nih.gov/reporter.cfm)
 * [Ethereum](https://ethereum.org/)
   * allows for decentralized funding
-
+* [A call to fund people not proposals triggers strong reactions online](http://dx.doi.org/10.1038/523009f)
