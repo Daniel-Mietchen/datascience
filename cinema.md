@@ -21,3 +21,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 # Maybe watch in the future
 * [TED MED](https://www.youtube.com/user/tedmed) talks 
+* [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
