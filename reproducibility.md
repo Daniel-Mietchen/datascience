@@ -40,3 +40,4 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Registered clinical trials make positive findings vanish](http://dx.doi.org/10.1038/524269f)
 * [To understand the replication crisis, imagine a world in which everything was published](http://andrewgelman.com/2015/09/02/to-understand-the-replication-crisis-imagine-a-world-in-which-everything-was-published/)
     * quotes [earlier post](http://andrewgelman.com/2013/12/17/replication-backlash/): "It’s a strange view of science in which a few referee reports is enough to put something into a default-believe-it mode, but a failed replication doesn’t count for anything."
+* [From Peer-Reviewed to Peer-Reproduced in Scholarly Publishing: The Complementary Roles of Data Models and Workflows in Bioinformatics](http://dx.doi.org/10.1371/journal.pone.0127612)
