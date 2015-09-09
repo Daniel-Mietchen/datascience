@@ -105,4 +105,5 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Public Domain Protection: Uses and Reuses of Public Domain Works](http://copy-me.org/2015/08/public-domain-protection-uses-and-reuses-of-public-domain-works/)
 * [On the formalization and reuse of scientific research](http://dx.doi.org/10.1098/rsif.2011.0029)
 * [Open Data and Data Re-use](http://pro.europeana.eu/get-involved/europeana-tech/europeanatech-insight/issue-3-open-data-and-data-re-use)
+* [10 Simple rules for design, provision, and reuse of persistent identifiers for life science data](http://dx.doi.org/10.5281/zenodo.18003)
 
