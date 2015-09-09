@@ -51,4 +51,7 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 # See also
 * [policies around data management](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md#policies)
 * [policies around patient data](http://www.hhs.gov/news/press/2015pres/09/20150902b.html)
+* [Magna Carta for Data](https://www.insight-centre.org/magna-carta-for-data)
+* [Open science for a knowledge and data-driven economy](https://ec.europa.eu/digital-agenda/en/news/open-science-knowledge-and-data-driven-economy)
+* [Opening up research data](http://blog.hefce.ac.uk/2015/09/01/opening-up-research-data/)
 
