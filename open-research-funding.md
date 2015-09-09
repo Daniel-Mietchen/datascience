@@ -124,3 +124,7 @@ which also links to numerous examples of grant proposals that have already been 
 * [Ethereum](https://ethereum.org/)
   * allows for decentralized funding
 * [A call to fund people not proposals triggers strong reactions online](http://dx.doi.org/10.1038/523009f)
+* [Open Budget Data](http://blog.okfn.org/2015/09/02/mapping-open-budget-data/)
+* [Book Review: The Research Funding Toolkit](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/02/book-review-the-research-funding-toolkit/)
+* [ERC Proof of Concept grants](http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/calls/erc-2016-poc.html)
+* [A Plethora of Open Data Repositories (i.e., thousands!)](http://www.datasciencecentral.com/profiles/blogs/a-plethora-of-open-data-repositories-i-e-thousands)
