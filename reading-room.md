@@ -294,7 +294,9 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Genome-wide generation and systematic phenotyping of knockout mice reveals new roles for many genes](http://www.ncbi.nlm.nih.gov/pubmed/23870131)
 * [How to use Citation Typing Ontology (CiTO) in your blog posts](http://blogs.plos.org/mfenner/2011/02/14/how-to-use-citation-typing-ontology-cito-in-your-blog-posts/)
 * [Clinical trial simulator](http://www.economist.com/blogs/graphicdetail/2015/07/daily-chart-other-placebo-effect)
-
+* [The day when science is truly open](http://www.euroscientist.com/the-day-when-science-is-truly-open/)
+* [Critical appraisal guidelines for assessing the quality and impact of user involvement in research](http://dx.doi.org/10.1111/j.1369-7625.2010.00607.x)
+* [The Data Harvest Report – sharing data for knowledge, jobs and growth](https://rd-alliance.org/data-harvest-report-sharing-data-knowledge-jobs-and-growth.html)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
