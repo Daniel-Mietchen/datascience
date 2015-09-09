@@ -42,6 +42,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [ESA's cool new interactive comet visualization tool based on amateur imaging work with open data](http://www.planetary.org/blogs/emily-lakdawalla/2015/08131133-esa-interactive-rosetta-comet-malmer.html)
 * [SmartRoadSense](http://smartroadsense.it/) &mdash; measures road quality in Italy using triaxial accelometers in smartphones
 * [Listen to Wikipedia](http://listen.hatnote.com/)
+* [Wikimedia Grafana graphs of Wikidata profiling information](http://addshore.com/2015/09/wikimedia-grafana-graphs-of-wikidata-profiling-information/)
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
@@ -61,3 +62,4 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Story as Evidence, Evidence as Story](http://dx.doi.org/10.1001/jama.2015.3930) &mdash; on the role of data versus stories in communicating research with the public
 * [Using Open Data, a Scientist Is Finding New York City’s Best Stories](http://observer.com/2015/08/using-open-data-a-scientist-is-finding-new-york-citys-best-stories/)
 * [$4.7 Million Data Journalism Initiative Launched in Africa](https://medium.com/code-for-africa/4-7-million-data-journalism-initiative-launched-in-africa-189856fa68d4)
+* [Reddit AMA on science behind computer-based visualization](https://www.reddit.com/r/dataisbeautiful/comments/3ihcib/i_am_here_to_talk_about_the_science_behind/)
