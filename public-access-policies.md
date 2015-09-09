@@ -50,3 +50,5 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 
 # See also
 * [policies around data management](https://github.com/Daniel-Mietchen/datascience/blob/master/data-management-plans.md#policies)
+* [policies around patient data](http://www.hhs.gov/news/press/2015pres/09/20150902b.html)
+
