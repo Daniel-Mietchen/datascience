@@ -38,6 +38,8 @@ which also links to numerous examples of grant proposals that have already been 
 * [Biology proposals](http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/)
 * [Unsubmitted proposal made public](http://ivory.idyll.org/blog/2015-nih-tcc-draft.html)
 * [Internet banking proposal](http://sampleresearchproposals.blogspot.co.uk/2009/02/sample-research-proposal-on-internet.html)
+* [Wikidata for Research](http://dx.doi.org/10.5281/zenodo.13906)
+   * [2nd round](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/GIF_proposal)
 * How are preprint servers/ repositories being used for grant proposals?
    * [Chemistry Crowdsourcing and Open Notebook Science](http://dx.doi.org/10.1038/npre.2008.1505.1) - on Nature Precedings
 * Others:
