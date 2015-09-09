@@ -42,3 +42,4 @@ post publication peer review. Or improve research training and mentorship. Or ..
     * quotes [earlier post](http://andrewgelman.com/2013/12/17/replication-backlash/): "It’s a strange view of science in which a few referee reports is enough to put something into a default-believe-it mode, but a failed replication doesn’t count for anything."
 * [From Peer-Reviewed to Peer-Reproduced in Scholarly Publishing: The Complementary Roles of Data Models and Workflows in Bioinformatics](http://dx.doi.org/10.1371/journal.pone.0127612)
 * [Irreproducibility: A $28B/Year Problem with some Tangible Solutions](http://www.genengnews.com/insight-and-intelligence/irreproducibility-a-28b-year-problem-with-some-tangible-solutions/77900465/)
+* [Robust research: Institutions must do their part for reproducibility](http://dx.doi.org/10.1038/525025a)
