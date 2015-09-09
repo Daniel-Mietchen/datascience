@@ -23,4 +23,5 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [TED MED](https://www.youtube.com/user/tedmed) talks 
 * [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
 * [Big Data: Personalized Learning](https://www.youtube.com/watch?v=r099JYtanSY)
+* [How many trees in the world?](https://www.youtube.com/watch?v=jqdOkXQngw8)
 * [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
