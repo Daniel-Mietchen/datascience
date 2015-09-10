@@ -26,6 +26,13 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Researchers Sharing Data Was Supposed to Change Science Forever. Did It?](http://www.slate.com/blogs/future_tense/2015/06/24/darpa_s_biology_is_technology_conference_discusses_problems_with_open_source.html)
 
 # Engaging visualizations
+
+## Visualization-focused platforms
+* [Information is beautiful](http://www.informationisbeautiful.net/)
+* [Draw Science](http://www.drawscience.org/)
+* [Journal of Visualized Experiments (JoVE)](http://www.jove.com/)
+
+## Individual examples
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [Global shark tracker](http://www.ocearch.org/)
 * [What's there](http://www.whatsthere.co/) (real-time feed of Instagram photos by location)
