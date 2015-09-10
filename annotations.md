@@ -1,5 +1,5 @@
 # About
-This file collects information about annotation tools that can be used to annotate scholarly content on the Web.
+This file collects information about [Web annotation](https://en.wikipedia.org/wiki/Web_annotation) tools that can be used to annotate scholarly content on the Web.
 
 # Annotation standards
 * [W3C Web Annotation Working Group](http://www.w3.org/annotation/)
