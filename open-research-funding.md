@@ -73,6 +73,10 @@ which also links to numerous examples of grant proposals that have already been 
 * [ESRC](http://www.lssi.leeds.ac.uk/files/2014/10/transformative-research-call-2014.pdf)
 * [NIH Transformative Research Awards](http://grants.nih.gov/grants/guide/rfa-files/RFA-RM-15-005.html)
 
+# Potential issues with open review
+* interference from lobbyists
+    * [example](https://twitter.com/Clive_Bates/status/642229953115910144)
+
 # See also
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
 * [Fantasy Science Funding](http://ways.org/en/topics/fantasy_science_funding)
