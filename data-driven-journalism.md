@@ -31,6 +31,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Information is beautiful](http://www.informationisbeautiful.net/)
 * [Draw Science](http://www.drawscience.org/)
 * [Journal of Visualized Experiments (JoVE)](http://www.jove.com/)
+* [Walnut.io](https://thewalnut.io/)
 
 ## Individual examples
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
@@ -50,6 +51,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [SmartRoadSense](http://smartroadsense.it/) &mdash; measures road quality in Italy using triaxial accelometers in smartphones
 * [Listen to Wikipedia](http://listen.hatnote.com/)
 * [Wikimedia Grafana graphs of Wikidata profiling information](http://addshore.com/2015/09/wikimedia-grafana-graphs-of-wikidata-profiling-information/)
+* [Langton's ant](https://es.wikipedia.org/w/index.php?title=Hormiga_de_Langton&oldid=82325071) (on Spanish Wikipedia)
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
