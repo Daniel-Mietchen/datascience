@@ -98,7 +98,6 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Central Emergency Response Fund](http://www.unocha.org/cerf/)
 * [ReliefWeb](http://labs.reliefweb.int/)
   * [The Humanitarian Data Exchange](https://data.hdx.rwlabs.org/)
-    * []()
 
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
@@ -110,3 +109,4 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Research for Health in Humanitarian Crises](http://www.elrha.org/r2hc/funding/apply/)
 * [Global Warming Is Now a "Medical Emergency" That Could Wipe Out 50 Years of Global Health Gains](http://www.motherjones.com/environment/2015/06/climate-change-medical-emergency)
 * Review: [Emergency Response 10 Years After Katrina](http://blogs.cdc.gov/publichealthmatters/2015/08/emergency-response-10-years-after-katrina/)
+* [Developing Global Norms for Sharing Data and Results during Public Health Emergencies](http://www.who.int/medicines/ebola-treatment/data-sharing_phe/en/)
