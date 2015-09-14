@@ -113,5 +113,4 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Rise of the citizen scientist](http://dx.doi.org/10.1038/524265a)
 * [Citizen Scientist’s Algorithm Helps Science Gossip Team to Reduce Text-only Pages](http://blog.sciencegossip.org/2015/06/15/citizen-scientists-algorithm-helps-science-gossip-team-to-reduce-text-only-pages/)
 * [Measuring Success in Citizen Science Projects, Part 1: Methods](http://blog.zooniverse.org/2015/08/24/measuring-success-in-citizen-science-projects-part-1-methods/)
-* [The Invisible Prevalence of Citizen Science in Global Research: Migratory Birds and Climate Change](http://dx.doi.org/10.1371/journal.pone.0106508)
 
