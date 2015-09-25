@@ -18,10 +18,12 @@ This file collects examples of talks, lectures and other forms of presentations 
   * demands open science principles to be followed for medical research
 * [Computer Networks: The Heralds of Resource Sharing](https://archive.org/details/ComputerNetworks_TheHeraldsOfResourceSharing)
   * [on Wikipedia](https://en.wikipedia.org/wiki/Computer_Networks:_The_Heralds_of_Resource_Sharing)
+* [How many trees in the world?](https://www.youtube.com/watch?v=jqdOkXQngw8)
+  * provides an estimated number and some background on how it was arrived at, nicely visualized
 
 # Maybe watch in the future
 * [TED MED](https://www.youtube.com/user/tedmed) talks 
 * [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
 * [Big Data: Personalized Learning](https://www.youtube.com/watch?v=r099JYtanSY)
-* [How many trees in the world?](https://www.youtube.com/watch?v=jqdOkXQngw8)
 * [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
+* [Michaela Murphy | On Resilience](https://www.youtube.com/watch?v=phhT1rGc96c)
