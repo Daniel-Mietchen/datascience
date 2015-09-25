@@ -99,6 +99,10 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [ReliefWeb](http://labs.reliefweb.int/)
   * [The Humanitarian Data Exchange](https://data.hdx.rwlabs.org/)
 
+# UN Frameworks for Action for Risk Management
+* [Sendai Framework for Disaster Risk Reduction 2015-2030](http://reliefweb.int/report/world/sendai-framework-disaster-risk-reduction-2015-2030-aconf224crp1)
+* [Hyogo Framework for Action 2005-2015](http://www.unisdr.org/we/coordinate/hfa)
+
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
 * [List of natural disasters by death toll](https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll)
@@ -110,4 +114,3 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Global Warming Is Now a "Medical Emergency" That Could Wipe Out 50 Years of Global Health Gains](http://www.motherjones.com/environment/2015/06/climate-change-medical-emergency)
 * Review: [Emergency Response 10 Years After Katrina](http://blogs.cdc.gov/publichealthmatters/2015/08/emergency-response-10-years-after-katrina/)
 * [Developing Global Norms for Sharing Data and Results during Public Health Emergencies](http://www.who.int/medicines/ebola-treatment/data-sharing_phe/en/)
-* [Sendai Framework for Disaster Risk Reduction 2015-2030](http://reliefweb.int/report/world/sendai-framework-disaster-risk-reduction-2015-2030-aconf224crp1)
