@@ -99,9 +99,11 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [ReliefWeb](http://labs.reliefweb.int/)
   * [The Humanitarian Data Exchange](https://data.hdx.rwlabs.org/)
 
-# UN Frameworks for Action for Risk Management
-* [Sendai Framework for Disaster Risk Reduction 2015-2030](http://reliefweb.int/report/world/sendai-framework-disaster-risk-reduction-2015-2030-aconf224crp1)
-* [Hyogo Framework for Action 2005-2015](http://www.unisdr.org/we/coordinate/hfa)
+# UN initiatives
+* [UN International Strategy for Disaster Reduction](http://www.unisdr.org/)
+* UN Frameworks for Action for Risk Management
+  * [Sendai Framework for Disaster Risk Reduction 2015-2030](http://reliefweb.int/report/world/sendai-framework-disaster-risk-reduction-2015-2030-aconf224crp1)
+  * [Hyogo Framework for Action 2005-2015](http://www.unisdr.org/we/coordinate/hfa)
 
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
