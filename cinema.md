@@ -20,10 +20,11 @@ This file collects examples of talks, lectures and other forms of presentations 
   * [on Wikipedia](https://en.wikipedia.org/wiki/Computer_Networks:_The_Heralds_of_Resource_Sharing)
 * [How many trees in the world?](https://www.youtube.com/watch?v=jqdOkXQngw8)
   * provides an estimated number and some background on how it was arrived at, nicely visualized
+* [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
+  * inroduces the Web annotation tool [Hypothes.is](https://hypothes.is/) as an element of human cultural evolution
 
 # Maybe watch in the future
 * [TED MED](https://www.youtube.com/user/tedmed) talks 
-* [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
 * [Big Data: Personalized Learning](https://www.youtube.com/watch?v=r099JYtanSY)
 * [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
 * [Michaela Murphy | On Resilience](https://www.youtube.com/watch?v=phhT1rGc96c)
