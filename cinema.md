@@ -21,7 +21,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [How many trees in the world?](https://www.youtube.com/watch?v=jqdOkXQngw8)
   * provides an estimated number and some background on how it was arrived at, nicely visualized
 * [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
-  * inroduces the Web annotation tool [Hypothes.is](https://hypothes.is/) as an element of human cultural evolution
+  * introduces the Web annotation tool [Hypothes.is](https://hypothes.is/) as an element of human cultural evolution
 
 # Maybe watch in the future
 * [TED MED](https://www.youtube.com/user/tedmed) talks 
