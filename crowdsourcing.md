@@ -114,3 +114,5 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Citizen Scientist’s Algorithm Helps Science Gossip Team to Reduce Text-only Pages](http://blog.sciencegossip.org/2015/06/15/citizen-scientists-algorithm-helps-science-gossip-team-to-reduce-text-only-pages/)
 * [Measuring Success in Citizen Science Projects, Part 1: Methods](http://blog.zooniverse.org/2015/08/24/measuring-success-in-citizen-science-projects-part-1-methods/)
 
+# See also
+* [Crowdsourcing in business and management disciplines: an integrative literature review](http://dx.doi.org/10.1186/s40497-015-0039-2)
