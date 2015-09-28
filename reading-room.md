@@ -1,5 +1,5 @@
 # About
-This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. The plan is to spend an entire day every now and then on sorting and reading through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
+This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. Most of these I have read already but typically under circumstances (e.g. offline on a train) that did not provide me with an opportunity to properly include them here. The plan is thus to spend an entire day every now and then on sorting and reading  through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
 
 # List
 * [What should a modern scientific infrastructure look like?](http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/)
@@ -572,3 +572,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [“The rate at which we're generating data is rapidly outpacing our ability to analyze it,”](http://uk.businessinsider.com/mind-blowing-growth-and-power-of-big-data-2015-6?r=US#ixzz3jyKN2c60)
 * ["A study conducted by General Electric concluded that the Internet of Things (IoT) over the next 20 years could add as much as $15 trillion to the global gross domestic product (GDP), roughly “the size of today’s U.S. economy.”"](http://www.cisco.com/c/en/us/solutions/collateral/enterprise/cisco-on-cisco/Cisco_IT_Trends_IoE_Is_the_New_Economy.html)
 * ["The next billion consumers are not ‘another billion’"](http://www.bain.com/publications/articles/macro-trends-to-add-trillions-of-dollars-to-global-gdp-in-2020-the-economic-times.aspx)
+* [Academics Write Papers Arguing Over How Many People Read (And Cite) Their Papers](http://www.smithsonianmag.com/smart-news/half-academic-studies-are-never-read-more-three-people-180950222/)
