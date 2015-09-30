@@ -36,6 +36,10 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 ## G8
 * [G8 Open Data Charter](http://www.international.gc.ca/g8/open_data_charter-charte_du_g8_sur_les_donnees_ouvertes.aspx?lang=eng)
 
+## OECD
+* [Report on Open Science (2015)](https://www.innovationpolicyplatform.org/content/open-science)
+  * "Open science in the information age espouses the notion that knowledge created from public research has public good characteristics that go beyond the concept of the “commons” developed in the 18th century, insofar as ICT-enabled access broadens the possibilities to enrich the commons and extend it to a broader range of users. "
+
 # Publishers
 * [PLOS](http://blogs.plos.org/everyone/2014/02/24/plos-new-data-policy-public-access-data-2/)
 * [BMJ](http://dx.doi.org/10.1136/bmj.h2373)
