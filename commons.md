@@ -20,6 +20,8 @@ This file collects information related to the concept of the Commons, as it appl
 * [Cloud technology: the advantages and disadvantages for universities](https://www.timeshighereducation.co.uk/blog/cloud-technology-advantages-and-disadvantages-universities)
 * [Ethereum](https://ethereum.org/)
   * allows for exchanges of tokens of value (e.g. Commons credit)
+* [OECD report on Open Science (2015)](https://www.innovationpolicyplatform.org/content/open-science)
+  * "Open science in the information age espouses the notion that knowledge created from public research has public good characteristics that go beyond the concept of the “commons” developed in the 18th century, insofar as ICT-enabled access broadens the possibilities to enrich the commons and extend it to a broader range of users. "
 
 # See also
 * [Startup Crunches 100 Terabytes of Data in a Record 23 Minutes](http://www.wired.com/2014/10/startup-crunches-100-terabytes-data-record-23-minutes/)
