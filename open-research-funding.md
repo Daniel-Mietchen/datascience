@@ -45,6 +45,7 @@ which also links to numerous examples of grant proposals that have already been 
    * [Chemistry Crowdsourcing and Open Notebook Science](http://dx.doi.org/10.1038/npre.2008.1505.1) - on Nature Precedings
 * Others:
    * [OpenDreamKit](https://github.com/OpenDreamKit/OpenDreamKit)
+     * [commentary](http://www.walkingrandomly.com/?p=5649)
    * [FreeTL for i2B2](https://docs.google.com/document/d/1MOSYD2aHQWqHaIjeGaHMXJX7oUTJLHEVDH9cT_FPGUI/edit)
    * [NIH Grant proposal for sale!](http://sulab.org/2014/03/nih-grant-proposal-for-sale/)
    * [Proposal to Sample Middle Stone Age Animal and Homo sapiens Specimens from Die Kelders Cave 1, Western Cape Province, South Africa, for Ancient DNA](http://www.sahra.org.za/sahris/sites/default/files/additionaldocs/Die%20Kelders%20Proposal%20final.pdf)
