@@ -21,6 +21,7 @@ This file collects information on crowdsourcing in relation to research, especia
    * [INVOLVE](http://www.invo.org.uk/)
      * [People in Research](http://www.peopleinresearch.org/)
    * [Get My Health Data](http://getmyhealthdata.org/)
+   * [PatientHack](https://twitter.com/hashtag/patienthack15?f=tweets&vertical=default&src=hash)
 * Physicians
   * [PDQ (Physician Data Query)](http://www.cancer.gov/cancertopics/pdq)
 * Students
