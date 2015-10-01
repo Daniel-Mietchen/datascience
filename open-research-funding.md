@@ -36,6 +36,7 @@ which also links to numerous examples of grant proposals that have already been 
 * [Polymath project](https://en.wikipedia.org/wiki/Polymath_Project)
 * [Maths proposals](http://www.math.rutgers.edu/~zeilberg/Opinion117Appendix.html)
 * [Biology proposals](http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/)
+* [e-Health proposals](http://www.researchprotocols.org/themes/84)
 * [Unsubmitted proposal made public](http://ivory.idyll.org/blog/2015-nih-tcc-draft.html)
 * [Internet banking proposal](http://sampleresearchproposals.blogspot.co.uk/2009/02/sample-research-proposal-on-internet.html)
 * [Wikidata for Research](http://dx.doi.org/10.5281/zenodo.13906)
