@@ -137,3 +137,5 @@ which also links to numerous examples of grant proposals that have already been 
 * [Book Review: The Research Funding Toolkit](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/02/book-review-the-research-funding-toolkit/)
 * [ERC Proof of Concept grants](http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/calls/erc-2016-poc.html)
 * [A Plethora of Open Data Repositories (i.e., thousands!)](http://www.datasciencecentral.com/profiles/blogs/a-plethora-of-open-data-repositories-i-e-thousands)
+* [Research body calls for more funding for ‘free research’](http://www.universityworldnews.com/article.php?story=20150917140505584)
+   * [original report "Forskningens framtid! Vägval för framtidens forskningssystem: Målbild och rekommendationer"](https://publikationer.vr.se/produkt/forskningens-framtid-vagval-for-framtidens-forskningssystem-malbild-och-rekommendationer/)
