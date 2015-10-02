@@ -573,3 +573,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * ["A study conducted by General Electric concluded that the Internet of Things (IoT) over the next 20 years could add as much as $15 trillion to the global gross domestic product (GDP), roughly “the size of today’s U.S. economy.”"](http://www.cisco.com/c/en/us/solutions/collateral/enterprise/cisco-on-cisco/Cisco_IT_Trends_IoE_Is_the_New_Economy.html)
 * ["The next billion consumers are not ‘another billion’"](http://www.bain.com/publications/articles/macro-trends-to-add-trillions-of-dollars-to-global-gdp-in-2020-the-economic-times.aspx)
 * [Academics Write Papers Arguing Over How Many People Read (And Cite) Their Papers](http://www.smithsonianmag.com/smart-news/half-academic-studies-are-never-read-more-three-people-180950222/)
+* Urban health
+  * including [mental health](http://www.citymetric.com/skylines/we-should-think-more-about-link-between-urban-design-and-mental-health-1321)
