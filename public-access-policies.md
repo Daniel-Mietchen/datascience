@@ -41,9 +41,11 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
   * "Open science in the information age espouses the notion that knowledge created from public research has public good characteristics that go beyond the concept of the “commons” developed in the 18th century, insofar as ICT-enabled access broadens the possibilities to enrich the commons and extend it to a broader range of users. "
 
 # Publishers
-* [PLOS](http://blogs.plos.org/everyone/2014/02/24/plos-new-data-policy-public-access-data-2/)
+* [BMC](http://dx.doi.org/10.1186/1756-0500-5-494)
 * [BMJ](http://dx.doi.org/10.1136/bmj.h2373)
   * [commentary](https://theconversation.com/why-medical-journals-must-make-researchers-share-data-from-clinical-trials-44278)
+* [Pensoft](http://www.pensoft.net/J_FILES/Pensoft_Data_Publishing_Policies_and_Guidelines.pdf)
+* [PLOS](http://blogs.plos.org/everyone/2014/02/24/plos-new-data-policy-public-access-data-2/)
 
 # Other organizations
 * [Wikimedia](http://blog.wikimedia.org/2015/03/18/wikimedia-open-access-policy/)
