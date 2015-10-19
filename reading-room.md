@@ -575,3 +575,15 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Academics Write Papers Arguing Over How Many People Read (And Cite) Their Papers](http://www.smithsonianmag.com/smart-news/half-academic-studies-are-never-read-more-three-people-180950222/)
 * Urban health
   * including [mental health](http://www.citymetric.com/skylines/we-should-think-more-about-link-between-urban-design-and-mental-health-1321)
+* [Getting Started in Text Mining](http:?/dx.doi.org/10.1371/journal.pcbi.0040020)
+* [The Genomes of Oryza sativa: A History of Duplications](http://dx.doi.org/10.1371/journal.pbio.0030038)
+* [The Roots of Bioinformatics in ISMB](http://dx.doi.org/10.1371/journal.pcbi.1002679)
+* [CAMERA: A Community Resource for Metagenomics](http://dx.doi.org/10.1371/journal.pbio.0050075)
+* [Research Ethics Recommendations for Whole-Genome Research: Consensus Statement](http://dx.doi.org/10.1371/journal.pbio.0060073)
+* [For Mammals, Loss of Yolk and Gain of Milk Went Hand in Hand](http://dx.doi.org/10.1371/journal.pbio.0060077)
+* [Is Sleep Essential?](http://dx.doi.org/10.1371/journal.pbio.0060216)
+* [Biodiversity Loss Threatens Human Well-Being](http://dx.doi.org/10.1371/journal.pbio.0040277)
+* [Variants of the Selberg sieve, and bounded intervals containing many primes](http://dx.doi.org/10.​1186/​s40687-015-0033-x) (Polymath paper)
+* [Mathematics Is Biology's Next Microscope, Only Better; Biology Is Mathematics' Next Physics, Only Better](http://dx.doi.org/10.1371/journal.pbio.0020439)
+* [Biomineralisation by earthworms – an investigation into the stability and distribution of amorphous calcium carbonate](https://dx.doi.org/10.1186/s12932-015-0019-z)
+
