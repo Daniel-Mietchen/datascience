@@ -28,3 +28,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Big Data: Personalized Learning](https://www.youtube.com/watch?v=r099JYtanSY)
 * [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
 * [Michaela Murphy | On Resilience](https://www.youtube.com/watch?v=phhT1rGc96c)
+* [CMake talk](https://www.youtube.com/watch?v=TqjtN8NGtl4)
