@@ -33,6 +33,7 @@ which also links to numerous examples of grant proposals that have already been 
 * [Longitude Prize](https://longitudeprize.org/) 
    * [List of entries](https://longitudeprize.org/view-entries)
 * [Jisc Elevator](http://elevator.jisc.ac.uk/e/2-startup-projects/ideas)
+* [NIH: Sample Applications and Summary Statements](www.niaid.nih.gov/researchfunding/grant/pages/appsamples.aspx)
 * [Polymath project](https://en.wikipedia.org/wiki/Polymath_Project)
 * [Maths proposals](http://www.math.rutgers.edu/~zeilberg/Opinion117Appendix.html)
 * [Biology proposals](http://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/)
