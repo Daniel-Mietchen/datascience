@@ -39,4 +39,8 @@ This file is to facilitate the collection of information pertaining to the citat
       * [Invitation to comment on a proposal for a cohesive research software citation-enabling platform](http://astronomy-software-index.github.io/2015-workshop/)
       * [Making code citable with Zenodo and GitHub](http://www.software.ac.uk/node/1720)
       * [Making Your Code Citable](https://guides.github.com/activities/citable-code/)
+      * [codemeta](https://github.com/codemeta/codemeta)
+      * [Code as a research object](https://github.com/mozillascience/code-research-object)
+      * [fidgit](https://github.com/mozillascience/fidgit)
+      * [Assessing the Impact of Software on Science Through Bootstrapped Learning in Full Texts](http://us3.campaign-archive2.com/?u=c8914f488de27003a4fd3f676&id=99b0d4cadb&e=1eca72590a)
 * [Making data count](http://dx.doi.org/10.1038/sdata.2015.39)
