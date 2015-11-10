@@ -69,3 +69,6 @@ Things listed here have yet to be sorted into the structure above.
    * [Developing the first Open Peer Review Module for Institutional Repositories](http://www.openscholar.org.uk/developing-the-first-open-peer-review-module-for-institutional-repositories/)
 * [The Promise and Perils of Pre-Publication Review: A Multi-Agent Simulation of Biomedical Discovery Under Varying Levels of Review Stringency](http://dx.doi.org/10.1371/journal.pone.0010782)
 * [The rise of patient peer review](http://news.sciencemag.org/health/2014/12/rise-patient-peer-review)
+* [The Self-Journal of Science](http://www.sjscience.org/)
+* [Antipattern](https://www.antipattern.io/)
+
