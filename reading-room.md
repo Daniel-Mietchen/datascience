@@ -141,6 +141,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Live-blog: the Future of Scholarly Scientific Communication](http://svpow.com/2015/04/20/live-blog-the-future-of-scholarly-scientific-communication/)
 * [commcerce.gov big data project with Amazon Web Services, Google Cloud Platform, IBM, Microsoft Corp., and the Open Cloud Consortium](http://www.commerce.gov/news/press-releases/2015/04/us-secretary-commerce-penny-pritzker-announces-new-collaboration-unleash)
 * [BD2K on GitHub?](https://github.com/BD2K)
+* [BD2K all-hands meeting](http://www.scgcorp.com/BD2K2015/Agenda)
 * [Reuse of publicly available biomedical data is increasing and producing some great successes](http://synapse.ucsf.edu/articles/2015/04/02/may-i-have-peek-reuse-publicly-available-biomedical-data-increasing-and)
 * [TED MED Great Challenges](http://tedmed.com/greatchallenges/challenge/491312)
 * [Open research and collaborations](https://emckiernan.wordpress.com/2015/04/09/open-research-and-collaborations/)
