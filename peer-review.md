@@ -44,6 +44,7 @@ Things listed here have yet to be sorted into the structure above.
   * [Peer review by endorsement](http://blog.scienceopen.com/2015/04/welcome-jan-velterop-peer-review-by-endorsement/)
   * [ThinkLab](http://thinklab.com/)
   * [DropDeadPaper](http://www.dropdeadpaper.com/)
+  * [Curate Science](https://curatescience.org/)
 * NIH Peer review practices reviewed [here](http://dx.doi.org/10.1177/1098214015582049) 
 * Another one on NIH peer reviewing:
    * [Predicting Productivity Returns on Investment: Thirty Years of Peer Review, Grant Funding, and Publication of Highly Cited Papers at the National Heart, Lung, and Blood Institute ](http://dx.doi.org/10.1161/CIRCRESAHA.115.306830)
