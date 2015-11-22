@@ -6,6 +6,8 @@ This file is to facilitate the collection of information pertaining to the citat
 
 > NIH will explore ways to advance data as a legitimate form of scholarship through data citation and other means. 
 
+
+
 # Resources
 * [Joint Declaration of Data Citation Principles](https://www.force11.org/datacitation)
 * [The Evolution of Data Citation: From Principles to Implementation](http://www.iassistdata.org/downloads/iqvol371_4_altman.pdf)
@@ -29,9 +31,7 @@ This file is to facilitate the collection of information pertaining to the citat
     * Basic idea: [implement dynamic data citation by assigning identifier to a query with time stamp](https://twitter.com/hilaryhanahoe/status/575096544933752832) 
     * Details: [Dynamic Data Citation: which time-stamp to assign?](https://rd-alliance.org/group/data-citation-wg/post/dynamic-data-citation-which-time-stamp-assign.html)
 * [Data-level metrics](http://datapub.cdlib.org/category/data-citation-2/)
-
-# Events
-* [Open Research Data: Implications for Science and Society](http://opendataconference2015.pon.edu.pl/) (Warsaw, Poland, May 28–29, 2015)
+* [Academic citation practices need to be modernized so that all references are digital and lead to full texts](http://blogs.lse.ac.uk/impactofsocialsciences/2014/05/21/academic-citation-practices-need-to-be-modernized/)
 
 # See also
 * Software citation
