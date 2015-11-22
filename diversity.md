@@ -19,3 +19,4 @@ This file collects information pertaining to (workforce and subject) diversity, 
 * [Consideration of Sex as a Biological Variable in NIH-funded Research](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
 * [Why Science Needs Female Mice](http://www.nytimes.com/2015/07/19/opinion/sunday/why-science-needs-female-mice.html)
 * [The Women Behind the New Horizons Mission and New Pluto Map](http://www.americaspace.com/?p=84357)
+* [Lack of women professors means research grants are skewed towards men](https://theconversation.com/lack-of-women-professors-means-research-grants-are-skewed-towards-men-47239)
