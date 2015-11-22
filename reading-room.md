@@ -581,6 +581,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [The Roots of Bioinformatics in ISMB](http://dx.doi.org/10.1371/journal.pcbi.1002679)
 * [CAMERA: A Community Resource for Metagenomics](http://dx.doi.org/10.1371/journal.pbio.0050075)
 * [Research Ethics Recommendations for Whole-Genome Research: Consensus Statement](http://dx.doi.org/10.1371/journal.pbio.0060073)
+* [US agencies plan research-ethics overhaul](http://dx.doi.org/10.1038/nature.2015.18309)
 * [For Mammals, Loss of Yolk and Gain of Milk Went Hand in Hand](http://dx.doi.org/10.1371/journal.pbio.0060077)
 * [Is Sleep Essential?](http://dx.doi.org/10.1371/journal.pbio.0060216)
 * [Biodiversity Loss Threatens Human Well-Being](http://dx.doi.org/10.1371/journal.pbio.0040277)
