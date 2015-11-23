@@ -20,3 +20,4 @@ This file collects information pertaining to (workforce and subject) diversity, 
 * [Why Science Needs Female Mice](http://www.nytimes.com/2015/07/19/opinion/sunday/why-science-needs-female-mice.html)
 * [The Women Behind the New Horizons Mission and New Pluto Map](http://www.americaspace.com/?p=84357)
 * [Lack of women professors means research grants are skewed towards men](https://theconversation.com/lack-of-women-professors-means-research-grants-are-skewed-towards-men-47239)
+* [The Untold History of Women in Science and Technology](https://www.whitehouse.gov/women-in-STEM)
