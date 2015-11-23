@@ -26,3 +26,4 @@ This file collects information related to the concept of the Commons, as it appl
 # See also
 * [Startup Crunches 100 Terabytes of Data in a Record 23 Minutes](http://www.wired.com/2014/10/startup-crunches-100-terabytes-data-record-23-minutes/)
 * [Virtual Machine Manager (CERN)](https://vmm.cern.ch/vmm/)
+      * replaced by [CernVM](http://cernvm.cern.ch/portal/)
