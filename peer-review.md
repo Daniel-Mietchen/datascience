@@ -76,4 +76,5 @@ Things listed here have yet to be sorted into the structure above.
 * [The Self-Journal of Science](http://www.sjscience.org/)
 * [Antipattern](https://www.antipattern.io/)
 * [Changes for EGU interactive journals: new library and payment concept](http://www.egu.eu/news/195/changes-for-egu-interactive-journals-new-library-and-payment-concept/)
+* [Beyond open access: open discourse, the next great equalizer](https://dx.doi.org/10.1186/1742-4690-3-55)
 
