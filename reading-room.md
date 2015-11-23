@@ -589,4 +589,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Variants of the Selberg sieve, and bounded intervals containing many primes](http://dx.doi.org/10.​1186/​s40687-015-0033-x) (Polymath paper)
 * [Mathematics Is Biology's Next Microscope, Only Better; Biology Is Mathematics' Next Physics, Only Better](http://dx.doi.org/10.1371/journal.pbio.0020439)
 * [Biomineralisation by earthworms – an investigation into the stability and distribution of amorphous calcium carbonate](https://dx.doi.org/10.1186/s12932-015-0019-z)
+* [How science is distilling its message](https://www.timeshighereducation.com/research-intelligence/straight-point-how-science-distilling-its-message)
 
