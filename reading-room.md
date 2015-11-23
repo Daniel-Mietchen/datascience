@@ -595,3 +595,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Mapping the Landscape of Research Data: How JLSC Contributors View this Rapidly Emerging Terrain](http://jlsc-pub.org/articles/abstract/10.7710/2162-3309.1279/)
   * [special JLSC issue on all aspects of data management](http://jlsc-pub.org/10/volume/3/issue/2/)
 * [Research funding should go to research, not to publishers!](http://www.leru.org/index.php/public/extra/signtheLERUstatement/)
+* [The Politics of Data: The rising prominence of a data-centric approach to scientific research](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/05/politics-of-data-scientific-data-centrism/)
