@@ -591,4 +591,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Biomineralisation by earthworms – an investigation into the stability and distribution of amorphous calcium carbonate](https://dx.doi.org/10.1186/s12932-015-0019-z)
 * [How science is distilling its message](https://www.timeshighereducation.com/research-intelligence/straight-point-how-science-distilling-its-message)
 * [What do mHealth, eHealth and behavioral science mean for the future of healthcare?](http://radar.oreilly.com/2012/05/mhealth-ehealth-mobile-healthcare.html)
+* [Research Lifecycle](https://library.westernsydney.edu.au/uws_library/researchers/research-lifecycle)
 
