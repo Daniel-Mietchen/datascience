@@ -596,3 +596,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   * [special JLSC issue on all aspects of data management](http://jlsc-pub.org/10/volume/3/issue/2/)
 * [Research funding should go to research, not to publishers!](http://www.leru.org/index.php/public/extra/signtheLERUstatement/)
 * [The Politics of Data: The rising prominence of a data-centric approach to scientific research](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/05/politics-of-data-scientific-data-centrism/)
+* [The open-data revolution has not lived up to expectations. But it is only getting started](http://www.economist.com/news/international/21678833-open-data-revolution-has-not-lived-up-expectations-it-only-getting?fsrc=scn/li/te/pe/ed/outofthebox)
