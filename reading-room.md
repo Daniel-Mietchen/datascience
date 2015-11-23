@@ -593,3 +593,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [What do mHealth, eHealth and behavioral science mean for the future of healthcare?](http://radar.oreilly.com/2012/05/mhealth-ehealth-mobile-healthcare.html)
 * [Research Lifecycle](https://library.westernsydney.edu.au/uws_library/researchers/research-lifecycle)
 * [Mapping the Landscape of Research Data: How JLSC Contributors View this Rapidly Emerging Terrain](http://jlsc-pub.org/articles/abstract/10.7710/2162-3309.1279/)
+  * [special JLSC issue on all aspects of data management](http://jlsc-pub.org/10/volume/3/issue/2/)
