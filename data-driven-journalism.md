@@ -17,6 +17,7 @@ This file collects information pertaining to ways in which the interaction betwe
 # Examples of science journalism 
 ## using data
 * [The History Of Europe Lies In British People's DNA](http://www.buzzfeed.com/christinekenneally/the-history-of-europe-lies-in-british-peoples-dna)
+* [Doing Journalism with Data](http://datadrivenjournalism.net/)
 
 ## about data sharing
 * [Why medical journals must make researchers share data from clinical trials](https://theconversation.com/why-medical-journals-must-make-researchers-share-data-from-clinical-trials-44278)
@@ -60,7 +61,6 @@ This file collects information pertaining to ways in which the interaction betwe
     * [Knight Prototype Fund invests in 20 new projects focused on data-driven storytelling and community problem-solving](http://www.knightfoundation.org/press-room/press-release/knight-prototype-fund-invests-20-new-projects-focu/)
 
 # See also
-* [Doing Journalism with Data](http://datadrivenjournalism.net/)
 * [Data Journalism Handbook](http://datajournalismhandbook.org/)
 * [Chris Wiggins](https://github.com/chrishwiggins) (Chief Data Scientitst at NY Times)
 * [Vega, a visualization grammar](https://github.com/trifacta/vega)
