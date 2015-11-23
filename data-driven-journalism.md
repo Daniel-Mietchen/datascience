@@ -33,6 +33,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Draw Science](http://www.drawscience.org/)
 * [Journal of Visualized Experiments (JoVE)](http://www.jove.com/)
 * [Walnut.io](https://thewalnut.io/)
+* [Automating big-data analysis](http://news.mit.edu/2015/automating-big-data-analysis-1016)
 
 ## Individual examples
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
