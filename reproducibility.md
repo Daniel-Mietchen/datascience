@@ -45,3 +45,4 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Irreproducibility: A $28B/Year Problem with some Tangible Solutions](http://www.genengnews.com/insight-and-intelligence/irreproducibility-a-28b-year-problem-with-some-tangible-solutions/77900465/)
 * [Robust research: Institutions must do their part for reproducibility](http://dx.doi.org/10.1038/525025a)
 * [Metascience could rescue the ‘replication crisis’](http://dx.doi.org/10.1038/515009a)
+* [How scientists fool themselves – and how they can stop](http://dx.doi.org/10.1038/526182a)
