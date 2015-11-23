@@ -7,6 +7,7 @@ This file collects information on crowdsourcing in relation to research, especia
    * expanding the [Topic Pages](http://wikiambassador.jiscinvolve.org/wp/2014/03/28/publishing-scholarly-wikipedia/) approach to other areas, especially rare diseases and neglected tropical diseases
  * via societies
  * via market places, e.g. [Assay Depot](https://www.assaydepot.com/) (see also [From open source to open science](http://www.pharmaphorum.com/articles/from-open-source-to-open-science)), [Oncomine](https://www.oncomine.org/resource/login.html), [Ingenuity](http://www.ingenuity.com/)
+ * via [beginner-friendly code](http://billmills.github.io/blog/engineeringCollaboration/)
 * Patients
    * NHS involves patients in peer review of funding proposals
    * [Patient Innovation](https://patient-innovation.com/)
