@@ -2,6 +2,10 @@
 This file serves the collection of information related to public access policies, particularly those issued by research funders.
 
 # Funders
+## [Public Health Research Data Forum](http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Data-sharing/Public-health-and-epidemiology/WTDV030689.htm)
+* [Sharing research data to improve public health: full joint statement by funders of health research](http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Data-sharing/Public-health-and-epidemiology/WTDV030690.htm)
+  * [Signatories](http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Data-sharing/Public-health-and-epidemiology/Signatories-to-the-joint-statement/index.htm)
+
 ## US
 * [Memorandum M-13-13, Open Data Policy - Managing Information as an Asset (May 9, 2013)](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
 * [White House Directive from 2013 (Holdren memo)](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
@@ -17,6 +21,7 @@ This file serves the collection of information related to public access policies
 * [Open Access at HEFCE](http://www.hefce.ac.uk/rsrch/oa/)
 * [Funders must encourage scientists to share](http://dx.doi.org/10.1038/522129a)
   * [Expert Advisory Group on Data Access](http://www.wellcome.ac.uk/EAGDA)
+* []
 * [Science, Medicine, and Society: A View From the Wellcome Trust](http://dx.doi.org/10.1001/jama.2015.2004)
 
 ## Finland
