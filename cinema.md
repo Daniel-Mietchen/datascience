@@ -34,3 +34,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [CMake talk](https://www.youtube.com/watch?v=TqjtN8NGtl4)
 * [Rafael Yuste: What understanding the brain means to science and medicine](https://www.youtube.com/watch?v=n7cAuG-G_3k)
 * [8 TED talks on the origin of ideas](http://www.educatorstechnology.com/2014/07/8-good-ted-talks-on-origin-of-ideas.html)
+* [Create Flappy Bird in Python](https://www.youtube.com/watch?v=h2Uhla6nLDU)
