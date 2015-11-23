@@ -19,4 +19,5 @@ This file hosts information regarding the sustainability of data-related infrast
 
 # Health-related societal challenges
 * some are in the Sustainable Development Goals
+* [Global Grand Challenges](http://grandchallenges.org/)
 * [TEDMED Great Challenges](http://tedmed.com/greatchallenges)
