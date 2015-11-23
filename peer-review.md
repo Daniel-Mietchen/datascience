@@ -75,4 +75,5 @@ Things listed here have yet to be sorted into the structure above.
 * [The rise of patient peer review](http://news.sciencemag.org/health/2014/12/rise-patient-peer-review)
 * [The Self-Journal of Science](http://www.sjscience.org/)
 * [Antipattern](https://www.antipattern.io/)
+* [Changes for EGU interactive journals: new library and payment concept](http://www.egu.eu/news/195/changes-for-egu-interactive-journals-new-library-and-payment-concept/)
 
