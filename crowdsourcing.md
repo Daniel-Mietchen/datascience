@@ -34,6 +34,7 @@ This file collects information on crowdsourcing in relation to research, especia
     * [Open Data Stack Exchange](http://opendata.stackexchange.com/)
     * [Open Science Stack Exchange](http://area51.stackexchange.com/proposals/65426/open-science) (closed)
     * [Open Science Q & A](https://openscience.ub.uni-bielefeld.de/)
+    * [UK prize lets public decide on world's biggest science problem](http://dx.doi.org/10.1038/nature.2014.15247)
 * [Personal Genomes](http://www.personalgenomes.org/)
     * [Open Humans](https://www.openhumans.org/)
 
