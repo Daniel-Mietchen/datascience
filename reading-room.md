@@ -592,4 +592,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [How science is distilling its message](https://www.timeshighereducation.com/research-intelligence/straight-point-how-science-distilling-its-message)
 * [What do mHealth, eHealth and behavioral science mean for the future of healthcare?](http://radar.oreilly.com/2012/05/mhealth-ehealth-mobile-healthcare.html)
 * [Research Lifecycle](https://library.westernsydney.edu.au/uws_library/researchers/research-lifecycle)
-
+* [Mapping the Landscape of Research Data: How JLSC Contributors View this Rapidly Emerging Terrain](http://jlsc-pub.org/articles/abstract/10.7710/2162-3309.1279/)
