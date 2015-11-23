@@ -1,5 +1,5 @@
 # About 
-This file contains information regarding recurring events and how they relate to data science. Sorted in order of next occurrence.
+This file contains information regarding recurring events and how they relate to data science. Sorted in order of next occurrenc (2015/2016)e.
 
 # December 7-13: [Computer Science Education Week](https://csedweek.org/)
 
@@ -11,11 +11,11 @@ This file contains information regarding recurring events and how they relate to
 
 # April 16: [Citizen Science Day](http://staging.citizenscience.org/events/citizen-science-day/)
 
-# Autumn [International Data Week](http://www.internationaldataweek.org/)
+# Autumn: [International Data Week](http://www.internationaldataweek.org/)
 
 # October 24-30: [Open Access Week](http://www.openaccessweek.org/)
 
-# October [Codeweek](http://codeweek.eu/)
+# October: [Codeweek](http://codeweek.eu/)
 
-# November [MozFest](https://wiki.mozilla.org/Mozfest/2015)
+# November: [MozFest](https://wiki.mozilla.org/Mozfest/2015)
 
