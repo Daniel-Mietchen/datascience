@@ -141,3 +141,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [Research body calls for more funding for ‘free research’](http://www.universityworldnews.com/article.php?story=20150917140505584)
 * [Transparency in Quartiermeister brewery](http://quartiermeister.org/de/quartiermeister/#transparenz)
    * [original report "Forskningens framtid! Vägval för framtidens forskningssystem: Målbild och rekommendationer"](https://publikationer.vr.se/produkt/forskningens-framtid-vagval-for-framtidens-forskningssystem-malbild-och-rekommendationer/)
+* [Grant application rejected over choice of font](http://dx.doi.org/10.1038/nature.2015.18686)
