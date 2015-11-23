@@ -9,8 +9,10 @@ This file contains information regarding recurring events and how they relate to
 
 # [Open Access Week](http://www.openaccessweek.org/)
 
-# Open Data Day
+# [Open Data Day](http://opendataday.org/)
 
-# Open Education Week
+# [Internationa Data Week](http://www.internationaldataweek.org/)
 
-# Pi Day
+# [Open Education Week](http://www.openeducationweek.org/)
+
+# [Pi Day](http://www.piday.org/)
