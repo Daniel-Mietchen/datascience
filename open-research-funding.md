@@ -31,6 +31,7 @@ which also links to numerous examples of grant proposals that have already been 
 * [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)
    * [Congress pushes NIH to spur breakthroughs through prizes](http://news.sciencemag.org/funding/2015/07/congress-pushes-nih-spur-breakthroughs-through-prizes)
 * [Longitude Prize](https://longitudeprize.org/) 
+   * [UK prize lets public decide on world's biggest science problem](http://dx.doi.org/10.1038/nature.2014.15247)
    * [List of entries](https://longitudeprize.org/view-entries)
 * [Jisc Elevator](http://elevator.jisc.ac.uk/e/2-startup-projects/ideas)
 * [NIH: Sample Applications and Summary Statements](http://www.niaid.nih.gov/researchfunding/grant/pages/appsamples.aspx)
