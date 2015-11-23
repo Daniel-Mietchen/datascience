@@ -507,6 +507,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * Incentives
   * [The Effect of Incentives and Meta-incentives on the Evolution of Cooperation](10.1371/journal.pcbi.1004232)
   * [Sticks and carrots: encouraging open science at its source](http://dx.doi.org/10.1002/geo2.2)
+  * [A proposed integration of the expert performance and individual differences approaches to the study of elite performance](http://dx.doi.org/10.3389/fpsyg.2014.00707)
 * data discovery
   * [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
   * [The Hague Declaration on Knowledge Discovery in the Digital Age](http://thehaguedeclaration.com/the-hague-declaration-on-knowledge-discovery-in-the-digital-age/)
