@@ -9,7 +9,8 @@ This file collects information about [Web annotation](https://en.wikipedia.org/w
 * [Hypothes.is](https://hypothes.is/)
    * [stream](http://hypothes.is/stream)
    * [Climate Feedback](http://climatefeedback.org/)
-   * [Wikipedia example](https://via.hypothes.is/https://en.wikipedia.org/wiki/Cholinergic_neuron)
+   * [Wikipedia articles](https://hypothes.is/blog/working-with-wikipedia-articles/)
+      * [Wikipedia example](https://via.hypothes.is/https://en.wikipedia.org/wiki/Cholinergic_neuron)
    * [fuzzy anchoring to deal with dynamic documents](https://hypothes.is/blog/fuzzy-anchoring/)
 
 # Domain-specific annotation tools
