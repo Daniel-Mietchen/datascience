@@ -17,3 +17,5 @@ This file hosts information on efforts towards enhancing the discoverability of 
      * [Sienna Labs](http://www.siennalabs.com/)
      * Wellspring (?)
 
+# See also
+* [Catalogs and Indices for Finding (Scientific) Software](https://danielskatzblog.wordpress.com/2015/02/23/catalogs-and-indices-for-finding-scientific-software/)
