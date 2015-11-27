@@ -8,6 +8,8 @@ This file hosts information regarding the sustainability of data-related infrast
 * [Sustainia](http://www.sustainia.me/)
   * [SUSTAINIA100](http://www.sustainia.me/solutions)
     * [example](https://medium.com/@ECONYL/sustania-building-blocks-for-sustainable-society-ad762d4c996a)
+* [Quantifying and Mapping Global Data Poverty](http://dx.doi.org/10.1371/journal.pone.0142076)
+  * Presents the *Data Poverty Index*
 
 # Research-related sustainability
 * Sustainability-related activities at NIH
