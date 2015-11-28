@@ -143,3 +143,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [Transparency in Quartiermeister brewery](http://quartiermeister.org/de/quartiermeister/#transparenz)
    * [original report "Forskningens framtid! Vägval för framtidens forskningssystem: Målbild och rekommendationer"](https://publikationer.vr.se/produkt/forskningens-framtid-vagval-for-framtidens-forskningssystem-malbild-och-rekommendationer/)
 * [Grant application rejected over choice of font](http://dx.doi.org/10.1038/nature.2015.18686)
+* [Breaking the grant cycle: on the rational allocation of public resources to scientific research projects](https://www.repository.cam.ac.uk/handle/1810/247434)
