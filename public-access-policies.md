@@ -66,4 +66,5 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 * [Open science for a knowledge and data-driven economy](https://ec.europa.eu/digital-agenda/en/news/open-science-knowledge-and-data-driven-economy)
 * [Opening up research data](http://blog.hefce.ac.uk/2015/09/01/opening-up-research-data/)
 * [Open Licensing Policy Toolkit](http://creativecommons.org/weblog/entry/46110)
+* [Principle of proportionality in genomic data sharing](http://dx.doi.org/10.1038/nrg.2015.5)
 
