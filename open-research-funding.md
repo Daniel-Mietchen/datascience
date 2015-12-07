@@ -79,8 +79,10 @@ which also links to numerous examples of grant proposals that have already been 
 * [NIH Transformative Research Awards](http://grants.nih.gov/grants/guide/rfa-files/RFA-RM-15-005.html)
 
 # Potential issues with open review
+* not foreseen in/ compatible with applicable law
+   * e.g. [§ 3406.28 in Code of Federal Regulations](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title07/7cfr3406_main_02.tpl)
 * interference from lobbyists
-    * [example](https://twitter.com/Clive_Bates/status/642229953115910144)
+   * [example](https://twitter.com/Clive_Bates/status/642229953115910144)
 
 # See also
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
