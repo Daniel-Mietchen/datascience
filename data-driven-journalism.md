@@ -14,7 +14,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Science journalism at the end of the line?](http://ways.org/en/blogs/2009/jun/28/science_journalism_at_the_end_of_the_line)  
 > Science journalists could enrich their current "scientists found out" reports with some of the "scientists are investigating - let's see how they do it!" variant, or reports on topics like animal rights in research with more pertinent data. Finally, the public would benefit from all of this - shorter research cycles, more efficient use of research funds, and a better understanding of what it actually means when scientists "found out" or "are investigating" something.
 
-# Examples of science journalism 
+# Examples of science journalism m
 ## using data
 * [The History Of Europe Lies In British People's DNA](http://www.buzzfeed.com/christinekenneally/the-history-of-europe-lies-in-british-peoples-dna)
 * [Doing Journalism with Data](http://datadrivenjournalism.net/)
@@ -43,7 +43,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Geigermap](http://japan.failedrobot.com/)
 * [The Internet in Real-Time](http://pennystocks.la/internet-in-real-time/)
 * [TRAVIC - Transit Visualization Client](http://tracker.geops.ch/?z=12&s=1&x=1275774.5528&y=6607134.7355&l=transport)
-* [Marin Traffic](http://www.marinetraffic.com/de/ais/home/centerx:140/centery:37/zoom:8)
+* [Marine Traffic](http://www.marinetraffic.com/de/ais/home/centerx:140/centery:37/zoom:8)
 * [flightradar24](http://www.flightradar24.com/50.82,12.38/8)
 * [emoji tracker](http://emojitracker.com/) - imagine this to be research-relevant identifiers (and no blinking)
 * [Real-time Readership](http://jdc.jefferson.edu/) at an institutional repository
@@ -54,6 +54,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Listen to Wikipedia](http://listen.hatnote.com/)
 * [Wikimedia Grafana graphs of Wikidata profiling information](http://addshore.com/2015/09/wikimedia-grafana-graphs-of-wikidata-profiling-information/)
 * [Langton's ant](https://es.wikipedia.org/w/index.php?title=Hormiga_de_Langton&oldid=82325071) (on Spanish Wikipedia)
+* [Green: Vegetation on Our Planet (Tour of Earth)](https://www.youtube.com/watch?v=6gUnXpBMfyI)
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
