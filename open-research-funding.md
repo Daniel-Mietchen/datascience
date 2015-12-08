@@ -50,6 +50,7 @@ which also links to numerous examples of grant proposals that have already been 
      * [commentary](http://www.walkingrandomly.com/?p=5649)
    * [FreeTL for i2B2](https://docs.google.com/document/d/1MOSYD2aHQWqHaIjeGaHMXJX7oUTJLHEVDH9cT_FPGUI/edit)
    * [NIH Grant proposal for sale!](http://sulab.org/2014/03/nih-grant-proposal-for-sale/)
+   * [Dead Grant: Novel Functions Of BRCA1](https://boehninglab.wordpress.com/2015/12/03/dead-grant-novel-functions-of-brca1/)
    * [Proposal to Sample Middle Stone Age Animal and Homo sapiens Specimens from Die Kelders Cave 1, Western Cape Province, South Africa, for Ancient DNA](http://www.sahra.org.za/sahris/sites/default/files/additionaldocs/Die%20Kelders%20Proposal%20final.pdf)
    * [Wikipedia:WikiProject Medicine/Research proposals](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Research_proposals)
 * [Federation of Earth Science Information Partners (ESIP)](http://www.esipfed.org/) runs FUNding Friday [Projects](http://wiki.esipfed.org/index.php/FUNding_Friday_Projects) and [Poster Competitions](http://wiki.esipfed.org/index.php/FUNding_Friday_Poster_Competition) at their annual meeting; winners get up to USD 5k
