@@ -30,6 +30,7 @@ This file collects information on crowdsourcing in relation to research, especia
 * Developers
     * [Big Data Challenge](http://bigdata.csail.mit.edu/challenge)
     * [The Galaxy Challenge](https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge)
+    * [Higgs Boson Machine Learning Challenge](https://www.kaggle.com/c/higgs-boson)
 * Public
     * [Open Data Stack Exchange](http://opendata.stackexchange.com/)
     * [Open Science Stack Exchange](http://area51.stackexchange.com/proposals/65426/open-science) (closed)
