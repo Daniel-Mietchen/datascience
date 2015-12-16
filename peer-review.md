@@ -50,6 +50,7 @@ Things listed here have yet to be sorted into the structure above.
   * [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
   * [Matters](https://sciencematters.io/)
 * NIH Peer review practices reviewed [here](http://dx.doi.org/10.1177/1098214015582049) 
+   * and here: [National Institutes of Health Peer Review: Challenges and Avenues for Reform](http://dx.doi.org/10.1086/668237)
 * Another one on NIH peer reviewing:
    * [Predicting Productivity Returns on Investment: Thirty Years of Peer Review, Grant Funding, and Publication of Highly Cited Papers at the National Heart, Lung, and Blood Institute ](http://dx.doi.org/10.1161/CIRCRESAHA.115.306830)
      * "There was no association between grant percentile ranking and grant outcome as assessed by number of top-10% articles per $million spent. Hence, the seemingly conflicting findings on peer review percentile ranking of grants and subsequent productivity largely reflect differing questions and outcomes. Taken together, these findings raise questions about how best National Institutes of Health (NIH) should use peer review assessments to make complex funding decisions. "
