@@ -23,7 +23,7 @@ I am particularly interested in the intersection between the two, i.e. organizat
 
 ## [2011 E. coli O104:H4 outbreak](https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak)
 ![EHEC outbreak stats](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png/640px-Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png)
-* [EHEC outbreak stats]https://en.wikipedia.org/wiki/File:Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png) by [Pozos](https://commons.wikimedia.org/wiki/User:Pozos), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+* [EHEC outbreak stats](https://en.wikipedia.org/wiki/File:Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png) by [Pozos](https://commons.wikimedia.org/wiki/User:Pozos), [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 * [crowdsourced genome analysis via GitHub](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
   * License: CC0
  
