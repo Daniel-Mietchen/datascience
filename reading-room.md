@@ -600,3 +600,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [The open-data revolution has not lived up to expectations. But it is only getting started](http://www.economist.com/news/international/21678833-open-data-revolution-has-not-lived-up-expectations-it-only-getting?fsrc=scn/li/te/pe/ed/outofthebox)
 * [The economic impact of open data: what do we already know?](https://medium.com/@ODIHQ/the-economic-impact-of-open-data-what-do-we-already-know-1a119c1958a0#.xsea64jd9)
 * [Is wikipedia a valid source of scientific knowledge?](http://www.michelepasin.org/blog/2015/09/02/is-wikipedia-a-valid-source-of-scientific-knowledge/)
+* [Mapping the hinterland: Data issues in open science](http://doi.org/10.1177/0963662514530374)
