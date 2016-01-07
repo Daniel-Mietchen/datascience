@@ -602,3 +602,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Is wikipedia a valid source of scientific knowledge?](http://www.michelepasin.org/blog/2015/09/02/is-wikipedia-a-valid-source-of-scientific-knowledge/)
 * [Mapping the hinterland: Data issues in open science](http://doi.org/10.1177/0963662514530374)
 * [Preparing raw clinical data for publication: guidance for journal editors, authors, and peer reviewers](http://dx.doi.org/10.1136/bmj.c181)
+* fraud: [Sportmedizin an der Uni Freiburg: Ermittler decken Forschungsskandal auf](http://www.spiegel.de/unispiegel/studium/sportmedizin-uni-freiburg-ermittler-prangern-forschungsskandal-an-a-1070773.html)
+* [Brevy](http://brevy.org/ summaries of research papers
