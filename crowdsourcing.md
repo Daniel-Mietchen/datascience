@@ -27,10 +27,13 @@ This file collects information on crowdsourcing in relation to research, especia
   * [PDQ (Physician Data Query)](http://www.cancer.gov/cancertopics/pdq)
 * Students
  * [IFSMA](http://www.ifmsa.org/) 
-* Developers
+* Data scientists
     * [Big Data Challenge](http://bigdata.csail.mit.edu/challenge)
     * [The Galaxy Challenge](https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge)
     * [Higgs Boson Machine Learning Challenge](https://www.kaggle.com/c/higgs-boson)
+    * [Diabetic Retinopathy Detection challenge](https://www.kaggle.com/c/diabetic-retinopathy-detection/leaderboard/private)
+    * [AAIA'15 Data Mining Competition: Tagging Firefighter Activities at a Fire Scene](https://knowledgepit.fedcsis.org/contest/view.php?id=106)
+      * [Explanation of the winning strategy](http://deepsense.io/machine-learning-greater-fire-scene-safety/) 
 * Public
     * [Open Data Stack Exchange](http://opendata.stackexchange.com/)
     * [Open Science Stack Exchange](http://area51.stackexchange.com/proposals/65426/open-science) (closed)
