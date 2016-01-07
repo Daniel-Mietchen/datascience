@@ -7,6 +7,7 @@ This file collects information related to the reproducibility and replicability 
 * [Reproducibility crisis: Blame it on the antibodies](http://dx.doi.org/10.1038/521274a)
 * [TOP guidelines](https://osf.io/9f6gx/)
     * [version for funders](https://osf.io/9f6gx/wiki/Sample%20Implementations/) 
+* [Data Carpentry's Reproducible Research Curriculum](http://www.datacarpentry.org/blog/reproducible-research-curriculum/)
 * [NIH plans to enhance reproducibility](http://dx.doi.org/10.1038/505612a)
     * "Ensure rigor and reproducibility" is part of the [Framework for the NIH Strategic Plan](http://www.nih.gov/about/strategic-plan/)
 * [Rigor and Reproducibility](http://www.nih.gov/science/reproducibility/index.htm)
