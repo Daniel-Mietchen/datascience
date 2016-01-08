@@ -80,7 +80,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Data Science: An Introduction (Wikibooks)](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction)
 * [The First Ever Data Scientist](http://101.datascience.community/2012/05/02/the-first-ever-data-scientist/)
 * [Data Science: The Paper that Started it All](http://101.datascience.community/2013/01/18/data-science-the-paper-that-started-it-all/) 
-  * [PDF of that paper](http://www.stat.purdue.edu/~wsc/papers/datascience.pdf)
+  * [Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics](http://dx.doi.org/10.1111/j.1751-5823.2001.tb00477.x)
 * Helmsley Trust: [Biomedical Research Infrastructure](http://helmsleytrust.org/programs/health-biomedical-research-infrastructure)
 * [Visible prices](http://www.paigemorgan.net/visibleprices/)
   * Think of a medical spin to it
@@ -603,4 +603,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Mapping the hinterland: Data issues in open science](http://doi.org/10.1177/0963662514530374)
 * [Preparing raw clinical data for publication: guidance for journal editors, authors, and peer reviewers](http://dx.doi.org/10.1136/bmj.c181)
 * fraud: [Sportmedizin an der Uni Freiburg: Ermittler decken Forschungsskandal auf](http://www.spiegel.de/unispiegel/studium/sportmedizin-uni-freiburg-ermittler-prangern-forschungsskandal-an-a-1070773.html)
-* [Brevy](http://brevy.org/ summaries of research papers
+* [Brevy](http://brevy.org/ summaries of research papers)
