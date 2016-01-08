@@ -74,9 +74,6 @@ This file collects thoughts about the research library of the future as well as 
 * [The Role of the Library, Part 2: Envisioning the Research Library of Tomorrow](https://www.youtube.com/watch?v=MQsz12jSrHM)
 * [Future of the Research Library: Heather Joseph on Open Access](https://www.youtube.com/watch?v=e5BV3M7CE4w)
 * Library usage records as a way to track usage
-* [NLM and the Internet (1994)](http://resource.nlm.nih.gov/9421446)
-* [Charting the Course for the 21st Century: NLM's Long Range Plan 2006-2016](http://www.nlm.nih.gov/pubs/plan/lrpdocs.html)
-* [NLM strategic vision 2015](http://www.nih.gov/news/health/jun2015/od-11.htm)
 * [Computers are good fossil hunters](http://www.smithsonianmag.com/science-nature/computers-are-good-fossil-hunters-129959989/)
 * [Computers read the fossil record](http://dx.doi.org/10.1038/523115a)
  * [Ingenuity Unleashed: The spur of the Knight Challenge | Editorial](http://lj.libraryjournal.com/2015/03/opinion/editorial/ingenuity-unleashed-the-spur-of-the-knight-challenge-editorial/#_)
@@ -87,3 +84,9 @@ This file collects thoughts about the research library of the future as well as 
 * unclear quote: ["a library is the delivery room for the birth of ideas"](https://www.google.de/search?tbm=bks&hl=en&q=%22a+library+is+the+delivery+room+for+the+birth+of+ideas%22)
 * [Toward a New Alexandria](http://www.newrepublic.com/article/books-and-arts/toward-new-alexandria)
 * [Librarybase](http://librarybase.wmflabs.org/wiki/Librarybase:Home)
+
+# NLM
+* [NLM and the Internet (1994)](http://resource.nlm.nih.gov/9421446)
+* [Charting the Course for the 21st Century: NLM's Long Range Plan 2006-2016](http://www.nlm.nih.gov/pubs/plan/lrpdocs.html)
+* [NLM strategic vision 2015](http://www.nih.gov/news/health/jun2015/od-11.htm)
+* [Network of Medical Libraries](https://www.nlm.nih.gov/network.html)
