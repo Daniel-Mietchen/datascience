@@ -604,3 +604,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Preparing raw clinical data for publication: guidance for journal editors, authors, and peer reviewers](http://dx.doi.org/10.1136/bmj.c181)
 * fraud: [Sportmedizin an der Uni Freiburg: Ermittler decken Forschungsskandal auf](http://www.spiegel.de/unispiegel/studium/sportmedizin-uni-freiburg-ermittler-prangern-forschungsskandal-an-a-1070773.html)
 * [Brevy](http://brevy.org/ summaries of research papers)
+* [The Marginal Costs of Article Publishing – Critiquing the Standard Analytics Study](http://cameronneylon.net/blog/the-marginal-costs-of-article-publishing-critiquing-the-standard-analytics-study/)
