@@ -28,9 +28,12 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [GE material tests](https://www.youtube.com/watch?v=ozNZHJntyWU)
   * exposes a range of material samples to tests (abrasion, crushing, punching)
   * do similar series on biomedical techniques/ materials?
+* [How messy problems can inspire creativity](http://www.ted.com/talks/tim_harford_how_messy_problems_can_inspire_creativity)
+  * some good examples, e.g. Keith Jarrett's [The Köln Concert](https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert)
 
 # Maybe watch in the future
-* [TED MED](https://www.youtube.com/user/tedmed) talks 
+* [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
+* older [TED MED](https://www.youtube.com/user/tedmed) talks 
 * [Big Data: Personalized Learning](https://www.youtube.com/watch?v=r099JYtanSY)
 * [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
 * [Michaela Murphy | On Resilience](https://www.youtube.com/watch?v=phhT1rGc96c)
