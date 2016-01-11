@@ -25,6 +25,9 @@ This file collects examples of talks, lectures and other forms of presentations 
 * All of TEDMED 2015
   * [sessions](http://tedmed.com/event/stage2015) ([schedule](http://www.tedmed.com/files/Downloads/TEDMED_2015_Schedule.pdf))
   * notes on paper, since I watched in full screen mode
+* [GE material tests](https://www.youtube.com/watch?v=ozNZHJntyWU)
+  * exposes a range of material samples to tests (abrasion, crushing, punching)
+  * do similar series on biomedical techniques/ materials?
 
 # Maybe watch in the future
 * [TED MED](https://www.youtube.com/user/tedmed) talks 
