@@ -30,6 +30,14 @@ This file collects examples of talks, lectures and other forms of presentations 
   * do similar series on biomedical techniques/ materials?
 * [How messy problems can inspire creativity](http://www.ted.com/talks/tim_harford_how_messy_problems_can_inspire_creativity)
   * some good examples, e.g. Keith Jarrett's [The Köln Concert](https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert)
+* [Ramesh Raskar on Camera Culture and mental framework for innovation](http://www.tedxbeaconstreet.com/ramesh-raskar/)
+  * I actually watched several of his talks &mdash; this one is just a good overview
+* [Manu Prakash on Foldscope](https://www.youtube.com/watch?v=h8cF5QPPmWU)
+  * nice [collection of images taken with Foldscope](https://microcosmos.foldscope.com/) 
+* [Thomas Suarez: A 12-year-old app developer](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
+  * title says it all
+* [Bitcoin Blockchain Ethereum - Vitalik Buterin](https://www.youtube.com/watch?v=aGYmNidVLWY)
+  * Visually appealing but still useful summary of blockchains
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
