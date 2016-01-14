@@ -37,6 +37,7 @@ This file collects information pertaining to ways in which the interaction betwe
 
 ## Individual examples
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+* [VisTools &mdash; data visualization tools](http://keshif.me/demo/VisTools)
 * [Global shark tracker](http://www.ocearch.org/)
 * [What's there](http://www.whatsthere.co/) (real-time feed of Instagram photos by location)
 * [Synchronicity](http://michellechandra.github.io/synchronicity.html) (stream of sunset/ sunrise photos)
@@ -55,6 +56,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Wikimedia Grafana graphs of Wikidata profiling information](http://addshore.com/2015/09/wikimedia-grafana-graphs-of-wikidata-profiling-information/)
 * [Langton's ant](https://es.wikipedia.org/w/index.php?title=Hormiga_de_Langton&oldid=82325071) (on Spanish Wikipedia)
 * [Green: Vegetation on Our Planet (Tour of Earth)](https://www.youtube.com/watch?v=6gUnXpBMfyI)
+* [Visualization of Migration of Honey Buzzards](https://vimeo.com/85808414)
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
