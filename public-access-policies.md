@@ -21,7 +21,6 @@ This file serves the collection of information related to public access policies
 * [Open Access at HEFCE](http://www.hefce.ac.uk/rsrch/oa/)
 * [Funders must encourage scientists to share](http://dx.doi.org/10.1038/522129a)
   * [Expert Advisory Group on Data Access](http://www.wellcome.ac.uk/EAGDA)
-* []
 * [Science, Medicine, and Society: A View From the Wellcome Trust](http://dx.doi.org/10.1001/jama.2015.2004)
 
 ## Finland
