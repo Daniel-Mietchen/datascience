@@ -605,3 +605,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * fraud: [Sportmedizin an der Uni Freiburg: Ermittler decken Forschungsskandal auf](http://www.spiegel.de/unispiegel/studium/sportmedizin-uni-freiburg-ermittler-prangern-forschungsskandal-an-a-1070773.html)
 * [Brevy](http://brevy.org/ summaries of research papers)
 * [The Marginal Costs of Article Publishing – Critiquing the Standard Analytics Study](http://cameronneylon.net/blog/the-marginal-costs-of-article-publishing-critiquing-the-standard-analytics-study/)
+* [Riding the wave - How Europe can gain from the rising tide of scientific data - Final report of the High Level Expert Group on Scientific Data - October 2010](http://ec.europa.eu/information_society/newsroom/cf/document.cfm?action=display&doc_id=707)
