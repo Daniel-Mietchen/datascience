@@ -36,6 +36,10 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Ebola treatments caught in limbo](http://dx.doi.org/10.1038/511520a)
 * [ReliefWeb data on Ebola](https://data.hdx.rwlabs.org/ebola)
 
+## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
+* [PLOS collection: Zika](http://collections.plos.org/zika)
+* Scientific Data [waives article processing charges](http://blogs.nature.com/scientificdata/2016/01/20/call-for-submissions-zika-virus-related-datasets/) for "submissions releasing and describing datasets related to Zika"
+
 # Earthquakes
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
 * sparked the formation of [Evidence Aid](http://www.evidenceaid.org/), which provides timely and evidence-based collaborative emergency responses
