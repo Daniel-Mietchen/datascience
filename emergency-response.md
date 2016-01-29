@@ -38,6 +38,7 @@ I am particularly interested in the intersection between the two, i.e. organizat
 
 ## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Creating a rapid response – relevant to Zika virus](http://www.collabchem.com/2016/01/26/creating-a-rapid-response-relevant-to-zika-virus/)
+* [Notice of NIAID's Interest to Highlight High-Priority Zika virus (ZIKV) Research](http://grants.nih.gov/grants/guide/notice-files/NOT-AI-16-026.html)
 * [PLOS collection: Zika](http://collections.plos.org/zika)
 * Scientific Data [waives article processing charges](http://blogs.nature.com/scientificdata/2016/01/20/call-for-submissions-zika-virus-related-datasets/) for "submissions releasing and describing datasets related to Zika"
 
