@@ -41,9 +41,12 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Notice of NIAID's Interest to Highlight High-Priority Zika virus (ZIKV) Research](http://grants.nih.gov/grants/guide/notice-files/NOT-AI-16-026.html)
 * [PLOS collection: Zika](http://collections.plos.org/zika)
 * Scientific Data [waives article processing charges](http://blogs.nature.com/scientificdata/2016/01/20/call-for-submissions-zika-virus-related-datasets/) for "submissions releasing and describing datasets related to Zika"
-* [Open Drug Discovery for Zika Virus](https://dx.doi.org/10.6084/m9.figshare.2069983.v2)
+* [Open Drug Discovery for Zika Virus]
+  * [paper](http://dx.doi.org/10.12688/f1000research.8013.1)
+  * [preprint](https://dx.doi.org/10.6084/m9.figshare.2069983.v2)
 * Bulletin of the World Health Organization launches [Zika Open](http://www.who.int/bulletin/online_first/zika_open/en/)
   * [Editorial](http://dx.doi.org/10.2471/BLT.16.170860)
+* [Global scientific community commits to sharing data on Zika](http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm) 
 
 # Earthquakes
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
