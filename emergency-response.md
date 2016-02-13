@@ -16,6 +16,9 @@ I am particularly interested in the intersection between the two, i.e. organizat
 
 
 # Epidemics
+## [Global spread of H5N1 in 2005](https://en.wikipedia.org/wiki/Global_spread_of_H5N1_in_2005)
+* [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://gisaid.org/)
+
 ## [2009 H1N1 pandemic](https://en.wikipedia.org/wiki/2009_flu_pandemic)
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
    * License: CC BY
