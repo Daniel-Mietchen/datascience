@@ -133,3 +133,4 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Global Warming Is Now a "Medical Emergency" That Could Wipe Out 50 Years of Global Health Gains](http://www.motherjones.com/environment/2015/06/climate-change-medical-emergency)
 * Review: [Emergency Response 10 Years After Katrina](http://blogs.cdc.gov/publichealthmatters/2015/08/emergency-response-10-years-after-katrina/)
 * [Developing Global Norms for Sharing Data and Results during Public Health Emergencies](http://www.who.int/medicines/ebola-treatment/data-sharing_phe/en/)
+* [Computing for Disasters](http://archive2.cra.org/ccc/files/docs/init/computingfordisasters.pdf) &mdash; workshop report (ca. 2012)
