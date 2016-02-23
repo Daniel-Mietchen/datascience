@@ -36,6 +36,7 @@ I am particularly interested in the intersection between the two, i.e. organizat
   * [Wikipedia Emerges as Trusted Internet Source for Ebola Information](http://www.nytimes.com/2014/10/27/business/media/wikipedia-is-emerging-as-trusted-internet-source-for-information-on-ebola-.html?_r=0)
   * in affected countries, Wikipedia was the most consulted source on Ebola (CFCF has references)
 * [Ebola teaches tough lessons about rapid research](http://dx.doi.org/10.1038/521405a)
+* [Data sharing: Make outbreak research open access](http://doi.org/10.1038/518477a)
 * [Ebola treatments caught in limbo](http://dx.doi.org/10.1038/511520a)
 * [ReliefWeb data on Ebola](https://data.hdx.rwlabs.org/ebola)
 
@@ -50,6 +51,8 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * Bulletin of the World Health Organization launches [Zika Open](http://www.who.int/bulletin/online_first/zika_open/en/)
   * [Editorial](http://dx.doi.org/10.2471/BLT.16.170860)
 * [Global scientific community commits to sharing data on Zika](http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm) 
+* [Benefits of sharing](http://dx.doi.org/10.1038/530129a)
+* [Zika researchers release real-time data on viral infection study in monkeys](http://dx.doi.org/10.1038/nature.2016.19438)
 
 # Earthquakes
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
