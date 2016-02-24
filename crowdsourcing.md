@@ -40,6 +40,7 @@ This file collects information on crowdsourcing in relation to research, especia
     * [Open Science Q & A](https://openscience.ub.uni-bielefeld.de/)
     * [UK prize lets public decide on world's biggest science problem](http://dx.doi.org/10.1038/nature.2014.15247)
     * [Realising the potential of citizen science](http://www.scidev.net/global/communication/editorials/realising-the-potential-of-citizen-science.html)
+    * NSF: [Invest strategically in public participation in science, technology, engineering, and mathematics research (PPSR)](https://www.performance.gov/content/invest-strategically-public-participation-science-technology-engineering-and-mathematics)
 * [Personal Genomes](http://www.personalgenomes.org/)
     * [Open Humans](https://www.openhumans.org/)
 
