@@ -107,4 +107,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Open Data and Data Re-use](http://pro.europeana.eu/get-involved/europeana-tech/europeanatech-insight/issue-3-open-data-and-data-re-use)
 * [10 Simple rules for design, provision, and reuse of persistent identifiers for life science data](http://dx.doi.org/10.5281/zenodo.18003)
 * [open data as a form of OER](http://education.okfn.org/the-21st-centurys-raw-material-using-open-data-as-open-educational-resources/)
-
+* [Planning for Data Reuse Checklist](http://mozillascience.github.io/checklist/)
