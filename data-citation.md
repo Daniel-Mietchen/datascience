@@ -29,7 +29,7 @@ This file is to facilitate the collection of information pertaining to the citat
 * [Out of Cite, Out of Mind: The Current State of Practice, Policy, and Technology for the Citation of Data](http://dx.doi.org/10.2481/dsj.OSOM13-043)
 * [RDA Data Citation Working Group](https://rd-alliance.org/groups/data-citation-wg.html)
     * Basic idea: [implement dynamic data citation by assigning identifier to a query with time stamp](https://twitter.com/hilaryhanahoe/status/575096544933752832) 
-    * Details: [Dynamic Data Citation: which time-stamp to assign?](https://rd-alliance.org/group/data-citation-wg/post/dynamic-data-citation-which-time-stamp-assign.html)
+    * Details: [Dynamic Data Citation: which time-stamp to assign?](https://rd-alliance.org/group/data-citation-wg/post/dynamic-data-citation-which-time-stamp-assign.html) / [Data Citation of Evolving Data](https://rd-alliance.org/system/files/documents/RDA-DC-Recommendations_150609.pdf)
 * [Data-level metrics](http://datapub.cdlib.org/category/data-citation-2/)
 * [Academic citation practices need to be modernized so that all references are digital and lead to full texts](http://blogs.lse.ac.uk/impactofsocialsciences/2014/05/21/academic-citation-practices-need-to-be-modernized/)
 
