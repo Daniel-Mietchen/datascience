@@ -11,6 +11,7 @@ This file hosts information regarding the sustainability of data-related infrast
 * [Quantifying and Mapping Global Data Poverty](http://dx.doi.org/10.1371/journal.pone.0142076)
   * Presents the *Data Poverty Index*
 * [Acumen](http://acumen.org/) portfolios: Water, Health, Housing, Energy, Agriculture, and Education
+* [The Cost of Data Storage and Management: Where Is It Headed in 2016?](http://www.datacenterjournal.com/cost-data-storage-management-headed-2016/)
 
 # Research-related sustainability
 * Sustainability-related activities at NIH
