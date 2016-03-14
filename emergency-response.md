@@ -98,9 +98,12 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Nepal Earthquakes 2015: A review of existing information with regards to mental health and psychosocial support](http://www.prime.uct.ac.za/research-uptake/prime-in-the-media/125-nepal-earthquakes-2015-a-review-of-existing-information-with-regards-to-mental-health-and-psychosocial-support?utm_content=bufferafcf0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [ReliefWeb Open Data on Nepal earthquakes](https://data.hdx.rwlabs.org/group/nepal-earthquake)
 
-# Typhoons
+# Storms
+## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
+ * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
+
 
 # Organizations
 * [Médecins Sans Frontières/Doctors without Borders](http://www.doctorswithoutborders.org/)
