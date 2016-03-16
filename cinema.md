@@ -38,6 +38,8 @@ This file collects examples of talks, lectures and other forms of presentations 
   * title says it all
 * [Bitcoin Blockchain Ethereum - Vitalik Buterin](https://www.youtube.com/watch?v=aGYmNidVLWY)
   * Visually appealing but still useful summary of blockchains
+* [A Better Default Colormap for Matplotlib](https://www.youtube.com/watch?v=xAoljeRJ3lU)
+  * [viridis](https://bids.github.io/colormap/)
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
