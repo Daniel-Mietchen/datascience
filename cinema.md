@@ -51,3 +51,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [8 TED talks on the origin of ideas](http://www.educatorstechnology.com/2014/07/8-good-ted-talks-on-origin-of-ideas.html)
 * [Create Flappy Bird in Python](https://www.youtube.com/watch?v=h2Uhla6nLDU)
 * [Ideas from Europe](http://ideasfromeurope.eu/speakers-ideas-from-europe/)
+* [Guido van Rossum - Keynote: Python now and in the future](https://www.youtube.com/watch?v=bp3mCgrdMxU)
