@@ -53,6 +53,12 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Global scientific community commits to sharing data on Zika](http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm) 
 * [Benefits of sharing](http://dx.doi.org/10.1038/530129a)
 * [Zika researchers release real-time data on viral infection study in monkeys](http://dx.doi.org/10.1038/nature.2016.19438)
+* [Science, get over yourself: Zika data-sharing should be the norm, not the exception](https://www.statnews.com/2016/02/16/zika-data-sharing/)
+* ["Several participants noted that it is critical to study ZIKV in humans in the countries most affected and highlighted the importance of establishing a coordinated and well-resourced research approach to ZIKV, which would include the efficient sharing of biospecimens across international borders, availability of rapid funding announcements, better communication among scientists about the types of research being conducted, and the availability of datasets."](http://www.ncbi.nlm.nih.gov/books/NBK349626/)
+* [Partnerships, Not Parachutists, for Zika Research](http://doi.org/10.1056/NEJMp1602278):
+  * "But we believe the experience with recent outbreaks makes clear that if open sharing of data and specimens becomes the norm among scientists and epidemiologists around the world, we will be far more likely to succeed in improving international public health capacity and strengthening our collective health — and human — security. 
+  * To avoid having to make this argument again every time we face an outbreak with the potential for becoming a global crisis, we believe the global health community should develop and agree on a framework of principles for sharing data and biologic samples during any such public health emergency. It would be best if the researchers themselves developed such a framework, as the genomics community did in the Human Genome Project."
+
 
 # Earthquakes
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
