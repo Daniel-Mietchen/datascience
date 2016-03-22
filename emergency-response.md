@@ -65,6 +65,9 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * [Nephrology in Earthquakes: Sharing Experiences and Information](http://cjasn.asnjournals.org/content/2/4/803.full)
   * DOI broken
 
+## [Great Hanshin earthquake (1995)](https://en.wikipedia.org/wiki/Great_Hanshin_earthquake)
+* [Comparing Hurricane Katrina to Japan's Kobe Earthquake in 1995: Sharing Policy and Institutional Lessons from Two Large Scale Natural Disasters in the United States and Japan](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/114/2012/10/RP239.pdf)
+
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
 * sparked the formation of [Evidence Aid](http://www.evidenceaid.org/), which provides timely and evidence-based collaborative emergency responses
    * motivation: [Sharing evidence on humanitarian relief](http://dx.doi.org/10.1136/bmj.331.7531.1485)
@@ -113,6 +116,8 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 # Storms
 ## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
  * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
+ * [Comparing Hurricane Katrina to Japan's Kobe Earthquake in 1995: Sharing Policy and Institutional Lessons from Two Large Scale Natural Disasters in the United States and Japan](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/114/2012/10/RP239.pdf)
+
 
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
