@@ -61,6 +61,10 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 
 
 # Earthquakes
+## Generic
+* [Nephrology in Earthquakes: Sharing Experiences and Information](http://cjasn.asnjournals.org/content/2/4/803.full)
+  * DOI broken
+
 ## [2004 Indian Ocean earthquake and tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
 * sparked the formation of [Evidence Aid](http://www.evidenceaid.org/), which provides timely and evidence-based collaborative emergency responses
    * motivation: [Sharing evidence on humanitarian relief](http://dx.doi.org/10.1136/bmj.331.7531.1485)
