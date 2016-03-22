@@ -93,6 +93,8 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * [Japan’s Radiation Levels: Real-Time Crowd Sourcing](http://scienceblogs.com/deanscorner/2011/03/21/japans-radiation-levels-real-t/)
 * [Crowdsourcing Japan’s Nuclear Crisis](http://blogs.law.harvard.edu/herdict/2011/03/26/crowdsourcing-japans-nuclear-crisis/)
 * [How Citizen Science Changed the Way Fukushima Radiation is Reported](http://voices.nationalgeographic.com/2016/02/13/how-citizen-science-changed-the-way-fukushima-radiation-is-reported/)
+* [A teenager's resolve to keep sharing experience of March 2011 quake, tsunami](http://mainichi.jp/english/articles/20160210/p2a/00m/0na/009000c)
+  * not on data sharing per se, but on passing on memories & lessons across generations
 
 ## [2015 Nepal earthquakes](https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake)
 * [A Force for Good: How Digital Jedis are Responding to the Nepal Earthquake](http://irevolution.net/2015/04/27/digital-jedis-nepal-earthquake/)
