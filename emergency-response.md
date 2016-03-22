@@ -1,6 +1,3 @@
-A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
-![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
-
 # About
 This page collects information on open collaboration in the context of emergency response or disaster relief efforts. Open here refers to 
 * the preparedness of accepting contributions from anyone, making use of the Web
@@ -14,6 +11,8 @@ I am particularly interested in the intersection between the two, i.e. organizat
  1. to advance my general understanding under which conditions open approaches are being favoured over closed ones,
  1. to see how my own activities as an open researcher or as a volunteer for open knowledge initiatives like Wikimedia can be integrated with emergency response activities.﻿
 
+A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
+![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
 
 # Epidemics
 ## [Global spread of H5N1 in 2005](https://en.wikipedia.org/wiki/Global_spread_of_H5N1_in_2005)
