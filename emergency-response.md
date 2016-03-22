@@ -39,6 +39,7 @@ I am particularly interested in the intersection between the two, i.e. organizat
 * [Data sharing: Make outbreak research open access](http://doi.org/10.1038/518477a)
 * [Ebola treatments caught in limbo](http://dx.doi.org/10.1038/511520a)
 * [ReliefWeb data on Ebola](https://data.hdx.rwlabs.org/ebola)
+* [Special issue of Journal of Empirical Research on Human Research Ethics: Ethics and sharing individual-level health research data from low and middle income settings](http://jre.sagepub.com/content/10/3.toc) (13 papers, 2015)
 
 ## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Creating a rapid response – relevant to Zika virus](http://www.collabchem.com/2016/01/26/creating-a-rapid-response-relevant-to-zika-virus/)
