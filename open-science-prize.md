@@ -12,6 +12,7 @@ This page collects information about the Open Science Prize. It does not have an
    * [Presentations](https://www.openscienceprize.org/pm/resource/eyJoZnJlIjogOTAyODA5MDAsICJ2cSI6IDE4NzE1fQ/)
    * [collaboration finder](https://github.com/Daniel-Mietchen/open-science-prize)
      * no evidence that it has worked for anyone
+* [Feedback](https://github.com/Daniel-Mietchen/open-science-prize/blob/master/feedback.md) 
 * [List of submissions](https://www.openscienceprize.org/p/)
 * [Open Science Prize Identifies Nearly 100 Worldwide Innovative Solutions Teams](https://datascience.nih.gov/OSPPublicAnnouncement)
 
