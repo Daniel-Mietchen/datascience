@@ -145,6 +145,8 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * UN Frameworks for Action for Risk Management
   * [Sendai Framework for Disaster Risk Reduction 2015-2030](http://reliefweb.int/report/world/sendai-framework-disaster-risk-reduction-2015-2030-aconf224crp1)
   * [Hyogo Framework for Action 2005-2015](http://www.unisdr.org/we/coordinate/hfa)
+* [High Level Panel on the Global Response to Health Crisis](http://www.un.org/press/en/2015/sga1558.doc.htm)
+  * report: [Protecting Humanity from Future Health Crises](http://www.un.org/News/dh/infocus/HLP/2016-02-05_Final_Report_Global_Response_to_Health_Crises.pdf)
 
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
