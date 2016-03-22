@@ -39,6 +39,9 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * [Ebola treatments caught in limbo](http://dx.doi.org/10.1038/511520a)
 * [ReliefWeb data on Ebola](https://data.hdx.rwlabs.org/ebola)
 * [Special issue of Journal of Empirical Research on Human Research Ethics: Ethics and sharing individual-level health research data from low and middle income settings](http://jre.sagepub.com/content/10/3.toc) (13 papers, 2015)
+* [UN High Level Panel on the Global Response to Health Crisis](http://www.un.org/press/en/2015/sga1558.doc.htm)
+  * report: [Protecting Humanity from Future Health Crises](http://www.un.org/News/dh/infocus/HLP/2016-02-05_Final_Report_Global_Response_to_Health_Crises.pdf)
+
 
 ## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Creating a rapid response – relevant to Zika virus](http://www.collabchem.com/2016/01/26/creating-a-rapid-response-relevant-to-zika-virus/)
@@ -145,8 +148,9 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * UN Frameworks for Action for Risk Management
   * [Sendai Framework for Disaster Risk Reduction 2015-2030](http://reliefweb.int/report/world/sendai-framework-disaster-risk-reduction-2015-2030-aconf224crp1)
   * [Hyogo Framework for Action 2005-2015](http://www.unisdr.org/we/coordinate/hfa)
-* [High Level Panel on the Global Response to Health Crisis](http://www.un.org/press/en/2015/sga1558.doc.htm)
+* [UN High Level Panel on the Global Response to Health Crisis](http://www.un.org/press/en/2015/sga1558.doc.htm)
   * report: [Protecting Humanity from Future Health Crises](http://www.un.org/News/dh/infocus/HLP/2016-02-05_Final_Report_Global_Response_to_Health_Crises.pdf)
+  * triggered by Ebola
 
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
