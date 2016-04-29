@@ -76,6 +76,9 @@ This file collects information on crowdsourcing in relation to research, especia
     * [Apps4EU](http://pro.europeana.eu/blogpost/apps4eu-award-prize-for-best-open-data-startup-2015)
 * Competitions
   * [Competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) 
+    * [In Praise of Tweaking: A Wiki-like Programming Contest](https://web.archive.org/web/20150711074643/http://www.starchamber.com/gulley/pubs/tweaking/tweaking.html)
+  * [Head Health Challenges](https://ninesights.ninesigma.com/web/head-health) 
+  * [Obesity Data Challenge](https://www.challenge.gov/challenge/u-s-obesity-data-challenge/)
   * [Knight News Challenge](https://www.newschallenge.org/challenge/libraries/brief.html)
 * [Crowdfunding Scientific Research](http://crowdfunding.about.com/od/Placeholderrr/tp/Top-Sites-for-Crowdfunding-Scientific-Research.htm)
    * need to collect examples of crowdfunding campaigns for research, analyze criteria for success (both financial and engagement-wise), and explore options for funders to interact with them
@@ -129,4 +132,5 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Crowdsourcing in business and management disciplines: an integrative literature review](http://dx.doi.org/10.1186/s40497-015-0039-2)
 * [Engineering Collaboration &mdash; How the way we code affects participation](http://billmills.github.io/blog/engineeringCollaboration/)
 * NARA's [Citizen Archivist Dashboard](https://www.archives.gov/citizen-archivist/)
+* [The Challenge of Partnerships: ‘The Good, Bad and Ugly’ of Prize Collaborations](http://www.digitalgov.gov/2016/04/29/the-challenge-of-partnerships-the-good-bad-and-ugly-of-prize-collaborations/)
 
