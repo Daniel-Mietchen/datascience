@@ -48,3 +48,4 @@ This file hosts information regarding data management plans and how they could b
 * [Principles of data management and sharing at European Research Infrastructures](http://dx.doi.org/10.5281/zenodo.8304)
 * [Ethereum](https://ethereum.org/)
   * allows for smart contracts
+* The [E-Government Act of 2002](https://en.wikipedia.org/wiki/E-Government_Act_of_2002) requires agencies to [translate privacy policies into a standardized machine-readable format](https://www.gpo.gov/fdsys/pkg/PLAW-107publ347/html/PLAW-107publ347.htm)
