@@ -56,3 +56,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Create Flappy Bird in Python](https://www.youtube.com/watch?v=h2Uhla6nLDU)
 * [Ideas from Europe](http://ideasfromeurope.eu/speakers-ideas-from-europe/)
 * [Guido van Rossum - Keynote: Python now and in the future](https://www.youtube.com/watch?v=bp3mCgrdMxU)
+* [Diary of a Citizen Scientist with Sharman Apt Russell](https://www.youtube.com/watch?v=jdWVpyRtUGg)
