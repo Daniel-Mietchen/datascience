@@ -40,6 +40,8 @@ This file collects examples of talks, lectures and other forms of presentations 
   * Visually appealing but still useful summary of blockchains
 * [A Better Default Colormap for Matplotlib](https://www.youtube.com/watch?v=xAoljeRJ3lU)
   * [viridis](https://bids.github.io/colormap/)
+* [Jer Thorp - The Weight of Data](https://www.youtube.com/watch?v=Q9wcvFkWpsM)
+  * putting data into a human context
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
