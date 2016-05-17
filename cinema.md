@@ -42,6 +42,7 @@ This file collects examples of talks, lectures and other forms of presentations 
   * [viridis](https://bids.github.io/colormap/)
 * [Jer Thorp - The Weight of Data](https://www.youtube.com/watch?v=Q9wcvFkWpsM)
   * putting data into a human context
+* [David Gruber: unexpected discovery of biofluorescent fish](https://www.youtube.com/watch?v=96HHmILhyrE#t=4m4s)
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
