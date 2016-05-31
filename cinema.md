@@ -43,6 +43,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Jer Thorp - The Weight of Data](https://www.youtube.com/watch?v=Q9wcvFkWpsM)
   * putting data into a human context
 * [David Gruber: unexpected discovery of biofluorescent fish](https://www.youtube.com/watch?v=96HHmILhyrE#t=4m4s)
+* [Sue Desmond-Hellmann: A smarter, more precise way to think about public health](https://www.ted.com/talks/sue_desmond_hellmann_a_smarter_more_precise_way_to_think_about_public_health)
+  * makes the case for bringing precision medicine approaches to public health
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
