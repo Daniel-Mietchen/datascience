@@ -142,6 +142,7 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * [Central Emergency Response Fund](http://www.unocha.org/cerf/)
 * [ReliefWeb](http://labs.reliefweb.int/)
   * [The Humanitarian Data Exchange](https://data.hdx.rwlabs.org/)
+* [Public Health Research Data Forum](https://wellcome.ac.uk/what-we-do/our-work/public-health-research-data-forum)
 
 # UN initiatives
 * [UN International Strategy for Disaster Reduction](http://www.unisdr.org/)
