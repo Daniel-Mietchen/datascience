@@ -87,6 +87,7 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 
 ## [2011 Christchurch earthquake](https://en.wikipedia.org/wiki/2011_Christchurch_earthquake)
 * [Christchurch Recovery Map](https://en.wikipedia.org/wiki/Christchurch_Recovery_Map) through Ushahidi
+* ([TEDxEQChCh](https://www.ted.com/tedx/events/3215), e.g. [Truly sustainable economic development: Ernesto Sirolli](https://www.youtube.com/watch?v=SpIxZiBpGU0))
 
 ## [2011 Tōhoku earthquake and tsunami](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)
 * OpenStreetMap
