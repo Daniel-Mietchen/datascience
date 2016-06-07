@@ -47,6 +47,13 @@ This file collects examples of talks, lectures and other forms of presentations 
   * makes the case for bringing precision medicine approaches to public health
 * [Digital biology and open science -- the coming revolution | Stephen Larson](https://www.youtube.com/watch?v=EKopW86CCJo)
  * putting OpenWorm into the context of engineering, digital biology and open science
+* [Truly sustainable economic development: Ernesto Sirolli at TEDxEQChCh](https://www.youtube.com/watch?v=SpIxZiBpGU0)
+  * harnessing the power of local communities for economic development
+    * [Dambisa Moyo's book "Dead Aid"](https://en.wikipedia.org/wiki/Dambisa_Moyo#Dead_Aid)
+    * [Sirolli Institute](http://sirolli.com/) 
+      * [Forbes summary](http://www.forbes.com/2009/04/07/summary-dead-aid-opinions-business-visionaries-moyo.html)
+    * book: [Ripples from the Zambezi](Ripples from the Zambezi: Passion, Entrepreneurship, and the Rebirth of Local Economies )
+    * [horse manure crisis of New York in 1960, as discussed in 1860](https://fee.org/articles/the-great-horse-manure-crisis-of-1894/)
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
