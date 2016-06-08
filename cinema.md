@@ -54,6 +54,8 @@ This file collects examples of talks, lectures and other forms of presentations 
       * [Forbes summary](http://www.forbes.com/2009/04/07/summary-dead-aid-opinions-business-visionaries-moyo.html)
     * book: [Ripples from the Zambezi](Ripples from the Zambezi: Passion, Entrepreneurship, and the Rebirth of Local Economies )
     * [horse manure crisis of New York in 1960, as discussed in 1860](https://fee.org/articles/the-great-horse-manure-crisis-of-1894/)
+* [Flashmob Nürnberg 2014 - Ode an die Freude](https://www.youtube.com/watch?v=a23945btJYw)
+  * a very special, deeply emotional kind of public engagement
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
