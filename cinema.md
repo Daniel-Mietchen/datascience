@@ -71,3 +71,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Ideas from Europe](http://ideasfromeurope.eu/speakers-ideas-from-europe/)
 * [Guido van Rossum - Keynote: Python now and in the future](https://www.youtube.com/watch?v=bp3mCgrdMxU)
 * [Diary of a Citizen Scientist with Sharman Apt Russell](https://www.youtube.com/watch?v=jdWVpyRtUGg)
+* [Marvin Minsky: Health and the human mind](https://www.ted.com/talks/marvin_minsky_on_health_and_the_human_mind?language=en)
