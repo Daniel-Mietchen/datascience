@@ -127,10 +127,8 @@ This file collects information on crowdsourcing in relation to research, especia
 * [The Rise of Citizen Science, Part I: A Principled Approach](http://blog.castac.org/2015/12/citizen-science/) 
 * [Citizen Scientist’s Algorithm Helps Science Gossip Team to Reduce Text-only Pages](http://blog.sciencegossip.org/2015/06/15/citizen-scientists-algorithm-helps-science-gossip-team-to-reduce-text-only-pages/)
 * [Measuring Success in Citizen Science Projects, Part 1: Methods](http://blog.zooniverse.org/2015/08/24/measuring-success-in-citizen-science-projects-part-1-methods/)
-
-# See also
 * [Crowdsourcing in business and management disciplines: an integrative literature review](http://dx.doi.org/10.1186/s40497-015-0039-2)
 * [Engineering Collaboration &mdash; How the way we code affects participation](http://billmills.github.io/blog/engineeringCollaboration/)
 * NARA's [Citizen Archivist Dashboard](https://www.archives.gov/citizen-archivist/)
 * [The Challenge of Partnerships: ‘The Good, Bad and Ugly’ of Prize Collaborations](http://www.digitalgov.gov/2016/04/29/the-challenge-of-partnerships-the-good-bad-and-ugly-of-prize-collaborations/)
-
+* [How citizen scientists discovered a giant cluster of galaxies](http://theconversation.com/how-citizen-scientists-discovered-a-giant-cluster-of-galaxies-59373)
