@@ -22,6 +22,7 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * [PLOS Currents: Influenza was started](https://blogs.plos.org/plos/2009/08/a-new-website-for-the-rapid-sharing-of-influenza-research/): "The key goal of PLoS: Currents is to accelerate scientific discovery by allowing researchers to share their latest findings and ideas immediately with the world's scientific and medical communities."
    * License: CC BY
   * Now part of [PLOS Currents: Outbreaks](http://dx.doi.org/10.1371/currents.outbreaks.8ed218c079fbded60c505f025ed45f67)
+* [CDC overview of the pandemic](http://www.cdc.gov/h1n1flu/cdcresponse.htm)
 
 ## [2011 E. coli O104:H4 outbreak](https://en.wikipedia.org/wiki/2011_Germany_E._coli_O104:H4_outbreak)
 ![EHEC outbreak stats](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png/640px-Escherichia_coli_O104H4_bacterial_outbreak_Mk2.png)
