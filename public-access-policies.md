@@ -31,7 +31,7 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 ### FP7
 * Open Access Pilot
 
-### Horizon 2020
+### [Horizon 2020](http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/open-access_en.htm)
 * Public Access is mandatory
 * Open Data Pilot
 
