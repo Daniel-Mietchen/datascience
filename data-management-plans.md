@@ -42,6 +42,7 @@ This file hosts information regarding data management plans and how they could b
 * Process Management Plans
   * [example](https://www.coar-repositories.org/files/7_DMP_Vienna.pdf) (slides 10ff)
 * [CERN Analysis Preservation Framework](http://analysis-preservation.cern.ch/)
+  * [Data Management and Preservation Planning for Big Science](http://www.ijdc.net/index.php/ijdc/article/view/8.1.29/299)
 * [Data and Software Preservation for Open Science, DASPOS](https://daspos.crc.nd.edu/)
 * [Software Management Plan Service](https://ssi-dev.epcc.ed.ac.uk/smp-service)
 * [Writing and using a software management plan](http://www.software.ac.uk/resources/guides/software-management-plans)
