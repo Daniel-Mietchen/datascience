@@ -22,6 +22,7 @@ This file serves the collection of information related to public access policies
 * [Funders must encourage scientists to share](http://dx.doi.org/10.1038/522129a)
   * [Expert Advisory Group on Data Access](http://www.wellcome.ac.uk/EAGDA)
 * [Science, Medicine, and Society: A View From the Wellcome Trust](http://dx.doi.org/10.1001/jama.2015.2004)
+* [DCC analysis of funder policies](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies)
 
 ## Finland
 * Open science and research roadmap 2014–2017: ["Open science and research leads to 
