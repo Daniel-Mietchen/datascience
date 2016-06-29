@@ -72,3 +72,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Guido van Rossum - Keynote: Python now and in the future](https://www.youtube.com/watch?v=bp3mCgrdMxU)
 * [Diary of a Citizen Scientist with Sharman Apt Russell](https://www.youtube.com/watch?v=jdWVpyRtUGg)
 * [Marvin Minsky: Health and the human mind](https://www.ted.com/talks/marvin_minsky_on_health_and_the_human_mind?language=en)
+* [David McCandless: The beauty of data visualization](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
