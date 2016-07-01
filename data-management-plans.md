@@ -7,6 +7,7 @@ This file hosts information regarding data management plans and how they could b
 # Policies
 * Overview
  * [data management plans (@ Columbia)](http://scholcomm.columbia.edu/data-management/nsf-data-management-plan-requirements-2/) 
+ * [data management plans (@ Johns Hopkins)](https://dmp.data.jhu.edu/assistance/funder-data-mandates/)
 * NIH
   * [NIH Data Sharing Policy](http://grants.nih.gov/grants/policy/data_sharing/)
   * [NIH Data Sharing Policy and Implementation Guidance](http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm)
