@@ -25,6 +25,7 @@ This file collects information pertaining to ways in which the interaction betwe
     * [Cochrane Collaboration statement on access to clinical trial data](http://community.cochrane.org/features/clinical-trials-statement-press-release)
 * [What We’ve Learned About Sharing Our Data Analysis](https://source.opennews.org/en-US/articles/what-weve-learned-about-sharing-our-data-analysis/)
 * [Researchers Sharing Data Was Supposed to Change Science Forever. Did It?](http://www.slate.com/blogs/future_tense/2015/06/24/darpa_s_biology_is_technology_conference_discusses_problems_with_open_source.html)
+* [Inside a monkey lab, research gets fast-tracked in the ‘Zika room’](https://www.statnews.com/2016/06/27/zika-virus-monkey-research/)
 
 # Engaging visualizations
 
