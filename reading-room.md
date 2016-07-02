@@ -109,6 +109,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Examplotron](http://examplotron.org/)
   * [blog post](http://eric.van-der-vlist.com/blog/2013/08/21/examplotron-is-moving-on/)
 * [Final Research Unplugged to focus on sonification](http://news.psu.edu/story/353884/2015/04/21/research/final-research-unplugged-focus-sonification)
+* Sonification: [PIXELSYNTH](https://ojack.github.io/PIXELSYNTH/) ([on GitHub](https://github.com/ojack/PIXELSYNTH))
 * [Is software a primary product of science?](http://ivory.idyll.org/blog/2015-more-on-software.html)
 * [Why you can't run your company with big data](https://www.linkedin.com/pulse/why-you-cant-run-your-company-data-rob-lawrence)
 * [Why Big Data And The Internet of Things Are A Perfect Match](http://www.datamation.com/applications/why-big-data-and-the-internet-of-things-are-a-perfect-match.html)
