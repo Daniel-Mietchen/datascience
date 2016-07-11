@@ -155,6 +155,11 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
   * report: [Protecting Humanity from Future Health Crises](http://www.un.org/News/dh/infocus/HLP/2016-02-05_Final_Report_Global_Response_to_Health_Crises.pdf)
   * triggered by Ebola
 
+# Related presentations
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
+* [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/edit/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
+
+
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
 * [List of natural disasters by death toll](https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll)
@@ -167,4 +172,4 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * Review: [Emergency Response 10 Years After Katrina](http://blogs.cdc.gov/publichealthmatters/2015/08/emergency-response-10-years-after-katrina/)
 * [Developing Global Norms for Sharing Data and Results during Public Health Emergencies](http://www.who.int/medicines/ebola-treatment/data-sharing_phe/en/)
 * [Computing for Disasters](http://archive2.cra.org/ccc/files/docs/init/computingfordisasters.pdf) &mdash; workshop report (ca. 2012)
-* [Abstract for SciDataCon 2016](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md)
+
