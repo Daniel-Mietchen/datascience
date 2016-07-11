@@ -4,7 +4,7 @@ This page collects information on open collaboration in the context of emergency
 * results being available under open licenses, as per the [Open Definition](http://opendefinition.org/)
 
 The list below contains two main components:
- 1. A list of events and open initiatives that were triggered by them.
+ 1. A list of emergency events and open initiatives that were triggered by them.
  2. A list of organizations who have consistently provided emergency responses.
 
 I am particularly interested in the intersection between the two, i.e. organizations that use open approaches and consistently provide emergency responses. My motivation to collect this information is two-fold:
