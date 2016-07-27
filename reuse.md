@@ -108,3 +108,5 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [10 Simple rules for design, provision, and reuse of persistent identifiers for life science data](http://dx.doi.org/10.5281/zenodo.18003)
 * [open data as a form of OER](http://education.okfn.org/the-21st-centurys-raw-material-using-open-data-as-open-educational-resources/)
 * [Planning for Data Reuse Checklist](http://mozillascience.github.io/checklist/)
+* [A century of trends in adult human height](http://dx.doi.org/10.7554/eLife.13410)
+      * reuses 1472 datasets
