@@ -1,7 +1,7 @@
 # About
 This file collects information on crowdsourcing in relation to research, especially with respect to data curation and research funding.
 
-# Target communities (sub-crowds)
+# Target communities (sub-crowds)ha
 * Researchers
  * via journals
    * expanding the [Topic Pages](http://wikiambassador.jiscinvolve.org/wp/2014/03/28/publishing-scholarly-wikipedia/) approach to other areas, especially rare diseases and neglected tropical diseases
@@ -23,6 +23,7 @@ This file collects information on crowdsourcing in relation to research, especia
      * [People in Research](http://www.peopleinresearch.org/)
    * [Get My Health Data](http://getmyhealthdata.org/)
    * [PatientHack](https://twitter.com/hashtag/patienthack15?f=tweets&vertical=default&src=hash)
+     * [Understanding the Dynamics of Hackathons for Science](https://meta.wikimedia.org/wiki/Research:Understanding_the_Dynamics_of_Hackathons_for_Science)
 * Physicians
   * [PDQ (Physician Data Query)](http://www.cancer.gov/cancertopics/pdq)
 * Students
