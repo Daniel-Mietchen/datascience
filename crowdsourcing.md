@@ -1,7 +1,7 @@
 # About
 This file collects information on crowdsourcing in relation to research, especially with respect to data curation and research funding.
 
-# Target communities (sub-crowds)ha
+# Target communities (sub-crowds)
 * Researchers
  * via journals
    * expanding the [Topic Pages](http://wikiambassador.jiscinvolve.org/wp/2014/03/28/publishing-scholarly-wikipedia/) approach to other areas, especially rare diseases and neglected tropical diseases
