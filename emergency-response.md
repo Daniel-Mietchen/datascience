@@ -37,6 +37,7 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
   * in affected countries, Wikipedia was the most consulted source on Ebola (CFCF has references)
 * [Ebola teaches tough lessons about rapid research](http://dx.doi.org/10.1038/521405a)
 * [Data sharing: Make outbreak research open access](http://doi.org/10.1038/518477a)
+  * [The Virus Detectives - Sifting Through Genes in Search of Answers on Ebola](http://www.nytimes.com/2014/12/02/science/factory-direct-virus-analysis.html)
 * [Ebola treatments caught in limbo](http://dx.doi.org/10.1038/511520a)
 * [ReliefWeb data on Ebola](https://data.hdx.rwlabs.org/ebola)
 * [Special issue of Journal of Empirical Research on Human Research Ethics: Ethics and sharing individual-level health research data from low and middle income settings](http://jre.sagepub.com/content/10/3.toc) (13 papers, 2015)
