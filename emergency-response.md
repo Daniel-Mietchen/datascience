@@ -87,6 +87,8 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 
 ## [2010 Haiti earthquake](https://en.wikipedia.org/wiki/2010_Haiti_earthquake)
 * [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
+* [Crisis camp](https://en.wikipedia.org/wiki/Crisis_camp)
+* [Random Hacks of Kindness](https://en.wikipedia.org/wiki/Random_Hacks_of_Kindness)
 
 ## [2011 Christchurch earthquake](https://en.wikipedia.org/wiki/2011_Christchurch_earthquake)
 * [Christchurch Recovery Map](https://en.wikipedia.org/wiki/Christchurch_Recovery_Map) through Ushahidi
