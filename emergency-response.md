@@ -176,4 +176,5 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * Review: [Emergency Response 10 Years After Katrina](http://blogs.cdc.gov/publichealthmatters/2015/08/emergency-response-10-years-after-katrina/)
 * [Developing Global Norms for Sharing Data and Results during Public Health Emergencies](http://www.who.int/medicines/ebola-treatment/data-sharing_phe/en/)
 * [Computing for Disasters](http://archive2.cra.org/ccc/files/docs/init/computingfordisasters.pdf) &mdash; workshop report (ca. 2012)
-
+* [The Search for MH370](http://dx.doi.org/10.1017/S037346331400068X)
+  * although published in a subscription journal, this paper [was made OA](http://airportfocusinternational.com/royal-institute-of-navigation-publishes-paper-on-mh370/) (CC BY 3.0)
