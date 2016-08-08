@@ -134,3 +134,6 @@ This file collects information on crowdsourcing in relation to research, especia
 * NARA's [Citizen Archivist Dashboard](https://www.archives.gov/citizen-archivist/)
 * [The Challenge of Partnerships: ‘The Good, Bad and Ugly’ of Prize Collaborations](http://www.digitalgov.gov/2016/04/29/the-challenge-of-partnerships-the-good-bad-and-ugly-of-prize-collaborations/)
 * [How citizen scientists discovered a giant cluster of galaxies](http://theconversation.com/how-citizen-scientists-discovered-a-giant-cluster-of-galaxies-59373)
+* New species discovered online
+   * [Crane fly et al.](https://commons.wikimedia.org/wiki/User_talk:Jkadavoor/Archive_2016#New_species_of_crane_fly.3F)
+   * [Frog and snail](http://www.npr.org/sections/alltechconsidered/2016/08/06/488830352/the-app-that-aims-to-gamify-biology-has-amateurs-discovering-new-species)
