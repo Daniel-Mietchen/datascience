@@ -75,3 +75,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Marvin Minsky: Health and the human mind](https://www.ted.com/talks/marvin_minsky_on_health_and_the_human_mind?language=en)
 * [David McCandless: The beauty of data visualization](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
 * [Healing With Poetry - Nelofer Khan Habibullah](https://www.youtube.com/watch?v=rOR2xlQstGE)
+* [Life in the Fast Lane - The Power of Large Scale Graphs](https://www.youtube.com/watch?v=Oxmurknhnto)
