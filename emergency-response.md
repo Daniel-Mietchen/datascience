@@ -179,3 +179,4 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * [The Search for MH370](http://dx.doi.org/10.1017/S037346331400068X)
   * although published in a subscription journal, this paper [was made OA](http://airportfocusinternational.com/royal-institute-of-navigation-publishes-paper-on-mh370/) (CC BY 3.0)
   * [background](https://en.wikipedia.org/wiki/Analysis_of_Malaysia_Airlines_Flight_370_satellite_communications)
+* [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks)
