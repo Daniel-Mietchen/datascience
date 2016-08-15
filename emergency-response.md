@@ -65,6 +65,7 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
   * To avoid having to make this argument again every time we face an outbreak with the potential for becoming a global crisis, we believe the global health community should develop and agree on a framework of principles for sharing data and biologic samples during any such public health emergency. It would be best if the researchers themselves developed such a framework, as the genomics community did in the Human Genome Project."
 * [Public Health Surveillance: A Call to Share Data](http://ianphi.org/news/2016/datasharing.html)
 * [Zika Data From the Lab, and Right to the Web](http://www.nytimes.com/2016/07/19/health/zika-data-monkey-studies.html)
+* [Reanalysis of open Zika data](http://dx.doi.org/10.12688/f1000research.9110.1) using a [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
 
 # Earthquakes
 ## Generic
