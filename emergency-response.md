@@ -11,6 +11,8 @@ I am particularly interested in the intersection between the two, i.e. organizat
  1. to advance my general understanding under which conditions open approaches are being favoured over closed ones,
  1. to see how my own activities as an open researcher or as a volunteer for open knowledge initiatives like Wikimedia can be integrated with emergency response activities.﻿
 
+While I started this repo in an open-ended fashion, it has since evolved a focus on data sharing in public health emergencies, as discussed in [this paper](http://dx.doi.org/10.1371/journal.pmed.1002109).
+
 A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
 ![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
 
