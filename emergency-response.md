@@ -48,6 +48,7 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
   * ["Member  States  have  largely  failed  to  implement  the  core  capacities,  particularly  under 
 surveillance  and  data  collection,  which  are  required  under  the  International  Health  Regulations  (2005)"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
    * [International Health Regulations](https://en.wikipedia.org/wiki/International_Health_Regulations)
+    * ["A proposal to amend the International Health Regulations with clear codes of practice for data sharing warrants serious consideration"](http://dx.doi.org/10.1371/journal.pmed.1002109)
   * ["data were not aggregated, analysed or shared in a timely manner and in some cases not at all"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
 * [Open Data's Impact: Battling Ebola in Sierra Leone &mdash; Data Sharing to Improve Crisis Response](http://odimpact.org/case-battling-ebola-in-sierra-leone.html)
 
