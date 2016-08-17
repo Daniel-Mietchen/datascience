@@ -49,6 +49,7 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 surveillance  and  data  collection,  which  are  required  under  the  International  Health  Regulations  (2005)"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
    * [International Health Regulations](https://en.wikipedia.org/wiki/International_Health_Regulations)
   * ["data were not aggregated, analysed or shared in a timely manner and in some cases not at all"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
+* [Open Data's Impact: Battling Ebola in Sierra Leone &mdash; Data Sharing to Improve Crisis Response](http://odimpact.org/case-battling-ebola-in-sierra-leone.html)
 
 ## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Creating a rapid response – relevant to Zika virus](http://www.collabchem.com/2016/01/26/creating-a-rapid-response-relevant-to-zika-virus/)
