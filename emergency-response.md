@@ -44,6 +44,11 @@ A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large
 * [UN High Level Panel on the Global Response to Health Crisis](http://www.un.org/press/en/2015/sga1558.doc.htm)
   * report: [Protecting Humanity from Future Health Crises](http://www.un.org/News/dh/infocus/HLP/2016-02-05_Final_Report_Global_Response_to_Health_Crises.pdf)
 * [Ebola outbeak data scraped from government PDF](https://github.com/cmrivers/ebola)
+* [WHO Report of the Ebola Interim Assessment Panel - July 2015](http://www.who.int/csr/resources/publications/ebola/ebola-panel-report/en/)
+  * ["Member  States  have  largely  failed  to  implement  the  core  capacities,  particularly  under 
+surveillance  and  data  collection,  which  are  required  under  the  International  Health  Regulations  (2005)"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
+   * [International Health Regulations](https://en.wikipedia.org/wiki/International_Health_Regulations)
+  * ["data were not aggregated, analysed or shared in a timely manner and in some cases not at all"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
 
 ## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Creating a rapid response – relevant to Zika virus](http://www.collabchem.com/2016/01/26/creating-a-rapid-response-relevant-to-zika-virus/)
