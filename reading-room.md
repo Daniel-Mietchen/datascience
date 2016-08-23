@@ -608,3 +608,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Brevy](http://brevy.org/ summaries of research papers)
 * [The Marginal Costs of Article Publishing – Critiquing the Standard Analytics Study](http://cameronneylon.net/blog/the-marginal-costs-of-article-publishing-critiquing-the-standard-analytics-study/)
 * [Riding the wave - How Europe can gain from the rising tide of scientific data - Final report of the High Level Expert Group on Scientific Data - October 2010](http://ec.europa.eu/information_society/newsroom/cf/document.cfm?action=display&doc_id=707)
+* ["The 65 best papers in Data Science history"](http://www.dataonfocus.com/great-list-the-65-best-papers-in-data-science-history/)
