@@ -19,6 +19,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [The History Of Europe Lies In British People's DNA](http://www.buzzfeed.com/christinekenneally/the-history-of-europe-lies-in-british-peoples-dna)
 * [Doing Journalism with Data](http://datadrivenjournalism.net/)
 * [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks)
+* [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
 
 ## about data sharing
 * [Why medical journals must make researchers share data from clinical trials](https://theconversation.com/why-medical-journals-must-make-researchers-share-data-from-clinical-trials-44278)
