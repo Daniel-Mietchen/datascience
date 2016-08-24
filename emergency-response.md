@@ -131,7 +131,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [ReliefWeb Open Data on Nepal earthquakes](https://data.hdx.rwlabs.org/group/nepal-earthquake)
 
 ## [2016 earthquakes](https://en.wikipedia.org/wiki/List_of_earthquakes_in_2016#By_death_toll)
-* [OSM mapping for Italy earthquake](http://osmit-tm.wmflabs.org/project/13)
+* [Central Italy earthquakes](https://www.wikidata.org/wiki/Q26689701)
+  * [OSM mapping project](http://osmit-tm.wmflabs.org/project/13)
+  * [provision of satellite data](https://www.twst.com/update/leonardo-finmeccanica-s-p-a-earthquake-in-italy-e-geos-within-the-copernicus-program-provides-satellite-images-maps-and-data-in-support-of-the-rescue-operation/)
 
 # Storms
 ## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
