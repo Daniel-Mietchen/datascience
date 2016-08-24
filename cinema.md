@@ -56,6 +56,9 @@ This file collects examples of talks, lectures and other forms of presentations 
     * [horse manure crisis of New York in 1960, as discussed in 1860](https://fee.org/articles/the-great-horse-manure-crisis-of-1894/)
 * [Flashmob Nürnberg 2014 - Ode an die Freude](https://www.youtube.com/watch?v=a23945btJYw)
   * a very special, deeply emotional kind of public engagement
+* [Is stigma an invisible killer? &mdash; Nahid Bhadelia](https://www.youtube.com/watch?v=DR8GOoE91Lk)
+  * discusses the stigma that patients and caregivers often experience, and what can be done about it
+    * key factor: education
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
