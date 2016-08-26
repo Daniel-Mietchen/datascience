@@ -11,6 +11,7 @@ This file serves the collection of information related to public access policies
 * [White House Directive from 2013 (Holdren memo)](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
   * [SPARC overview of responses](http://sparcopen.org/our-work/2013-executive-directive/) (regularly updated)
     * Apart from NIH, three agencies so far (AHRQ, NASA, NIST) opted for an approach based on PubMed Central for handling the literature part
+     * NASA's "PubSpace" is [live](https://www.ncbi.nlm.nih.gov/pmc/funder/nasa/) as a subset of PMC
   * [NIH policies on access and sharing](http://grants.nih.gov/grants/sharing.htm)
   * [NSF policy](http://www.nsf.gov/news/special_reports/public_access/)
   * several of these agencies envision a "research data commons"
