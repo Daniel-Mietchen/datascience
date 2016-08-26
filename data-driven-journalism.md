@@ -37,6 +37,8 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Journal of Visualized Experiments (JoVE)](http://www.jove.com/)
 * [Walnut.io](https://thewalnut.io/)
 * [Automating big-data analysis](http://news.mit.edu/2015/automating-big-data-analysis-1016)
+* [Tube Heartbeat](http://tubeheartbeat.com/london/)
+    * [blog post](https://blog.tfl.gov.uk/2016/08/25/tfl-open-data-powering-the-tube-heartbeat/)
 
 ## Individual examples
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
