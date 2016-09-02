@@ -21,13 +21,14 @@ This file collects information pertaining to ways in which the interaction betwe
 * [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks)
 * [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
 
-## about data sharing
+## about data sharing or visualization
 * [Why medical journals must make researchers share data from clinical trials](https://theconversation.com/why-medical-journals-must-make-researchers-share-data-from-clinical-trials-44278)
     * [Sharing Clinical Trial Data: Maximizing Benefits, Minimizing Risk](http://iom.nationalacademies.org/Reports/2015/Sharing-Clinical-Trial-Data.aspx)
     * [Cochrane Collaboration statement on access to clinical trial data](http://community.cochrane.org/features/clinical-trials-statement-press-release)
 * [What We’ve Learned About Sharing Our Data Analysis](https://source.opennews.org/en-US/articles/what-weve-learned-about-sharing-our-data-analysis/)
 * [Researchers Sharing Data Was Supposed to Change Science Forever. Did It?](http://www.slate.com/blogs/future_tense/2015/06/24/darpa_s_biology_is_technology_conference_discusses_problems_with_open_source.html)
 * [Inside a monkey lab, research gets fast-tracked in the ‘Zika room’](https://www.statnews.com/2016/06/27/zika-virus-monkey-research/)
+* [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
 
 # Engaging visualizations
 
