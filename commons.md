@@ -5,7 +5,7 @@ This file collects information related to the concept of the Commons, as it appl
 * At NIH
       * Overview
           * [Datascience](https://datascience.nih.gov/commons) 
-* multiple other agencies (e.g. NIST) have also indicated interest in a "research data commons" 
+* multiple other agencies (e.g. NIST) have also indicated interest in a "research data commons", and USDA is working on [Ag Data Commons](https://data.nal.usda.gov/)
 * legal structure: [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation)
 * [Jefferson Digital Commons](http://jdc.jefferson.edu/)
       * "The Jefferson Digital Commons is a service of Thomas Jefferson University's Center for Teaching and Learning (CTL). The Commons is a showcase for Jefferson books and journals, peer-reviewed scholarly publications, unique historical collections from the University archives, and teaching tools. The Jefferson Digital Commons allows researchers and interested readers anywhere in the world to learn about and keep up to date with Jefferson scholarship."
