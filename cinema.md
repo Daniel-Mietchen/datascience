@@ -62,6 +62,10 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Philippe Petit](https://en.wikipedia.org/wiki/Philippe_Petit): [The journey across the high wire](https://www.youtube.com/watch?v=k3zZVQPaKKQ)
   * quite personal perspective on essential personality traits, presented in a highly original way
 * [The surprising habits of original thinkers &mdash; Adam Grant ](https://www.youtube.com/watch?v=fxbCHn6gE3U)
+* [The Open Patient: Healing through sharing](https://www.youtube.com/watch?v=Glo5zP3sMpM)
+  * features [OpenNotes](http://www.opennotes.org/)
+  * [blog post](http://singularityhub.com/2016/08/12/access-to-medical-data-helped-this-engineer-discover-his-own-brain-tumor/)
+  * [summary tweet](https://twitter.com/EvoMRI/status/772090639131545601)
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
