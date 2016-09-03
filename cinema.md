@@ -59,6 +59,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Is stigma an invisible killer? &mdash; Nahid Bhadelia](https://www.youtube.com/watch?v=DR8GOoE91Lk)
   * discusses the stigma that patients and caregivers often experience, and what can be done about it
     * key factor: education
+* [Philippe Petit](https://en.wikipedia.org/wiki/Philippe_Petit): [The journey across the high wire](https://www.youtube.com/watch?v=k3zZVQPaKKQ)
+  * quite personal perspective on essential personality traits, presented in a highly original way
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
