@@ -32,6 +32,7 @@ This file is to facilitate the collection of information pertaining to the citat
     * Details: [Dynamic Data Citation: which time-stamp to assign?](https://rd-alliance.org/group/data-citation-wg/post/dynamic-data-citation-which-time-stamp-assign.html) / [Data Citation of Evolving Data](https://rd-alliance.org/system/files/documents/RDA-DC-Recommendations_150609.pdf)
 * [Data-level metrics](http://datapub.cdlib.org/category/data-citation-2/)
 * [Academic citation practices need to be modernized so that all references are digital and lead to full texts](http://blogs.lse.ac.uk/impactofsocialsciences/2014/05/21/academic-citation-practices-need-to-be-modernized/)
+* [Data Citation in Neuroimaging: Proposed Best Practices for Data Identification and Attribution](http://dx.doi.org/10.3389/fninf.2016.00034)
 
 # See also
 * Software citation
