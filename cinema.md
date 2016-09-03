@@ -61,6 +61,7 @@ This file collects examples of talks, lectures and other forms of presentations 
     * key factor: education
 * [Philippe Petit](https://en.wikipedia.org/wiki/Philippe_Petit): [The journey across the high wire](https://www.youtube.com/watch?v=k3zZVQPaKKQ)
   * quite personal perspective on essential personality traits, presented in a highly original way
+* [The surprising habits of original thinkers &mdash; Adam Grant ](https://www.youtube.com/watch?v=fxbCHn6gE3U)
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
