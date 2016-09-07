@@ -62,7 +62,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [preprint](https://dx.doi.org/10.6084/m9.figshare.2069983.v2)
 * Bulletin of the World Health Organization launches [Zika Open](http://www.who.int/bulletin/online_first/zika_open/en/)
   * [Editorial](http://dx.doi.org/10.2471/BLT.16.170860)
-* [Global scientific community commits to sharing data on Zika](http://www.wellcome.ac.uk/News/Media-office/Press-releases/2016/WTP060169.htm) 
+* [Global scientific community commits to sharing data on Zika](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies) 
 * [Benefits of sharing](http://dx.doi.org/10.1038/530129a)
 * [Zika researchers release real-time data on viral infection study in monkeys](http://dx.doi.org/10.1038/nature.2016.19438)
 * [Science, get over yourself: Zika data-sharing should be the norm, not the exception](https://www.statnews.com/2016/02/16/zika-data-sharing/)
