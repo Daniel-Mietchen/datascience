@@ -199,6 +199,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks)
 * [Emergency Data Exchange Language (EDXL)](https://en.wikipedia.org/wiki/EDXL)
 * [ReliefWeb](https://en.wikipedia.org/wiki/ReliefWeb) founded in 1996 in response to the [Rwandan genocide](https://en.wikipedia.org/wiki/Rwandan_genocide) in 1994
+* [Report on the prevention of malaria in Mauritius](https://archive.org/details/onpreventi00rossreportrich) by Ronald Ross (1908), with mathematical treatment of malaria infections
 
 A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
 ![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
