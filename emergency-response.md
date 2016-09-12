@@ -196,6 +196,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [background](https://en.wikipedia.org/wiki/Analysis_of_Malaysia_Airlines_Flight_370_satellite_communications)
 * [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks)
 * [Emergency Data Exchange Language (EDXL)](https://en.wikipedia.org/wiki/EDXL)
+* [ReliefWeb](https://en.wikipedia.org/wiki/ReliefWeb) founded in 1996 in response to the [Rwandan genocide](https://en.wikipedia.org/wiki/Rwandan_genocide) in 1994
 
 A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
 ![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
