@@ -37,7 +37,7 @@ While I started this repo in an open-ended fashion, it has since evolved a focus
   * License: CC BY-SA
   * [Wikipedia Emerges as Trusted Internet Source for Ebola Information](http://www.nytimes.com/2014/10/27/business/media/wikipedia-is-emerging-as-trusted-internet-source-for-information-on-ebola-.html?_r=0)
   * in affected countries, Wikipedia was the most consulted source on Ebola (CFCF has references)
-* [Ebola teaches tough lessons about rapid research](http://dx.doi.org/10.1038/521405a)
+* [Ebola teaches tough lessons about rapid research](http://doi.org/10.1038/521405a)
 * [Data sharing: Make outbreak research open access](http://doi.org/10.1038/518477a)
   * [The Virus Detectives - Sifting Through Genes in Search of Answers on Ebola](http://www.nytimes.com/2014/12/02/science/factory-direct-virus-analysis.html)
 * [Ebola treatments caught in limbo](http://dx.doi.org/10.1038/511520a)
@@ -144,10 +144,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
  * ["Open data matters most when the stakes are high"](https://medium.com/@WhiteHouse/ten-years-after-katrina-new-orleans-recovery-and-what-data-had-to-do-with-it-3df0bb2467e9#.6fhghgjqe)
  * [Comparing Hurricane Katrina to Japan's Kobe Earthquake in 1995: Sharing Policy and Institutional Lessons from Two Large Scale Natural Disasters in the United States and Japan](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/114/2012/10/RP239.pdf)
 
-
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
-
 
 # Organizations
 * [Médecins Sans Frontières/Doctors without Borders](http://www.doctorswithoutborders.org/)
