@@ -110,3 +110,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Planning for Data Reuse Checklist](http://mozillascience.github.io/checklist/)
 * [A century of trends in adult human height](http://dx.doi.org/10.7554/eLife.13410)
       * reuses 1472 datasets
+* SciDataCon 2016 session [Data fitness: What are the processes and components to assess and communicate re-usability of data?](http://www.scidatacon.org/2016/sessions/53/)
