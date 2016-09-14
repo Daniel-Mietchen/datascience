@@ -13,6 +13,7 @@ This file collects information related to the concept of the Commons, as it appl
  
 # Internationally
 * [International Association for the Study of the Commons](http://www.iasc-commons.org/)
+      * [IASC 2017](http://www.iasc2017.org/): Utrecht, 10-14 July 2017.
 * [Squaring Circles: The economics and governance of scholarly infrastructures](http://cameronneylon.net/blog/squaring-circles-the-economics-and-governance-of-scholarly-infrastructures/)
 * [Zenodo](https://zenodo.org/)
     * dedicated group on [Patient data](https://zenodo.org/collection/user-patient-data) (experimental)
