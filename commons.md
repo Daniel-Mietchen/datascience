@@ -1,7 +1,7 @@
-#About
+# About
 This file collects information related to the concept of the Commons, as it applies to the sharing of scientific data and related information at the NIH and beyond.
 
-#In the US
+# In the US
 * At NIH
       * Overview
           * [Datascience](https://datascience.nih.gov/commons) 
@@ -9,8 +9,11 @@ This file collects information related to the concept of the Commons, as it appl
 * legal structure: [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation)
 * [Jefferson Digital Commons](http://jdc.jefferson.edu/)
       * "The Jefferson Digital Commons is a service of Thomas Jefferson University's Center for Teaching and Learning (CTL). The Commons is a showcase for Jefferson books and journals, peer-reviewed scholarly publications, unique historical collections from the University archives, and teaching tools. The Jefferson Digital Commons allows researchers and interested readers anywhere in the world to learn about and keep up to date with Jefferson scholarship."
-
-#Internationally
+* [Ostrom Workshop at Indiana University Bloomington](https://ostromworkshop.indiana.edu/index.html)
+ 
+# Internationally
+* [International Association for the Study of the Commons](http://www.iasc-commons.org/)
+* [Squaring Circles: The economics and governance of scholarly infrastructures](http://cameronneylon.net/blog/squaring-circles-the-economics-and-governance-of-scholarly-infrastructures/)
 * [Zenodo](https://zenodo.org/)
     * dedicated group on [Patient data](https://zenodo.org/collection/user-patient-data) (experimental)
 * [World Intellectual Freedom Organization](https://d.wifo.org/t/shuttleworth-fellowship-application-open-draft/13)
@@ -22,6 +25,9 @@ This file collects information related to the concept of the Commons, as it appl
   * allows for exchanges of tokens of value (e.g. Commons credit)
 * [OECD report on Open Science (2015)](https://www.innovationpolicyplatform.org/content/open-science)
   * "Open science in the information age espouses the notion that knowledge created from public research has public good characteristics that go beyond the concept of the “commons” developed in the 18th century, insofar as ICT-enabled access broadens the possibilities to enrich the commons and extend it to a broader range of users. "
+
+# Tragedy of the commons
+* [on Wikipedia](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
 
 # See also
 * [Startup Crunches 100 Terabytes of Data in a Record 23 Minutes](http://www.wired.com/2014/10/startup-crunches-100-terabytes-data-record-23-minutes/)
