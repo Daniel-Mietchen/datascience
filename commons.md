@@ -1,5 +1,8 @@
 # About
-This file collects information related to the concept of the Commons, as it applies to the sharing of scientific data and related information at the NIH and beyond.
+This file collects information related to the concept of the Commons, both in general and as it applies to the sharing of scientific data and related information at the NIH and beyond.
+
+#General
+* Book: [Patterns of Commoning](http://patternsofcommoning.org/contents/)
 
 # In the US
 * At NIH
