@@ -42,6 +42,8 @@ This file collects information on crowdsourcing in relation to research, especia
     * [UK prize lets public decide on world's biggest science problem](http://dx.doi.org/10.1038/nature.2014.15247)
     * [Realising the potential of citizen science](http://www.scidev.net/global/communication/editorials/realising-the-potential-of-citizen-science.html)
     * NSF: [Invest strategically in public participation in science, technology, engineering, and mathematics research (PPSR)](https://www.performance.gov/content/invest-strategically-public-participation-science-technology-engineering-and-mathematics)
+    * [The BK BioReactor - Investigating the Unseen Microbiology of the Gowanus Canal](http://www.bkbioreactor.com/visualization)
+       * [summary tweet](https://twitter.com/iddux/status/778639932193583104)
 * [Personal Genomes](http://www.personalgenomes.org/)
     * [Open Humans](https://www.openhumans.org/)
 
