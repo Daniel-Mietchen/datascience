@@ -148,3 +148,8 @@ which also links to numerous examples of grant proposals that have already been 
    * [original report "Forskningens framtid! Vägval för framtidens forskningssystem: Målbild och rekommendationer"](https://publikationer.vr.se/produkt/forskningens-framtid-vagval-for-framtidens-forskningssystem-malbild-och-rekommendationer/)
 * [Grant application rejected over choice of font](http://dx.doi.org/10.1038/nature.2015.18686)
 * [Breaking the grant cycle: on the rational allocation of public resources to scientific research projects](https://www.repository.cam.ac.uk/handle/1810/247434)
+* [Fundable, but not funded: How can research funders ensure ‘unlucky’ applications are handled more appropriately?](http://blogs.lse.ac.uk/impactofsocialsciences/2016/04/12/fundable-but-not-funded/)
+    How can we ensure ‘unlucky’ applications are handled more appropriately?
+    Should funders be more honest about their financial capacity to fund, and look towards publicising supportable but unfunded grants to other funding bodies?
+    Does this idea support the notion of publicly available grant applications?
+    How can we address the limitations of peer review in funding decisions and look towards more objective ways to allocate funding? Or is peer review the best option available to the issues faced by funders with shrinking budgets?
