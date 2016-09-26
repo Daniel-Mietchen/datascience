@@ -596,7 +596,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [What do mHealth, eHealth and behavioral science mean for the future of healthcare?](http://radar.oreilly.com/2012/05/mhealth-ehealth-mobile-healthcare.html)
 * [Research Lifecycle](https://library.westernsydney.edu.au/uws_library/researchers/research-lifecycle)
 * [Mapping the Landscape of Research Data: How JLSC Contributors View this Rapidly Emerging Terrain](http://jlsc-pub.org/articles/abstract/10.7710/2162-3309.1279/)
-  * [special JLSC issue on all aspects of data management](http://jlsc-pub.org/10/volume/3/issue/2/)
+* [special JLSC issue on all aspects of data management](http://jlsc-pub.org/10/volume/3/issue/2/)
 * [Research funding should go to research, not to publishers!](http://www.leru.org/index.php/public/extra/signtheLERUstatement/)
 * [The Politics of Data: The rising prominence of a data-centric approach to scientific research](http://blogs.lse.ac.uk/impactofsocialsciences/2015/10/05/politics-of-data-scientific-data-centrism/)
 * [The open-data revolution has not lived up to expectations. But it is only getting started](http://www.economist.com/news/international/21678833-open-data-revolution-has-not-lived-up-expectations-it-only-getting?fsrc=scn/li/te/pe/ed/outofthebox)
@@ -609,3 +609,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [The Marginal Costs of Article Publishing – Critiquing the Standard Analytics Study](http://cameronneylon.net/blog/the-marginal-costs-of-article-publishing-critiquing-the-standard-analytics-study/)
 * [Riding the wave - How Europe can gain from the rising tide of scientific data - Final report of the High Level Expert Group on Scientific Data - October 2010](http://ec.europa.eu/information_society/newsroom/cf/document.cfm?action=display&doc_id=707)
 * ["The 65 best papers in Data Science history"](http://www.dataonfocus.com/great-list-the-65-best-papers-in-data-science-history/)
+* [Why you need version control](http://ellisp.github.io/blog/2016/09/16/version-control)
