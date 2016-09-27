@@ -29,6 +29,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Researchers Sharing Data Was Supposed to Change Science Forever. Did It?](http://www.slate.com/blogs/future_tense/2015/06/24/darpa_s_biology_is_technology_conference_discusses_problems_with_open_source.html)
 * [Inside a monkey lab, research gets fast-tracked in the ‘Zika room’](https://www.statnews.com/2016/06/27/zika-virus-monkey-research/)
 * [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
+* [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/)
 
 # Engaging visualizations
 
