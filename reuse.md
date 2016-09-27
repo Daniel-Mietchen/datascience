@@ -81,6 +81,7 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
      * [GitHub repo](https://github.com/te-papa/image-downloads-stats)
 
 # See also
+* [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/)
 * [Public Domain Status for Publicly Funded Works in the EU](https://meta.wikimedia.org/wiki/EU_policy/Issues_overview#Public_Domain_Status_for_Publicly_Funded_Works)
 * [NIH 3D Print Exchange](http://3dprint.nih.gov/)
 * reuse biographic info from ORCID to start an NIH Biosketch
