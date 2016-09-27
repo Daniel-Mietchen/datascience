@@ -610,3 +610,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Riding the wave - How Europe can gain from the rising tide of scientific data - Final report of the High Level Expert Group on Scientific Data - October 2010](http://ec.europa.eu/information_society/newsroom/cf/document.cfm?action=display&doc_id=707)
 * ["The 65 best papers in Data Science history"](http://www.dataonfocus.com/great-list-the-65-best-papers-in-data-science-history/)
 * [Why you need version control](http://ellisp.github.io/blog/2016/09/16/version-control)
+* [Given Enough Eyeballs, All Bugs Are Shallow? Revisiting Eric Raymond with Bug Bounty Programs](http://arxiv.org/abs/1608.03445)
