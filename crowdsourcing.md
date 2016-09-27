@@ -140,3 +140,4 @@ This file collects information on crowdsourcing in relation to research, especia
 * New species discovered online
    * [Crane fly et al.](https://commons.wikimedia.org/wiki/User_talk:Jkadavoor/Archive_2016#New_species_of_crane_fly.3F)
    * [Frog and snail](http://www.npr.org/sections/alltechconsidered/2016/08/06/488830352/the-app-that-aims-to-gamify-biology-has-amateurs-discovering-new-species)
+* [Given Enough Eyeballs, All Bugs Are Shallow? Revisiting Eric Raymond with Bug Bounty Programs](http://arxiv.org/abs/1608.03445)
