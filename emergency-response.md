@@ -79,6 +79,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ### Background on Zika and other otbreaks
 * [Why it takes so long to develop a vaccine against a new epidemic](http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
 * [Why we still don’t know all of the ways you can contract Zika](http://qz.com/740196/why-we-still-dont-know-all-of-the-ways-you-can-contract-zika/)
+* [A research and development Blueprint for action to prevent epidemics](http://www.who.int/csr/research-and-development/en/)
 
 # Earthquakes
 ## Generic
