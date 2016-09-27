@@ -77,7 +77,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Reanalysis of open Zika data](http://dx.doi.org/10.12688/f1000research.9110.1) using a [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
 
 ### Background on Zika and other otbreaks
-* [Why it takes so long to develop a vaccine against a new epidemic]http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
+* [Why it takes so long to develop a vaccine against a new epidemic](http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
+* [Why we still don’t know all of the ways you can contract Zika](http://qz.com/740196/why-we-still-dont-know-all-of-the-ways-you-can-contract-zika/)
 
 # Earthquakes
 ## Generic
