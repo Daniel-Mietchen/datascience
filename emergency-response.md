@@ -151,6 +151,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
 
+# Other public health crises
+## Flint Water Crisis
+* [The @flintwaterstudy team advocates an #OpenScience #citizenscience approach to research](https://twitter.com/joelcreswell/status/780858479858692096)
+
 # Organizations
 * [Médecins Sans Frontières/Doctors without Borders](http://www.doctorswithoutborders.org/)
 * [OpenStreetMap: overview of humanitarian activities](http://wiki.openstreetmap.org/wiki/Category:Humanitarian_OSM_Team)
