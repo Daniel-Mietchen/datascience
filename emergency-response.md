@@ -76,6 +76,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Zika Data From the Lab, and Right to the Web](http://www.nytimes.com/2016/07/19/health/zika-data-monkey-studies.html)
 * [Reanalysis of open Zika data](http://dx.doi.org/10.12688/f1000research.9110.1) using a [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
 
+### Background on Zika and other otbreaks
+* [Why it takes so long to develop a vaccine against a new epidemic]http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
+
 # Earthquakes
 ## Generic
 * [Nephrology in Earthquakes: Sharing Experiences and Information](http://cjasn.asnjournals.org/content/2/4/803.full)
