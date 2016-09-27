@@ -17,5 +17,8 @@ This file hosts information on efforts towards enhancing the discoverability of 
      * [Sienna Labs](http://www.siennalabs.com/)
      * Wellspring (?)
 
+# Posters
+* Recommendation engines fed with poster metadata could provide for an electronic equivalent of [Thematic poster walks](http://www.northseaconference.be/en/conference-format/).
+
 # See also
 * [Catalogs and Indices for Finding (Scientific) Software](https://danielskatzblog.wordpress.com/2015/02/23/catalogs-and-indices-for-finding-scientific-software/)
