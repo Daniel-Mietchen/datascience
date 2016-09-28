@@ -9,9 +9,9 @@ The list below contains two main components:
 
 I am particularly interested in the intersection between the two, i.e. organizations that use open approaches and consistently provide emergency responses. My motivation to collect this information is two-fold:
  1. to advance my general understanding under which conditions open approaches are being favoured over closed ones,
- 1. to see how my own activities as an open researcher or as a volunteer for open knowledge initiatives like Wikimedia can be integrated with emergency response activities.﻿
+ 1. to see how my own activities as an open researcher or as a volunteer for open knowledge initiatives like Wikimedia can be integrated with emergency response activities.
 
-While I started this repo in an open-ended fashion, it has since evolved a focus on data sharing in public health emergencies, as discussed in [this paper](http://dx.doi.org/10.1371/journal.pmed.1002109).
+While I started this repo in an open-ended fashion, it has since evolved a focus on data sharing in public health emergencies, which has been receiving a growing interest lately, as discussed in [this paper](http://dx.doi.org/10.1371/journal.pmed.1002109).
 
 
 # Epidemics
@@ -152,7 +152,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
 
-# Other public health crises
+# Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
 * [The @flintwaterstudy team advocates an #OpenScience #citizenscience approach to research](https://twitter.com/joelcreswell/status/780858479858692096)
   * sharing thoughts, plans, methods, insights, [data](http://flintwaterstudy.org/2015/12/complete-dataset-lead-results-in-tap-water-for-271-flint-samples/), activities through a blog written in accessible language ([http://flintwaterstudy.org/](http://flintwaterstudy.org/)) to engage the affected community in the research efforts addressing the serious water quality issues
@@ -168,14 +168,14 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [Disaster Information Management Research Center (NLM)](http://disasterinfo.nlm.nih.gov/)
     * part of [Specialized Information Services](http://sis.nlm.nih.gov/)
   * [Division of Emergency Management](http://www.ors.od.nih.gov/ser/dem/)
-* WHO expert group on 'Disability and disaster response' 
+  * [Integrating Health Research into Disaster Response: The New NIH Disaster Research Response Program](https://dx.doi.org/10.3390/ijerph13070676)
 * [Earthquakes without Frontiers](http://ewf.nerc.ac.uk/)
 * [Central Emergency Response Fund](http://www.unocha.org/cerf/)
 * [ReliefWeb](http://labs.reliefweb.int/)
   * [The Humanitarian Data Exchange](https://data.hdx.rwlabs.org/)
 * [Public Health Research Data Forum](https://wellcome.ac.uk/what-we-do/our-work/public-health-research-data-forum)
 
-# UN initiatives
+## UN initiatives
 * [UN International Strategy for Disaster Reduction](http://www.unisdr.org/)
 * UN Frameworks for Action for Risk Management
   * [Sendai Framework for Disaster Risk Reduction 2015-2030](http://reliefweb.int/report/world/sendai-framework-disaster-risk-reduction-2015-2030-aconf224crp1)
@@ -183,6 +183,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [UN High Level Panel on the Global Response to Health Crisis](http://www.un.org/press/en/2015/sga1558.doc.htm)
   * report: [Protecting Humanity from Future Health Crises](http://www.un.org/News/dh/infocus/HLP/2016-02-05_Final_Report_Global_Response_to_Health_Crises.pdf)
   * triggered by Ebola
+* WHO expert group on 'Disability and disaster response' 
 
 # Related presentations
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
