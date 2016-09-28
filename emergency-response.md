@@ -155,6 +155,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 # Other public health crises
 ## Flint Water Crisis
 * [The @flintwaterstudy team advocates an #OpenScience #citizenscience approach to research](https://twitter.com/joelcreswell/status/780858479858692096)
+  * sharing thoughts, plans, methods, insights, [data](http://flintwaterstudy.org/2015/12/complete-dataset-lead-results-in-tap-water-for-271-flint-samples/), activities through a blog written in accessible language: [http://flintwaterstudy.org/](http://flintwaterstudy.org/)
 
 # Organizations
 * [Médecins Sans Frontières/Doctors without Borders](http://www.doctorswithoutborders.org/)
