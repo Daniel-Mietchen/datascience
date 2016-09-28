@@ -80,6 +80,10 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
           * [“I knit, and would love to make this into a knitting pattern…”](http://collections.tepapa.govt.nz/Object/711029) (item is NC-ND-licensed)
      * [GitHub repo](https://github.com/te-papa/image-downloads-stats)
 
+# Repurposed media files
+* Fig. 5 of [Three-dimensional Magnetic Resonance Imaging of fossils across taxa](https://doi.org/10.5194/bg-5-25-2008) (CC BY) is reused in final figure of [NMR Studies of Fossilized Wood](http://dx.doi.org/10.1016/bs.arnmr.2016.07.002) (paywalled)
+* [File:Ernst-Abbe-Denkmal Jena Fürstengraben - 20140802 125709.jpg](https://commons.wikimedia.org/wiki/File:Ernst-Abbe-Denkmal_Jena_F%C3%BCrstengraben_-_20140802_125709.jpg) (CC0) reused in [Cell imaging: Beyond the limits](http://dx.doi.org/10.1038/526S50a) (paywalled)
+
 # See also
 * [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/)
 * [If We Share Data, Will Anyone Use Them? Data Sharing and Reuse in the Long Tail of Science and Technology]( http://dx.doi.org/10.1371/journal.pone.0067332)
