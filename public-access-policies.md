@@ -7,6 +7,7 @@ This file serves the collection of information related to public access policies
   * [Signatories](http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Data-sharing/Public-health-and-epidemiology/Signatories-to-the-joint-statement/index.htm)
 
 ## US
+* [Transparency and Open Government](https://www.whitehouse.gov/the-press-office/transparency-and-open-government) (January 21, 2009)
 * [Memorandum M-13-13, Open Data Policy - Managing Information as an Asset (May 9, 2013)](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
 * [White House Directive from 2013 (Holdren memo)](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
   * [SPARC overview of responses](http://sparcopen.org/our-work/2013-executive-directive/) (regularly updated)
