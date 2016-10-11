@@ -15,6 +15,7 @@ This file serves the collection of information related to public access policies
     * Apart from NIH, three agencies so far (AHRQ, NASA, NIST) opted for an approach based on PubMed Central for handling the literature part
      * NASA's "PubSpace" is [live](https://www.ncbi.nlm.nih.gov/pmc/funder/nasa/) as a subset of PMC
   * [NIH policies on access and sharing](http://grants.nih.gov/grants/sharing.htm)
+    * [Data Acquisition, Curation, and Use For a Continuously Learning Health System: A Vital Direction for Health and Health Care](https://nam.edu/data-acquisition-curation-and-use-for-a-continuously-learning-health-system-a-vital-direction-for-health-and-health-care/)
   * [NSF policy](http://www.nsf.gov/news/special_reports/public_access/)
   * several of these agencies envision a "research data commons"
 
