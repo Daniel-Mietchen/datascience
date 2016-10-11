@@ -70,3 +70,4 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 * [Open Licensing Policy Toolkit](http://creativecommons.org/weblog/entry/46110)
 * [Principle of proportionality in genomic data sharing](http://dx.doi.org/10.1038/nrg.2015.5)
 * [Open Data, Challenges towards implementation, and possible solutions](http://mulvany.net/open-data-challenges/open-data.html)
+* [Open Data Reveals $791 Million Error in Newly Adopted NYC Budget](http://iquantny.tumblr.com/post/147446103684/open-data-reveals-791-million-error-in-newly)
