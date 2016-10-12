@@ -154,3 +154,5 @@ which also links to numerous examples of grant proposals that have already been 
     * Should funders be more honest about their financial capacity to fund, and look towards publicising supportable but unfunded grants to other funding bodies?
     * Does this idea support the notion of publicly available grant applications?
     * How can we address the limitations of peer review in funding decisions and look towards more objective ways to allocate funding? Or is peer review the best option available to the issues faced by funders with shrinking budgets?"
+* [Billions lost in bids to secure EU research funding](https://www.timeshighereducation.com/news/billions-lost-in-bids-to-secure-european-union-research-funding)
+  * full report expected for November
