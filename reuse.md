@@ -119,3 +119,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
       * reuses 1472 datasets
 * SciDataCon 2016 session [Data fitness: What are the processes and components to assess and communicate re-usability of data?](http://www.scidatacon.org/2016/sessions/53/)
 * Robotics
+* [Whole genome resequencing of a laboratory-adapted Drosophila melanogaster population sample](http://dx.doi.org/10.1101/081554 )
