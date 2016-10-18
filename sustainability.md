@@ -26,3 +26,6 @@ This file hosts information regarding the sustainability of data-related infrast
 * [Global Grand Challenges](http://grandchallenges.org/)
 * [Cancer Research UK Grand Challenges](http://www.cancerresearchuk.org/about-us/cancer-news/press-release/2015-10-12-cancer-research-uk-launches-ps100m-grand-challenges-to-tackle-the-most-important-questions-in-cancer)
 * [TEDMED Great Challenges](http://tedmed.com/greatchallenges)
+
+# See also
+* [Wikidata as a digital preservation knowledgebase - Open Preservation Foundation](http://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/)
