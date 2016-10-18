@@ -12,4 +12,5 @@ This file collects information about the ethics of data science as well as about
 * [Office for Human Research Protections (OHRP) Database for Registered IORGs & IRBs, Approved FWAs, and Documents Received in Last 60 Days](http://ohrp.cit.nih.gov/search/irbsearch.aspx?styp=bsc)
 
 # See also
+* [Making ethics data FAIR](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md)
 * [GitHub and GitLab censored research dataset](https://twitter.com/gwillem/status/786908161345216512)
