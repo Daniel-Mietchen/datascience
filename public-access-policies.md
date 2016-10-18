@@ -18,6 +18,8 @@ This file serves the collection of information related to public access policies
     * [Data Acquisition, Curation, and Use For a Continuously Learning Health System: A Vital Direction for Health and Health Care](https://nam.edu/data-acquisition-curation-and-use-for-a-continuously-learning-health-system-a-vital-direction-for-health-and-health-care/)
   * [NSF policy](http://www.nsf.gov/news/special_reports/public_access/)
   * several of these agencies envision a "research data commons"
+* [Cancer Moonshot](https://www.whitehouse.gov/CancerMoonshot)
+  * [report](https://medium.com/cancer-moonshot/my-report-to-the-president-3c64b0dae863#.igz7bo949)
 
 ## UK
 * [Open Access at RCUK](http://www.rcuk.ac.uk/research/openaccess/)
