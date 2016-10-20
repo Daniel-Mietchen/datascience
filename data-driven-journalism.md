@@ -70,6 +70,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Green: Vegetation on Our Planet (Tour of Earth)](https://www.youtube.com/watch?v=6gUnXpBMfyI)
 * [Visualization of Migration of Honey Buzzards](https://vimeo.com/85808414)
 * [Life calendar](https://www.youtube.com/watch?v=arj7oStGLkU#t=13m3s) (one box for every week in a span of 90 years)
+* [Visualizations on the impact of Hurricane Matthew in Haiti](http://www.paho.org/hq/index.php?option=com_content&view=article&id=12618&Itemid=42143&lang=en) (overview page with links to individual interactive visualizations/ maps
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
