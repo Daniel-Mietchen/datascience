@@ -49,10 +49,11 @@ While I started this repo in an open-ended fashion, it has since evolved a focus
 * [WHO Report of the Ebola Interim Assessment Panel - July 2015](http://www.who.int/csr/resources/publications/ebola/ebola-panel-report/en/)
   * ["Member  States  have  largely  failed  to  implement  the  core  capacities,  particularly  under 
 surveillance  and  data  collection,  which  are  required  under  the  International  Health  Regulations  (2005)"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
-   * [International Health Regulations](https://en.wikipedia.org/wiki/International_Health_Regulations)
-    * ["A proposal to amend the International Health Regulations with clear codes of practice for data sharing warrants serious consideration"](http://dx.doi.org/10.1371/journal.pmed.1002109)
-  * ["data were not aggregated, analysed or shared in a timely manner and in some cases not at all"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
+    * [International Health Regulations](https://en.wikipedia.org/wiki/International_Health_Regulations)
+      * ["A proposal to amend the International Health Regulations with clear codes of practice for data sharing warrants serious consideration"](http://dx.doi.org/10.1371/journal.pmed.1002109)
+      * ["data were not aggregated, analysed or shared in a timely manner and in some cases not at all"](http://www.who.int/csr/resources/publications/ebola/report-by-panel.pdf)
 * [Open Data's Impact: Battling Ebola in Sierra Leone &mdash; Data Sharing to Improve Crisis Response](http://odimpact.org/case-battling-ebola-in-sierra-leone.html)
+* [Urgent needs and participation of women must be prioritized in the Ebola response](http://doi.org/10.1016/S0968-8080(14)44820-1)
 
 ## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Creating a rapid response – relevant to Zika virus](http://www.collabchem.com/2016/01/26/creating-a-rapid-response-relevant-to-zika-virus/)
@@ -78,6 +79,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [how scientific collaboration and data sharing is making a difference in this global health crisis called Zika](http://www.promega.de/resources/pubhub/inspiration/zika-perspectives-responses/) (click on the "Collaboration" header to get directly to the relevant section)
 * [Coalition for Epidemic Preparedness Innovations](https://tools.wmflabs.org/reasonator/?&q=27133033)
 * [A gendered human rights analysis of Ebola and Zika: locating gender in global health emergencies](https://www.chathamhouse.org/publication/ia/gendered-human-rights-analysis-ebola-and-zika-locating-gender-global-health#https://www.chathamhouse.org/publication/ia/gendered-human-rights-analysis-ebola-and-zika-locating-gender-global-health)
+  * good overview of related sources in [Zika and Ebola had a much worse effect on women: we need more research to address this in future](https://theconversation.com/zika-and-ebola-had-a-much-worse-effect-on-women-we-need-more-research-to-address-this-in-future-64868)
 
 ### Background on Zika and other otbreaks
 * [Why it takes so long to develop a vaccine against a new epidemic](http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
