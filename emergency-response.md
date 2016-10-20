@@ -77,6 +77,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Reanalysis of open Zika data](http://dx.doi.org/10.12688/f1000research.9110.1) using a [Jupyter notebook](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb)
 * [how scientific collaboration and data sharing is making a difference in this global health crisis called Zika](http://www.promega.de/resources/pubhub/inspiration/zika-perspectives-responses/) (click on the "Collaboration" header to get directly to the relevant section)
 * [Coalition for Epidemic Preparedness Innovations](https://tools.wmflabs.org/reasonator/?&q=27133033)
+* [A gendered human rights analysis of Ebola and Zika: locating gender in global health emergencies](https://www.chathamhouse.org/publication/ia/gendered-human-rights-analysis-ebola-and-zika-locating-gender-global-health#https://www.chathamhouse.org/publication/ia/gendered-human-rights-analysis-ebola-and-zika-locating-gender-global-health)
 
 ### Background on Zika and other otbreaks
 * [Why it takes so long to develop a vaccine against a new epidemic](http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
