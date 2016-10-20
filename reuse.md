@@ -118,5 +118,6 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [A century of trends in adult human height](http://dx.doi.org/10.7554/eLife.13410)
       * reuses 1472 datasets
 * SciDataCon 2016 session [Data fitness: What are the processes and components to assess and communicate re-usability of data?](http://www.scidatacon.org/2016/sessions/53/)
-* Robotics
+* Robotics in general
 * [Whole genome resequencing of a laboratory-adapted Drosophila melanogaster population sample](http://dx.doi.org/10.1101/081554 )
+* [407 publications used GBIF data in 2015](https://twitter.com/vsmithuk/status/788867195258429440) (as per the [GBIF Science Review 2016](http://www.gbif.org/resource/82873))
