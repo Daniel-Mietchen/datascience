@@ -31,6 +31,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [How mobile data visualization helped reduce malaria cases by 93% — Zika could be next](http://venturebeat.com/2016/08/31/mobile-data-visualization-reduce-malaria-93-zika/)
 * [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/)
 * [Storytelling with Big Data: Thoughts on VISUALIZED](http://blogs.scientificamerican.com/sa-visual/storytelling-with-big-data-thoughts-on-visualized/)
+* [LiveStories Empowers Rapid Responses to Health Crises](http://www.livestories.com/blog/livestories-empowers-rapid-responses-to-health-crises)
 
 # Engaging visualizations
 
