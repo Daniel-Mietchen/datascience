@@ -48,3 +48,5 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Metascience could rescue the ‘replication crisis’](http://dx.doi.org/10.1038/515009a)
 * [How scientists fool themselves – and how they can stop](http://dx.doi.org/10.1038/526182a)
 * [How open data can improve medicine](http://www.macleans.ca/society/how-open-data-can-improve-medicine/)
+* [The natural selection of bad science](http://doi.org/10.1098/rsos.160384)
+    * ["Even putting an emphasis on replication — in which labs got half credit for double-checking the findings of other groups — couldn’t save the system."](https://www.sciencenews.org/blog/scicurious/blame-bad-incentives-bad-science)
