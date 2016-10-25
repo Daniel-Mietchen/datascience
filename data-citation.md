@@ -33,6 +33,8 @@ This file is to facilitate the collection of information pertaining to the citat
 * [Data-level metrics](http://datapub.cdlib.org/category/data-citation-2/)
 * [Academic citation practices need to be modernized so that all references are digital and lead to full texts](http://blogs.lse.ac.uk/impactofsocialsciences/2014/05/21/academic-citation-practices-need-to-be-modernized/)
 * [Data Citation in Neuroimaging: Proposed Best Practices for Data Identification and Attribution](http://dx.doi.org/10.3389/fninf.2016.00034)
+* [Why shared data should not be acknowledged on the author byline](https://www.ncbi.nlm.nih.gov/pubmed/22008368)
+  - "We briefly discuss viable alternatives for crediting contributors, such as citations of papers describing shared data"
 
 # See also
 * Software citation
