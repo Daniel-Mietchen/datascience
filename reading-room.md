@@ -612,3 +612,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * ["The 65 best papers in Data Science history"](http://www.dataonfocus.com/great-list-the-65-best-papers-in-data-science-history/)
 * [Why you need version control](http://ellisp.github.io/blog/2016/09/16/version-control)
 * [Given Enough Eyeballs, All Bugs Are Shallow? Revisiting Eric Raymond with Bug Bounty Programs](http://arxiv.org/abs/1608.03445)
+* [State of Open Data](https://dx.doi.org/10.6084/m9.figshare.4036398.v1)
