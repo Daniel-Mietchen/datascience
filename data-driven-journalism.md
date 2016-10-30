@@ -72,6 +72,8 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Life calendar](https://www.youtube.com/watch?v=arj7oStGLkU#t=13m3s) (one box for every week in a span of 90 years)
 * [Visualizations on the impact of Hurricane Matthew in Haiti](http://www.paho.org/hq/index.php?option=com_content&view=article&id=12618&Itemid=42143&lang=en) (overview page with links to individual interactive visualizations/ maps
 * [Surging Seas: map of sea level rise](http://seeing.climatecentral.org/#12/52.3702/4.8952?show=lockinAnimated&level=3&unit=feet&pois=hide)
+* [72 Hours of Global Air Traffic in 13 seconds](https://www.youtube.com/watch?v=8hedw5jKgzw)
+  * [commentary](http://metrocosm.com/global-air-traffic-map/)
 
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
