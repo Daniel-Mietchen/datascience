@@ -11,7 +11,8 @@ This file serves the collection of information related to public access policies
   * [FACT SHEET: Data by the People, for the People — Eight Years of Progress Opening Government Data to Spur Innovation, Opportunity, & Economic Growth](https://www.whitehouse.gov/the-press-office/2016/09/28/fact-sheet-data-people-people-eight-years-progress-opening-government)
 * [Memorandum M-13-13, Open Data Policy - Managing Information as an Asset (May 9, 2013)](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
 * [White House Directive from 2013 (Holdren memo)](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
-  * [CENDI is collecting information on Federal Agency plans and guidance for implementation of Public Access](https://cendi.gov/projects/Public_Access_Plans_US_Fed_Agencies.html)
+  * [OA Week 2016 overview](https://www.digitalgov.gov/2016/10/28/federally-funded-research-results-are-becoming-more-open-and-accessible/)
+  * [CENDI overview of Federal Agency plans](https://cendi.gov/projects/Public_Access_Plans_US_Fed_Agencies.html)
   * [SPARC overview of responses](http://sparcopen.org/our-work/2013-executive-directive/) (regularly updated)
     * Apart from NIH, three agencies so far (AHRQ, NASA, NIST) opted for an approach based on PubMed Central for handling the literature part
      * NASA's "PubSpace" is [live](https://www.ncbi.nlm.nih.gov/pmc/funder/nasa/) as a subset of PMC
