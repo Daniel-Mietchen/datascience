@@ -35,6 +35,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/)
 * [Storytelling with Big Data: Thoughts on VISUALIZED](http://blogs.scientificamerican.com/sa-visual/storytelling-with-big-data-thoughts-on-visualized/)
 * [LiveStories Empowers Rapid Responses to Health Crises](http://www.livestories.com/blog/livestories-empowers-rapid-responses-to-health-crises)
+* [Genetic testing fumbles, revealing ‘dark side’ of precision medicine](https://www.statnews.com/2016/10/31/genetic-testing-precision-medicine/)
 
 # Engaging visualizations
 
