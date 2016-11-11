@@ -71,6 +71,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Back to the thesis: Francis Collins](https://www.youtube.com/watch?v=e3QAWyGW1DY) 
   * useful
   * great illustrations
+* [Wanda Diaz Merced: How a blind astronomer found a way to hear the stars](https://www.ted.com/talks/wanda_diaz_merced_how_a_blind_astronomer_found_a_way_to_hear_the_stars)
+  * sonification as a way to (a) explore data, (b) help bridge gaps between the sighted and un-sighted
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
