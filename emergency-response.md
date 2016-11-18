@@ -174,6 +174,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     * part of [Specialized Information Services](http://sis.nlm.nih.gov/)
   * [Division of Emergency Management](http://www.ors.od.nih.gov/ser/dem/)
   * [Integrating Health Research into Disaster Response: The New NIH Disaster Research Response Program](https://dx.doi.org/10.3390/ijerph13070676)
+* [Federal Emergency Management Agency](https://www.fema.gov/)
+  * [FEMA’S Syndicated Content: Digital Assists in Moments of Disaster](https://www.digitalgov.gov/2016/11/17/femas-syndicated-content-digital-assists-in-moments-of-disaster/)
 * [Earthquakes without Frontiers](http://ewf.nerc.ac.uk/)
 * [Central Emergency Response Fund](http://www.unocha.org/cerf/)
 * [ReliefWeb](http://labs.reliefweb.int/)
