@@ -33,4 +33,5 @@ This file contains notes on how to make Web-based materials &ndash; and data in 
 * [What standards exist for accessibility of open data?](http://opendata.stackexchange.com/questions/4772/what-standards-exist-for-accessibility-of-open-data) at Open Data Stack Exchange
 * [Publishers: Why is all your content not accessible?](http://www.digital-science.com/blog/guest/publishers-why-is-all-your-content-not-accessible/) &mdash; story of a blind physicist and the (in)accessibility of the scholarly literature for him
 * [Web accessibility for the disabled makes sense for everyone](http://www.slate.com/articles/technology/future_tense/2015/07/ada_25th_anniversary_the_internet_should_be_accessible_for_the_disabled.html)
-* 
+* [Wanda Diaz Merced: How a blind astronomer found a way to hear the stars](https://www.ted.com/talks/wanda_diaz_merced_how_a_blind_astronomer_found_a_way_to_hear_the_stars)
+  * sonification as a way to (a) explore data, (b) help bridge gaps between the sighted and un-sighted
