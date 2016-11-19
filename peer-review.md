@@ -5,7 +5,7 @@ This file collects information related to new approaches to peer review for all 
 These examples are roughly sorted by step in research cycle
 * Ideas
 * Pre-registration
-* Funding proposalsn
+* Funding proposals
 * Software
 * Data
 * Protocols
