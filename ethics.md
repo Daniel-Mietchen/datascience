@@ -7,6 +7,11 @@ This file collects information about the ethics of data science as well as about
    * [Linking Local and Indigenous Communities with Researchers for Improving Access and Discovery of Ethically Open Data and Knowledge](http://www.scidatacon.org/2016/sessions/33/)
    * [How, When, and Why are Data Open? Competing Perspectives on Open Data in Science](http://www.scidatacon.org/2016/sessions/17/)
 
+# Guidance on ethics procedures
+* Many institutions issue guidance on ethical matters and the processes set in place to handle them. Some examples:
+  * [Oxford Brookes University: Guidelines for informed consent](https://www.brookes.ac.uk/Research/Research-ethics/Guidelines-for-informed-consent/)
+  * [University of Guelph: Ethics and Regulatory Compliance](http://www.uoguelph.ca/research/for-researchers/ethics-and-regulatory-compliance)
+
 # Data on ethics
 * Scarce
 * [Office for Human Research Protections (OHRP) Database for Registered IORGs & IRBs, Approved FWAs, and Documents Received in Last 60 Days](http://ohrp.cit.nih.gov/search/irbsearch.aspx?styp=bsc)
