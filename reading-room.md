@@ -526,6 +526,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
     * general resources related to a target topic
      * [Omics Discovery Index](http://wwwdev.ebi.ac.uk/Tools/ddi/) 
   * [Blame bad incentives for bad science](https://www.sciencenews.org/blog/scicurious/blame-bad-incentives-bad-science) ("The solution is to add incentives for having an excellent research process, regardless of outcome")
+  * [Rewarding open access scholarship in promotion and tenure](http://crln.acrl.org/content/77/7/322.full) (with focus on Indiana University)
 * data mining:
   * [Mine the Gap: Leveraging Open Access Through Citizen Engagement in Science](http://www.open-shelf.ca/150301-mine-the-gap/)
   * [Text mining at Europe PMC](http://europepmc.org/help#tmintegrated)
