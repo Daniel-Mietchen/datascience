@@ -526,6 +526,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   * [Mine the Gap: Leveraging Open Access Through Citizen Engagement in Science](http://www.open-shelf.ca/150301-mine-the-gap/)
   * [Text mining at Europe PMC](http://europepmc.org/help#tmintegrated)
   * [Alzheimer's disease biomarker discovery using in silico literature mining and clinical validation](http://dx.doi.org/10.1186/1479-5876-10-217)
+  * [Blinkist: "Big ideas in small packages; 1,500+ best-selling nonfiction books, transformed into powerful shorts you can read or listen to in just 15 minutes"](https://www.blinkist.com/en)
 * [NIH Mission](http://www.nih.gov/about/mission.htm)
 
 > NIH’s mission is to seek fundamental knowledge about the nature and behavior of living systems and the application of that knowledge to enhance health, lengthen life, and reduce illness and disability.
