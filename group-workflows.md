@@ -2,6 +2,14 @@
 This file is to collect information about key elements of group workflows, with an emphasis on open ones.
 
 # General
+## Collaborative workflows
+* [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
+* [GitHub for government](https://github.com/government)
+* [Lazarus](http://www.cs.manchester.ac.uk/our-research/activities/lazarus/)
+* [Hypothesis](https://hypothes.is/)
+* Ontology for describing workflows: [Wf4Ever](http://wf4ever.github.io/ro/)
+* [Docker as a container for shipping workflows](https://docs.docker.com/introduction/understanding-docker/)
+
 ## [Organization Blueprints](http://labcarpentry.org/blueprints/)
 * [Lab carpentry](https://github.com/lab-carpentry/lab-carpentry.github.io)
 
