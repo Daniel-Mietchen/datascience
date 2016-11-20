@@ -9,9 +9,9 @@ The list below contains two main components:
 
 I am particularly interested in the intersection between the two, i.e. organizations that use open approaches and consistently provide emergency responses. My motivation to collect this information is two-fold:
  1. to advance my general understanding under which conditions open approaches are being favoured over closed ones,
- 1. to see how my own activities as an open researcher or as a volunteer for open knowledge initiatives like Wikimedia can be integrated with emergency response activities.
+ 1. to see how my own activities as an open researcher or as a volunteer for open knowledge initiatives like Wikimedia can be integrated with emergency response activities, particularly with the digital response, as I am rarely in a position to respond on the ground.
 
-While I started this repo in an open-ended fashion, it has since evolved a focus on data sharing in public health emergencies, which has been receiving a growing interest lately, as discussed in [this paper](http://dx.doi.org/10.1371/journal.pmed.1002109).
+While I started this repo in an open-ended fashion, it has since evolved a focus on data sharing in public health emergencies, which has been receiving a growing interest lately, as discussed in [this paper](http://dx.doi.org/10.1371/journal.pmed.1002109). I have also begun to give talks on the subject, e.g. [at SciDataCon 2016](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) and [at IMED 2016](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md).
 
 
 # Epidemics
@@ -217,6 +217,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [ReliefWeb](https://en.wikipedia.org/wiki/ReliefWeb) founded in 1996 in response to the [Rwandan genocide](https://en.wikipedia.org/wiki/Rwandan_genocide) in 1994
 * [Report on the prevention of malaria in Mauritius](https://archive.org/details/onpreventi00rossreportrich) by Ronald Ross (1908), with mathematical treatment of malaria infections
 * [Using Waze, Uber, AirBnB and SeeClickFix for Disaster Response](https://irevolutions.org/2013/06/11/uber-waze-airbnb-seeclickfix-for-disaster-response/)
+* [Humanitarian Exchange Language (HXL)](http://hxlstandard.org/)
+  * [Humanitarian Exchange Language: a simple standard for messy data](http://opendatacon.org/humanitarian-exchange-language-a-simple-standard-for-messy-data/)
 
 A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
 ![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
