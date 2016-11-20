@@ -321,12 +321,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   * Oct 15, 2014: An Introduction to NCBI's E-Utilities, an NCBI API
 
 # Collaborative workflows
-* [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
-* [GitHub for government](https://github.com/government)
-* [Lazarus](http://www.cs.manchester.ac.uk/our-research/activities/lazarus/)
-* [Hypothesis](https://hypothes.is/)
-* Ontology for describing workflows: [Wf4Ever](http://wf4ever.github.io/ro/)
-* [Docker as a container for shipping workflows](https://docs.docker.com/introduction/understanding-docker/)
+This section now lives at [https://github.com/Daniel-Mietchen/datascience/blob/master/group-workflows.md](https://github.com/Daniel-Mietchen/datascience/blob/master/group-workflows.md).
 
 # Possible new subtopics to track
 * Python for data science
