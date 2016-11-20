@@ -1,8 +1,12 @@
 # About
 This file collects information related to the concept of the Commons, both in general and as it applies to the sharing of scientific data and related information at the NIH and beyond.
 
-#General
+# General
 * Book: [Patterns of Commoning](http://patternsofcommoning.org/contents/)
+
+# By discipline
+* [Humanities Commons](http://news.hcommons.org/)
+  * [at University of California, Irvine](http://www.humanities.uci.edu/commons/)
 
 # In the US
 * At NIH
@@ -15,6 +19,7 @@ This file collects information related to the concept of the Commons, both in ge
 * [Ostrom Workshop at Indiana University Bloomington](https://ostromworkshop.indiana.edu/index.html)
  
 # Internationally
+* [European Open Science Cloud](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud)
 * [International Association for the Study of the Commons](http://www.iasc-commons.org/)
       * [IASC 2017](http://www.iasc2017.org/): Utrecht, 10-14 July 2017.
 * [Squaring Circles: The economics and governance of scholarly infrastructures](http://cameronneylon.net/blog/squaring-circles-the-economics-and-governance-of-scholarly-infrastructures/)
