@@ -76,6 +76,9 @@ This file collects information pertaining to ways in which the interaction betwe
 * [72 Hours of Global Air Traffic in 13 seconds](https://www.youtube.com/watch?v=8hedw5jKgzw)
   * [commentary](http://metrocosm.com/global-air-traffic-map/)
 
+## Visualization tools
+* [5 open source dashboard tools for visualizing data](https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data)
+
 # Funding lines
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
 * [Knight Foundation's prototype fund](http://www.knightfoundation.org/funding-initiatives/knight-prototype-fund/)
