@@ -16,3 +16,6 @@ This file is to collect information about key elements of group workflows, with 
 # Research enviroments
 
 # Outreach
+
+# See also
+* [PhD Starter Kit](https://raoofphysics.github.io/phd-starter-kit/)
