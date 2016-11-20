@@ -1,7 +1,7 @@
 # About
-This page collects information on open collaboration in the context of emergency response or disaster relief efforts. Open here refers to 
-* the preparedness of accepting contributions from anyone, making use of the Web
-* results being available under open licenses, as per the [Open Definition](http://opendefinition.org/)
+This page collects information on open collaboration in the context of emergency response or disaster relief efforts. Open here refers to a subset of the digital response that can be characterized by
+* the preparedness of accepting contributions from anyone, making use of the Web;
+* results being available under open licenses, as per the [Open Definition](http://opendefinition.org/).
 
 The list below contains two main components:
  1. A list of emergency events and open initiatives that were triggered by them.
