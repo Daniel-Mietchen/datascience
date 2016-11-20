@@ -19,3 +19,4 @@ This file collects information about the ethics of data science as well as about
 # See also
 * [Making ethics data FAIR](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md)
 * [GitHub and GitLab censored research dataset](https://twitter.com/gwillem/status/786908161345216512)
+* [Swiss researchers travel to China to conduct pioneering experiment](https://doi.org/10.1038/nature.2016.20967)
