@@ -615,3 +615,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Why you need version control](http://ellisp.github.io/blog/2016/09/16/version-control)
 * [Given Enough Eyeballs, All Bugs Are Shallow? Revisiting Eric Raymond with Bug Bounty Programs](http://arxiv.org/abs/1608.03445)
 * [State of Open Data](https://dx.doi.org/10.6084/m9.figshare.4036398.v1)
+* [Science in transition](http://www.scienceintransition.nl/english)
+  - cited in [Fewer numbers, better science](https://doi.org/10.1038/538453a), which is generally a very useful article worth some thoughts and digging
