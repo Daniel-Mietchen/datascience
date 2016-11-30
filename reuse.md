@@ -122,3 +122,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Whole genome resequencing of a laboratory-adapted Drosophila melanogaster population sample](http://dx.doi.org/10.1101/081554 )
 * [407 publications used GBIF data in 2015](https://twitter.com/vsmithuk/status/788867195258429440) (as per the [GBIF Science Review 2016](http://www.gbif.org/resource/82873))
 * [http://plos.io/allofplos](http://plos.io/allofplos) (3.9GB zip)
+* [Raw diffraction data preservation and reuse: overview, update on practicalities and metadata requirements](https://doi.org/10.1107/S2052252516018315)
