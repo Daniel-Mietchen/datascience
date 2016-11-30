@@ -84,3 +84,4 @@ Things listed here have yet to be sorted into the structure above.
 * [Beyond open access: open discourse, the next great equalizer](https://dx.doi.org/10.1186/1742-4690-3-55)
 * [The Global Burden of Journal Peer Review in the Biomedical Literature: Strong Imbalance in the Collective Enterprise](http://dx.doi.org/10.1371/journal.pone.0166387)
   - [code](https://github.com/kovanostra/global-burden-of-peer-review)
+* [This new study may explain why peer review in science often fails](http://www.vox.com/science-and-health/2016/11/23/13713324/why-peer-review-in-science-often-fails)
