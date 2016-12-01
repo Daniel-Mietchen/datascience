@@ -73,6 +73,8 @@ This file collects examples of talks, lectures and other forms of presentations 
   * great illustrations
 * [Wanda Diaz Merced: How a blind astronomer found a way to hear the stars](https://www.ted.com/talks/wanda_diaz_merced_how_a_blind_astronomer_found_a_way_to_hear_the_stars)
   * sonification as a way to (a) explore data, (b) help bridge gaps between the sighted and un-sighted
+* [Big Data: Biomedicine](https://www.youtube.com/watch?v=F6CI7jXHGWg)
+  * soundbites and visualizations around BD2K; not openly licensed
 
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
