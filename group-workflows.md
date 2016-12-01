@@ -11,8 +11,10 @@ This file is to collect information about key elements of group workflows, with 
 * Ontology for describing workflows: [Wf4Ever](http://wf4ever.github.io/ro/)
 * [Docker as a container for shipping workflows](https://docs.docker.com/introduction/understanding-docker/)
 
-## [Organization Blueprints](http://labcarpentry.org/blueprints/)
+## Examples
+* [Organization Blueprints](http://labcarpentry.org/blueprints/)
 * [Lab carpentry](https://github.com/lab-carpentry/lab-carpentry.github.io)
+* [Casey Greene lab](http://greenelab-onboarding.readthedocs.io/en/latest/communication.html)
 
 ## Discovery tools
 
