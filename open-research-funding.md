@@ -55,6 +55,7 @@ which also links to numerous examples of grant proposals that have already been 
    * [Proposal to Sample Middle Stone Age Animal and Homo sapiens Specimens from Die Kelders Cave 1, Western Cape Province, South Africa, for Ancient DNA](http://www.sahra.org.za/sahris/sites/default/files/additionaldocs/Die%20Kelders%20Proposal%20final.pdf)
    * [Wikipedia:WikiProject Medicine/Research proposals](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine/Research_proposals)
 * [Federation of Earth Science Information Partners (ESIP)](http://www.esipfed.org/) runs FUNding Friday [Projects](http://wiki.esipfed.org/index.php/FUNding_Friday_Projects) and [Poster Competitions](http://wiki.esipfed.org/index.php/FUNding_Friday_Poster_Competition) at their annual meeting; winners get up to USD 5k
+ * [QMEE CDT Project proposal database](https://mhasoba.pythonanywhere.com/qmee_cdt/default/view_proposals) (abstracts)
 
 # Relevant funding policies
 * [NIH Grants Policy Statement](http://grants.nih.gov/grants/policy/nihgps/index.htm)
