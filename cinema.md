@@ -76,6 +76,290 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Big Data: Biomedicine](https://www.youtube.com/watch?v=F6CI7jXHGWg)
   * soundbites and visualizations around BD2K; not openly licensed
 
+## TEDMED 2016 
+SESSION 1: Invisible Threats
+
+Mona Hanna-Attisha
+http://www.tedmed.com/speakers/show?id=627282
+https://twitter.com/monahannaa
+
+Jeremy Farrar
+http://www.tedmed.com/speakers/show?id=627273
+Let's "grasp the moment" to bring the full force of science to bear, we can make the world a safer place.
+
+Emtithal "Emi" Mahmoud
+http://www.tedmed.com/speakers/show?id=627327
+poetry about the Darfur genocide
+
+Bruce Schneier
+http://www.tedmed.com/speakers/show?id=627300
+https://twitter.com/schneierblog
+Data-driven medicine
+your "data shadow"
+"You don't own your medical data. You don't know who gets to see and use it." "This has to change."
+Hippocratic oath and its respect for privacy may have fit well with the paper world, but now, the data is not with your doctor any more, but owned by corporations and others who did not take anything similar to the Hippocratic oath, and can and do sell your information.
+
+Privacy protections don't match real-world scenarios, HIPPAA protects the health care industry.
+
+1/8 Americans put their health at risk because of privacy concerns.
+
+"We need privacy rules that are patient-centric, not institution-centric"
+5 principles
+- accessibility and ?
+- transparency and accountability 
+- no use without authorization (not "coerced consent" as in the current system); "nothing about me without me" (cf. Society for Participatory Medicine) http://www.healthworkscollective.com/davidharlow/32410/nothing-about-me-without-me-participatory-medicine-meaningful-use-and-american-hos
+- treat research and clinical usage the same
+- standardize privacy policies across the entire medical industry; privacy rules should follow the data
+
+"We need to look the medical data network to look more like the Internet" - "the network may look dumb, but the devices are smart"
+
+"The only person who has the right to create a complete medical record about you is you"
+
+Richard Kogan
+http://www.tedmed.com/speakers/show?id=627318
+interesting biography of George Gershwin, with Igor Stravinsky bits
+"We live in an age of staccato, not legato"
+gist: intractable psychological and medical problems can be improved by music
+Apollo was god of music and medicine; many shamans had both medical and musical roles
+
+Sue Klebold
+http://www.tedmed.com/speakers/show?id=627309
+mother of Dylan Klebold, one of the two shooters at Columbine High School in 1999
+frames the act as a suicide that turned into homicide
+
+
+Thomas Leveritt (no talk; just video)
+Video on UV imaging of skin
+
+
+Gunhild Stordalen
+http://www.tedmed.com/speakers/show?id=642641
+https://twitter.com/G_stordalen
+diagnosed with untreatable condition ( https://en.wikipedia.org/wiki/Systemic_scleroderma ) and only a few months to live
+received highly experimental stem cell therapy
+
+While no cure for her condition, there is a thing that can help address many of the world's issues: FOOD.
+
+Three principles:
+- eat mostly plants
+- eat "real food" - "wrapped in appeal, not a package"
+- eat just enough, waste none
+what if scientists were to develop a comprehensive roadmap for how to feed the global human population sustainably?
+
+
+Susie Baldwin
+http://www.tedmed.com/speakers/show?id=627291
+- human traficking and forced labor; often not visible at the point of care, nor effectively handled when noticed
+
+
+Carolyn Jones
+http://www.tedmed.com/speakers/show?id=622944
+https://twitter.com/amnurseproject
+documentary: If the World were 100 PEOPLE
+
+
+SESSION 2: Audacious
+(Startup session)
+Segment: TREMENDOUSLY TINY
+
+Carole Ho, Denali Therapeutics: What if we could identify who would respond to a new medicine before starting treatment?
+http://tedmed.com/event/the-hive#startup-item-626449
+Alzheimer prevention study
+
+Nick Conley, EpiBiome: What if humanity embraced bacteria as agents of health and survival rather than agents of disease?
+http://tedmed.com/event/the-hive#startup-item-626658
+What if bacteria were forced to choose in a human-shaped environment to gain antibiotic resistance only when they give up causing a disease?.....
+
+Ricky Solorzano, BioBots, Inc.: What if every scientist had a simple way to create complex, living tissue?
+http://tedmed.com/event/the-hive#startup-item-625713
+"3D printing tissues is still difficult"
+https://www.biobots.io/
+https://twitter.com/BioBots
+
+Laura Indolfi, PanTher Therapeutics: What if drugs could be delivered only where they are needed?
+http://tedmed.com/event/the-hive#startup-item-625716
+interesting and important spin on precision medicine
+
+Ben Hwang, Profusa, Inc.: What if we can design and control our physical well being?
+http://tedmed.com/event/the-hive#startup-item-625850
+- human navigation system: think about navigating the human body just like navigating the roads while driving
+
+David Lucchino, Frequency Therapeutics, Inc.: What if our body’s dormant stem cells could be activated to fight disease?
+http://tedmed.com/event/the-hive#startup-item-628314
+using gastrointestinal et al. stem cells to help the body regenerate cells
+use small molecule drugs to regenerate destroyed cochlear cells
+
+
+Segment: CURVEBALL (altered perspective)
+
+starts with great video by Joseph Herscher/ Erik Olsen about turning a page (while reading a newspaper) in a creative way
+
+Rajaie Batniji, Collective Health: What if we could redesign the healthcare experience from scratch?
+http://tedmed.com/event/the-hive#startup-item-627262
+- focused on self-insured employers as potential change agents for redesigning the health care system in the US
+
+Mark Zhang, Cake: What if we embraced end-of-life as a part of life?
+http://tedmed.com/event/the-hive#startup-item-625696
+- "When we make a plan for end of life, we're actually committing for a better life today."
+
+Sandy Jen, Honor: What if non-medical caregivers reduced the cost of healthcare and lead to real reform?
+http://tedmed.com/event/the-hive#startup-item-626576
+- on the "last mile" in health care, often handled by "unskilled workforce"
+
+Anna Thomas, Hale Health: What if patients and providers could communicate with each other as easily as they do with friends and family?
+http://tedmed.com/event/the-hive#startup-item-625395
+
+Christian Braemer, Benefunder: What if we invested in research the same way we do in the stock market?
+http://tedmed.com/event/the-hive#startup-item-626271
+GREAT!!!
+http://www.benefunder.com/
+http://www.benefunder.com/contact-us
+http://www.benefunder.com/researchers
+https://twitter.com/benefundit
+
+Nathaniel David, UNITY Biotechnology: What if we could eradicate the health problems that define old age?
+http://tedmed.com/event/the-hive#startup-item-625586
+- make drugs that address the senescent cells
+
+Sam Maher, playing the handpan
+http://tedmed.com/speakers/show?id=644971
+
+Segment: PUBLIC SPIRIT
+Carolyn Edelstein, OpenBiome: What if we could fight antibiotic resistance with bacteria?
+http://tedmed.com/event/the-hive#startup-item-626118
+a stoolbank to help fight Clostridium difficile infection and other bacterial diseases by using bacteria
+
+Griffin Myers, Oak Street Health: What if we only paid for healthcare that worked?
+http://tedmed.com/event/the-hive#startup-item-625617
+- focused on early prevention; test network with 19 clinics
+
+Chase Adam, Watsi: What if you could help provide healthcare for every person in the world?
+http://tedmed.com/event/the-hive#startup-item-626733
+- in a bus in Panama, a woman passed around medical record of her son when asking for donations for his treatment; almost everyone donated
+- according to WHO, 40% of spending on health care is lost to inefficiencies, fraud and waste
+- what about building a website that allows people to donate to more efficient health care?
+- transparent recording of transactions?
+https://watsi.org/
+
+Meghan Coakley, NIH 3D Print Exchange: What if we could bring abstract scientific concepts into the physical, tangible world?
+http://tedmed.com/event/the-hive#startup-item-628061
+https://3dprint.nih.gov/
+
+Kevin Tyan, Kinnos: What if we could highlight invisible threats for our lifesavers?
+http://tedmed.com/event/the-hive#startup-item-626288
+- focused on simple improvements that would make the live and work of healthcare workers safer, e.g. coloring the bleach that is used for de-contamination
+
+Jake Porway, DataKind: What if all social changemakers took advantage of big data the way big companies do?
+http://tedmed.com/event/the-hive#startup-item-626316
+http://www.datakind.org/
+GREAT!
+
+Segment: ZOOM OUT
+starts with nice video of starlings murmuration
+
+Lawrence "Rusty" Hofmann, Grand Rounds: What if the best physicians in the world were accessible to anyone in the world, from anywhere?
+* same question is valid for researchers
+http://tedmed.com/event/the-hive#startup-item-625543
+http://www.grandrounds.com/
+- matchmaking website between patients and "top" physicians
+
+Tanzeem Choudhury, HealthRhythms: What if tracking mental health were as easy as tracking steps?
+http://tedmed.com/event/the-hive#startup-item-626472
+
+Andrew A. Radin, twoXAR: What if new medications could be found in minutes instead of years?
+http://tedmed.com/event/the-hive#startup-item-626111
+"The company’s platform uses proprietary algorithms to identify drug candidates up to 175,000x faster than traditional wet lab-based methods."
+http://www.twoxar.com/
+
+Megan Klimen, 3Scan: What if computers could map tissue the way they sequence genes?
+http://tedmed.com/event/the-hive#startup-item-626401
+GREAT! - think eyewire for all kinds of tissue - no citizen science component yet?
+
+Jennifer Schneider, Livongo: What if individuals with chronic disease were empowered to live the life they want?
+http://tedmed.com/event/the-hive#startup-item-628097
+- actionable recommendations for patients based on real-time physiological data
+
+Hannah Bayer, Kavli HUMAN Project: What if we could quantify the entirety of the human condition?
+http://tedmed.com/event/the-hive#startup-item-625659
+http://thehumanproject.org/
+- A Sloan Digital Sky Survey for health?
+- TRANSFORMATIVE!
+- aims to track 10k people living in New York over decades, measuring all that can be measured about them
+
+
+SESSION 3: New Models
+
+Sharon Terry, What if people spearheaded research into their conditions? 
+http://www.tedmed.com/speakers/show?id=619779
+YES!
+Great story around sharing (or the lack thereof) in research
+(also brings up the saying of herding cats by moving their food)
+and how two parents without formal scientific training found the gene causing the rare disease of their kids
+http://www.geneticalliance.org/
+https://twitter.com/sharonfterry
+first standing ovations at this TEDMED. Deserved.
+
+Charles Chiu, What if next generation sequencing could help us diagnose mysterious infectious illnesses?
+http://www.tedmed.com/speakers/show?id=619726
+metagenomic next-generation sequencing
+good illustration of need for and promise of precision medicine
+
+
+Video on animal courtship, performed by human dancers
+http://actoflove.jp
+
+Jay Walker
+http://www.tedmed.com/speakers/show?id=6502
+presents examples from his https://en.wikipedia.org/wiki/The_Library_of_the_History_of_Human_Imagination
+
+Kaitlyn Hova: What if you could hear color or taste sound? 
+http://www.tedmed.com/speakers/show?id=619749
+great visualization of sound-color synesthesia
+
+Kafui Dzirasa: What if we diagnosed and treated mental illness as a brain electrical circuit malfunction? 
+http://www.tedmed.com/speakers/show?id=619740
+"In the future. we're not (just) going to diagnose mental illnesses by monitoring brain waves, we're going to fix them by tuning them."
+
+Lloyd Pendleton: What if we could eliminate homelessness nationwide?
+http://www.tedmed.com/speakers/show?id=619758
+
+Sheila Nirenberg: What if robots could process visual information the way humans do? 
+http://www.tedmed.com/speakers/show?id=619717
+
+
+SESSION 6: Social + Science
+
+David Casarett: What if mainstream healthcare operated more like a medical marijuana dispensary?
+http://www.tedmed.com/speakers/show?id=621188
+palliative care physician
+discusses how medical marijuana allows patients to be in control of their condition
+
+Alia Crum: What if our mindset determines our health outcomes? 
+http://www.tedmed.com/speakers/show?id=621232
+What can we do to harness placebo effects? How can we produce it on demand?
+- decompose placebo effects into body's natural response, mindset effects and social context effects
+
+David R. Williams: What if the factors that cause some Americans to be sicker than others were as well understood as the genetic risk of disease?
+http://www.tedmed.com/speakers/show?id=621187
+- measuring racism using specific scales for forms of discrimination
+- discrimination correlates with higher morbidity rates
+- implicit bias in the way blacks and other minorities are treated with respect to whites
+- institutional discrimination
+- residential segregation is the "secret" source of racial discrimination
+
+Johannes Haushofer: What if we could treat the psychological consequences of poverty?
+http://www.tedmed.com/speakers/show?id=621210
+- controlled trial together with https://www.givedirectly.org/ that found that having more money made people in Kenya happier
+- silent epidemic of depression amongst the poor
+
+Kristin Neidlinger: What if wearables could reflect our innermost emotions? 
+http://www.tedmed.com/speakers/show?id=621211
+http://sensoree.com/artifacts/neurotiq/
+
+Ketki Karanam: What if we could harness the personalized therapeutic effects of music?
+http://www.tedmed.com/speakers/show?id=621197
+http://syncproject.co/#home
+
 # Maybe watch in the future
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
 * [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
