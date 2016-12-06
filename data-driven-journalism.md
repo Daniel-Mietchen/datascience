@@ -36,6 +36,8 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Storytelling with Big Data: Thoughts on VISUALIZED](http://blogs.scientificamerican.com/sa-visual/storytelling-with-big-data-thoughts-on-visualized/)
 * [LiveStories Empowers Rapid Responses to Health Crises](http://www.livestories.com/blog/livestories-empowers-rapid-responses-to-health-crises)
 * [Genetic testing fumbles, revealing ‘dark side’ of precision medicine](https://www.statnews.com/2016/10/31/genetic-testing-precision-medicine/)
+* [Mesmerizing Commute Maps Reveal We All Live in Mega-Regions, Not Cities](https://www.wired.com/2016/12/mesmerizing-commute-maps-reveal-live-mega-regions-not-cities/)
+  * based on paper [An Economic Geography of the United States: From Commutes to Megaregions](http://dx.doi.org/10.1371/journal.pone.0166083)
 
 # Engaging visualizations
 
