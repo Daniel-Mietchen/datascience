@@ -93,8 +93,10 @@ This file collects thoughts about the research library of the future as well as 
 
 ## Request for Information (RFI): Strategic Plan for the National Library of Medicine, National Institutes of Health
 * [NOT-LM-17-002](http://grants.nih.gov/grants/guide/notice-files/NOT-LM-17-002.html)
+
 ### Response form
 * [https://www.research.net/r/rfi_nlm_strategic_plan](https://www.research.net/r/rfi_nlm_strategic_plan)
+
 Strategic Plan for the National Library of Medicine, National Institutes of Health
 * Name  (Optional)
 * Organization  (Optional)
