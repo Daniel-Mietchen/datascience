@@ -84,6 +84,7 @@ This file collects thoughts about the research library of the future as well as 
 * unclear quote: ["a library is the delivery room for the birth of ideas"](https://www.google.de/search?tbm=bks&hl=en&q=%22a+library+is+the+delivery+room+for+the+birth+of+ideas%22)
 * [Toward a New Alexandria](http://www.newrepublic.com/article/books-and-arts/toward-new-alexandria)
 * [Librarybase](http://librarybase.wmflabs.org/wiki/Librarybase:Home)
+* [What can X do to support open science?](https://openscience.ub.uni-bielefeld.de/tag/stakeholders)
 
 # National Library of Medicine
 * [NLM and the Internet (1994)](http://resource.nlm.nih.gov/9421446)
