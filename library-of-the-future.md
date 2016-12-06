@@ -85,8 +85,83 @@ This file collects thoughts about the research library of the future as well as 
 * [Toward a New Alexandria](http://www.newrepublic.com/article/books-and-arts/toward-new-alexandria)
 * [Librarybase](http://librarybase.wmflabs.org/wiki/Librarybase:Home)
 
-# NLM
+# National Library of Medicine
 * [NLM and the Internet (1994)](http://resource.nlm.nih.gov/9421446)
 * [Charting the Course for the 21st Century: NLM's Long Range Plan 2006-2016](http://www.nlm.nih.gov/pubs/plan/lrpdocs.html)
 * [NLM strategic vision 2015](http://www.nih.gov/news/health/jun2015/od-11.htm)
 * [Network of Medical Libraries](https://www.nlm.nih.gov/network.html)
+
+## Request for Information (RFI): Strategic Plan for the National Library of Medicine, National Institutes of Health
+* [NOT-LM-17-002](http://grants.nih.gov/grants/guide/notice-files/NOT-LM-17-002.html)
+### Response form
+* [https://www.research.net/r/rfi_nlm_strategic_plan](https://www.research.net/r/rfi_nlm_strategic_plan)
+Strategic Plan for the National Library of Medicine, National Institutes of Health
+* Name  (Optional)
+* Organization  (Optional)
+* Role  (Select all that apply)
+  - Researcher
+  - Health Care Provider
+  - Public Health Professional
+  - Emergency Preparedness and Response Personnel
+  - Library or Information Professional
+  - Historian
+  - Educator
+  - Publisher
+  - Data Resource or Tool Developer
+  - Student
+  - General Public
+  - Other
+* Organization Type  (Select all that apply)
+  - Academic Institution
+  - Library
+  - Association
+  - Non-profit Organization
+  - Government
+  - Medical Office or Clinic
+  - Hospital
+  - Publisher
+  - Commercial Organization
+  - Non-academic Research Institution
+  - Other
+
+Please provide input on topics within any or all of the four themes below.
+
+#### 1)  Role of NLM in advancing data science, open science, and biomedical informatics
+Identify what you consider an audacious goal in this area – a challenge that may be daunting but would represent a huge leap forward were it to be achieved.  Include any proposals for the steps and elements needed to reach that goal.
+
+##### The most important thing NLM does in this area, from your perspective.
+
+##### Research areas that are most critical for NLM to conduct or support.
+
+##### Other comments, suggestions, or considerations, keeping in mind that the aim is to build the NLM of the future.
+
+#### 2) Role of NLM in advancing biomedical discovery and translational science
+Identify what you consider an audacious goal in this area – a challenge that may be daunting but would represent a huge leap forward were it to be achieved.  Include input on the barriers to and benefits of achieving the goal.
+
+##### The most important thing NLM does in this area, from your perspective.
+
+##### Research areas that are most critical for NLM to conduct or support.
+
+##### Other comments, suggestions, or considerations, keeping in mind that the aim is to build the NLM of the future.
+
+#### 3) Role of NLM in supporting the health of nation: clinical systems, public health systems and services, personal health
+Identify what you consider an audacious goal in this area – a challenge that may be daunting but would represent a huge leap forward were it to be achieved.  Include input on the barriers to and benefits of achieving the goal.
+
+##### The most important thing NLM does in this area, from your perspective.
+
+##### Research areas that are most critical for NLM to conduct or support.
+
+##### Healthcare systems and public health arenas in which NLM participation is most critical.
+
+##### Other comments, suggestions, or considerations, keeping in mind that the aim is to build the NLM of the future.
+
+#### 4) Role of NLM in building collections to support discovery and health in the 21st century
+Identify what you consider an audacious goal in this area – a challenge that may be daunting but would represent a huge leap forward were it to be achieved.  Include input on the barriers to and benefits of achieving the goal.
+
+##### The most important thing NLM does in this area, from your perspective.
+
+##### Research areas that are most critical for NLM to conduct or support.
+
+##### New data types or data collections anticipated over the next 10 years.
+
+##### Other comments, suggestions, or considerations, keeping in mind that the aim is to build the NLM of the future.
