@@ -85,6 +85,7 @@ This file collects thoughts about the research library of the future as well as 
 * [Toward a New Alexandria](http://www.newrepublic.com/article/books-and-arts/toward-new-alexandria)
 * [Librarybase](http://librarybase.wmflabs.org/wiki/Librarybase:Home)
 * [What can X do to support open science?](https://openscience.ub.uni-bielefeld.de/tag/stakeholders)
+* [Knowledge Exchange Discussion paper on Open Knowledge](http://doi.org/10.5281/zenodo.47509)
 
 # National Library of Medicine
 * [NLM and the Internet (1994)](http://resource.nlm.nih.gov/9421446)
