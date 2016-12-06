@@ -2,6 +2,8 @@
 This file is to collect information about key elements of group workflows, with an emphasis on open ones.
 
 # General
+["To work effectively as a team, people need to be able to easily see and replicate each other’s work."](http://blog.okfn.org/2016/11/29/git-for-data-analysis-why-version-control-is-essential-collaboration-public-trust/)
+
 ## Collaborative workflows
 * [overview](http://daniel.asia.wiki.org/view/welcome-visitors/view/collaborative-workflows)
 * [Open Science Framework](https://osf.io/)
