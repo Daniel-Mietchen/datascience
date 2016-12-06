@@ -22,3 +22,4 @@ This file collects information pertaining to (workforce and subject) diversity, 
 * [Lack of women professors means research grants are skewed towards men](https://theconversation.com/lack-of-women-professors-means-research-grants-are-skewed-towards-men-47239)
    * [Women get a much needed boost in research funding gender equity plan](https://theconversation.com/women-get-a-much-needed-boost-in-research-funding-gender-equity-plan-50846)
 * [The Untold History of Women in Science and Technology](https://www.whitehouse.gov/women-in-STEM)
+* [Australian students recreate Martin Shkreli price-hike drug in school lab](https://www.theguardian.com/science/2016/dec/01/australian-students-recreate-martin-shkreli-price-hike-drug-in-school-lab)
