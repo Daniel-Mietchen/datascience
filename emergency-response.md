@@ -220,6 +220,13 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Using Waze, Uber, AirBnB and SeeClickFix for Disaster Response](https://irevolutions.org/2013/06/11/uber-waze-airbnb-seeclickfix-for-disaster-response/)
 * [Humanitarian Exchange Language (HXL)](http://hxlstandard.org/)
   * [Humanitarian Exchange Language: a simple standard for messy data](http://opendatacon.org/humanitarian-exchange-language-a-simple-standard-for-messy-data/)
+* Outbreak dashboards
+  * [HealthMap](http://www.healthmap.org/en/)
+  * [NextStrain](http://nextstrain.org/)
+  * [CDC Zika Dashboard](https://chendaniely.shinyapps.io/zika_cdc_dashboard/)
+  * [Tycho](https://www.tycho.pitt.edu/)
+    * [Apollo](https://github.com/ApolloDev)
+    
 
 A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
 ![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
