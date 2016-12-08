@@ -22,6 +22,7 @@ This file serves the collection of information related to public access policies
   * several of these agencies envision a "research data commons"
 * [Cancer Moonshot](https://www.whitehouse.gov/CancerMoonshot)
   * [report](https://medium.com/cancer-moonshot/my-report-to-the-president-3c64b0dae863#.igz7bo949)
+* [Federally Funded Research Results Are Becoming More Open and Accessible](https://www.whitehouse.gov/blog/2016/10/28/federally-funded-research-results-are-becoming-more-open-and-accessible)
 
 ## UK
 * [Open Access at RCUK](http://www.rcuk.ac.uk/research/openaccess/)
