@@ -365,6 +365,7 @@ Ketki Karanam: What if we could harness the personalized therapeutic effects of 
 * [8 TED talks on the origin of ideas](http://www.educatorstechnology.com/2014/07/8-good-ted-talks-on-origin-of-ideas.html)
 * [Create Flappy Bird in Python](https://www.youtube.com/watch?v=h2Uhla6nLDU)
 * [Ideas from Europe](http://ideasfromeurope.eu/speakers-ideas-from-europe/)
+* [Eli Pariser: Beware online "filter bubbles"](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles)
 * [Guido van Rossum - Keynote: Python now and in the future](https://www.youtube.com/watch?v=bp3mCgrdMxU)
 * [Diary of a Citizen Scientist with Sharman Apt Russell](https://www.youtube.com/watch?v=jdWVpyRtUGg)
 * [Marvin Minsky: Health and the human mind](https://www.ted.com/talks/marvin_minsky_on_health_and_the_human_mind?language=en)
