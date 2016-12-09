@@ -10,7 +10,7 @@ This file hosts some thoughts about how presentations could be made more useful 
 * link acronyms or explain them somewhere, e.g. on an "extra slide"
 
 # File format of presentations
-* Ideally, it should facilitate presentation across platforms, it should be friendly to users and reusers (which may include machines), and it should be simple to generate and to archive.
+* Ideally, it should facilitate presentation across platforms, it should be friendly to users and reusers (which may include machines), and it should be simple to generate, render and archive.
 
 # Licensing
 * There should be a clear license statement on either within a presentation (e.g. on one slide) or closely associated with it (e.g. in the metadata).
