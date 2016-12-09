@@ -29,6 +29,7 @@ This file is to collect information about key elements of group workflows, with 
 # Research enviroments
 
 # Outreach
+* [Sharing presentations](https://github.com/Daniel-Mietchen/datascience/blob/master/sharing-presentations.md)
 
 # See also
 * [PhD Starter Kit](https://raoofphysics.github.io/phd-starter-kit/)
