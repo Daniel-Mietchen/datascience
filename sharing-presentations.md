@@ -14,3 +14,6 @@ This file hosts some thoughts about how presentations could be made more useful 
 
 # Licensing
 * There should be a clear license statement on either within a presentation (e.g. on one slide) or closely associated with it (e.g. in the metadata).
+
+# See also
+* I am not aware of any good guidance on how to do good live demos of research-related software and tools, so this could be another avenue worth exploring.
