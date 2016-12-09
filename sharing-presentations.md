@@ -11,6 +11,7 @@ This file hosts some thoughts about how presentations could be made more useful 
 
 # File format of presentations
 * Ideally, it should facilitate presentation across platforms, it should be friendly to users and reusers (which may include machines), and it should be simple to generate, render and archive.
+* Similar considerations apply to components of the presentation, e.g. images should be shared as vector graphics whenever possible rather than as bitmaps.
 
 # Licensing
 * There should be a clear license statement on either within a presentation (e.g. on one slide) or closely associated with it (e.g. in the metadata).
