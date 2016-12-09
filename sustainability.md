@@ -30,3 +30,4 @@ This file hosts information regarding the sustainability of data-related infrast
 # See also
 * [Wikidata as a digital preservation knowledgebase - Open Preservation Foundation](http://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/)
 * [Data Seal of Approval](http://www.datasealofapproval.org/)
+* [Three ways to grow the open data economy](https://www.theguardian.com/media-network/2016/nov/01/three-ways-government-grow-open-data-economy)
