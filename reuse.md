@@ -123,3 +123,5 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [407 publications used GBIF data in 2015](https://twitter.com/vsmithuk/status/788867195258429440) (as per the [GBIF Science Review 2016](http://www.gbif.org/resource/82873))
 * [http://plos.io/allofplos](http://plos.io/allofplos) (3.9GB zip)
 * [Raw diffraction data preservation and reuse: overview, update on practicalities and metadata requirements](https://doi.org/10.1107/S2052252516018315)
+* [Measurement of the Earth's rotation: 720 BC to AD 2015](https://doi.org/10.1098/rspa.2016.0404)
+  - reuses astronomical data recorded on Babylonian clay tables
