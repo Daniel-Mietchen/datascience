@@ -31,3 +31,5 @@ This file hosts information regarding the sustainability of data-related infrast
 * [Wikidata as a digital preservation knowledgebase - Open Preservation Foundation](http://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/)
 * [Data Seal of Approval](http://www.datasealofapproval.org/)
 * [Three ways to grow the open data economy](https://www.theguardian.com/media-network/2016/nov/01/three-ways-government-grow-open-data-economy)
+* [Measurement of the Earth's rotation: 720 BC to AD 2015](https://doi.org/10.1098/rspa.2016.0404)
+  - reuses astronomical data recorded on Babylonian clay tables
