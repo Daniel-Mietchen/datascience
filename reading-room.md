@@ -614,3 +614,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Science in transition](http://www.scienceintransition.nl/english)
   - cited in [Fewer numbers, better science](https://doi.org/10.1038/538453a), which is generally a very useful article worth some thoughts and digging
 * [multimodal integration](https://en.wikipedia.org/wiki/Multisensory_integration) as a special case of data integration
+  - testable via cross-modal congruency task
