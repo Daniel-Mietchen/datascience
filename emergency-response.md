@@ -181,6 +181,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [ReliefWeb](http://labs.reliefweb.int/)
   * [The Humanitarian Data Exchange](https://data.hdx.rwlabs.org/)
 * [Public Health Research Data Forum](https://wellcome.ac.uk/what-we-do/our-work/public-health-research-data-forum)
+* [Coalition for Epidemic Preparedness Innovations](http://cepi.net/)
+* [Global Virome Project](http://www.globalviromeproject.org/)
 
 ## UN initiatives
 * [UN International Strategy for Disaster Reduction](http://www.unisdr.org/)
@@ -191,6 +193,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * report: [Protecting Humanity from Future Health Crises](http://www.un.org/News/dh/infocus/HLP/2016-02-05_Final_Report_Global_Response_to_Health_Crises.pdf)
   * triggered by Ebola
 * WHO expert group on 'Disability and disaster response' 
+* [WHO: research and development Blueprint for action to prevent epidemics](http://www.who.int/csr/research-and-development/en/)
 
 # Related presentations
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
