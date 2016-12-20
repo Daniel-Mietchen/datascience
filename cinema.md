@@ -356,6 +356,7 @@ Ketki Karanam: What if we could harness the personalized therapeutic effects of 
 * [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
 * older [TED MED](https://www.youtube.com/user/tedmed) talks 
 * [Frank Miedema: Science in Transition](https://www.youtube.com/watch?v=sUf1ajkIAhY)
+* [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
 * [Pardis Sabeti: How we'll fight the next deadly virus](https://www.ted.com/talks/pardis_sabeti_how_we_ll_fight_the_next_deadly_virus)
 * [Big Data: Personalized Learning](https://www.youtube.com/watch?v=r099JYtanSY)
 * [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
