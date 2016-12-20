@@ -373,3 +373,4 @@ Ketki Karanam: What if we could harness the personalized therapeutic effects of 
 * [David McCandless: The beauty of data visualization](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
 * [Healing With Poetry - Nelofer Khan Habibullah](https://www.youtube.com/watch?v=rOR2xlQstGE)
 * [Life in the Fast Lane - The Power of Large Scale Graphs](https://www.youtube.com/watch?v=Oxmurknhnto)
+* [Videos from MLconf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q) &mdash; all around machine learning
