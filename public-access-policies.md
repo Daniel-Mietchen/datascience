@@ -78,3 +78,4 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 * [Principle of proportionality in genomic data sharing](http://dx.doi.org/10.1038/nrg.2015.5)
 * [Open Data, Challenges towards implementation, and possible solutions](http://mulvany.net/open-data-challenges/open-data.html)
 * [Open Data Reveals $791 Million Error in Newly Adopted NYC Budget](http://iquantny.tumblr.com/post/147446103684/open-data-reveals-791-million-error-in-newly)
+* [Make all publicly funded research open access: Productivity Commission report](http://www.theaustralian.com.au/higher-education/make-all-publicly-funded-research-open-access-productivity-commission-report/news-story/bb2b3c8c349bc573eec7014d44b7efe8) (Australia)
