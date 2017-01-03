@@ -35,3 +35,6 @@ This file hosts information regarding the sustainability of data-related infrast
   - reuses astronomical data recorded on Babylonian clay tables
 * [1970s and ‘Patient 0’ HIV-1 genomes illuminate early HIV/AIDS history in North America](https://doi.org/10.1038/nature19827)
   - reused blood samples to sequence patient genomes to analyze the spread of HIV
+* Honey remains edible over millenia
+  - [Honey In The Pyramids: It might be hard to bee-lieve but the 3,000-year-old sweet treat is still edible](http://www.nationalgeographic.com.au/history/honey-in-the-pyramids.aspx)
+  - [The Science Behind Honey’s Eternal Shelf Life](http://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/)
