@@ -230,7 +230,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [Microreact](https://microreact.org/)
   * [Tycho](https://www.tycho.pitt.edu/)
     * [Apollo](https://github.com/ApolloDev)
-    
+* [Five little-known diseases to watch out for in 2017](http://theconversation.com/five-little-known-diseases-to-watch-out-for-in-2017-69699)    
 
 A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap:
 ![Three maps of the Philippines](http://wiki.openstreetmap.org/w/images/d/db/Three_large_poster_maps_of_Tacloban%2C_Guiuan_and_Ormoc.jpg)
