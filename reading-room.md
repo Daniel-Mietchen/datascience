@@ -618,3 +618,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   - cited in [Fewer numbers, better science](https://doi.org/10.1038/538453a), which is generally a very useful article worth some thoughts and digging
 * [multimodal integration](https://en.wikipedia.org/wiki/Multisensory_integration) as a special case of data integration
   - testable via cross-modal congruency task
+* [Ten Actions to Implement Big Data Initiatives: A Study of 65 Cities](http://www.businessofgovernment.org/report/ten-actions-implement-big-data-initiatives-study-65-cities)
+  - [commentary](https://www.digitalgov.gov/2016/11/02/the-data-briefing-learning-from-the-u-s-cities-on-how-to-implement-big-data-initiatives/)
