@@ -82,6 +82,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [200k years of human history](https://www.youtube.com/watch?v=-6Wu0Q7x5D0)
   * [similar for 5k years of European history](http://www.openculture.com/2016/10/the-history-of-europe-5000-years-animated-in-a-timelapse-map.html)
 * simple: [visualizing reading progress](http://wonkhe.com/blogs/implementing-ref2021-needs-the-input-of-the-whole-research-community/)
+* [A history of global living conditions in 5 charts](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/)
 
 ## Visualization tools
 * [5 open source dashboard tools for visualizing data](https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data)
