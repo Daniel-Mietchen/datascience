@@ -143,3 +143,4 @@ This file collects information on crowdsourcing in relation to research, especia
    * [Frog and snail](http://www.npr.org/sections/alltechconsidered/2016/08/06/488830352/the-app-that-aims-to-gamify-biology-has-amateurs-discovering-new-species)
 * [Given Enough Eyeballs, All Bugs Are Shallow? Revisiting Eric Raymond with Bug Bounty Programs](http://arxiv.org/abs/1608.03445)
 * [Bird photo booth](https://birdphotobooth.com/)
+* ["Bento Lab is the first complete DNA laboratory, suitable for a beginner to a professional"](https://www.bento.bio/bento-lab/)
