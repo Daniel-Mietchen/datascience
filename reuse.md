@@ -127,3 +127,5 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
   - reuses astronomical data recorded on Babylonian clay tables
 * [1970s and ‘Patient 0’ HIV-1 genomes illuminate early HIV/AIDS history in North America](https://doi.org/10.1038/nature19827)
   - reused blood samples to sequence patient genomes to analyze the spread of HIV
+* [Reilly Center's annual Top 10 List of Ethical Dilemmas and Policy Issues in Science and Technology](http://reilly.nd.edu/top10/)
+  - [reused in Spanish class at Massachusetts high school](https://www.youtube.com/watch?v=cMdxxRoha0M)
