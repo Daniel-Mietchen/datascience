@@ -25,6 +25,9 @@ This file serves the collection of information related to public access policies
 * [Federally Funded Research Results Are Becoming More Open and Accessible](https://www.whitehouse.gov/blog/2016/10/28/federally-funded-research-results-are-becoming-more-open-and-accessible)
 
 ## UK
+* [Consultation on the second Research Excellence Framework (REF)](http://www.hefce.ac.uk/pubs/year/2016/201636/)
+  - [guidelines](http://www.hefce.ac.uk/media/HEFCE,2014/Content/Pubs/2016/201636/HEFCE2016_36.pdf)
+  - [commentary](http://wonkhe.com/blogs/implementing-ref2021-needs-the-input-of-the-whole-research-community/)
 * [Open Access at RCUK](http://www.rcuk.ac.uk/research/openaccess/)
 * [RCUK Common Principles on Data Policy](http://www.rcuk.ac.uk/research/datapolicy/)
 * [Open Access at HEFCE](http://www.hefce.ac.uk/rsrch/oa/)
