@@ -374,3 +374,5 @@ Ketki Karanam: What if we could harness the personalized therapeutic effects of 
 * [Healing With Poetry - Nelofer Khan Habibullah](https://www.youtube.com/watch?v=rOR2xlQstGE)
 * [Life in the Fast Lane - The Power of Large Scale Graphs](https://www.youtube.com/watch?v=Oxmurknhnto)
 * [Videos from MLconf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q) &mdash; all around machine learning
+* [Sandy Pentland - Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow)
+* [Alex 'Sandy' Pentland - How social networks make us smarter](https://www.youtube.com/watch?v=XAGBBt9RNbc)
