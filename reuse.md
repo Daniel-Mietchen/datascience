@@ -84,6 +84,7 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Wikimedia Commons as a media source](https://commons.wikimedia.org/wiki/Category:Commons_as_a_media_source)
 * Fig. 5 of [Three-dimensional Magnetic Resonance Imaging of fossils across taxa](https://doi.org/10.5194/bg-5-25-2008) (CC BY) is reused in final figure of [NMR Studies of Fossilized Wood](http://dx.doi.org/10.1016/bs.arnmr.2016.07.002) (paywalled)
 * [File:Ernst-Abbe-Denkmal Jena Fürstengraben - 20140802 125709.jpg](https://commons.wikimedia.org/wiki/File:Ernst-Abbe-Denkmal_Jena_F%C3%BCrstengraben_-_20140802_125709.jpg) (CC0) reused in [Cell imaging: Beyond the limits](http://dx.doi.org/10.1038/526S50a) (paywalled)
+* [Deletion discussion of a video due to deletions of images that had been used in the video](https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Wikipedia_Edit_2014.webm)
 
 # See also
 * [Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/)
