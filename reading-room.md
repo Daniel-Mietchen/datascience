@@ -620,3 +620,6 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   - testable via cross-modal congruency task
 * [Ten Actions to Implement Big Data Initiatives: A Study of 65 Cities](http://www.businessofgovernment.org/report/ten-actions-implement-big-data-initiatives-study-65-cities)
   - [commentary](https://www.digitalgov.gov/2016/11/02/the-data-briefing-learning-from-the-u-s-cities-on-how-to-implement-big-data-initiatives/)
+* Future of work:
+  - [Robots expected to run half of Japan by 2035](https://www.engadget.com/2015/12/04/robots-expected-to-run-half-of-japan-by-2035/)
+  - [Japanese company replaces office workers with artificial intelligence](https://www.theguardian.com/technology/2017/jan/05/japanese-company-replaces-office-workers-artificial-intelligence-ai-fukoku-mutual-life-insurance)
