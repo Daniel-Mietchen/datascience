@@ -38,6 +38,7 @@ This file is to facilitate the collection of information pertaining to the citat
 
 # See also
 * Software citation
+      * [Software vs. data in the context of citation](https://doi.org/10.7287/peerj.preprints.2630v1)
       * [Force11 Software Citation Working Group](https://github.com/force11/force11-scwg)
       * [Invitation to comment on a proposal for a cohesive research software citation-enabling platform](http://astronomy-software-index.github.io/2015-workshop/)
       * [Making code citable with Zenodo and GitHub](http://www.software.ac.uk/node/1720)
