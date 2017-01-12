@@ -43,3 +43,4 @@ This file collects information related to the concept of the Commons, both in ge
 * [Virtual Machine Manager (CERN)](https://vmm.cern.ch/vmm/)
       * replaced by [CernVM](http://cernvm.cern.ch/portal/)
 * [Audrey Tang: Stories from the Future of Democracy](https://www.youtube.com/watch?v=mxMxg4ct-D8)
+* [Wikimedia Labs](https://wikitech.wikimedia.org/wiki/Portal:Wikimedia_Labs)
