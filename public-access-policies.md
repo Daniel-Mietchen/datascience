@@ -12,6 +12,7 @@ This file serves the collection of information related to public access policies
 * [Memorandum M-13-13, Open Data Policy - Managing Information as an Asset (May 9, 2013)](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
 * [White House Directive from 2013 (Holdren memo)](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
   * [OA Week 2016 overview](https://www.digitalgov.gov/2016/10/28/federally-funded-research-results-are-becoming-more-open-and-accessible/)
+    * [Making Federal Research Results Available to All (exit memo overview, Jan 2017)](https://www.whitehouse.gov/blog/2017/01/09/making-federal-research-results-available-all)
   * [CENDI overview of Federal Agency plans](https://cendi.gov/projects/Public_Access_Plans_US_Fed_Agencies.html)
   * [SPARC overview of responses](http://sparcopen.org/our-work/2013-executive-directive/) (regularly updated)
     * Apart from NIH, three agencies so far (AHRQ, NASA, NIST) opted for an approach based on PubMed Central for handling the literature part
