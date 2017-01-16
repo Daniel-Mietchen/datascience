@@ -85,3 +85,5 @@ Things listed here have yet to be sorted into the structure above.
 * [The Global Burden of Journal Peer Review in the Biomedical Literature: Strong Imbalance in the Collective Enterprise](http://dx.doi.org/10.1371/journal.pone.0166387)
   - [code](https://github.com/kovanostra/global-burden-of-peer-review)
 * [This new study may explain why peer review in science often fails](http://www.vox.com/science-and-health/2016/11/23/13713324/why-peer-review-in-science-often-fails)
+* [When does peer review make no damn sense?](http://andrewgelman.com/2016/02/01/peer-review-make-no-damn-sense/)
+* [An efficiency argument for post-publication review](http://andrewgelman.com/2016/12/16/an-efficiency-argument-for-post-publication-review/)
