@@ -376,3 +376,4 @@ Ketki Karanam: What if we could harness the personalized therapeutic effects of 
 * [Videos from MLconf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q) &mdash; all around machine learning
 * [Sandy Pentland - Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow)
 * [Alex 'Sandy' Pentland - How social networks make us smarter](https://www.youtube.com/watch?v=XAGBBt9RNbc)
+* [Stuart Brown: Play is more than fun](https://www.youtube.com/watch?v=HHwXlcHcTHc)
