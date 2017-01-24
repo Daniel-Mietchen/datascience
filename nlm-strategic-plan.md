@@ -29,7 +29,7 @@ Here, it is crucial to provide room for experimentation with open science, keepi
   - intramural versus extramural
   - immediate switching versus a long-term transition.
   
-Importantly, open science should not be seen as solely the task of researchers &mdash; funders, policy makers and other roles within NIH and NLM have very important roles to play here. For instance, by making the funding process itself more open (e.g. as discussed in http://dx.doi.org/10.1371/journal.pbio.1002027 ) or the process of drafting policies (e.g. as described in https://openscience.ub.uni-bielefeld.de/933/what-can-policy-makers-do-to-encourage-open-science ), they would themselves engage in more openness, become more familiar with the actual challenges of doing so, and earn the respect of others &mdash; including researchers &mdash; who have tried more open ways of working themselves, or are pondering to do so.
+Importantly, open science should not be seen as solely the task of researchers &mdash; funders, policy makers and other roles within NIH and NLM are very important here. For instance, by making the funding process itself more open (e.g. as discussed in http://dx.doi.org/10.1371/journal.pbio.1002027 ) or the process of drafting policies (e.g. as described in https://openscience.ub.uni-bielefeld.de/933/what-can-policy-makers-do-to-encourage-open-science ), they would themselves engage in more openness, become more familiar with the actual challenges of doing so, and earn the respect of others &mdash; including researchers &mdash; who have tried more open ways of working themselves, or are pondering to do so.
 
 *The most important thing NLM does in this area, from your perspective.*
 
