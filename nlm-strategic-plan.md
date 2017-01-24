@@ -1,7 +1,7 @@
 # About
 The US [National Library of Medicine (NLM)](https://github.com/Daniel-Mietchen/datascience/blob/master/nih-strategic-plan.md) at the National Institutes of Health (NIH) is [requesting information](https://grants.nih.gov/grants/guide/notice-files/NOT-LM-17-002.html) in relation to the strategic plan it is developing. This builds on a set of broad recommendations for the future of NLM that were compiled in a [2015 report](https://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf).
 
-This file contains the free-text parts of my response to the Request for Information. Along with requesting some metadata, the form asked the following questions (**in bold**) and provided additional comments above each form field (which I have set *in italics* here).
+This file contains the free-text parts of my response to the Request for Information (submitted on January 23, which was the deadline). Along with requesting some metadata, the form asked the following questions (**in bold**) and provided additional comments above each form field (which I have set *in italics* here). The confirmation message I received after submission read "Thank you -- your responses have been submitted."
 
 
 **Please provide input on topics within any or all of the four themes below.**
