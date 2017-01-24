@@ -42,7 +42,16 @@ This file contains the free-text parts of my response to the Request for Informa
 
 *Identify what you consider an audacious goal in this area – a challenge that may be daunting but would represent a huge leap forward were it to be achieved.  Include input on the barriers to and benefits of achieving the goal.*
 
+- Make all metadata of all NLM collections publicly available in a way that is friendly to both humans and machines.
+- Digitize the collections to the extent feasible, allowing for community feedback on prioritization.
+- Make the digital collections publicly available to the extent possible.
+- Be clear about reuse rights &mdash; express them in ways that both humans and machines can easily parse.
+- Invite crowd contributions in annotating the digital collections and improving their metadata.
+
 *The most important thing NLM does in this area, from your perspective.*
+- Building and maintaining collections relevant to medicine.
+
+What is missing is a closer integration of the collection materials into research workflows.
 
 *Research areas that are most critical for NLM to conduct or support.*
 
