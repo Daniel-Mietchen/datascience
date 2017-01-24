@@ -80,7 +80,7 @@ The most important thing here is perhaps that NLM has NCBI (working there, I may
 What is missing is a closer integration of the collection materials into research workflows.
 
 *Research areas that are most critical for NLM to conduct or support.*
-- So far, the role of NLM in terms of collections has mainly been focused on preserving the materials, and everyone who wanted to extract information from the materials would basically have to do it on their own, from scratch. It would be very useful if NLM could proactively extract data from materials in its collections and make it available in usable formats and in places where people or machines might actually find it.
+- So far, the role of NLM in terms of collections has mainly been focused on preserving the materials, and everyone who wanted to extract information from the materials would basically have to do it on their own, from scratch. It would be very useful if NLM could proactively (think [PubTator](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/PubTator/) here) extract data from materials in its collections and make it available in usable formats and in places where people or machines might actually find it.
 - This is especially important for materials that encapsulate unique data that cannot be easily replicated.
 
 *New data types or data collections anticipated over the next 10 years.*
