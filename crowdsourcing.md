@@ -146,3 +146,4 @@ This file collects information on crowdsourcing in relation to research, especia
 * ["Bento Lab is the first complete DNA laboratory, suitable for a beginner to a professional"](https://www.bento.bio/bento-lab/)
 * [IdeaScale](https://ideascale.com/)
   * [IdeaBuzz](https://ideabuzz.com/a/buzz/challenge)
+* AAAS [Crowdsourcing and Citizen Science Affinity Group](https://www.aaaspolicyfellowships.org/stay-involved/affinity-groups/stpf-affinity-group-crowdsourcing-and-citizen-science)
