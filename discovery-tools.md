@@ -22,3 +22,4 @@ This file hosts information on efforts towards enhancing the discoverability of 
 
 # See also
 * [Catalogs and Indices for Finding (Scientific) Software](https://danielskatzblog.wordpress.com/2015/02/23/catalogs-and-indices-for-finding-scientific-software/)
+* [Facilitating the discovery of public datasets](https://research.googleblog.com/2017/01/facilitating-discovery-of-public.html)
