@@ -11,6 +11,7 @@ This file collects information about the ethics of data science as well as about
 * Many institutions issue guidance on ethical matters and the processes set in place to handle them. Some examples:
   * [Oxford Brookes University: Guidelines for informed consent](https://www.brookes.ac.uk/Research/Research-ethics/Guidelines-for-informed-consent/)
   * [University of Guelph: Ethics and Regulatory Compliance](http://www.uoguelph.ca/research/for-researchers/ethics-and-regulatory-compliance)
+* [Revised CIOMS International Ethical Guidelines for Health-Related Research Involving Humans](https://doi.org/10.1001/jama.2016.18977)
 
 # Data on ethics
 * Scarce
