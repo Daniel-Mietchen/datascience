@@ -56,6 +56,7 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 * [G8 Open Data Charter](http://www.international.gc.ca/g8/open_data_charter-charte_du_g8_sur_les_donnees_ouvertes.aspx?lang=eng)
 
 ## OECD
+* [OECD Principles and Guidelines for Access to Research Data from Public Funding (2007)](http://www.oecd.org/sti/sci-tech/38500813.pdf)
 * [Report on Open Science (2015)](https://www.innovationpolicyplatform.org/content/open-science)
   * "Open science in the information age espouses the notion that knowledge created from public research has public good characteristics that go beyond the concept of the “commons” developed in the 18th century, insofar as ICT-enabled access broadens the possibilities to enrich the commons and extend it to a broader range of users. "
 
