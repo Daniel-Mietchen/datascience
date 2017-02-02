@@ -131,3 +131,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Reilly Center's annual Top 10 List of Ethical Dilemmas and Policy Issues in Science and Technology](http://reilly.nd.edu/top10/)
   - [reused in Spanish class at Massachusetts high school](https://www.youtube.com/watch?v=cMdxxRoha0M)
 * [The Sharing Experimental Animal Resources, Coordinating Holdings (SEARCH) Framework: Encouraging Reduction, Replacement, and Refinement in Animal Research](http://dx.doi.org/10.1371/journal.pbio.2000719)
+* [reCAPTCHA](https://en.wikipedia.org/wiki/ReCAPTCHA)
