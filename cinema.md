@@ -75,6 +75,13 @@ This file collects examples of talks, lectures and other forms of presentations 
   * sonification as a way to (a) explore data, (b) help bridge gaps between the sighted and un-sighted
 * [Big Data: Biomedicine](https://www.youtube.com/watch?v=F6CI7jXHGWg)
   * soundbites and visualizations around BD2K; not openly licensed
+* [How to Learn Anything... Fast - Josh Kaufman](https://www.youtube.com/watch?v=EtJy69cEOtQ)
+  - Five main steps
+    - Define a target performance level: Be clear about what you want to learn; define what it looks like if you succeed in learning it
+    - Deconstruct the skill: decompose it into subskills, in order to practice the most important individual subskills first
+    - Do some research to identify what those most important subskills are by skimming relevant literature, course materials and such; try to find out enough to allow you to self-correct as you practice
+    - Remove barriers to practice: make it easy to actually sit down and practice, undistracted
+    - Pre-commit a useful amount of time (he said at least 20h) of focused deliberate practice
 
 ## TEDMED 2016 
 ### SESSION 1: Invisible Threats
