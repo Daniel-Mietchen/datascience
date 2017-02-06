@@ -94,6 +94,7 @@ Mona Hanna-Attisha: What if the government did an optimal job of safeguarding ch
 Jeremy Farrar: What if the world was ready for the next deadly pandemic?
 * http://www.tedmed.com/speakers/show?id=627273
 * Let's "grasp the moment" to bring the full force of science to bear, we can make the world a safer place.
+  - [Now public](http://blog.tedmed.com/lessons-pandemic-frontline/)
 
 Emtithal "Emi" Mahmoud: What if we could speak the unspeakable? 
 * http://www.tedmed.com/speakers/show?id=627327
