@@ -41,6 +41,7 @@ Things listed here have yet to be sorted into the structure above.
      * [background on founders](http://dx.doi.org/10.1038/nature.2015.18261) 
   * [Peerage of Science](https://www.peerageofscience.org/)
   * [Academic Karma](http://academickarma.org/)
+    - [sample review](http://academickarma.org/review/l14cxkrdsz7j)
   * [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/)
   * [Peer review by endorsement](http://blog.scienceopen.com/2015/04/welcome-jan-velterop-peer-review-by-endorsement/)
   * [ThinkLab](http://thinklab.com/)
