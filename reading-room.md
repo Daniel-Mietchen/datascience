@@ -626,3 +626,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 - [Communicating Science Effectively: A Research Agenda (2016)](https://www.nap.edu/catalog/23674/communicating-science-effectively-a-research-agenda) (National Academies Press)
 - [iRODS](https://irods.org/) &mdash; Open Source Data Management Software
 - [Chan Zuckerberg Initiative acquires and will free up science search engine Meta](https://techcrunch.com/2017/01/23/chan-zuckerberg-initiative-meta/)
+- [Owncloud](https://owncloud.org/) &mdash; open source self-hosted web apps with sync clients and sharing
