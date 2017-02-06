@@ -624,3 +624,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   - [Robots expected to run half of Japan by 2035](https://www.engadget.com/2015/12/04/robots-expected-to-run-half-of-japan-by-2035/)
   - [Japanese company replaces office workers with artificial intelligence](https://www.theguardian.com/technology/2017/jan/05/japanese-company-replaces-office-workers-artificial-intelligence-ai-fukoku-mutual-life-insurance)
 - [Communicating Science Effectively: A Research Agenda (2016)](https://www.nap.edu/catalog/23674/communicating-science-effectively-a-research-agenda) (National Academies Press)
+- [iRODS](https://irods.org/) &mdash; Open Source Data Management Software
