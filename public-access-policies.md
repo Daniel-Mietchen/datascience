@@ -19,6 +19,7 @@ This file serves the collection of information related to public access policies
      * NASA's "PubSpace" is [live](https://www.ncbi.nlm.nih.gov/pmc/funder/nasa/) as a subset of PMC
   * [NIH policies on access and sharing](http://grants.nih.gov/grants/sharing.htm)
     * [Data Acquisition, Curation, and Use For a Continuously Learning Health System: A Vital Direction for Health and Health Care](https://nam.edu/data-acquisition-curation-and-use-for-a-continuously-learning-health-system-a-vital-direction-for-health-and-health-care/)
+    * [NIH data sharing repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
   * [NSF policy](http://www.nsf.gov/news/special_reports/public_access/)
   * several of these agencies envision a "research data commons"
 * [Cancer Moonshot](https://www.whitehouse.gov/CancerMoonshot)
