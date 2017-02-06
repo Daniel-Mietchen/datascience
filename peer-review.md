@@ -56,6 +56,7 @@ Things listed here have yet to be sorted into the structure above.
   * [Curate Science](https://curatescience.org/)
   * [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
   * [Matters](https://sciencematters.io/)
+  * [OpenReview](https://openreview.net/)
 * NIH Peer review practices reviewed [here](http://dx.doi.org/10.1177/1098214015582049) 
    * and here: [National Institutes of Health Peer Review: Challenges and Avenues for Reform](http://dx.doi.org/10.1086/668237)
 * Another one on NIH peer reviewing:
@@ -93,3 +94,5 @@ Things listed here have yet to be sorted into the structure above.
 * [This new study may explain why peer review in science often fails](http://www.vox.com/science-and-health/2016/11/23/13713324/why-peer-review-in-science-often-fails)
 * [When does peer review make no damn sense?](http://andrewgelman.com/2016/02/01/peer-review-make-no-damn-sense/)
 * [An efficiency argument for post-publication review](http://andrewgelman.com/2016/12/16/an-efficiency-argument-for-post-publication-review/)
+* [International Conference on Learning Representations](http://www.iclr.cc/doku.php?id=iclr2017:callforpapers)
+  - brought up by [Oriol Pujol](https://twitter.com/oriolpujolvila) at [#learnbcn](https://twitter.com/search?f=tweets&vertical=default&q=learnbcn) as an example of very rapid conference peer review, completely independent of journals and using [OpenReview.net](https://openreview.net/) instead
