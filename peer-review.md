@@ -20,6 +20,11 @@ These examples are roughly sorted by step in research cycle
 * Infrastructure
    * [OpenAIRE Open Peer Review Tender](https://www.openaire.eu/outreach/tenders/peer-review-tender)
 
+# Events
+
+* International Peer Review Congress
+  - [September 10-12, 2017 in Chicago](http://www.peerreviewcongress.org/)
+
 # Unsorted
 Things listed here have yet to be sorted into the structure above.
 * History of peer review
