@@ -625,3 +625,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   - [Japanese company replaces office workers with artificial intelligence](https://www.theguardian.com/technology/2017/jan/05/japanese-company-replaces-office-workers-artificial-intelligence-ai-fukoku-mutual-life-insurance)
 - [Communicating Science Effectively: A Research Agenda (2016)](https://www.nap.edu/catalog/23674/communicating-science-effectively-a-research-agenda) (National Academies Press)
 - [iRODS](https://irods.org/) &mdash; Open Source Data Management Software
+- [Chan Zuckerberg Initiative acquires and will free up science search engine Meta](https://techcrunch.com/2017/01/23/chan-zuckerberg-initiative-meta/)
