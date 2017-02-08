@@ -132,3 +132,6 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
   - [reused in Spanish class at Massachusetts high school](https://www.youtube.com/watch?v=cMdxxRoha0M)
 * [The Sharing Experimental Animal Resources, Coordinating Holdings (SEARCH) Framework: Encouraging Reduction, Replacement, and Refinement in Animal Research](http://dx.doi.org/10.1371/journal.pbio.2000719)
 * [reCAPTCHA](https://en.wikipedia.org/wiki/ReCAPTCHA)
+* [Why Are Scientific Data Rarely Reused?](https://works.bepress.com/borgman/272/)
+* [Australian National Data Service: Data Impact Book](http://doi.org/10.4225/14/588ed360036eb)
+* [UK DataService: Case Studies](https://impact.ukdataservice.ac.uk/case-studies)
