@@ -24,10 +24,9 @@ This file hosts information regarding data management plans and how they could b
     * see annexes 1 and 2 on core elements and on FAIR principles
 
 # Existing tools
-* [DMPTOOL](https://dmp.cdlib.org/)
-  * not machine readable 
-* [DMPonline](https://dmponline.dcc.ac.uk/) 
+* [DMPTOOL](https://dmp.cdlib.org/) and [DMPonline](https://dmponline.dcc.ac.uk/) are merging
   * machine readability on the horizon
+  * [their 2016 review](https://blog.dmptool.org/2017/02/03/roadmap-retrospective-2016/)
 * [WissGrid-Checkliste zum Forschungsdaten-Management](http://www.wissgrid.de/publikationen/deliverables/wp3/WissGrid-oeffentlicher-Entwurf-Checkliste-Forschungsdaten-Management.pdf)
 
 ## Under construction
