@@ -147,3 +147,4 @@ This file collects information on crowdsourcing in relation to research, especia
 * [IdeaScale](https://ideascale.com/)
   * [IdeaBuzz](https://ideabuzz.com/a/buzz/challenge)
 * AAAS [Crowdsourcing and Citizen Science Affinity Group](https://www.aaaspolicyfellowships.org/stay-involved/affinity-groups/stpf-affinity-group-crowdsourcing-and-citizen-science)
+* [Have a scientific passion? Become a citizen scientist](https://www.washingtonpost.com/opinions/have-a-scientific-passion-become-a-citizen-scientist/2017/01/27/647e8a22-dcc9-11e6-918c-99ede3c8cafa_story.html)
