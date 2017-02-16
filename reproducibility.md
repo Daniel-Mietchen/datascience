@@ -51,4 +51,7 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [The natural selection of bad science](http://doi.org/10.1098/rsos.160384)
     * ["Even putting an emphasis on replication — in which labs got half credit for double-checking the findings of other groups — couldn’t save the system."](https://www.sciencenews.org/blog/scicurious/blame-bad-incentives-bad-science)
 * [Reproducible Research: Citing your execution environment using Docker and a DOI](https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi)
-* [reprozip](https://www.reprozip.org/)
+* [Tools for reproducibility](https://twitter.com/gwendal/status/831524771879874561)
+  - [Code Ocean](https://codeocean.com/)
+  - [reprozip](https://www.reprozip.org/)
+  - [Collective knowledge technology](http://cknowledge.org/)
