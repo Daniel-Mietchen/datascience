@@ -136,6 +136,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Emergency Access Initiative Resources](http://eai.nlm.nih.gov/)
 * [OpenStreetMap rallies for Nepal ](https://www.mapbox.com/blog/mapping-nepal/)
   - [visualization of mapping activities in the days around the earthquake](https://www.mapbox.com/blog/nepal-earthquake-animation/) 
+  - [commentary](https://blog.geographydirections.com/2015/05/19/humanitarian-mappers-response-to-the-nepal-earthquake/)
 * [Immediate lessons from the Nepal earthquake](http://dx.doi.org/10.1016/S0140-6736(15)60655-9)
 * [Emergency Capacity Building (ECB) Project](https://en.wikipedia.org/wiki/ECB_Project)
 * [SMS Gateway to Nepal](http://sparrowsms.com/sms-gateway-nepal)
