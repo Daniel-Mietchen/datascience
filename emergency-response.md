@@ -36,6 +36,7 @@ While I started this repo in an open-ended fashion, it has since evolved a focus
 * [Wikipedia:Ebola translation task force](https://en.wikipedia.org/wiki/Wikipedia:Ebola_translation_task_force)
   * License: CC BY-SA
   * [Wikipedia Emerges as Trusted Internet Source for Ebola Information](http://www.nytimes.com/2014/10/27/business/media/wikipedia-is-emerging-as-trusted-internet-source-for-information-on-ebola-.html?_r=0)
+    - [Essential information on Ebola now on Wikipedia](http://www.wikiafrica.net/essential-information-on-ebola-now-on-wikipedia/)
   * in affected countries, Wikipedia was the most consulted source on Ebola (CFCF has references)
 * [Ebola teaches tough lessons about rapid research](http://doi.org/10.1038/521405a)
 * [Data sharing: Make outbreak research open access](http://doi.org/10.1038/518477a)
