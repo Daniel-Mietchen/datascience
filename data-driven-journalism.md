@@ -40,6 +40,7 @@ This file collects information pertaining to ways in which the interaction betwe
   * based on paper [An Economic Geography of the United States: From Commutes to Megaregions](http://dx.doi.org/10.1371/journal.pone.0166083)
 * [The visualizations transforming biology](https://doi.org/10.1038/535187a) 
 * [Cutaway infographics](https://www.wired.com/2016/10/look-inside-spectacular-collection-cutaway-infographics/)
+* [1 tip for effective data visualization in Python](https://www.dataquest.io/blog/how-to-communicate-with-data/)
 
 # Engaging visualizations
 
