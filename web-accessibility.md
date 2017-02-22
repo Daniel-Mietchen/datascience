@@ -36,3 +36,4 @@ This file contains notes on how to make Web-based materials &ndash; and data in 
 * [Wanda Diaz Merced: How a blind astronomer found a way to hear the stars](https://www.ted.com/talks/wanda_diaz_merced_how_a_blind_astronomer_found_a_way_to_hear_the_stars)
   * sonification as a way to (a) explore data, (b) help bridge gaps between the sighted and un-sighted
 * [Three common accessibility pitfalls for developers](http://simplyaccessible.com/article/pitfalls-info-relationships/)
+* [Integrating Contrast Checks in Your Web Workflow](https://24ways.org/2014/integrating-contrast-checks-in-your-web-workflow/)
