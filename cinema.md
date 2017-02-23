@@ -361,6 +361,7 @@ Ketki Karanam: What if we could harness the personalized therapeutic effects of 
 
 
 # Maybe watch in the future
+* [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
 * [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
 * older [TED MED](https://www.youtube.com/user/tedmed) talks 
