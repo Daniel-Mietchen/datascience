@@ -151,6 +151,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Central Italy earthquakes](https://www.wikidata.org/wiki/Q26689701)
   * [OSM mapping project](http://osmit-tm.wmflabs.org/project/13)
   * [provision of satellite data](https://www.twst.com/update/leonardo-finmeccanica-s-p-a-earthquake-in-italy-e-geos-within-the-copernicus-program-provides-satellite-images-maps-and-data-in-support-of-the-rescue-operation/)
+* [Kaikoura earthquake](https://en.wikipedia.org/wiki/2016_Kaikoura_earthquake)
+  * [NZ Government thanks IRDR and CODATA groups for their help following 2016 Kaikoura earthquake](http://www.codata.org/news/154/62/New-Zealand-Government-thanks-IRDR-and-CODATA-groups-for-their-help-following-2016-Kaikoura-earthquake)
 
 # Storms
 ## [Hurricane Katrina (2005)](https://en.wikipedia.org/wiki/Hurricane_Katrina)
