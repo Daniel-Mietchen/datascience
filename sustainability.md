@@ -20,8 +20,8 @@ This file hosts information regarding the sustainability of data-related infrast
   * Talks
     * [Improving Accessibility and Sustainability of Research Data and Other Electronic Artifacts of Biomedical Research](http://www.ncbi.nlm.nih.gov/CBBresearch/Seminar/cgi-bin/presentation.cgi?date=4-14-2015)  
 * [ArXiv](https://confluence.cornell.edu/display/culpublic/arXiv+Sustainability+Initiative)
-* The Engineering and Physical Sciences Research Council (EPSRC) in the UK [requires data to be held available until 10 years after last consultation](https://www.epsrc.ac.uk/about/standards/researchdata/expectations/):
-  > Research organisations will ensure that EPSRC-funded research data is securely preserved for a minimum of 10 years from the date that any researcher ‘privileged access’ period expires or, if others have accessed the data, from last date on which access to the data was requested by a third party; all reasonable steps will be taken to ensure that publicly-funded data is not held in any jurisdiction where the available legal safeguards provide lower levels of protection than are available in the UK.
+* The Engineering and Physical Sciences Research Council (EPSRC) in the UK [requires data to be kept available until 10 years after last consultation](https://www.epsrc.ac.uk/about/standards/researchdata/expectations/):
+  - "Research organisations will ensure that EPSRC-funded research data is securely preserved for a minimum of 10 years from the date that any researcher ‘privileged access’ period expires or, if others have accessed the data, from last date on which access to the data was requested by a third party; all reasonable steps will be taken to ensure that publicly-funded data is not held in any jurisdiction where the available legal safeguards provide lower levels of protection than are available in the UK."
 
 # Health-related societal challenges
 * some are in the Sustainable Development Goals
