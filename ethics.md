@@ -6,7 +6,7 @@ This file collects information about the ethics of data science as well as about
    * [Ethics of Data Journeys](http://www.scidatacon.org/2016/sessions/26/)
    * [Linking Local and Indigenous Communities with Researchers for Improving Access and Discovery of Ethically Open Data and Knowledge](http://www.scidatacon.org/2016/sessions/33/)
    * [How, When, and Why are Data Open? Competing Perspectives on Open Data in Science](http://www.scidatacon.org/2016/sessions/17/)
- * [Firing of veteran NIH scientist prompts protests over publication ban](https://doi.org/10.1126/SCIENCE.AAL0808)
+* [Firing of veteran NIH scientist prompts protests over publication ban](https://doi.org/10.1126/SCIENCE.AAL0808)
 
 # Guidance on ethics procedures
 * Many institutions issue guidance on ethical matters and the processes set in place to handle them. Some examples:
