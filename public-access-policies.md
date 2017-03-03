@@ -42,6 +42,10 @@ This file serves the collection of information related to public access policies
 ## Finland
 * Open science and research roadmap 2014–2017: ["Open science and research leads to 
 surprising discoveries and creative insights"](http://openscience.fi/documents/14273/0/Open+Science+and+Research+Roadmap+2014-2017/e8eb7704-8ea7-48bb-92e6-c6c954d4a2f2)
+* [openscience.fi](http://openscience.fi/)
+
+## Nederlands
+* [openscience.nl](https://www.openscience.nl/)
 
 ## EU
 ### FP7
