@@ -66,13 +66,8 @@ This file collects information pertaining to ways in which the interaction betwe
 * [flightradar24](http://www.flightradar24.com/50.82,12.38/8)
 * [emoji tracker](http://emojitracker.com/) - imagine this to be research-relevant identifiers (and no blinking)
 * [Real-time Readership](http://jdc.jefferson.edu/) at an institutional repository
-* [Wikidata Galaxy](http://wiki.polyfra.me/)
-* [WikiReplay](http://cosmiclattes.github.io/wikireplay/player.html)
 * [ESA's cool new interactive comet visualization tool based on amateur imaging work with open data](http://www.planetary.org/blogs/emily-lakdawalla/2015/08131133-esa-interactive-rosetta-comet-malmer.html)
 * [SmartRoadSense](http://smartroadsense.it/) &mdash; measures road quality in Italy using triaxial accelometers in smartphones
-* [Listen to Wikipedia](http://listen.hatnote.com/)
-* [Wikimedia Grafana graphs of Wikidata profiling information](http://addshore.com/2015/09/wikimedia-grafana-graphs-of-wikidata-profiling-information/)
-* [Langton's ant](https://es.wikipedia.org/w/index.php?title=Hormiga_de_Langton&oldid=82325071) (on Spanish Wikipedia)
 * [Green: Vegetation on Our Planet (Tour of Earth)](https://www.youtube.com/watch?v=6gUnXpBMfyI)
 * [Visualization of Migration of Honey Buzzards](https://vimeo.com/85808414)
 * [Life calendar](https://www.youtube.com/watch?v=arj7oStGLkU#t=13m3s) (one box for every week in a span of 90 years)
@@ -84,6 +79,19 @@ This file collects information pertaining to ways in which the interaction betwe
   * [similar for 5k years of European history](http://www.openculture.com/2016/10/the-history-of-europe-5000-years-animated-in-a-timelapse-map.html)
 * simple: [visualizing reading progress](http://wonkhe.com/blogs/implementing-ref2021-needs-the-input-of-the-whole-research-community/)
 * [A history of global living conditions in 5 charts](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/)
+
+### Wikimedia examples
+
+* [Listen to Wikipedia](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko)
+  - [Wikidata variant](http://listen.hatnote.com/#wikidata,fr,de,it,rm,en)
+* [Wikidata Galaxy](http://wiki.polyfra.me/)
+* [WikiReplay](http://cosmiclattes.github.io/wikireplay/player.html)
+* [WikiStream](http://wikistream.wmflabs.org/)
+* [WikiPulse](http://wikipulse.herokuapp.com/)
+  * fork: [WikiSpeed](http://waldyrious.net/wikispeed/)
+* [Wikimedia Grafana graphs of Wikidata profiling information](http://addshore.com/2015/09/wikimedia-grafana-graphs-of-wikidata-profiling-information/)
+* [Langton's ant](https://es.wikipedia.org/w/index.php?title=Hormiga_de_Langton&oldid=82325071) (on Spanish Wikipedia)
+
 
 ## Visualization tools
 * [5 open source dashboard tools for visualizing data](https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data)
