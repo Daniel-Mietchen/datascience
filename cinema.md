@@ -83,6 +83,7 @@ This file collects examples of talks, lectures and other forms of presentations 
     - Remove barriers to practice: make it easy to actually sit down and practice, undistracted
     - Pre-commit a useful amount of time (he said at least 20h) of focused deliberate practice
 * [Jay Gattuso: From nothing to daily use - How Python changed my work life](https://www.youtube.com/watch?v=fCSAOcTbe8g)
+* [Data Management Hub](https://www.youtube.com/watch?v=MYFyr2NmWdg) &mdash; introductory talk by [Ingo Keck](https://kubrik.io/about/team/ingo.html) on the [Data Management Hub](https://damahub.com/), a kind of blockchain-based distributed Dropbox for researchers
 
 ## TEDMED 2016 
 ### SESSION 1: Invisible Threats
