@@ -2,7 +2,7 @@
 This file hosts information regarding the sustainability of data-related infrastructures. This includes costs as well as business models and associated policy work, e.g. on redundancy and what to delete.
 
 # General sustainability
-* [Show me the data: How can open data contribute to SDGs?](http://europeandcis.undp.org/blog/2015/06/10/show-me-the-data-how-can-open-data-contribute-to-sdgs/)
+* [Show me the data: How can open data contribute to SDGs?](https://web.archive.org/web/20150919210100/http://europeandcis.undp.org/blog/2015/06/10/show-me-the-data-how-can-open-data-contribute-to-sdgs/)
   * [Sustainable Development Goals: The Impact of Access to Information on our Societies e-forum – 7-18 September 2015](http://www.ifla.org/node/9705)
   * [Can open data prevent a global food shortage?](http://www.theguardian.com/media-network/2015/sep/02/open-data-global-food-shortage)
 * [Sustainia](http://www.sustainia.me/)
