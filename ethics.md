@@ -14,6 +14,7 @@ This file collects information about the ethics of data science as well as about
   * [University of Guelph: Ethics and Regulatory Compliance](http://www.uoguelph.ca/research/for-researchers/ethics-and-regulatory-compliance)
   * [Final NIH Policy on the Use of a Single Institutional Review Board for Multi-Site Research](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-094.html)
 * [Revised CIOMS International Ethical Guidelines for Health-Related Research Involving Humans](https://doi.org/10.1001/jama.2016.18977)
+* [Ethical Considerations for Zika Virus Human Challenge Trials: Report and Recommendations](https://www.niaid.nih.gov/sites/default/files/EthicsZikaHumanChallengeStudiesReport2017.pdf) (PDF)
 
 # Data on ethics
 * Scarce
