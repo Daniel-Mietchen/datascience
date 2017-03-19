@@ -628,3 +628,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 - [Chan Zuckerberg Initiative acquires and will free up science search engine Meta](https://techcrunch.com/2017/01/23/chan-zuckerberg-initiative-meta/)
 - [Owncloud](https://owncloud.org/) &mdash; open source self-hosted web apps with sync clients and sharing
 - [Why we code in the open](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)
+- Wikibooks: [Data Science: An Introduction](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction)
