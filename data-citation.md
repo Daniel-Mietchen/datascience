@@ -35,6 +35,7 @@ This file is to facilitate the collection of information pertaining to the citat
 * [Data Citation in Neuroimaging: Proposed Best Practices for Data Identification and Attribution](http://dx.doi.org/10.3389/fninf.2016.00034)
 * [Why shared data should not be acknowledged on the author byline](https://www.ncbi.nlm.nih.gov/pubmed/22008368)
   - "We briefly discuss viable alternatives for crediting contributors, such as citations of papers describing shared data"
+* [How do you deposit data citations?](https://www.crossref.org/blog/how-do-you-deposit-data-citations/)
 
 # See also
 * Software citation
