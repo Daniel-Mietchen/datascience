@@ -76,7 +76,7 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
   - qualitative and quantitative indications of reuse, e.g.
     - [“Uploading to wikimedia and wikipedia article”](http://collections.tepapa.govt.nz/Object/1439306) (no known copyright restrictions)
       - [Download page asking for intended reuse](http://collections.tepapa.govt.nz/Object/1439306/download)
-    - [that Wikipedia article](https://en.wikipedia.org/wiki/John_Buchanan_%28botanist%29)
+      - [that Wikipedia article](https://en.wikipedia.org/wiki/John_Buchanan_%28botanist%29)
     - [“I knit, and would love to make this into a knitting pattern…”](http://collections.tepapa.govt.nz/Object/711029) (item is NC-ND-licensed)
     - [GitHub repo](https://github.com/te-papa/image-downloads-stats)
 
@@ -136,3 +136,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Australian National Data Service: Data Impact Book](http://doi.org/10.4225/14/588ed360036eb)
 * [UK DataService: Case Studies](https://impact.ukdataservice.ac.uk/case-studies)
 * [Drug repurposing/drug repositioning](https://en.wikipedia.org/wiki/Drug_repositioning)
+* [2016 dataset usage stats at Dryad](https://blog.datadryad.org/2017/03/14/and-now-the-numbers/)
