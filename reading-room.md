@@ -507,13 +507,16 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * Incentives
   * From [Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition](https://doi.org/10.1089/ees.2016.0223): "When you rely on incentives, you undermine virtues. Then when you discover that you actually need people who want to do the right thing, those people don’t exist.—Barry Schwartz, Swarthmore College (Zetter, 2009)"
   * See also
-    - [Academia is fucked-up. So why isn’t anyone doing something about it?](http://backreaction.blogspot.de/2017/03/academia-is-fucked-up-so-why-isnt.html)
-    - [Every attempt to manage academia makes it worse](https://svpow.com/2017/03/17/every-attempt-to-manage-academia-makes-it-worse/)
+    - ["Academia is fucked-up. So why isn’t anyone doing something about it?"](http://backreaction.blogspot.de/2017/03/academia-is-fucked-up-so-why-isnt.html)
+    - ["Every attempt to manage academia makes it worse"](https://svpow.com/2017/03/17/every-attempt-to-manage-academia-makes-it-worse/)
   * [The Effect of Incentives and Meta-incentives on the Evolution of Cooperation](10.1371/journal.pcbi.1004232)
   * [Sticks and carrots: encouraging open science at its source](http://dx.doi.org/10.1002/geo2.2)
   * [A proposed integration of the expert performance and individual differences approaches to the study of elite performance](http://dx.doi.org/10.3389/fpsyg.2014.00707)
+  * ["Blame bad incentives for bad science"](http://www.geneticsandsociety.org/article.php?id=9761)
+    - with comments on modeling the incentive landscape
   * ["academia has some perverse incentives structures that we would never have intentionally built into science as a process."](https://socialbat.org/2015/08/12/goals-of-science-vs-goals-of-scientists-a-love-letter-for-plos-one/)
   * [Open Practice Badges in Psychological Science: 18 Months On](http://www.psychologicalscience.org/index.php/publications/observer/obsonline/open-practice-badges-in-psychological-science-18-months-out.html)
+
 * data discovery
   * [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
   * [The Hague Declaration on Knowledge Discovery in the Digital Age](http://thehaguedeclaration.com/the-hague-declaration-on-knowledge-discovery-in-the-digital-age/)
