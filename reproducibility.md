@@ -3,6 +3,11 @@ This file collects information related to the reproducibility and replicability 
 * reproducibility is concerned with retracing a particular study and mapping its methodology to its outcomes, whereas  
 * replicability is about independent verification of research outcomes using different set-ups.
 
+# Computational replicability, reproducibility and reusability
+
+* [Analyze all Jupyter notebooks mentioned in PubMed Central](https://github.com/sparcopen/open-research-doathon/issues/25)
+  - has numerous links to further materials on the matter
+
 # Resources
 * [Reproducibility crisis: Blame it on the antibodies](http://dx.doi.org/10.1038/521274a)
 * [TOP guidelines](https://osf.io/9f6gx/)
