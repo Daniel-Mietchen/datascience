@@ -630,3 +630,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 - [Why we code in the open](https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)
 - Wikibooks: [Data Science: An Introduction](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction)
 - [Three challenges for the web, according to its inventor](http://webfoundation.org/2017/03/web-turns-28-letter/) &mdash; thoughts by Tim Berners-Lee on the Web's 28th birthday
+- [PREMIS Data Dictionary for Preservation Metadata](http://www.loc.gov/standards/premis/)
+- [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
