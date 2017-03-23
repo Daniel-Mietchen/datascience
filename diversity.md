@@ -14,6 +14,7 @@ This file collects information pertaining to (workforce and subject) diversity, 
    * [php[architect]](https://www.phparch.com/policies/code-of-conduct/)
    * [Burlington Ruby Conference](http://www.burlingtonrubyconference.com/conduct)
 * [Are women still at a disadvantage in science?](http://www.dcscience.net/2015/06/15/are-women-still-at-a-disadvantage-in-science/)
+* [Practical Guide to Improving Gender Equality in Research Organisations (February 2017)](http://www.scienceeurope.org/wp-content/uploads/2017/01/SE_Gender_Practical-Guide.pdf)
 
 # See also
 * [Consideration of Sex as a Biological Variable in NIH-funded Research](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
