@@ -506,6 +506,9 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   * [Collective action: fifty years later](http://dx.doi.org/10.1007/s11127-015-0252-0)
 * Incentives
   * From [Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition](https://doi.org/10.1089/ees.2016.0223): "When you rely on incentives, you undermine virtues. Then when you discover that you actually need people who want to do the right thing, those people don’t exist.—Barry Schwartz, Swarthmore College (Zetter, 2009)"
+  * See also
+    - [Academia is fucked-up. So why isn’t anyone doing something about it?](http://backreaction.blogspot.de/2017/03/academia-is-fucked-up-so-why-isnt.html)
+    - [Every attempt to manage academia makes it worse](https://svpow.com/2017/03/17/every-attempt-to-manage-academia-makes-it-worse/)
   * [The Effect of Incentives and Meta-incentives on the Evolution of Cooperation](10.1371/journal.pcbi.1004232)
   * [Sticks and carrots: encouraging open science at its source](http://dx.doi.org/10.1002/geo2.2)
   * [A proposed integration of the expert performance and individual differences approaches to the study of elite performance](http://dx.doi.org/10.3389/fpsyg.2014.00707)
