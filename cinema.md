@@ -52,7 +52,7 @@ This file collects examples of talks, lectures and other forms of presentations 
     * [Dambisa Moyo's book "Dead Aid"](https://en.wikipedia.org/wiki/Dambisa_Moyo#Dead_Aid)
     * [Sirolli Institute](http://sirolli.com/) 
       * [Forbes summary](http://www.forbes.com/2009/04/07/summary-dead-aid-opinions-business-visionaries-moyo.html)
-    * book: [Ripples from the Zambezi](Ripples from the Zambezi: Passion, Entrepreneurship, and the Rebirth of Local Economies )
+    * book: [Ripples from the Zambezi: Passion, Entrepreneurship, and the Rebirth of Local Economies](https://books.google.de/books/about/Ripples_from_the_Zambezi.html?id=nkobSaZcwDMC&redir_esc=y)
     * [horse manure crisis of New York in 1960, as discussed in 1860](https://fee.org/articles/the-great-horse-manure-crisis-of-1894/)
 * [Flashmob Nürnberg 2014 - Ode an die Freude](https://www.youtube.com/watch?v=a23945btJYw)
   * a very special, deeply emotional kind of public engagement
