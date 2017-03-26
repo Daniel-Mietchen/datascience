@@ -640,3 +640,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 - [PREMIS Data Dictionary for Preservation Metadata](http://www.loc.gov/standards/premis/)
 - [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
 - [Review on the impacts of OER adoption](http://openedgroup.org/review)
+- [Dryad usage stats 2016](https://blog.datadryad.org/2017/03/14/and-now-the-numbers/)
