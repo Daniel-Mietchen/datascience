@@ -367,6 +367,7 @@ Ketki Karanam: What if we could harness the personalized therapeutic effects of 
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
 * [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
 * older [TED MED](https://www.youtube.com/user/tedmed) talks 
+* [Sandra Collins: Memory Keepers](https://www.youtube.com/watch?v=i4mbHb5wqKo)
 * [Frank Miedema: Science in Transition](https://www.youtube.com/watch?v=sUf1ajkIAhY)
 * [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
 * [Pardis Sabeti: How we'll fight the next deadly virus](https://www.ted.com/talks/pardis_sabeti_how_we_ll_fight_the_next_deadly_virus)
