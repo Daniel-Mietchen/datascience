@@ -639,3 +639,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 - [Three challenges for the web, according to its inventor](http://webfoundation.org/2017/03/web-turns-28-letter/) &mdash; thoughts by Tim Berners-Lee on the Web's 28th birthday
 - [PREMIS Data Dictionary for Preservation Metadata](http://www.loc.gov/standards/premis/)
 - [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)
+- [Review on the impacts of OER adoption](http://openedgroup.org/review)
