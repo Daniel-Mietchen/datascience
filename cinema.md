@@ -85,6 +85,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Jay Gattuso: From nothing to daily use - How Python changed my work life](https://www.youtube.com/watch?v=fCSAOcTbe8g)
 * [Data Management Hub](https://www.youtube.com/watch?v=MYFyr2NmWdg) &mdash; introductory talk by [Ingo Keck](https://kubrik.io/about/team/ingo.html) on the [Data Management Hub](https://damahub.com/), a kind of blockchain-based distributed Dropbox for researchers
 * [Matthew DeGennaro: Mutant mosquitoes hold key to life-saving perfume](https://www.youtube.com/watch?v=HbMhbrn1PoA)
+* [Ogie Shaw: Winning The Mental Battle of Physical Fitness and Obesity](https://www.youtube.com/watch?v=K60xHx836T0)
+  - gist: exercise daily, first thing in the morning, for 20 min or less, against resistance; reward it
 
 ## TEDMED 2016 
 ### SESSION 1: Invisible Threats
