@@ -40,3 +40,4 @@ This file hosts information regarding the sustainability of data-related infrast
 * Honey remains edible over millenia
   - [Honey In The Pyramids: It might be hard to bee-lieve but the 3,000-year-old sweet treat is still edible](http://www.nationalgeographic.com.au/history/honey-in-the-pyramids.aspx)
   - [The Science Behind Honey’s Eternal Shelf Life](http://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/)
+* [The economic rationale for public R&I funding and its impact](http://bookshop.europa.eu/is-bin/INTERSHOP.enfinity/WFS/EU-Bookshop-Site/en_GB/-/EUR/ViewPublication-Start?PublicationKey=KI0117050)
