@@ -77,6 +77,8 @@ which also links to numerous examples of grant proposals that have already been 
 * [CORDIS - EU research projects under Horizon 2020 (2014-2020) ](http://open-data.europa.eu/en/data/dataset/cordis-h2020projects-under-horizon-2020-2014-2020)
 * [NIH RePORT](http://projectreporter.nih.gov/reporter.cfm)
 * [Grantome](http://grantome.com/search)
+* [ÜberResearch](http://www.uberresearch.com/)
+  - [example](https://grants.uberresearch.com/100000083/1501386/FORCE-11-Travel)
 
 # Calls for transformative research
 * [ESRC](http://www.lssi.leeds.ac.uk/files/2014/10/transformative-research-call-2014.pdf)
