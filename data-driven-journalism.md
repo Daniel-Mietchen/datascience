@@ -44,7 +44,7 @@ This file collects information pertaining to ways in which the interaction betwe
 
 # Engaging visualizations
 
-## Visualization-focused platforms
+## Visualization-focused initiatives
 * [Information is beautiful](http://www.informationisbeautiful.net/)
 * [Draw Science](http://www.drawscience.org/)
 * [Journal of Visualized Experiments (JoVE)](http://www.jove.com/)
@@ -52,6 +52,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Automating big-data analysis](http://news.mit.edu/2015/automating-big-data-analysis-1016)
 * [Tube Heartbeat](http://tubeheartbeat.com/london/)
     * [blog post](https://blog.tfl.gov.uk/2016/08/25/tfl-open-data-powering-the-tube-heartbeat/)
+* [Data Stories](http://www.sciencemag.org/projects/data-stories)
 
 ## Individual examples
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
