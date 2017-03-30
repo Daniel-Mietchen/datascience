@@ -19,6 +19,8 @@ This file collects information about the ethics of data science as well as about
 # Data on ethics
 * Scarce
 * [Office for Human Research Protections (OHRP) Database for Registered IORGs & IRBs, Approved FWAs, and Documents Received in Last 60 Days](http://ohrp.cit.nih.gov/search/irbsearch.aspx?styp=bsc)
+* [Ethics panel blocks proposed Zika vaccine research](https://www.statnews.com/2017/02/28/zika-vaccine-ethics-panel/)
+  - [report of the ethics panel](https://www.niaid.nih.gov/sites/default/files/EthicsZikaHumanChallengeStudiesReport2017.pdf)
 
 # See also
 * [Making ethics data FAIR](https://github.com/Daniel-Mietchen/talks/blob/master/PIDapalooza.md)
