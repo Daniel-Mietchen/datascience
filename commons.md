@@ -10,8 +10,8 @@ This file collects information related to the concept of the Commons, both in ge
 
 # In the US
 * At NIH
-      * Overview
-          * [Datascience](https://datascience.nih.gov/commons) 
+  * Overview
+    * [Datascience](https://datascience.nih.gov/commons) 
 * multiple other agencies (e.g. NIST) have also indicated interest in a "research data commons", and USDA launched their [Ag Data Commons](https://data.nal.usda.gov/) in October 2015 (see also [this presentation](http://www.slideshare.net/csparr/ag-data-commons-a-new-usda-catalog-and-repository-for-agricultural-research-data))
 * legal structure: [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation)
 * [Jefferson Digital Commons](http://jdc.jefferson.edu/)
