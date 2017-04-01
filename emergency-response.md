@@ -83,6 +83,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [A gendered human rights analysis of Ebola and Zika: locating gender in global health emergencies](https://www.chathamhouse.org/publication/ia/gendered-human-rights-analysis-ebola-and-zika-locating-gender-global-health#https://www.chathamhouse.org/publication/ia/gendered-human-rights-analysis-ebola-and-zika-locating-gender-global-health)
   * good overview of related sources in [Zika and Ebola had a much worse effect on women: we need more research to address this in future](https://theconversation.com/zika-and-ebola-had-a-much-worse-effect-on-women-we-need-more-research-to-address-this-in-future-64868)
 * [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
+* [Principles for Data Sharing in Public Health Emergencies](https://doi.org/10.6084/m9.figshare.4733590)
+* [Progress in promoting data sharing in public health emergencies](https://doi.org/10.2471/BLT.17.192096)
 
 ### Background on Zika and other otbreaks
 * [Why it takes so long to develop a vaccine against a new epidemic](http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
