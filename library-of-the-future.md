@@ -88,6 +88,7 @@ This file collects thoughts about the research library of the future as well as 
 * [Knowledge Exchange Discussion paper on Open Knowledge](http://doi.org/10.5281/zenodo.47509)
 * [European open Science Policy Platform](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform)
 * [Pathways to Open Scholarship](http://knowledge-exchange.info/event/pathways-to-open-scholarship)
+* [The research librarian of the future: data scientist and co-investigator](http://blogs.lse.ac.uk/impactofsocialsciences/2016/12/14/the-research-librarian-of-the-future-data-scientist-and-co-investigator/)
 
 # National Library of Medicine
 * [NLM and the Internet (1994)](http://resource.nlm.nih.gov/9421446)
