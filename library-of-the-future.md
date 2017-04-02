@@ -52,6 +52,9 @@ This file collects thoughts about the research library of the future as well as 
 * free vs. open
 * spontaneity vs. schedule
 
+# Hashtag
+* [#libraryfutures](https://twitter.com/hashtag/libraryfutures?vertical=default&src=hash)
+
 # Notes
 * Licklider's "thinking center"
   * Licklider, J. C. R., "[Man-Computer Symbiosis](http://groups.csail.mit.edu/medg/people/psz/Licklider.html)", IRE Transactions on Human Factors in Electronics, vol. HFE-1, 4-11, March 1960.
