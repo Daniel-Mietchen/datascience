@@ -3,6 +3,9 @@ This file collects information related to the concept of the Commons, both in ge
 
 # General
 * Book: [Patterns of Commoning](http://patternsofcommoning.org/contents/)
+* [Quote](https://doi.org/10.1038/543615a)
+
+> Science is increasingly a collaborative enterprise, but its infrastructure, social and technical, lags behind.
 
 # By discipline
 * [Humanities Commons](http://news.hcommons.org/)
