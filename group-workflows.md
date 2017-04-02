@@ -33,3 +33,4 @@ This file is to collect information about key elements of group workflows, with 
 
 # See also
 * [PhD Starter Kit](https://raoofphysics.github.io/phd-starter-kit/)
+* [The Art of Managing Complex Collaborations](http://sloanreview.mit.edu/article/the-art-of-managing-complex-collaborations/)
