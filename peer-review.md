@@ -96,3 +96,6 @@ Things listed here have yet to be sorted into the structure above.
 * [An efficiency argument for post-publication review](http://andrewgelman.com/2016/12/16/an-efficiency-argument-for-post-publication-review/)
 * [International Conference on Learning Representations](http://www.iclr.cc/doku.php?id=iclr2017:callforpapers)
   - brought up by [Oriol Pujol](https://twitter.com/oriolpujolvila) at [#learnbcn](https://twitter.com/search?f=tweets&vertical=default&q=learnbcn) as an example of very rapid conference peer review, completely independent of journals and using [OpenReview.net](https://openreview.net/) instead
+* [A Long-Sought Proof, Found and Almost Lost](https://www.quantamagazine.org/20170328-statistician-proves-gaussian-correlation-inequality/)
+  - mentions rejections and biases in the peer review system against unknown people
+  - nice twist in that he also found the time to work on it in earnest when he retired
