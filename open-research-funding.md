@@ -21,6 +21,7 @@ Some platforms that already open up some aspects of the funding process are desc
 * [RIO Journal](http://riojournal.com/)
    * [A new journal wants to publish your research ideas](http://news.sciencemag.org/scientific-community/2015/09/new-journal-wants-publish-your-research-ideas)
    * [The journal of proposals, ideas, data and more](http://dx.doi.org/10.1038/525161f)
+* [Open Public Review](https://ec.europa.eu/futurium/en/node/1854) &mdash; public peer review of deliverables of H2020 projects around public policy
 
 The educational value of open grant proposals is highlighted in
 * [How to find grant proposal samples?](http://academia.stackexchange.com/questions/1652/how-to-find-grant-proposal-samples),  
