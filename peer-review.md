@@ -99,3 +99,8 @@ Things listed here have yet to be sorted into the structure above.
 * [A Long-Sought Proof, Found and Almost Lost](https://www.quantamagazine.org/20170328-statistician-proves-gaussian-correlation-inequality/)
   - mentions rejections and biases in the peer review system against unknown people
   - nice twist in that he also found the time to work on it in earnest when he retired
+* [Open Public Review](https://ec.europa.eu/futurium/en/node/1854) &mdash; public peer review of deliverables of H2020 projects around public policy
+  - includes DMPs
+    - [WeGovNow: D6.3 - Data Management Framework](https://ec.europa.eu/futurium/en/content/d63-data-management-framework)
+    - [OpenGovIntelligence: D6.1 - Data Management Plan](https://ec.europa.eu/futurium/en/content/d61-data-management-plan)
+    - [SIMPATICO: D1.3 - Data management plan v.1](https://ec.europa.eu/futurium/en/content/d13-data-management-plan-v1)
