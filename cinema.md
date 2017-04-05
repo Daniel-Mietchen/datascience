@@ -393,3 +393,4 @@ Ketki Karanam: What if we could harness the personalized therapeutic effects of 
 * [Alex 'Sandy' Pentland - How social networks make us smarter](https://www.youtube.com/watch?v=XAGBBt9RNbc)
 * [Stuart Brown: Play is more than fun](https://www.youtube.com/watch?v=HHwXlcHcTHc)
 * [Michael J. Twery: "The Role of Sleep in Health"](https://videocast.nih.gov/Summary.asp?File=21123&bhcp=1)
+* [Zika at University of California TV](http://www.uctv.tv/search/?keyword=zika&x=0&y=0)
