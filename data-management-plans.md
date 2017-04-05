@@ -57,3 +57,8 @@ This file hosts information regarding data management plans and how they could b
 * We already know about predictable events like [comets](https://en.wikipedia.org/wiki/Template:Comets), [solar eclipses](https://en.wikipedia.org/wiki/Template:Solar_eclipses), [monsoons](https://en.wikipedia.org/wiki/Monsoon), [pitch drops](https://en.wikipedia.org/wiki/Pitch_drop_experiment) or [Monarch butterfly migration](https://en.wikipedia.org/wiki/Monarch_butterfly_migration). How does this predictability affect research around those topics as opposed to research on less predictable events like the approval of a Zika vaccine? 
 * [New businesses eye the opportunities in managing genome data](http://www.economist.com/news/business/21701143-new-businesses-eye-opportunities-managing-genome-data-all-about-base)
 * [Git-RDM: A research data management plugin for the Git version control system](http://dx.doi.org/10.21105/joss.00029)
+* [Open Public Review](https://ec.europa.eu/futurium/en/node/1854) &mdash; public peer review of deliverables of H2020 projects around public policy
+  - includes DMPs
+    - [WeGovNow: D6.3 - Data Management Framework](https://ec.europa.eu/futurium/en/content/d63-data-management-framework)
+    - [OpenGovIntelligence: D6.1 - Data Management Plan](https://ec.europa.eu/futurium/en/content/d61-data-management-plan)
+    - [SIMPATICO: D1.3 - Data management plan v.1](https://ec.europa.eu/futurium/en/content/d13-data-management-plan-v1)
