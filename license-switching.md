@@ -1,6 +1,8 @@
 # About
 
-This file hosts examples of cases where research-relevant databases and similar infrastructure have switched to a more or less open license. Changes of the [license version](https://wiki.creativecommons.org/wiki/License_Versions) (e.g. [the Wikimedia Foundation changing their default license from CC BY-SA 3.0 to CC BY-SA 4.0](https://meta.wikimedia.org/wiki/Terms_of_use/Creative_Commons_4.0)) are not included here.
+This file hosts examples of cases where research-relevant databases and similar infrastructure have switched to another license type (usually a more open or less open one) or to the [CC0 license waiver](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Changes of the [license version](https://wiki.creativecommons.org/wiki/License_Versions) (e.g. [the Wikimedia Foundation changing their default license from CC BY-SA 3.0 to CC BY-SA 4.0](https://meta.wikimedia.org/wiki/Terms_of_use/Creative_Commons_4.0)) are not included here.
+
+This list is very incomplete &mdash; additions and corrections are most welcome.
 
 # CC BY
 
