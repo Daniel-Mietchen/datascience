@@ -73,4 +73,6 @@ This list is very incomplete &mdash; additions and corrections are most welcome.
 # See also
 
 * [Why we should publish our data under Creative Commons Zero (CC0)](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0)
+* [Who “owns” your data?](http://osc.universityofcalifornia.edu/2016/09/who-owns-your-data/)
+* [CC BY and data: Not always a good fit.](http://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/)
 * [List of major Creative Commons licensed works](https://en.wikipedia.org/wiki/List_of_major_Creative_Commons_licensed_works)
