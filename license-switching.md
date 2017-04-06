@@ -8,7 +8,7 @@ This list is very incomplete &mdash; additions and corrections are most welcome.
 
 ## To CC BY
 
-* [Copernicus](http://www.electronic-earth.net/license_and_copyright.html) (from [CC BY-NC](http://www.electronic-earth.net/license_and_copyright_agreement_until_10_dec_2007.html))
+* [Copernicus](http://www.electronic-earth.net/license_and_copyright.html) (from [CC BY-NC-SA](http://www.electronic-earth.net/license_and_copyright_agreement_until_10_dec_2007.html))
 * [Nature Communications default license](http://www.the-scientist.com/?articles.view/articleNo/41072/title/Nature-Communications-Goes-OA/) (from CC BY-NC-ND)
 
 ## From CC BY
@@ -18,6 +18,12 @@ This list is very incomplete &mdash; additions and corrections are most welcome.
 ## To CC BY-NC
 
 ## From CC BY-NC
+
+# CC BY-NC-SA
+
+## To CC BY-NC-SA
+
+## From CC BY-NC-SA
 
 * [Copernicus](http://www.electronic-earth.net/license_and_copyright_agreement_until_10_dec_2007.html) ([to CC BY](http://www.electronic-earth.net/license_and_copyright.html))
 
