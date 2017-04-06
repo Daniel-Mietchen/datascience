@@ -16,7 +16,8 @@ as key factors on how to achieve that. There are others, and the precise mixture
 ## General
 
 * [Data reuse stories](https://www.slideshare.net/VarshaKhodiyar/gaining-credit-for-sharing-research-data/37)
-
+  - all examples given are from Scientific Data
+  
 ## JATS
 [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/) (PMC) is a repository for scholarly literature in the biomedical field. Some of its content is available under terms that allow for [Reusing, Revising, Remixing and Redistributing Research](http://blogs.plos.org/blog/2012/10/23/reusing-revising-remixing-and-redistributing-research/), e.g. to extract audio and video materials from these articles and upload them to Wikimedia Commons, as the [Open Access Media Importer](http://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) does. 
 
