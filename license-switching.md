@@ -2,10 +2,66 @@
 
 This file hosts examples of cases where research-relevant databases and similar infrastructure have switched to a more or less open license.
 
-# Anything to CC0
+# CC BY
+
+## To CC BY
+
+* [Copernicus](http://www.electronic-earth.net/license_and_copyright_agreement_until_10_dec_2007.html) (from CC BY-NC)
+* [Nature Communications default license](http://www.the-scientist.com/?articles.view/articleNo/41072/title/Nature-Communications-Goes-OA/) (from CC BY-NC-ND)
+
+## From CC BY
+
+# CC BY-NC
+
+## To CC BY-NC
+
+## From CC BY-NC
+
+* [Copernicus](http://www.electronic-earth.net/license_and_copyright_agreement_until_10_dec_2007.html) ([to CC BY](http://www.electronic-earth.net/license_and_copyright.html))
+
+# CC BY-SA
+
+## To CC BY-SA
+
+* [Wikimedia Foundation](https://meta.wikimedia.org/wiki/Licensing_update) (from GFDL)
+
+## From CC BY-SA
+
+* [OpenStreetMap](https://wiki.osmfoundation.org/wiki/Licence/Historic/We_Are_Changing_The_License) (to ODbL)
+
+# CC0
+
+# To CC0
 
 * [The march to #CC0 in #biocuration2017: CivicDB, Evidence & Conclusion Ontology, WikiPathways, Disease Ontology](https://twitter.com/bgood/status/846795569884360704)
   - [WikiPathways announcement](http://wikipathways.org/index.php/WikiPathways:CC0_Announcement)
+* [Initiative for Open Citations](https://i4oc.org/)
+  - [FAQ](https://i4oc.org/#faqs)
+  - commentaries
+    - [Open Citations](https://opencitations.wordpress.com/2017/04/06/the-initiative-for-open-citations/)
+    - [Wikimedia Foundation](https://blog.wikimedia.org/2017/04/06/initiative-for-open-citations/)
+    - [Mozilla](https://blog.mozilla.org/blog/2017/04/06/time-open-citations/)
+    - [Creative Commons](https://creativecommons.org/2017/04/06/global-coalition-pushes-unrestricted-sharing-scholarly-citation-data/)
+* [supplementary data at BMC](https://creativecommons.org/2013/12/18/biomed-central-moves-to-cc-by-4-0-along-with-cc0-for-data/) 
 
-# CC0 to anything
+# From CC0
 
+# GFDL
+
+## To GFDL
+
+## From GFDL
+
+* [Wikimedia Foundation](https://meta.wikimedia.org/wiki/Licensing_update) (to CC BY-SA)
+
+# ODbL
+
+## To ODbL
+
+* [OpenStreetMap](https://wiki.osmfoundation.org/wiki/Licence/Historic/We_Are_Changing_The_License) (from CC BY-SA)
+
+## From ODbL
+
+# See also
+
+* [Why we should publish our data under Creative Commons Zero (CC0)](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0)
