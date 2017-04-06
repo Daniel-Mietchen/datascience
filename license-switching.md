@@ -1,6 +1,6 @@
 # About
 
-This file hosts examples of cases where research-relevant databases and similar infrastructure have switched to a more or less open license.
+This file hosts examples of cases where research-relevant databases and similar infrastructure have switched to a more or less open license. Changes of the [license version](https://wiki.creativecommons.org/wiki/License_Versions) (e.g. [the Wikimedia Foundation changing their default license from CC BY-SA 3.0 to CC BY-SA 4.0](https://meta.wikimedia.org/wiki/Terms_of_use/Creative_Commons_4.0)) are not included here.
 
 # CC BY
 
@@ -65,3 +65,4 @@ This file hosts examples of cases where research-relevant databases and similar 
 # See also
 
 * [Why we should publish our data under Creative Commons Zero (CC0)](http://www.canadensys.net/2012/why-we-should-publish-our-data-under-cc0)
+* [List of major Creative Commons licensed works](https://en.wikipedia.org/wiki/List_of_major_Creative_Commons_licensed_works)
