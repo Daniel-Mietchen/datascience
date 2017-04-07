@@ -15,6 +15,7 @@ as key factors on how to achieve that. There are others, and the precise mixture
 
 ## General
 
+* [Google search](https://scholar.google.ch/scholar?hl=en&q=%22we+used+*+data%22+OR+%22we+used+*+dataset%22&btnG=&as_sdt=1%2C5&as_sdtp=)
 * [Data reuse stories](https://www.slideshare.net/VarshaKhodiyar/gaining-credit-for-sharing-research-data/37)
   - all examples given are from Scientific Data
   
