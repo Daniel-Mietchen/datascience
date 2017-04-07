@@ -87,6 +87,9 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Matthew DeGennaro: Mutant mosquitoes hold key to life-saving perfume](https://www.youtube.com/watch?v=HbMhbrn1PoA)
 * [Ogie Shaw: Winning The Mental Battle of Physical Fitness and Obesity](https://www.youtube.com/watch?v=K60xHx836T0)
   - gist: exercise daily, first thing in the morning, for 20 min or less, against resistance; reward it
+* [NEJM Data Summit](http://events.nejm.org/agenda.php)
+  - [video recordings](http://events.nejm.org/conference_agenda.php?cid=7000)
+  - see also [entry in events](https://github.com/Daniel-Mietchen/events/issues/42)
 
 ## TEDMED 2016 
 ### SESSION 1: Invisible Threats
