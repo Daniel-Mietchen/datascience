@@ -18,7 +18,16 @@ as key factors on how to achieve that. There are others, and the precise mixture
 * [Google search](https://scholar.google.ch/scholar?q=%22we+used+*+data%22+OR+%22we+used+*+dataset%22+OR+%22we+used+*+database%22+OR+%28data+AND+%28reused+OR+reuse%29%29+OR+%22data+*+used%22+OR+%22dataset+*+used%22+OR+%22database+*+used%22&btnG=&hl=en&as_sdt=0%2C5)
 * [Data reuse stories](https://www.slideshare.net/VarshaKhodiyar/gaining-credit-for-sharing-research-data/37)
   - all examples given are from Scientific Data
-  
+
+## Klosneuviruses
+
+* [From the abstract](https://doi.org/10.1126/science.aal4657):
+
+> Examining the genomes within a sample from a wastewater treatment plant in Austria, Schulz et al. assembled a previously undiscovered giant virus genome, which they used to mine genetic databases for related viruses.
+
+> Here we report the discovery of a group of giant viruses (Klosneuviruses) in metagenomic data.
+
+
 ## JATS
 [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/) (PMC) is a repository for scholarly literature in the biomedical field. Some of its content is available under terms that allow for [Reusing, Revising, Remixing and Redistributing Research](http://blogs.plos.org/blog/2012/10/23/reusing-revising-remixing-and-redistributing-research/), e.g. to extract audio and video materials from these articles and upload them to Wikimedia Commons, as the [Open Access Media Importer](http://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) does. 
 
