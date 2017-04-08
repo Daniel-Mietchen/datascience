@@ -94,6 +94,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Langton's ant](https://es.wikipedia.org/w/index.php?title=Hormiga_de_Langton&oldid=82325071) (on Spanish Wikipedia)
 * [selection of other examples](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015#Visualizations)
 * [Wikipedia and Wikidata Realtime Edit Stats](http://wikipedia-edits.herokuapp.com/)
+* [Crotos/ Callisto](http://zone47.com/crotos/callisto/?l=en)
 * [See also](http://seealso.org/)
 
 ## Visualization tools
