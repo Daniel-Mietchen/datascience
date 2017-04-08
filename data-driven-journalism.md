@@ -24,6 +24,10 @@ This file collects information pertaining to ways in which the interaction betwe
 ### missed opportunities
 * [How the First Farmers Changed History](http://www.nytimes.com/2016/10/18/science/ancient-farmers-archaeology-dna.html) &mdash; a very nice write-up but does not engage with the data directly
 
+## about applications of data science
+
+* [Using New Data Insights to Grow and Maintain Loyalty with Kroger and The Wall Street Journal](http://www.sailthru.com/marketing-blog/using-new-data-insights-to-grow-and-maintain-loyalty-with-kroger-and-the-wall-street-journal/)
+
 ## about data sharing or visualization
 * [Why medical journals must make researchers share data from clinical trials](https://theconversation.com/why-medical-journals-must-make-researchers-share-data-from-clinical-trials-44278)
     * [Sharing Clinical Trial Data: Maximizing Benefits, Minimizing Risk](http://iom.nationalacademies.org/Reports/2015/Sharing-Clinical-Trial-Data.aspx)
