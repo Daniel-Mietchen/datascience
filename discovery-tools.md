@@ -16,6 +16,10 @@ This file hosts information on efforts towards enhancing the discoverability of 
      * [Bell Biosystems](http://www.bellbiosystems.com/)
      * [Sienna Labs](http://www.siennalabs.com/)
      * Wellspring (?)
+* [CyVerse](http://www.cyverse.org/) (formerly iPlant; now cross-disciplinary)
+  - [From the About page](http://www.cyverse.org/about): 
+    - "Vision: Transforming science through data-driven discovery."
+    - "Mission: Our mission is to design, deploy, and expand a national cyberinfrastructure for life sciences research, and to train scientists in its use."
 
 # Posters
 * Recommendation engines fed with poster metadata could provide for an electronic equivalent of [Thematic poster walks](http://www.northseaconference.be/en/conference-format/).
