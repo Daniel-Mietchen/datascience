@@ -93,6 +93,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Wikimedia Grafana graphs of Wikidata profiling information](http://addshore.com/2015/09/wikimedia-grafana-graphs-of-wikidata-profiling-information/)
 * [Langton's ant](https://es.wikipedia.org/w/index.php?title=Hormiga_de_Langton&oldid=82325071) (on Spanish Wikipedia)
 * [selection of other examples](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015#Visualizations)
+* [Wikipedia and Wikidata Realtime Edit Stats](http://wikipedia-edits.herokuapp.com/)
 * [See also](http://seealso.org/)
 
 ## Visualization tools
