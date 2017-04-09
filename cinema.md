@@ -95,6 +95,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 * Jeff Rosen &mdash; [Germany: Low Crime, Clean Prisons, Lessons for America](https://www.youtube.com/watch?v=wtV5ev6813I)
   - starts with some stats about incarceration rates in the US and other Western countries
   - on final slide, he quotes "The degree of civilization in a society can be judged by entering its prisons" from Dostoyevsky and asks what American prisons can tell about American society, which brings him on a trip to Germany to visit prisons (including a former concentration camp), talk to law enforcement officers and convicted criminals, which forms the main part of the talk.
+* [From Syria to Germany in three stories | Kareem Kousa, Yusuf Zein & Ibrahim Andrun](https://www.youtube.com/watch?v=ylk7CjEHVaY)
+  - three personal stories of young men who fled from Latakia to Hamburg
 
 # Maybe watch in the future
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
