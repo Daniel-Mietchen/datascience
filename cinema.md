@@ -124,3 +124,5 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Michael J. Twery: "The Role of Sleep in Health"](https://videocast.nih.gov/Summary.asp?File=21123&bhcp=1)
 * [Zika at University of California TV](http://www.uctv.tv/search/?keyword=zika&x=0&y=0)
 * [Margaret Levenstein - Financing Innovation or Speculation, the Case of Cleveland](http://www.youtube.com/watch?v=g8Ms7s-tPM4) &mdash; research on the impact of the 1930s Great Depression on innovative firms in the Midwest
+* [Missing Evidence: Does physics still need experiment?](https://iai.tv/video/missing-evidence)
+* [The Tyranny of Evidence](https://iai.tv/video/the-tyranny-of-evidence)
