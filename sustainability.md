@@ -40,5 +40,8 @@ This file hosts information regarding the sustainability of data-related infrast
 * Honey remains edible over millenia
   - [Honey In The Pyramids: It might be hard to bee-lieve but the 3,000-year-old sweet treat is still edible](http://www.nationalgeographic.com.au/history/honey-in-the-pyramids.aspx)
   - [The Science Behind Honey’s Eternal Shelf Life](http://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/)
+* [dates of cherry blossom peaks in Kyoto, from 800 AD to 2016](http://www.economist.com/blogs/graphicdetail/2017/04/daily-chart-4)
+* [5 Examples of Ancient Data Intelligence](http://www.insightsquared.com/2012/01/5-examples-of-ancient-data-intelligence/)
+* [Ancient forms of data storage](http://www.moah.org/brains/ancient.html)
 * [The economic rationale for public R&I funding and its impact](http://bookshop.europa.eu/is-bin/INTERSHOP.enfinity/WFS/EU-Bookshop-Site/en_GB/-/EUR/ViewPublication-Start?PublicationKey=KI0117050)
 * [Generic Research Data Infrastructure (GeRDI)](http://www.gerdi-project.de/)
