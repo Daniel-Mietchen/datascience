@@ -97,6 +97,9 @@ This file collects examples of talks, lectures and other forms of presentations 
   - on final slide, he quotes "The degree of civilization in a society can be judged by entering its prisons" from Dostoyevsky and asks what American prisons can tell about American society, which brings him on a trip to Germany to visit prisons (including a former concentration camp), talk to law enforcement officers and convicted criminals, which forms the main part of the talk.
 * [From Syria to Germany in three stories | Kareem Kousa, Yusuf Zein & Ibrahim Andrun](https://www.youtube.com/watch?v=ylk7CjEHVaY)
   - three personal stories of young men who fled from Latakia to Hamburg
+* [What does the Quran really say about a Muslim woman's hijab? | Samina Ali](https://www.youtube.com/watch?v=_J5bDhMP9lQ)
+  - says that the Quran does not require women to wear a veil but instead recommends them to "do as the Romans do"; the requirements for veils have originated from clerical commentaries later on
+  - points out that those clerical commentaries but not the Quran itself seem to see it preferable for women to stay at home, uneducated and always at the service of their husbands
 
 # Maybe watch in the future
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
