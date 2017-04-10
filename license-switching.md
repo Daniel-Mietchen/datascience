@@ -10,6 +10,7 @@ This list is very incomplete &mdash; additions and corrections are most welcome.
 
 * [Copernicus](http://www.electronic-earth.net/license_and_copyright.html) (from [CC BY-NC-SA](http://www.electronic-earth.net/license_and_copyright_agreement_until_10_dec_2007.html))
 * [Nature Communications default license](http://www.the-scientist.com/?articles.view/articleNo/41072/title/Nature-Communications-Goes-OA/) (from CC BY-NC-ND)
+* [DLR German Aerospace Center](http://www.dlr.de/blogs/en/home/comm/creative-commons-the-everyone-licence-and-dlr-s-content.aspx) (from all rights reserved)
 
 ## From CC BY
 
@@ -32,6 +33,7 @@ This list is very incomplete &mdash; additions and corrections are most welcome.
 ## To CC BY-SA
 
 * [Wikimedia Foundation](https://meta.wikimedia.org/wiki/Licensing_update) (from GFDL)
+* [Some CERN images](http://home.cern/about/updates/2013/10/cern-releases-photos-under-creative-commons-licence) (from all rights reserved)
 
 ## From CC BY-SA
 
