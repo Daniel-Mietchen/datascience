@@ -100,6 +100,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [What does the Quran really say about a Muslim woman's hijab? | Samina Ali](https://www.youtube.com/watch?v=_J5bDhMP9lQ)
   - says that the Quran does not require women to wear a veil but instead recommends them to "do as the Romans do"; the requirements for veils have originated from clerical commentaries later on
   - points out that those clerical commentaries but not the Quran itself seem to see it preferable for women to stay at home, uneducated and always at the service of their husbands
+* [Manage data like source code](https://www.youtube.com/watch?v=tLdiDqtnnho)
+  - introduces [Quilt](https://quiltdata.com/), a data package manager that allows to install, compile and version data and to access it like Python objects
 
 # Maybe watch in the future
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
