@@ -60,3 +60,4 @@ post publication peer review. Or improve research training and mentorship. Or ..
   - [Code Ocean](https://codeocean.com/)
   - [reprozip](https://www.reprozip.org/)
   - [Collective knowledge technology](http://cknowledge.org/)
+* [Veritasium: Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q)
