@@ -643,3 +643,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 - [Review on the impacts of OER adoption](http://openedgroup.org/review)
 - [Dryad usage stats 2016](https://blog.datadryad.org/2017/03/14/and-now-the-numbers/)
 - [The economic rationale for public R&I funding and its impact](http://bookshop.europa.eu/is-bin/INTERSHOP.enfinity/WFS/EU-Bookshop-Site/en_GB/-/EUR/ViewPublication-Start?PublicationKey=KI0117050)
+* [Review on Antimicrobial Resistance](https://amr-review.org/)
