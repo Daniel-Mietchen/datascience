@@ -124,6 +124,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * Model organism databases
   * [Model Organism Databases Supported by the National Human Genome Research Institute](https://www.genome.gov/10001837)
   * [Generic Model Organism Database](http://gmod.org/)
+* [Nephele](https://nephele.niaid.nih.gov/) &mdash; platform for microbiome analysis
 * [Global Alliance for Genomics and Health](http://genomicsandhealth.org/)
   * [3rd plenary meeting](https://events.oicr.on.ca/global-alliance-3rd-plenary-meeting) (June 9-11, Leiden)
 * [ENIGMA (Evidence-based Network for the Interpretation of Germline Mutant Alleles)](http://enigmaconsortium.org/)
