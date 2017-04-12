@@ -102,6 +102,7 @@ This file collects examples of talks, lectures and other forms of presentations 
   - points out that those clerical commentaries but not the Quran itself seem to see it preferable for women to stay at home, uneducated and always at the service of their husbands
 * [Manage data like source code](https://www.youtube.com/watch?v=tLdiDqtnnho)
   - introduces [Quilt](https://quiltdata.com/), a data package manager that allows to install, compile and version data and to access it like Python objects
+* [Veritasium: Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q)
 
 # Maybe watch in the future
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
