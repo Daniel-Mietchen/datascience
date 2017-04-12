@@ -192,6 +192,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Public Health Research Data Forum](https://wellcome.ac.uk/what-we-do/our-work/public-health-research-data-forum)
 * [Coalition for Epidemic Preparedness Innovations](http://cepi.net/)
 * [Global Virome Project](http://www.globalviromeproject.org/)
+* [Harding Center for Risk Literacy](https://www.harding-center.mpg.de/en)
+* [Winton Centre for Risk and Evidence Communication](https://wintoncentre.maths.cam.ac.uk/)
 
 ## UN initiatives
 * [UN International Strategy for Disaster Reduction](http://www.unisdr.org/)
