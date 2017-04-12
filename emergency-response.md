@@ -194,6 +194,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Global Virome Project](http://www.globalviromeproject.org/)
 * [Harding Center for Risk Literacy](https://www.harding-center.mpg.de/en)
 * [Winton Centre for Risk and Evidence Communication](https://wintoncentre.maths.cam.ac.uk/)
+  - see also [Decision making in the face of uncertainty: the challenge of emerging infectious diseases](https://doi.org/10.1111/trf.14037)
 
 ## UN initiatives
 * [UN International Strategy for Disaster Reduction](http://www.unisdr.org/)
