@@ -191,6 +191,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * [The Humanitarian Data Exchange](https://data.hdx.rwlabs.org/)
 * [Public Health Research Data Forum](https://wellcome.ac.uk/what-we-do/our-work/public-health-research-data-forum)
 * [Coalition for Epidemic Preparedness Innovations](http://cepi.net/)
+  - [Preliminary Business Plan
+2017-2021](http://cepi.net/sites/default/files/CEPI%20Preliminary%20Business%20Plan%20011116.pdf)
+    - mentions GSK's [Biopreparedness Organization](http://www.who.int/medicines/ebola-treatment/GSK-ProposalBioPreparednessOrganization.pdf)
 * [Global Virome Project](http://www.globalviromeproject.org/)
 * [Harding Center for Risk Literacy](https://www.harding-center.mpg.de/en)
 * [Winton Centre for Risk and Evidence Communication](https://wintoncentre.maths.cam.ac.uk/)
