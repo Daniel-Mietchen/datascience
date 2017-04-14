@@ -39,17 +39,21 @@ This file is to facilitate the collection of information pertaining to the citat
 
 # See also
 * Software citation
-      * [Software vs. data in the context of citation](https://doi.org/10.7287/peerj.preprints.2630v1)
-      * [Force11 Software Citation Working Group](https://github.com/force11/force11-scwg)
-      * [Invitation to comment on a proposal for a cohesive research software citation-enabling platform](http://astronomy-software-index.github.io/2015-workshop/)
-      * [Making code citable with Zenodo and GitHub](http://www.software.ac.uk/node/1720)
-      * [Making Your Code Citable](https://guides.github.com/activities/citable-code/)
-      * [codemeta](https://github.com/codemeta/codemeta)
-      * [Code as a research object](https://github.com/mozillascience/code-research-object)
-      * [fidgit](https://github.com/mozillascience/fidgit)
-      * [Assessing the Impact of Software on Science Through Bootstrapped Learning in Full Texts](http://us3.campaign-archive2.com/?u=c8914f488de27003a4fd3f676&id=99b0d4cadb&e=1eca72590a)
-      * [Depsy](http://depsy.org/)
+  * Citations to software
+     * [Software vs. data in the context of citation](https://doi.org/10.7287/peerj.preprints.2630v1)
+     * [Force11 Software Citation Working Group](https://github.com/force11/force11-scwg)
+     * [Invitation to comment on a proposal for a cohesive research software citation-enabling platform](http://astronomy-software-index.github.io/2015-workshop/)
+     * [Making code citable with Zenodo and GitHub](http://www.software.ac.uk/node/1720)
+     * [Making Your Code Citable](https://guides.github.com/activities/citable-code/)
+     * [codemeta](https://github.com/codemeta/codemeta)
+     * [Code as a research object](https://github.com/mozillascience/code-research-object)
+     * [fidgit](https://github.com/mozillascience/fidgit)
+     * [Assessing the Impact of Software on Science Through Bootstrapped Learning in Full Texts](http://us3.campaign-archive2.com/?u=c8914f488de27003a4fd3f676&id=99b0d4cadb&e=1eca72590a)
+     * [Depsy](http://depsy.org/)
           *   "altmetrics for software"; mines the literature for mentions of software
+  * Citations from software
+     * [Adding citations as part of the software publication process](https://danielskatzblog.wordpress.com/2017/04/07/adding-citations-as-part-of-the-software-publication-process/)
+     * [How should we add citations inside software?](https://danielskatzblog.wordpress.com/2016/03/25/how-should-we-add-citations-inside-software/)
 * Citing instrumentation:
-      * [	Journal of large-scale research facilities (JLSRF)](http://www.jlsrf.org/)
+  * [Journal of large-scale research facilities (JLSRF)](http://www.jlsrf.org/)
 * [Making data count](http://dx.doi.org/10.1038/sdata.2015.39)
