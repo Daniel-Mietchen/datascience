@@ -154,3 +154,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [UK DataService: Case Studies](https://impact.ukdataservice.ac.uk/case-studies)
 * [Drug repurposing/drug repositioning](https://en.wikipedia.org/wiki/Drug_repositioning)
 * [2016 dataset usage stats at Dryad](https://blog.datadryad.org/2017/03/14/and-now-the-numbers/)
+* ["This is what #OpenScience is all about. A team in France used our data to build The Virtual Mouse Brain. Great work!"](https://twitter.com/Allen_Institute/status/851921617940774914)
