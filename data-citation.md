@@ -12,13 +12,13 @@ This file is to facilitate the collection of information pertaining to the citat
 * [Joint Declaration of Data Citation Principles](https://www.force11.org/datacitation)
 * [The Evolution of Data Citation: From Principles to Implementation](http://www.iassistdata.org/downloads/iqvol371_4_altman.pdf)
 * [Data Citation to JATS mapping](https://github.com/data-citation-working-group/data-citation-workshop-2014)
-      * [JATS-Con talk](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2015)
+  * [JATS-Con talk](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/JATS-Con_2015)
 * [Achieving human and machine accessibility of cited data in scholarly publications](https://peerj.com/preprints/697/)
 * [BioCADDIE white paper](https://biocaddie.org/sites/default/files/shared-documents/Meetings/White_Paper/white_paper_v_1_2_nih_approved.pdf)
-    * [live version](https://docs.google.com/document/d/15mKJ8EUtJXm11ThjITZfqwNAkP4RdT9Q0QRHKDgKnZA/edit)
+  * [live version](https://docs.google.com/document/d/15mKJ8EUtJXm11ThjITZfqwNAkP4RdT9Q0QRHKDgKnZA/edit)
 * [The citation revolution will not be televised: the end of papers and the rise of data.](http://blogs.lse.ac.uk/impactofsocialsciences/2014/09/05/citation-revolution-end-of-papers-rise-of-data/)
 * [Data Citation Index](http://wokinfo.com/products_tools/multidisciplinary/dci/)
-     * [Analyzing data citation practices according to the Data Citation Index](http://arxiv.org/abs/1501.06285)  
+  * [Analyzing data citation practices according to the Data Citation Index](http://arxiv.org/abs/1501.06285)  
 
 > Sharing research data at a large scale benefits funding bodies, as they see how their investment pays back through an increased use and re-use of data ([Wood et al., 2010](http://ec.europa.eu/information_society/newsroom/cf/itemlongdetail.cfm?item_id=6204)).
 
@@ -28,7 +28,7 @@ This file is to facilitate the collection of information pertaining to the citat
 * [Data Citation Index](http://wokinfo.com/products_tools/multidisciplinary/dci/)
 * [Out of Cite, Out of Mind: The Current State of Practice, Policy, and Technology for the Citation of Data](http://dx.doi.org/10.2481/dsj.OSOM13-043)
 * [RDA Data Citation Working Group](https://rd-alliance.org/groups/data-citation-wg.html)
-    * Basic idea: [implement dynamic data citation by assigning identifier to a query with time stamp](https://twitter.com/hilaryhanahoe/status/575096544933752832) 
+  * Basic idea: [implement dynamic data citation by assigning identifier to a query with time stamp](https://twitter.com/hilaryhanahoe/status/575096544933752832) 
     * Details: [Dynamic Data Citation: which time-stamp to assign?](https://rd-alliance.org/group/data-citation-wg/post/dynamic-data-citation-which-time-stamp-assign.html) / [Data Citation of Evolving Data](https://rd-alliance.org/system/files/documents/RDA-DC-Recommendations_150609.pdf)
 * [Data-level metrics](http://datapub.cdlib.org/category/data-citation-2/)
 * [Academic citation practices need to be modernized so that all references are digital and lead to full texts](http://blogs.lse.ac.uk/impactofsocialsciences/2014/05/21/academic-citation-practices-need-to-be-modernized/)
