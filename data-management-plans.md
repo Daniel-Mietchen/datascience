@@ -62,3 +62,4 @@ This file hosts information regarding data management plans and how they could b
     - [WeGovNow: D6.3 - Data Management Framework](https://ec.europa.eu/futurium/en/content/d63-data-management-framework)
     - [OpenGovIntelligence: D6.1 - Data Management Plan](https://ec.europa.eu/futurium/en/content/d61-data-management-plan)
     - [SIMPATICO: D1.3 - Data management plan v.1](https://ec.europa.eu/futurium/en/content/d13-data-management-plan-v1)
+* [Policy Models](http://dvnweb-vm1.hmdc.harvard.edu/) &mdash; a prototype tool for creating formal models of policies
