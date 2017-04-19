@@ -138,3 +138,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Missing Evidence: Does physics still need experiment?](https://iai.tv/video/missing-evidence)
 * [The Tyranny of Evidence](https://iai.tv/video/the-tyranny-of-evidence)
 * [Mike Osterholm: "Deadliest Enemy: Our War Against Killer Germs”](https://www.youtube.com/watch?v=vukHzn2juxw)
+* [Building large-scale crowdsourcing communities with the Humanitarian OpenStreetMap Team](https://www.youtube.com/watch?v=N0DsatEt0J8)
+* [Fighting Disaster with Crowdsourcing](https://www.youtube.com/watch?v=Mp5EDWk3PHU)
+* [The Humanitarian Data Exchange and HOT, CJ Hendrix](https://www.youtube.com/watch?v=fdmNCyNCSxU)
+* [Humanitarian OpenStreetMap: mapping the future of crisis response by Joseph Reeves](https://www.youtube.com/watch?v=2CIoO8oIDlM)
