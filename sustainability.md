@@ -45,3 +45,4 @@ This file hosts information regarding the sustainability of data-related infrast
 * [Ancient forms of data storage](http://www.moah.org/brains/ancient.html)
 * [The economic rationale for public R&I funding and its impact](http://bookshop.europa.eu/is-bin/INTERSHOP.enfinity/WFS/EU-Bookshop-Site/en_GB/-/EUR/ViewPublication-Start?PublicationKey=KI0117050)
 * [Generic Research Data Infrastructure (GeRDI)](http://www.gerdi-project.de/)
+* [Indigenous sustainability – What can the Indigenous of the Arctic and Australia teach the modern world?](http://www.youth4planet.com/2037-2/)
