@@ -142,3 +142,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Fighting Disaster with Crowdsourcing](https://www.youtube.com/watch?v=Mp5EDWk3PHU)
 * [The Humanitarian Data Exchange and HOT, CJ Hendrix](https://www.youtube.com/watch?v=fdmNCyNCSxU)
 * [Humanitarian OpenStreetMap: mapping the future of crisis response by Joseph Reeves](https://www.youtube.com/watch?v=2CIoO8oIDlM)
+* [Ending Pandemics in Our Lifetime](https://www.youtube.com/watch?v=n_9cX1Ilvf0)
