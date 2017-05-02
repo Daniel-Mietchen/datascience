@@ -94,6 +94,8 @@ which also links to numerous examples of grant proposals that have already been 
 # See also
 * [What is the impact of research funding on research productivity?](http://eprints.qut.edu.au/83127/)
 * [An efficient system to fund science: from proposal review to peer-to-peer distributions](https://doi.org/10.1007/s11192-016-2110-3)
+  - commentary: 
+    - [Should we move to a system where every scientist gives grant money away?](http://johnhawks.net/weblog/topics/metascience/funding/bollen-grant-money-allocation-2017.html)
 * [Fantasy Science Funding](http://ways.org/en/topics/fantasy_science_funding)
 * [To Apply or Not to Apply: A Survey Analysis of Grant Writing Costs and Benefits](http://arxiv.org/abs/1503.04201)
    * "We find that the average proposal takes 116 PI hours and 55 CI hours to write; although time spent writing was not related to whether the grant was funded. Effort did translate into success, however, as academics who wrote more grants received more funding."
