@@ -20,7 +20,8 @@ This file hosts information regarding data management plans and how they could b
 * [Declaration on Access to Research Data from Public Funding](http://acts.oecd.org/Instruments/ShowInstrumentView.aspx?InstrumentID=157)
 * [Overview of funders' data policies](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies) (by DCC)
 * EU
-  * [Guidelines on Data Management in Horizon 2020](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
+  * [Guidelines on Data Management in Horizon 2020](https://data.europa.eu/euodp/data/dataset/open-research-data-the-uptake-of-the-pilot-in-the-first-calls-of-horizon-2020/resource/7bde6e00-e516-4bac-9c72-16b1e542dc27)
+    * [PDF](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
     * see annexes 1 and 2 on core elements and on FAIR principles
 
 # Existing tools
