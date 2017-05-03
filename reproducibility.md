@@ -63,3 +63,4 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Veritasium: Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q)
 * [Five selfish reasons to work reproducibly](https://doi.org/10.1186/s13059-015-0850-7)
 * [Reproducible practices are the future for early career researchers](http://deevybee.blogspot.de/2017/05/reproducible-practices-are-future-for.html)
+* [Reproducibility and reliability of biomedical research](https://acmedsci.ac.uk/policy/policy-projects/reproducibility-and-reliability-of-biomedical-research)
