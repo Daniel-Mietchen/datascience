@@ -144,3 +144,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Humanitarian OpenStreetMap: mapping the future of crisis response by Joseph Reeves](https://www.youtube.com/watch?v=2CIoO8oIDlM)
 * [Ending Pandemics in Our Lifetime](https://www.youtube.com/watch?v=n_9cX1Ilvf0)
 * [An Afternoon with NASA Astronaut Kate Rubins (HHS Only)](https://videocast.nih.gov/summary.asp?Live=23253&bhcp=1)
+* [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
