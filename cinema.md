@@ -103,6 +103,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Manage data like source code](https://www.youtube.com/watch?v=tLdiDqtnnho)
   - introduces [Quilt](https://quiltdata.com/), a data package manager that allows to install, compile and version data and to access it like Python objects
 * [Veritasium: Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q)
+* [Tetiana Ivanova - How to become a Data Scientist in 6 months: a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
+  - tried to distill the key elements of learning and learning-friendly behaviour and environments and put them into practice by learning data science from scratch, consciously avoiding institutional settings but making active use of Google, Stack Exchange, Kaggle, hackathons, other meetups etc.
 
 # Maybe watch in the future
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
