@@ -166,3 +166,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [Grantome](http://grantome.com/)
   - [sample entry](http://grantome.com/grant/NIH/ZIA-HL006102-03)
 * ["Contractor at my house just gave me a discount for being a cancer scientist."](https://twitter.com/mikefeigin/status/849685622231109632)
+* [Lack of transparency in ERC funding decisions](https://forbetterscience.com/2017/04/26/lack-of-transparency-in-erc-funding-decisions-by-shravan-vasishth/)
