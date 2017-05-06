@@ -93,6 +93,8 @@ This file collects thoughts about the research library of the future as well as 
 * [Pathways to Open Scholarship](http://knowledge-exchange.info/event/pathways-to-open-scholarship)
 * [The research librarian of the future: data scientist and co-investigator](http://blogs.lse.ac.uk/impactofsocialsciences/2016/12/14/the-research-librarian-of-the-future-data-scientist-and-co-investigator/)
   * "Imagine a librarian who understands, in pragmatic terms, the benefits of Open Science to the discovery process."
+* ["Historian Yuval Noah Harari makes a bracing prediction: just as mass industrialization created the working class, the AI revolution will create a new unworking class"](http://ideas.ted.com/the-rise-of-the-useless-class/)
+* [The Future of Employment](www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
 
 # National Library of Medicine
 * [NLM and the Internet (1994)](http://resource.nlm.nih.gov/9421446)
