@@ -150,3 +150,4 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Have a scientific passion? Become a citizen scientist](https://www.washingtonpost.com/opinions/have-a-scientific-passion-become-a-citizen-scientist/2017/01/27/647e8a22-dcc9-11e6-918c-99ede3c8cafa_story.html)
 * [Globe at night](https://www.globeatnight.org/)
 * [Transcribe Bentham](http://blogs.ucl.ac.uk/transcribe-bentham/) &mdash; about 40k manuscripts by London philosopher Jeremy Bentham (1748 – 1832)
+* [People-led Research: A strange, sleeping giant](https://medium.com/@gbathree/people-led-research-a-strange-sleeping-giant-8b8f6e11ec4f)
