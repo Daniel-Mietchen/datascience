@@ -14,6 +14,8 @@ This file hosts information regarding the sustainability of data-related infrast
 * [The Cost of Data Storage and Management: Where Is It Headed in 2016?](http://www.datacenterjournal.com/cost-data-storage-management-headed-2016/)
 
 # Research-related sustainability
+
+* [Towards coordinated international support of core data resources for the life sciences](https://doi.org/10.1101/110825)
 * Sustainability-related activities at NIH
   * [Green Teams](http://nems.nih.gov/teams/Pages/default.aspx)
   * [NIH Earth Day](http://nems.nih.gov/Pages/earthday.aspx)
