@@ -644,3 +644,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 - [Dryad usage stats 2016](https://blog.datadryad.org/2017/03/14/and-now-the-numbers/)
 - [The economic rationale for public R&I funding and its impact](http://bookshop.europa.eu/is-bin/INTERSHOP.enfinity/WFS/EU-Bookshop-Site/en_GB/-/EUR/ViewPublication-Start?PublicationKey=KI0117050)
 * [Review on Antimicrobial Resistance](https://amr-review.org/)
+* [Developing Human Connectome Project](http://www.developingconnectome.org/)
+  - [in the Guardian](https://www.theguardian.com/science/2017/may/10/project-to-map-human-brain-from-womb-to-birth-releases-stunning-images)
