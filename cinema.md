@@ -105,6 +105,15 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Veritasium: Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q)
 * [Tetiana Ivanova - How to become a Data Scientist in 6 months: a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
   - tried to distill the key elements of learning and learning-friendly behaviour and environments and put them into practice by learning data science from scratch, consciously avoiding institutional settings but making active use of Google, Stack Exchange, Kaggle, hackathons, other meetups etc.
+ * [AI & The Future of Work](https://www.youtube.com/watch?v=dRw4d2Si8LA)
+   - explores how repetitive work is being replaced by automation
+   - TL;DR: 
+     - Education needed for things that can not soon be automated
+       - Make things with love and dedication
+       - Feeling empathy
+       - Creativity
+       - Critical thinking
+     - Those four things are often missing in curricula
 
 # Maybe watch in the future
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
