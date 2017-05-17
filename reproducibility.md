@@ -1,4 +1,5 @@
 # About
+
 This file collects information related to the reproducibility and replicability of research outcomes. Since the two concepts are often mixed up, here are brief definitions: 
 * reproducibility is concerned with retracing a particular study and mapping its methodology to its outcomes, whereas  
 * replicability is about independent verification of research outcomes using different set-ups.
@@ -64,3 +65,4 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Five selfish reasons to work reproducibly](https://doi.org/10.1186/s13059-015-0850-7)
 * [Reproducible practices are the future for early career researchers](http://deevybee.blogspot.de/2017/05/reproducible-practices-are-future-for.html)
 * [Reproducibility and reliability of biomedical research](https://acmedsci.ac.uk/policy/policy-projects/reproducibility-and-reliability-of-biomedical-research)
+* [Which mistakes do we actually make in scientific code?](http://blog.khinsen.net/posts/2017/05/04/which-mistakes-do-we-actually-make-in-scientific-code/)
