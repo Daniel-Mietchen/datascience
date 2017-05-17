@@ -1,4 +1,5 @@
 # About
+
 This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. Most of these I have read already but typically under circumstances (e.g. offline on a train) that did not provide me with an opportunity to properly include them here. The plan is thus to spend an entire day every now and then on sorting and reading  through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
 
 # List
@@ -517,6 +518,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
     - with comments on modeling the incentive landscape
   * ["academia has some perverse incentives structures that we would never have intentionally built into science as a process."](https://socialbat.org/2015/08/12/goals-of-science-vs-goals-of-scientists-a-love-letter-for-plos-one/)
   * [Open Practice Badges in Psychological Science: 18 Months On](http://www.psychologicalscience.org/index.php/publications/observer/obsonline/open-practice-badges-in-psychological-science-18-months-out.html)
+  * [incentives for increasing the use of bicycles](https://nowtoronto.com/news/biko-app-gets-you-free-stuff-every-time-you-bike-in-toronto/)
 
 * data discovery
   * [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
