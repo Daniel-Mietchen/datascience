@@ -114,6 +114,8 @@ This file collects examples of talks, lectures and other forms of presentations 
        - Creativity
        - Critical thinking
      - Those four things are often missing in curricula
+* [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
+  - makes a clear case for open science as a driver of innovation
 
 # Maybe watch in the future
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
