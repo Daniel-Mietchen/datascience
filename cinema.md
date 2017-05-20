@@ -122,6 +122,7 @@ This file collects examples of talks, lectures and other forms of presentations 
   - "America first", but can we just agree on making [country X] second?
 * [The scientific method is crap](https://www.youtube.com/watch?v=j12BBcKSgEQ#t=12m50s)
   - "instead, embrace the cycle of scientific thinking &mdash; observe, explain, predict"
+* [Our approach to innovation is dead wrong](https://www.youtube.com/watch?v=pii8tTx1UYM)
   
 # Maybe watch in the future
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
