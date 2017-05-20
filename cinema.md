@@ -116,7 +116,13 @@ This file collects examples of talks, lectures and other forms of presentations 
      - Those four things are often missing in curricula
 * [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
   - makes a clear case for open science as a driver of innovation
-
+* [Why the majority is always wrong](https://www.youtube.com/watch?v=VNGFep6rncY)
+  - argues that innovation usually comes from doing things differently rather than from merely doing things the same way at different intensities, which most people tend to do in response to challenges
+* [Every second counts](http://everysecondcounts.eu/)
+  - "America first", but can we just agree on making [country X] second?
+* [The scientific method is crap](https://www.youtube.com/watch?v=j12BBcKSgEQ#t=12m50s)
+  - "instead, embrace the cycle of scientific thinking &mdash; observe, explain, predict"
+  
 # Maybe watch in the future
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
