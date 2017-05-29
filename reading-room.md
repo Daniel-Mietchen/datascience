@@ -648,3 +648,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Review on Antimicrobial Resistance](https://amr-review.org/)
 * [Developing Human Connectome Project](http://www.developingconnectome.org/)
   - [in the Guardian](https://www.theguardian.com/science/2017/may/10/project-to-map-human-brain-from-womb-to-birth-releases-stunning-images)
+* [The data economy demands a new approach to antitrust rules](http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach-antitrust-rules-worlds-most-valuable-resource)
