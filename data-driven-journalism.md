@@ -57,6 +57,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Tube Heartbeat](http://tubeheartbeat.com/london/)
     * [blog post](https://blog.tfl.gov.uk/2016/08/25/tfl-open-data-powering-the-tube-heartbeat/)
 * [Data Stories](http://www.sciencemag.org/projects/data-stories)
+* [MakeOverMonday](http://www.makeovermonday.co.uk/data/) &mdash; "chasing poor data vizzes"
 
 ## Individual examples
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
