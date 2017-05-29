@@ -47,6 +47,8 @@ Things listed here have yet to be sorted into the structure above.
   * [Peerage of Science](https://www.peerageofscience.org/)
   * [Academic Karma](http://academickarma.org/)
     - [sample review](http://academickarma.org/review/l14cxkrdsz7j)
+    - [overview of indexed preprint servers](http://academickarma.org/findreviewpage)
+    - [Anonymous open science agreement form for reviewer](http://academickarma.org/reviewagreement)
   * [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/)
   * [Peer review by endorsement](http://blog.scienceopen.com/2015/04/welcome-jan-velterop-peer-review-by-endorsement/)
   * [ThinkLab](http://thinklab.com/)
