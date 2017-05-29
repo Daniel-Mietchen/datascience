@@ -169,3 +169,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [An Afternoon with NASA Astronaut Kate Rubins (HHS Only)](https://videocast.nih.gov/summary.asp?Live=23253&bhcp=1)
 * [What happens when our computers get smarter than we are?](https://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are)
 * [Paywall: The Business of Scholarship. A film about Open Access.](https://twitter.com/openscience/status/864711219663392768)
+* [Kate Robinowitz: Open Data + You = Better Cities - Codeland - NYC 2017](https://www.youtube.com/watch?v=xbwrKwO8NIE)
