@@ -1,7 +1,9 @@
 # About
+
 This file collects information pertaining to ways in which the interaction between scientific data and journalism could be enhanced, particulary in the context of open research.
 
 # Some thoughts on the topic
+
 * [Opening up research proposals](https://www.newschallenge.org/challenge/2014/submissions/opening-up-research-proposals)  
 > We see no principle reason why approaches like embedded journalism would have to remain limited to military contexts, or prohibited to report negative results.  
     * Indeed, the concept of embedding journalists might well be better suited to the research process, and under terms like "[journalist in residence](https://www.google.de/search?q="journalist+in+residence")", such interactions are being explored, though rarely with a focus on data.
@@ -16,12 +18,14 @@ This file collects information pertaining to ways in which the interaction betwe
 
 # Examples of science journalism
 ## using data
+
 * [The History Of Europe Lies In British People's DNA](http://www.buzzfeed.com/christinekenneally/the-history-of-europe-lies-in-british-peoples-dna)
 * [Doing Journalism with Data](http://datadrivenjournalism.net/)
 * [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks)
 * [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
 
 ### missed opportunities
+
 * [How the First Farmers Changed History](http://www.nytimes.com/2016/10/18/science/ancient-farmers-archaeology-dna.html) &mdash; a very nice write-up but does not engage with the data directly
 
 ## about applications of data science
@@ -29,6 +33,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Using New Data Insights to Grow and Maintain Loyalty with Kroger and The Wall Street Journal](http://www.sailthru.com/marketing-blog/using-new-data-insights-to-grow-and-maintain-loyalty-with-kroger-and-the-wall-street-journal/)
 
 ## about data sharing or visualization
+
 * [Why medical journals must make researchers share data from clinical trials](https://theconversation.com/why-medical-journals-must-make-researchers-share-data-from-clinical-trials-44278)
     * [Sharing Clinical Trial Data: Maximizing Benefits, Minimizing Risk](http://iom.nationalacademies.org/Reports/2015/Sharing-Clinical-Trial-Data.aspx)
     * [Cochrane Collaboration statement on access to clinical trial data](http://community.cochrane.org/features/clinical-trials-statement-press-release)
@@ -49,6 +54,7 @@ This file collects information pertaining to ways in which the interaction betwe
 # Engaging visualizations
 
 ## Visualization-focused initiatives
+
 * [Information is beautiful](http://www.informationisbeautiful.net/)
 * [Draw Science](http://www.drawscience.org/)
 * [Journal of Visualized Experiments (JoVE)](http://www.jove.com/)
@@ -60,6 +66,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [MakeOverMonday](http://www.makeovermonday.co.uk/data/) &mdash; "chasing poor data vizzes"
 
 ## Individual examples
+
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [VisTools &mdash; data visualization tools](http://keshif.me/demo/VisTools)
 * [Global shark tracker](http://www.ocearch.org/)
@@ -87,6 +94,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [A history of global living conditions in 5 charts](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/)
 * ["Found some interesting data and decided to viz it"](https://twitter.com/chanjagg/status/853654126420529152)
   - on Ebola outbreak data
+* [Here’s Everyone Who’s Immigrated to the U.S. Since 1820](http://metrocosm.com/animated-immigration-map/)
 
 ### Wikimedia examples
 
@@ -106,10 +114,12 @@ This file collects information pertaining to ways in which the interaction betwe
 * [See also](http://seealso.org/)
 
 ## Visualization tools
+
 * [5 open source dashboard tools for visualizing data](https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data)
 * [Bokeh](http://bokeh.pydata.org/en/latest/docs/gallery.html)
 
 # Funding lines
+
 * [VolkswagenStiftung](http://www.volkswagenstiftung.de/datenjournalismus)
 * [Knight Foundation's prototype fund](http://www.knightfoundation.org/funding-initiatives/knight-prototype-fund/)
     * [Knight Prototype Fund supports 10 new projects focused on data-driven storytelling and better information access](http://knightfoundation.org/press-room/press-release/knight-prototype-fund-supports-10-new-projects-foc/)
