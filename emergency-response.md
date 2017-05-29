@@ -85,6 +85,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
 * [Principles for Data Sharing in Public Health Emergencies](https://doi.org/10.6084/m9.figshare.4733590)
 * [Progress in promoting data sharing in public health emergencies](https://doi.org/10.2471/BLT.17.192096)
+* [Principles for Sharing the Data and Benefits of Public Health Surveillance](https://datasharing.chathamhouse.org/guide/)
 
 ### Background on Zika and other otbreaks
 * [Why it takes so long to develop a vaccine against a new epidemic](http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
