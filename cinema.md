@@ -171,3 +171,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Paywall: The Business of Scholarship. A film about Open Access.](https://twitter.com/openscience/status/864711219663392768)
 * [Kate Robinowitz: Open Data + You = Better Cities - Codeland - NYC 2017](https://www.youtube.com/watch?v=xbwrKwO8NIE)
 * [Economist Max Roser—Our World in Data](https://www.youtube.com/watch?v=Ia-3ud1TijA)
+* [Climate model-data comparisons](https://www.youtube.com/watch?v=tPSIvu0gQ90)
