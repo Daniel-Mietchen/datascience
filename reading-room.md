@@ -649,3 +649,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Developing Human Connectome Project](http://www.developingconnectome.org/)
   - [in the Guardian](https://www.theguardian.com/science/2017/may/10/project-to-map-human-brain-from-womb-to-birth-releases-stunning-images)
 * [The data economy demands a new approach to antitrust rules](http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach-antitrust-rules-worlds-most-valuable-resource)
+* [A Very Short History Of Data Science](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/#c3b847055cfc)
