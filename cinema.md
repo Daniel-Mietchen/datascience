@@ -105,6 +105,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Veritasium: Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q)
 * [Tetiana Ivanova - How to become a Data Scientist in 6 months: a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
   - tried to distill the key elements of learning and learning-friendly behaviour and environments and put them into practice by learning data science from scratch, consciously avoiding institutional settings but making active use of Google, Stack Exchange, Kaggle, hackathons, other meetups etc.
+  - similar approach in [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
+  - similar in spirit to [What I do or: science to data science](http://p.migdal.pl/2015/12/14/sci-to-data-sci.html)
  * [AI & The Future of Work](https://www.youtube.com/watch?v=dRw4d2Si8LA)
    - explores how repetitive work is being replaced by automation
    - TL;DR: 
