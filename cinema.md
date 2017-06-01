@@ -176,3 +176,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Kate Robinowitz: Open Data + You = Better Cities - Codeland - NYC 2017](https://www.youtube.com/watch?v=xbwrKwO8NIE)
 * [Economist Max Roser—Our World in Data](https://www.youtube.com/watch?v=Ia-3ud1TijA)
 * [Climate model-data comparisons](https://www.youtube.com/watch?v=tPSIvu0gQ90)
+* [How to Become a Data Scientist in 2017? | Data Scientist Career | Data Science Future](https://www.youtube.com/watch?v=ccCblUZFM0w)
