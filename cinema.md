@@ -130,6 +130,8 @@ This file collects examples of talks, lectures and other forms of presentations 
   - rather than inviting the poor to come into town for seminars, give them tablets and allow them to learn at home
   
 # Maybe watch in the future
+
+* [Democratisation of Knowledge with Katherine Maher](https://www.youtube.com/watch?v=8BuyKmjy7Rw)
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
 * [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
