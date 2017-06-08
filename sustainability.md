@@ -1,6 +1,6 @@
 # About
 
-This file hosts information regarding the sustainability of data-related infrastructures. This includes costs as well as business models and associated policy work, e.g. on redundancy and what to delete.
+This file hosts information regarding sustainability, especially the sustainability of data-related infrastructures. This includes costs as well as business models and associated policy work, e.g. on redundancy and what to delete.
 
 # General sustainability
 * [Show me the data: How can open data contribute to SDGs?](https://web.archive.org/web/20150919210100/http://europeandcis.undp.org/blog/2015/06/10/show-me-the-data-how-can-open-data-contribute-to-sdgs/)
@@ -52,3 +52,4 @@ This file hosts information regarding the sustainability of data-related infrast
 * [Belmont Forum e-Infrastructures and Data Management Collaborative Research Action](http://www.bfe-inf.org/)
 * [The 2017 Atlas of Sustainable Development Goals: a new visual guide to data and development](http://blogs.worldbank.org/opendata/2017-atlas-sustainable-development-goals-new-visual-guide-data-and-development)
 * [What a “Green” Data Center Does To Save Energy](https://www.dotmagazine.online/issues/powering-and-greening-IT/reducing-IT-power-bill/green-data-center-save-energy)
+* ["No conservation strategy will resist a society that measures its wellness on growth."](http://taxacom.markmail.org/message/ybg6gini2whz5ful)
