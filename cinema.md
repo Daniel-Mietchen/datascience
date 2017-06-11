@@ -131,6 +131,7 @@ This file collects examples of talks, lectures and other forms of presentations 
   
 # Maybe watch in the future
 
+* [The World We Want: OpenStreetMap and the Sustainable Development Goals](http://2016.stateofthemap.org/2016/the-world-we-want-openstreetmap-and-the-sustainable-development-goals/)
 * [Democratisation of Knowledge with Katherine Maher](https://www.youtube.com/watch?v=8BuyKmjy7Rw)
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
