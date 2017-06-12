@@ -117,6 +117,7 @@ This file collects information pertaining to ways in which the interaction betwe
 
 * [5 open source dashboard tools for visualizing data](https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data)
 * [Bokeh](http://bokeh.pydata.org/en/latest/docs/gallery.html)
+* [English words that are HTML hex color codes](http://c0ffee.surge.sh/)
 
 # Funding lines
 
