@@ -179,3 +179,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Climate model-data comparisons](https://www.youtube.com/watch?v=tPSIvu0gQ90)
 * [How to Become a Data Scientist in 2017? | Data Scientist Career | Data Science Future](https://www.youtube.com/watch?v=ccCblUZFM0w)
 * [Video of Navigate All the Knowledge (ConceptMap.io) presentation](http://learnjavafx.typepad.com/weblog/2016/03/video-of-navigate-all-the-knowledge-conceptmapio-presentation.html) &mdash; with Wikidata visualizations
+* [Querying OSM + Wikidata from a single RDF database intro](https://www.youtube.com/watch?v=KDiKzbuIhts)
