@@ -50,6 +50,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [The visualizations transforming biology](https://doi.org/10.1038/535187a) 
 * [Cutaway infographics](https://www.wired.com/2016/10/look-inside-spectacular-collection-cutaway-infographics/)
 * [1 tip for effective data visualization in Python](https://www.dataquest.io/blog/how-to-communicate-with-data/)
+* [Paper: An Argument Structure for Data Stories](https://eagereyes.org/papers/paper-an-argument-structure-for-data-stories)
 
 # Engaging visualizations
 
