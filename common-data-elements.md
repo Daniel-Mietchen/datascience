@@ -9,3 +9,5 @@ This file collects information related to the existing [Common Data Element](htt
 * [Clinical Data Interchange Standards Consortium (CDISC)](https://www.cdisc.org/)
   - [introductory video](https://www.youtube.com/watch?v=qgWIgA0okzc)
   - [Clinical Data Acquisition Standards Harmonization (CDASH)](https://www.cdisc.org/standards/foundational/cdash)
+* [Observational Health Data Sciences and Informatics](https://ohdsi.org/)
+  - [on GitHub](https://github.com/OHDSI/)
