@@ -650,3 +650,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   - [in the Guardian](https://www.theguardian.com/science/2017/may/10/project-to-map-human-brain-from-womb-to-birth-releases-stunning-images)
 * [The data economy demands a new approach to antitrust rules](http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach-antitrust-rules-worlds-most-valuable-resource)
 * [A Very Short History Of Data Science](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/#c3b847055cfc)
+* [Estonian government approves agreement with Luxembourg enabling establishment of world’s first data embassy](http://www.opengovasia.com/articles/7720-estonian-government-approves-agreement-with-luxembourg-enabling-establishment-of-worlds-first-data-embassy)
