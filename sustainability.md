@@ -55,3 +55,5 @@ This file hosts information regarding sustainability, especially the sustainabil
 * ["No conservation strategy will resist a society that measures its wellness on growth."](http://taxacom.markmail.org/message/ybg6gini2whz5ful)
 * [A Guide to SDG interactions: from Science to Implementation](https://www.icsu.org/current/press/new-report-from-scientific-experts-provides-a-unique-guide-to-translate-sustainable-development-goals-into-reality)
 * [Post-2015 data test](http://www.post2015datatest.com/)
+* [Creating a Better Economy with Data Science](https://cities-today.com/city-become-smart-must-adopt-culture-data/)
+* [Cities, not nation states, will determine our future survival. Here's why](https://www.weforum.org/agenda/2017/06/as-nation-states-falter-cities-are-stepping-up)
