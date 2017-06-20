@@ -96,6 +96,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * ["Found some interesting data and decided to viz it"](https://twitter.com/chanjagg/status/853654126420529152)
   - on Ebola outbreak data
 * [Here’s Everyone Who’s Immigrated to the U.S. Since 1820](http://metrocosm.com/animated-immigration-map/)
+* [Watch bacteria evolve antibiotic resistance in just 12 days](https://www.vox.com/2016/9/8/12852924/evolution-bacteria-timelapse-video-mega-harvard)
 
 ### Wikimedia examples
 
