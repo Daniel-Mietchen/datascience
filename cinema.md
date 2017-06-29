@@ -1,4 +1,5 @@
 # About
+
 This file collects examples of talks, lectures and other forms of presentations that can be watched online. 
 
 # Watched
@@ -181,3 +182,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Video of Navigate All the Knowledge (ConceptMap.io) presentation](http://learnjavafx.typepad.com/weblog/2016/03/video-of-navigate-all-the-knowledge-conceptmapio-presentation.html) &mdash; with Wikidata visualizations
 * [Querying OSM + Wikidata from a single RDF database intro](https://www.youtube.com/watch?v=KDiKzbuIhts)
 * [The Hidden Secret of the Statues on Easter Island](https://www.youtube.com/watch?v=mH0sIjAHBVY)
+* [Working Out Loud: The making of a movement | John Stepper](https://www.youtube.com/watch?v=XpjNl3Z10uc)
