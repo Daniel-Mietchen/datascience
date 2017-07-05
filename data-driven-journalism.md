@@ -118,6 +118,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Crotos/ Callisto](http://zone47.com/crotos/callisto/?l=en)
 * [Growth of Wikimedia projects](https://stats.wikimedia.org/wikimedia/animations/growth/AnimationProjectsGrowthWp.html)
 * [real-time analysis of wikipedia edits](https://sachaysl.github.io/wikimedia-challenge/)
+* [further Wikimedia examples](http://infodisiac.com/Wikimedia/Visualizations/)
 * [See also](http://seealso.org/)
 
 ## Visualization tools
