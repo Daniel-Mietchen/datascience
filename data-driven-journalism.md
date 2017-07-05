@@ -65,6 +65,7 @@ This file collects information pertaining to ways in which the interaction betwe
     * [blog post](https://blog.tfl.gov.uk/2016/08/25/tfl-open-data-powering-the-tube-heartbeat/)
 * [Data Stories](http://www.sciencemag.org/projects/data-stories)
 * [MakeOverMonday](http://www.makeovermonday.co.uk/data/) &mdash; "chasing poor data vizzes"
+* [Datenlese](http://www.spiegel.de/thema/daten/)
 
 ## Individual examples
 
@@ -97,6 +98,9 @@ This file collects information pertaining to ways in which the interaction betwe
   - on Ebola outbreak data
 * [Here’s Everyone Who’s Immigrated to the U.S. Since 1820](http://metrocosm.com/animated-immigration-map/)
 * [Watch bacteria evolve antibiotic resistance in just 12 days](https://www.vox.com/2016/9/8/12852924/evolution-bacteria-timelapse-video-mega-harvard)
+* [Visualization of gravity in the classroom](https://www.youtube.com/watch?v=MTY1Kje0yLg)
+* Visualization of a plan &mdash; [Facility for Antiproton and Ion Research (FAIR)](https://www.youtube.com/watch?v=OzeOkrbLIQQ)
+* [Population stats](http://population.io/#/2000/05/10/female/Somalia/expectancy)
 
 ### Wikimedia examples
 
