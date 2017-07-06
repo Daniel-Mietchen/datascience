@@ -11,3 +11,4 @@ As more and more of the world's human population is living in urban environments
   - [commentary](https://www.digitalgov.gov/2016/11/02/the-data-briefing-learning-from-the-u-s-cities-on-how-to-implement-big-data-initiatives/)
 * [Kate Robinowitz: Open Data + You = Better Cities - Codeland - NYC 2017](https://www.youtube.com/watch?v=xbwrKwO8NIE)
 * [Here’s how creative city officials want to make open data more useful](https://sunlightfoundation.com/2017/06/29/heres-how-creative-city-officials-want-to-make-open-data-more-useful/)
+* [Tactical Data Engagement](https://sunlightfoundation.com/2017/03/15/help-us-improve-how-cities-connect-open-data-to-residents-lives-with-sunlights-new-tactical-data-engagement-guide/)
