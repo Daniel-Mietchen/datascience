@@ -16,6 +16,10 @@ This file hosts information regarding sustainability, especially the sustainabil
 
 # Research-related sustainability
 
+* [Digital Preservation Network](http://dpn.org/)
+  - > the only large-scale digital preservation service that is built to last beyond the life spans of individuals, technological systems, and organizations
+  - [background](http://duraspace.org/node/2754)
+* [Academic Preservation Trust](http://aptrust.org/)
 * [Towards coordinated international support of core data resources for the life sciences](https://doi.org/10.1101/110825)
 * Sustainability-related activities at NIH
   * [Green Teams](http://nems.nih.gov/teams/Pages/default.aspx)
