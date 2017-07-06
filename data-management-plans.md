@@ -1,10 +1,13 @@
 # About
+
 This file hosts information regarding data management plans and how they could be made machine readable. Data management plans are typically created on a per-project basis in the framework of a grant application. They describe what kind of data are to be generated during the project, how they are going to be stored, analysed, protected, long-term preserved, or made accessible to other researchers or the public. Machine readability has not been much of a concern so far but is beginning to attract interest. Likewise, in projects that started out with a data management plan, there seems to be no real follow-up in terms of how well the actual research aligned with the original data management plans.
 
 # Primer
+
 * [Ten Simple Rules for Creating a Good Data Management Plan](http://dx.doi.org/10.1371/journal.pcbi.1004525)
 
 # Policies
+
 * Overview
  * [data management plans (@ Columbia)](http://scholcomm.columbia.edu/data-management/nsf-data-management-plan-requirements-2/) 
  * [data management plans (@ Johns Hopkins)](https://dmp.data.jhu.edu/assistance/funder-data-mandates/)
@@ -25,15 +28,23 @@ This file hosts information regarding data management plans and how they could b
     * see annexes 1 and 2 on core elements and on FAIR principles
 
 # Existing tools
+
 * [DMPTOOL](https://dmp.cdlib.org/) and [DMPonline](https://dmponline.dcc.ac.uk/) are [merging](https://github.com/DMPRoadmap/roadmap)
   * machine readability on the horizon
   * [their 2016 review](https://blog.dmptool.org/2017/02/03/roadmap-retrospective-2016/)
 * [WissGrid-Checkliste zum Forschungsdaten-Management](http://www.wissgrid.de/publikationen/deliverables/wp3/WissGrid-oeffentlicher-Entwurf-Checkliste-Forschungsdaten-Management.pdf)
 
 ## Under construction
+
 * [DMPwerkzeug](https://github.com/DMPwerkzeug/DMPwerkzeug)
 
+# Proposed alternative names
+
+* [Process Management Plans](https://www.coar-repositories.org/files/7_DMP_Vienna.pdf) (slides 10ff)
+* [Data Management Record](http://andscentral.blogspot.de/2017/05/dmrs-making-dmps-relevant-again.html)
+
 # See also
+
 * [Public Access policies](https://github.com/Daniel-Mietchen/datascience/blob/master/public-access-policies.md)
 * [Wellcome tool to assess compliance with OA policy](https://twitter.com/EvoMRI/status/573239648790679552)
 * [Data management plan (enwiki)](https://en.wikipedia.org/wiki/Data_management_plan)
@@ -41,8 +52,6 @@ This file hosts information regarding data management plans and how they could b
 * [Funders must encourage scientists to share](http://dx.doi.org/10.1038/522129a)
   * [Expert Advisory Group on Data Access](http://www.wellcome.ac.uk/EAGDA)
 * [Research data management training](http://datalib.edina.ac.uk/mantra/)
-* Process Management Plans
-  * [example](https://www.coar-repositories.org/files/7_DMP_Vienna.pdf) (slides 10ff)
 * [CERN Analysis Preservation Framework](http://analysis-preservation.cern.ch/)
   * [Data Management and Preservation Planning for Big Science](http://www.ijdc.net/index.php/ijdc/article/view/8.1.29/299)
 * [Data and Software Preservation for Open Science, DASPOS](https://daspos.crc.nd.edu/)
