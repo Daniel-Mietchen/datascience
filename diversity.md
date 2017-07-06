@@ -24,3 +24,4 @@ This file collects information pertaining to (workforce and subject) diversity, 
    * [Women get a much needed boost in research funding gender equity plan](https://theconversation.com/women-get-a-much-needed-boost-in-research-funding-gender-equity-plan-50846)
 * [The Untold History of Women in Science and Technology](https://www.whitehouse.gov/women-in-STEM)
 * [Australian students recreate Martin Shkreli price-hike drug in school lab](https://www.theguardian.com/science/2016/dec/01/australian-students-recreate-martin-shkreli-price-hike-drug-in-school-lab)
+* [Diversity in Open Source Is Even Worse Than in Tech Overall](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/)
