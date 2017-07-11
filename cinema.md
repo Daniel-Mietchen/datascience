@@ -183,3 +183,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Querying OSM + Wikidata from a single RDF database intro](https://www.youtube.com/watch?v=KDiKzbuIhts)
 * [The Hidden Secret of the Statues on Easter Island](https://www.youtube.com/watch?v=mH0sIjAHBVY)
 * [Working Out Loud: The making of a movement | John Stepper](https://www.youtube.com/watch?v=XpjNl3Z10uc)
+* [Why do whales sing? - Stephanie Sardelis](http://ed.ted.com/lessons/how-do-whales-sing-stephanie-sardelis)
