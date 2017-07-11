@@ -185,3 +185,5 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Working Out Loud: The making of a movement | John Stepper](https://www.youtube.com/watch?v=XpjNl3Z10uc)
 * [Why do whales sing? - Stephanie Sardelis](http://ed.ted.com/lessons/how-do-whales-sing-stephanie-sardelis)
 * [Making robots more like children | Rodney Brooks](https://www.youtube.com/watch?v=m2ViWnfbADE)
+* [Sharon Terry: Science didn&#39;t understand my kids&#39; rare disease until I decided to study it](https://www.ted.com/talks/sharon_terry_science_didn_t_understand_my_kids_rare_disease_until_i_decided_to_study_it)
+  - had watched that during TEDMED 2016 &mdash; notes at https://github.com/Daniel-Mietchen/events/issues/51
