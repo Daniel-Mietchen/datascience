@@ -129,7 +129,8 @@ This file collects examples of talks, lectures and other forms of presentations 
   - on the importance of early feedback from the real world when trying something new
 * [Disruptive ideas](https://www.youtube.com/watch?v=4MU13axMioY)
   - rather than inviting the poor to come into town for seminars, give them tablets and allow them to learn at home
-  
+* [Why I live a zero waste life | Lauren Singer](https://www.youtube.com/watch?v=pF72px2R3Hg)
+
 # Maybe watch in the future
 
 * [The World We Want: OpenStreetMap and the Sustainable Development Goals](http://2016.stateofthemap.org/2016/the-world-we-want-openstreetmap-and-the-sustainable-development-goals/)
