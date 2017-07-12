@@ -130,6 +130,11 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Disruptive ideas](https://www.youtube.com/watch?v=4MU13axMioY)
   - rather than inviting the poor to come into town for seminars, give them tablets and allow them to learn at home
 * [Why I live a zero waste life | Lauren Singer](https://www.youtube.com/watch?v=pF72px2R3Hg)
+  - got rid of buying packaged stuff
+    - starting with food
+  - produces the products that she needs (e.g. tooth paste; lotion) herself
+  - brings her own jars etc. to the point of sell
+  - if she buys something non-consumable (e.g. clothes), it's second hand
 
 # Maybe watch in the future
 
