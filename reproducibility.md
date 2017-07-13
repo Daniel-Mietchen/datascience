@@ -66,3 +66,5 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Reproducible practices are the future for early career researchers](http://deevybee.blogspot.de/2017/05/reproducible-practices-are-future-for.html)
 * [Reproducibility and reliability of biomedical research](https://acmedsci.ac.uk/policy/policy-projects/reproducibility-and-reliability-of-biomedical-research)
 * [Which mistakes do we actually make in scientific code?](http://blog.khinsen.net/posts/2017/05/04/which-mistakes-do-we-actually-make-in-scientific-code/)
+* [Critical Assessment of protein Structure Prediction (CASP)](http://predictioncenter.org/)
+  - infrastructure around making protein structure prediction reproducible
