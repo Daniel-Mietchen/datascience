@@ -135,6 +135,9 @@ This file collects examples of talks, lectures and other forms of presentations 
   - produces the products that she needs (e.g. tooth paste; lotion) herself
   - brings her own jars etc. to the point of sell
   - if she buys something non-consumable (e.g. clothes), it's second hand
+* [Two adults, two kids, zero waste | Bea Johnson](https://www.youtube.com/watch?v=CSUmo-40pqA)
+  - basically the same approach as Lauren's (whom she inspired)
+  - slightly different angle on downsizing and benefits
 
 # Maybe watch in the future
 
