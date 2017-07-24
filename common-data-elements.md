@@ -11,3 +11,4 @@ This file collects information related to the existing [Common Data Element](htt
   - [Clinical Data Acquisition Standards Harmonization (CDASH)](https://www.cdisc.org/standards/foundational/cdash)
 * [Observational Health Data Sciences and Informatics](https://ohdsi.org/)
   - [on GitHub](https://github.com/OHDSI/)
+* [Seeing Standards: A Visualization of the Metadata Universe](http://jennriley.com/metadatamap/)
