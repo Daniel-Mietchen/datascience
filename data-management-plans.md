@@ -2,9 +2,10 @@
 
 This file hosts information regarding data management plans and how they could be made machine readable. Data management plans are typically created on a per-project basis in the framework of a grant application. They describe what kind of data are to be generated during the project, how they are going to be stored, analysed, protected, long-term preserved, or made accessible to other researchers or the public. Machine readability has not been much of a concern so far but is beginning to attract interest. Likewise, in projects that started out with a data management plan, there seems to be no real follow-up in terms of how well the actual research aligned with the original data management plans.
 
-# Primer
+# Primers
 
 * [Ten Simple Rules for Creating a Good Data Management Plan](http://dx.doi.org/10.1371/journal.pcbi.1004525)
+* [Machine-actionable data management plans (maDMPs)](https://doi.org/10.3897/rio.3.e13086)
 
 # Policies
 
@@ -38,10 +39,18 @@ This file hosts information regarding data management plans and how they could b
 
 * [DMPwerkzeug](https://github.com/DMPwerkzeug/DMPwerkzeug)
 
+# Collections
+
 # Proposed alternative names
 
 * [Process Management Plans](https://www.coar-repositories.org/files/7_DMP_Vienna.pdf) (slides 10ff)
 * [Data Management Record](http://andscentral.blogspot.de/2017/05/dmrs-making-dmps-relevant-again.html)
+
+# Selected events
+
+* [International and Interdisciplinary workshop on Active Data Management Plans](https://indico.cern.ch/event/520120/overview) (2016)
+* RDA 9 (2016): [RDA-DMP movings and shakings](http://www.dcc.ac.uk/blog/rda-dmp-movings-and-shakings)
+* RDA 10 (2017): [RDA 10th Plenary Joint meeting: IG Active Data Management Plans, IG Domain Repositories](https://www.rd-alliance.org/rda-10th-plenary-joint-meeting-ig-active-data-management-plans%C2%A0ig-domain-repositories)
 
 # See also
 
