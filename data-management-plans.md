@@ -1,6 +1,6 @@
 # About
 
-This file hosts information regarding data management plans and how they could be made machine readable. Data management plans are typically created on a per-project basis in the framework of a grant application. They describe what kind of data are to be generated during the project, how they are going to be stored, analysed, protected, long-term preserved, or made accessible to other researchers or the public. Machine readability has not been much of a concern so far but is beginning to attract interest. Likewise, in projects that started out with a data management plan, there seems to be no real follow-up in terms of how well the actual research aligned with the original data management plans.
+This file hosts information regarding data management plans and how they could be turned into machine actionable living documents. Data management plans are typically created on a per-project basis in the framework of a grant application. They describe what kind of data are to be generated during the project, how they are going to be stored, analysed, protected, long-term preserved, or made accessible to other researchers or the public. Machine readability has not been much of a concern so far but is beginning to attract interest. Likewise, in projects that started out with a data management plan, there seems to be no real follow-up in terms of how well the actual research aligned with the original data management plans.
 
 # Primers
 
