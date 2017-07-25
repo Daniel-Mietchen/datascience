@@ -41,8 +41,10 @@ This file serves the collection of information related to public access policies
   * [Expert Advisory Group on Data Access](http://www.wellcome.ac.uk/EAGDA)
 * [Science, Medicine, and Society: A View From the Wellcome Trust](http://dx.doi.org/10.1001/jama.2015.2004)
 * [DCC analysis of funder policies](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies)
-* Wellcome: [Our new policy on sharing research data: what it means for you](https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you)
+* Wellcome (2-17): [Our new policy on sharing research data: what it means for you](https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you)
+  * > You must make any data, original code or materials that underpin published research findings accessible to other researchers at the time of publication. This long-standing requirement extends across all our funded research – from basic science to clinical trials.
   * > In situations where research data is relevant to a current public health emergency, you must share data and other outputs at the earliest opportunity.  In line with the 2016 statement on [data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies), we require you to share quality assured interim and final data as rapidly and widely as possible, irrespective of the timing of journal publication.
+  * > You should take reasonable steps to ensure that your outputs are discoverable to potential users, are deposited in recognised community repositories wherever these exist, and have persistent identifiers, such as DOIs, to enable their use to be cited and tracked.
 
 ## Finland
 * Open science and research roadmap 2014–2017: ["Open science and research leads to 
