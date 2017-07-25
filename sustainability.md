@@ -3,6 +3,7 @@
 This file hosts information regarding sustainability, especially the sustainability of data-related infrastructures. This includes costs as well as business models and associated policy work, e.g. on redundancy and what to delete.
 
 # General sustainability
+
 * [Show me the data: How can open data contribute to SDGs?](https://web.archive.org/web/20150919210100/http://europeandcis.undp.org/blog/2015/06/10/show-me-the-data-how-can-open-data-contribute-to-sdgs/)
   * [Sustainable Development Goals: The Impact of Access to Information on our Societies e-forum – 7-18 September 2015](http://www.ifla.org/node/9705)
   * [Can open data prevent a global food shortage?](http://www.theguardian.com/media-network/2015/sep/02/open-data-global-food-shortage)
@@ -13,6 +14,12 @@ This file hosts information regarding sustainability, especially the sustainabil
   * Presents the *Data Poverty Index*
 * [Acumen](http://acumen.org/) portfolios: Water, Health, Housing, Energy, Agriculture, and Education
 * [The Cost of Data Storage and Management: Where Is It Headed in 2016?](http://www.datacenterjournal.com/cost-data-storage-management-headed-2016/)
+* [Every day, we rely on digital infrastructure built by volunteers. What happens when it fails?](http://www.fordfoundation.org/ideas/equals-change-blog/posts/every-day-we-rely-on-digital-infrastructure-built-by-volunteers-what-happens-when-it-fails/)
+  - > The next time you drive over a bridge, imagine if its maintenance depended on the efforts of a single volunteer. Its structure, safety, and general upkeep would hinge on this one person’s availability to check the screws, examine the steel for signs of fatigue, and give the bridge a fresh coat of paint. Absurd, right? If we maintained our bridges, roads, and other physical infrastructure this way, we couldn’t really rely on them. They would fail and endanger us regularly—and who knows how long adequate repairs might take?
+
+  - > It sounds crazy in the context of physical infrastructure, but many people don’t know that this is how much of our critical *digital* infrastructure is maintained.
+
+  - points to report [Roads and Bridges: The Unseen Labor behind Our Digital Infrastructure](https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)
 
 # Research-related sustainability
 
