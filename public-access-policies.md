@@ -2,11 +2,13 @@
 This file serves the collection of information related to public access policies, particularly those issued by research funders.
 
 # Funders
+
 ## [Public Health Research Data Forum](http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Data-sharing/Public-health-and-epidemiology/WTDV030689.htm)
 * [Sharing research data to improve public health: full joint statement by funders of health research](http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Data-sharing/Public-health-and-epidemiology/WTDV030690.htm)
   * [Signatories](http://www.wellcome.ac.uk/About-us/Policy/Spotlight-issues/Data-sharing/Public-health-and-epidemiology/Signatories-to-the-joint-statement/index.htm)
 
 ## US
+
 * [Transparency and Open Government](https://www.whitehouse.gov/the-press-office/transparency-and-open-government) (January 21, 2009)
   * [FACT SHEET: Data by the People, for the People — Eight Years of Progress Opening Government Data to Spur Innovation, Opportunity, & Economic Growth](https://www.whitehouse.gov/the-press-office/2016/09/28/fact-sheet-data-people-people-eight-years-progress-opening-government)
 * [Memorandum M-13-13, Open Data Policy - Managing Information as an Asset (May 9, 2013)](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
@@ -28,6 +30,7 @@ This file serves the collection of information related to public access policies
 * [Federal Policy for the Protection of Human Subjects](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)
 
 ## UK
+
 * [Consultation on the second Research Excellence Framework (REF)](http://www.hefce.ac.uk/pubs/year/2016/201636/)
   - [guidelines](http://www.hefce.ac.uk/media/HEFCE,2014/Content/Pubs/2016/201636/HEFCE2016_36.pdf)
   - [commentary](http://wonkhe.com/blogs/implementing-ref2021-needs-the-input-of-the-whole-research-community/)
@@ -38,6 +41,8 @@ This file serves the collection of information related to public access policies
   * [Expert Advisory Group on Data Access](http://www.wellcome.ac.uk/EAGDA)
 * [Science, Medicine, and Society: A View From the Wellcome Trust](http://dx.doi.org/10.1001/jama.2015.2004)
 * [DCC analysis of funder policies](http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies)
+* Wellcome: [Our new policy on sharing research data: what it means for you](https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you)
+  * > In situations where research data is relevant to a current public health emergency, you must share data and other outputs at the earliest opportunity.  In line with the 2016 statement on [data sharing in public health emergencies](https://wellcome.ac.uk/what-we-do/our-work/statement-data-sharing-public-health-emergencies), we require you to share quality assured interim and final data as rapidly and widely as possible, irrespective of the timing of journal publication.
 
 ## Finland
 * Open science and research roadmap 2014–2017: ["Open science and research leads to 
