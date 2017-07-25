@@ -39,7 +39,20 @@ This file hosts information regarding data management plans and how they could b
 
 * [DMPwerkzeug](https://github.com/DMPwerkzeug/DMPwerkzeug)
 
-# Collections
+# Public collections
+
+* [DMPTool](https://dmptool.org/public_dmps)
+* [RIO](https://riojournal.com/browse_journal_articles.php?form_name=filter_articles&selfurl=&backurl=&sortby=0&journal_id=17&search_hidden=&search_in_=0&search_in_hidden=&alerts_subject_cats=&alerts_sdg_cats=&from_date=&to_date=&section_type%5B%5D=231&funding_agency=)
+
+# Working groups
+
+* RDA
+  - [Active Data Management Plans IG](https://www.rd-alliance.org/groups/active-data-management-plans.html)
+  - [Exposing Data Management Plans WG](https://www.rd-alliance.org/groups/exposing-data-management-plans-wg)
+  - [DMP Common Standards WG](https://www.rd-alliance.org/groups/dmp-common-standards-wg)
+  - [Domain Repositories Interest Group](https://www.rd-alliance.org/groups/domain-repositories-interest-group.html)
+* Force 11
+  - [FAIR DMP Working Group](https://www.force11.org/group/fairdmp)
 
 # Proposed alternative names
 
