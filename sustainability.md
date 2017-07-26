@@ -40,6 +40,10 @@ This file hosts information regarding sustainability, especially the sustainabil
   - "Research organisations will ensure that EPSRC-funded research data is securely preserved for a minimum of 10 years from the date that any researcher ‘privileged access’ period expires or, if others have accessed the data, from last date on which access to the data was requested by a third party; all reasonable steps will be taken to ensure that publicly-funded data is not held in any jurisdiction where the available legal safeguards provide lower levels of protection than are available in the UK."
 * [Pathway Interaction Database (PID)](https://wiki.nci.nih.gov/pages/viewpage.action?pageId=315491760#NCI-Nature)
   - > The NCI PID data portal has been retired.
+* Three-part blog post series on sustainability of open research infrastructure
+  - [Open Resources: Who Should Pay?](https://unlockingresearch.blog.lib.cam.ac.uk/?p=1483)
+  - [Sustaining open research resources – a funder perspective](https://unlockingresearch.blog.lib.cam.ac.uk/?p=1520)
+
 
 # Health-related societal challenges
 * some are in the Sustainable Development Goals
