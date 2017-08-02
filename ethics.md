@@ -28,3 +28,4 @@ This file collects information about the ethics of data science as well as about
 * [Swiss researchers travel to China to conduct pioneering experiment](https://doi.org/10.1038/nature.2016.20967)
 * [Federal Policy for the Protection of Human Subjects](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)
 * Data Carpentry have [published their IRB proposal and determination letter](https://twitter.com/datacarpentry/status/798672341106446337).
+* [Make open data sharing a no-brainer for ethics committees](https://open-brain-consent.readthedocs.io/en/latest/index.html)
