@@ -68,3 +68,5 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Which mistakes do we actually make in scientific code?](http://blog.khinsen.net/posts/2017/05/04/which-mistakes-do-we-actually-make-in-scientific-code/)
 * [Critical Assessment of protein Structure Prediction (CASP)](http://predictioncenter.org/)
   - infrastructure around making protein structure prediction reproducible
+* [Reproducible and replicable CFD: it's harder than you think](https://arxiv.org/abs/1605.04339)
+* [Quantifying Reproducibility in Computational Biology: The Case of the Tuberculosis Drugome](https://doi.org/10.1371/journal.pone.0080278)
