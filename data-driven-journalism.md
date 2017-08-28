@@ -23,6 +23,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Doing Journalism with Data](http://datadrivenjournalism.net/)
 * [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks)
 * [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
+* [Concussion &mdash; Journalist Alan Schwarz crunches the numbers](https://www.sas.com/en_us/insights/articles/analytics/concussion--alan-schwarz-crunches-numbers-and-breaks-a-scandal-w.html)
 
 ### missed opportunities
 
