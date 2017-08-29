@@ -51,6 +51,7 @@ This file is to facilitate the collection of information pertaining to the citat
      * [Assessing the Impact of Software on Science Through Bootstrapped Learning in Full Texts](http://us3.campaign-archive2.com/?u=c8914f488de27003a4fd3f676&id=99b0d4cadb&e=1eca72590a)
      * [Depsy](http://depsy.org/)
           *   "altmetrics for software"; mines the literature for mentions of software
+     * [code citation guidelines for American Astronomical Society journals](http://journals.aas.org/authors/data.html#Code)
   * Citations from software
      * [Adding citations as part of the software publication process](https://danielskatzblog.wordpress.com/2017/04/07/adding-citations-as-part-of-the-software-publication-process/)
      * [How should we add citations inside software?](https://danielskatzblog.wordpress.com/2016/03/25/how-should-we-add-citations-inside-software/)
