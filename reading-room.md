@@ -655,3 +655,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [This data set took six years to create. Worth every moment.](https://www.datacoalition.org/this-data-set-took-six-years-to-create-worth-every-moment/)
 * [If you're allowed to dream, what do you see as the article of the future?](https://www.protocols.io/groups/protocolsio/news/if-youre-allowed-to-dream-what-do-you-see-as-the1)
 * [Firmware Update to Address Cybersecurity Vulnerabilities Identified in Abbott's (formerly St. Jude Medical's) Implantable Cardiac Pacemakers: FDA Safety Communication](https://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm573669.htm)
+* [Fairness in Data Science](https://www.civisanalytics.com/blog/fairness-in-data-science/)
+  * > "How can we ensure that the models we build and the algorithms we use are fair? What does it even mean for an algorithm to be ‘fair’?"
