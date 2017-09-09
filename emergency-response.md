@@ -251,3 +251,4 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * A set of [three poster maps](http://wiki.openstreetmap.org/wiki/File:Three_large_poster_maps_of_Tacloban,_Guiuan_and_Ormoc.jpg) printed in response to the 2013 Typhoon Haiyan based on data from OpenStreetMap
 * [The World Needs a DARPA-Style Project to Prevent Pandemics](https://hbr.org/2017/04/the-world-needs-a-darpa-style-project-to-prevent-pandemics)
 * World Bank report: [From panic and neglect to investing in health security : financing pandemic preparedness at a national level](http://documents.worldbank.org/curated/en/979591495652724770/From-panic-and-neglect-to-investing-in-health-security-financing-pandemic-preparedness-at-a-national-level)
+* [Virtual Reality Can Make a Remote Crisis Real – and Spur Effective Responses](http://news.virginia.edu/content/virtual-reality-can-make-remote-crisis-real-and-spur-effective-responses)
