@@ -56,6 +56,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Open Data's Impact: Battling Ebola in Sierra Leone &mdash; Data Sharing to Improve Crisis Response](http://odimpact.org/case-battling-ebola-in-sierra-leone.html)
 * [Urgent needs and participation of women must be prioritized in the Ebola response](http://doi.org/10.1016/S0968-8080(14)44820-1)
 * [The Mistakes We Made Responding to Ebola](http://fortune.com/2017/02/28/brainstorm-health-02-28-intro/)
+* [Massive Ebola data site planned to combat outbreaks &mdash; An international partnership seeks African leadership to organize information about the disease](https://doi.org/10.1038/nature.2017.22545)
+
 
 ## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Creating a rapid response – relevant to Zika virus](http://www.collabchem.com/2016/01/26/creating-a-rapid-response-relevant-to-zika-virus/)
