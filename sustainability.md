@@ -78,3 +78,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Creating a Better Economy with Data Science](https://cities-today.com/city-become-smart-must-adopt-culture-data/)
 * [Cities, not nation states, will determine our future survival. Here's why](https://www.weforum.org/agenda/2017/06/as-nation-states-falter-cities-are-stepping-up)
 * [Make Our Planet Great Again](https://www.makeourplanetgreatagain.fr)
+* [Warning - Hurricane Irma Sunday 9/10](https://www.idigbio.org/content/warning-hurricane-irma-sunday-910) &mdash; data center of open project may be affected by the hurricane
