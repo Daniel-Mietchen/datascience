@@ -114,6 +114,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
   - [PIXELSYNTH](https://ojack.github.io/PIXELSYNTH/) ([on GitHub](https://github.com/ojack/PIXELSYNTH))
   - [SoniPy](https://sourceforge.net/projects/sonipy/)
   - [sonification on GitHub](https://github.com/search?q=sonification&type=Code&utf8=%E2%9C%93)
+* [An Artist Uses an iPhone to Visualize Sounds in A.R.](https://www.wired.com/story/an-artist-uses-an-iphone-to-visualize-sounds-in-ar/) &mdash; still sonification
 * [Is software a primary product of science?](http://ivory.idyll.org/blog/2015-more-on-software.html)
 * [Why you can't run your company with big data](https://www.linkedin.com/pulse/why-you-cant-run-your-company-data-rob-lawrence)
 * [Why Big Data And The Internet of Things Are A Perfect Match](http://www.datamation.com/applications/why-big-data-and-the-internet-of-things-are-a-perfect-match.html)
