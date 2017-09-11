@@ -1,4 +1,5 @@
 # About
+
 This page collects information on open collaboration in the context of emergency response or disaster relief efforts. Open here refers to a subset of the digital response that can be characterized by
 * the preparedness of accepting contributions from anyone, making use of the Web;
 * results being available under open licenses, as per the [Open Definition](http://opendefinition.org/).
@@ -254,3 +255,4 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [The World Needs a DARPA-Style Project to Prevent Pandemics](https://hbr.org/2017/04/the-world-needs-a-darpa-style-project-to-prevent-pandemics)
 * World Bank report: [From panic and neglect to investing in health security : financing pandemic preparedness at a national level](http://documents.worldbank.org/curated/en/979591495652724770/From-panic-and-neglect-to-investing-in-health-security-financing-pandemic-preparedness-at-a-national-level)
 * [Virtual Reality Can Make a Remote Crisis Real – and Spur Effective Responses](http://news.virginia.edu/content/virtual-reality-can-make-remote-crisis-real-and-spur-effective-responses)
+* [Warning - Hurricane Irma Sunday 9/10](https://www.idigbio.org/content/warning-hurricane-irma-sunday-910) &mdash; data center of open project may be affected by the hurricane
