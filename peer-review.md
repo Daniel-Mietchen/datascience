@@ -107,3 +107,4 @@ Things listed here have yet to be sorted into the structure above.
     - [OpenGovIntelligence: D6.1 - Data Management Plan](https://ec.europa.eu/futurium/en/content/d61-data-management-plan)
     - [SIMPATICO: D1.3 - Data management plan v.1](https://ec.europa.eu/futurium/en/content/d13-data-management-plan-v1)
 * [Chemistry journal introduces ‘intelligent crowd’ peer review](https://www.chemistryworld.com/news/chemistry-journal-introduces-intelligent-crowd-peer-review-/3007534.article) &mdash; basically a closed version of Copernicus-style discussion paper review
+* [Birkbeck to investigate the peer review process in new research project](http://www.bbk.ac.uk/news/birkbeck-to-investigate-the-peer-review-process-in-new-research-project)
