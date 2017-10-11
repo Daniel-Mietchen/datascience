@@ -10,6 +10,7 @@ This file collects information related to the concept of the Commons, both in ge
 # By discipline
 * [Humanities Commons](http://news.hcommons.org/)
   * [at University of California, Irvine](http://www.humanities.uci.edu/commons/)
+* [Pelagios Commons](http://commons.pelagios.org/)
 
 # In the US
 * At NIH
