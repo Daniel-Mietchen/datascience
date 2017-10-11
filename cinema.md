@@ -141,6 +141,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 # Maybe watch in the future
 
+* Naftali Tishby: [Information Theory of Deep Learning](https://www.youtube.com/watch?v=bLqJHjXihK8)
+  * commentary: [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 * [The World We Want: OpenStreetMap and the Sustainable Development Goals](http://2016.stateofthemap.org/2016/the-world-we-want-openstreetmap-and-the-sustainable-development-goals/)
 * [Democratisation of Knowledge with Katherine Maher](https://www.youtube.com/watch?v=8BuyKmjy7Rw)
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
