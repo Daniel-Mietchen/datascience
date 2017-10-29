@@ -199,3 +199,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Sharon Terry: Science didn&#39;t understand my kids&#39; rare disease until I decided to study it](https://www.ted.com/talks/sharon_terry_science_didn_t_understand_my_kids_rare_disease_until_i_decided_to_study_it)
   - had watched that during TEDMED 2016 &mdash; notes at https://github.com/Daniel-Mietchen/events/issues/51
 * [Why Astronomers Love Python And Why You Should Too](https://www.youtube.com/watch?v=W9dwGZ6yY0k)
+* [The animated guide to blockchain (Explanimators: Episode 5)](https://www.youtube.com/watch?v=cFVGBxYiBFo&feature=youtu.be)
