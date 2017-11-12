@@ -201,3 +201,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Why Astronomers Love Python And Why You Should Too](https://www.youtube.com/watch?v=W9dwGZ6yY0k)
 * [The animated guide to blockchain (Explanimators: Episode 5)](https://www.youtube.com/watch?v=cFVGBxYiBFo&feature=youtu.be)
 * [The Beauty of Being a Misfit](https://www.ted.com/talks/lidia_yuknavitch_the_beauty_of_being_a_misfit)
+  - via https://twitter.com/tararobertson/status/929844417028124677
