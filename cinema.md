@@ -138,6 +138,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Two adults, two kids, zero waste | Bea Johnson](https://www.youtube.com/watch?v=CSUmo-40pqA)
   - basically the same approach as Lauren's (whom she inspired)
   - slightly different angle on downsizing and benefits
+* [Seconds from Disaster S02E01 Space Shuttle Columbia](https://www.youtube.com/watch?v=cAoYw4rkfWw) (via https://twitter.com/VegetaSolo1/status/928603521641050116 )
+  - documentary about the Columbia disaster, highlighting the role of both data and human judgement for decision-making in complex contexts
 
 # Maybe watch in the future
 
