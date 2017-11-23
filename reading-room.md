@@ -6,7 +6,7 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [What should a modern scientific infrastructure look like?](http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/)
 * [What scientific idea is ready for retirement?](http://edge.org/annual-question/what-scientific-idea-is-ready-for-retirement)
   * [Scientific Knowledge Should Be Structured as "Literature"](http://edge.org/response-detail/25514)  
-> It is time for science to go agile.  r
+> It is time for science to go agile.  
 > [..]  
 > academic publishing [must] move from its current read-only model and embrace a process as dynamic, up-to-date, and collaborative as science itself.  
 > [..]  
@@ -520,6 +520,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   * ["academia has some perverse incentives structures that we would never have intentionally built into science as a process."](https://socialbat.org/2015/08/12/goals-of-science-vs-goals-of-scientists-a-love-letter-for-plos-one/)
   * [Open Practice Badges in Psychological Science: 18 Months On](http://www.psychologicalscience.org/index.php/publications/observer/obsonline/open-practice-badges-in-psychological-science-18-months-out.html)
   * [incentives for increasing the use of bicycles](https://nowtoronto.com/news/biko-app-gets-you-free-stuff-every-time-you-bike-in-toronto/)
+  * [The Code of Hammurabi: The Best Rule To Manage Risk](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) &dash; on how to align incentives across stakeholders
 
 * data discovery
   * [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
