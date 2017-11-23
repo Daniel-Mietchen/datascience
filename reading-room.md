@@ -658,3 +658,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Firmware Update to Address Cybersecurity Vulnerabilities Identified in Abbott's (formerly St. Jude Medical's) Implantable Cardiac Pacemakers: FDA Safety Communication](https://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm573669.htm)
 * [Fairness in Data Science](https://www.civisanalytics.com/blog/fairness-in-data-science/)
   * > "How can we ensure that the models we build and the algorithms we use are fair? What does it even mean for an algorithm to be ‘fair’?"
+* [New Thinking Needed on How to Pay for College](http://edvancefoundation.org/blog/college-budget-model-broken/)
+  * > "America’s colleges and universities are certainly aware that they face a crisis of confidence, credibility and economics ahead of them. The question is how well and how quickly will they respond to this crisis."
