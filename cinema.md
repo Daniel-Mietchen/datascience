@@ -204,3 +204,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [The animated guide to blockchain (Explanimators: Episode 5)](https://www.youtube.com/watch?v=cFVGBxYiBFo&feature=youtu.be)
 * [The Beauty of Being a Misfit](https://www.ted.com/talks/lidia_yuknavitch_the_beauty_of_being_a_misfit)
   - via https://twitter.com/tararobertson/status/929844417028124677
+* [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
