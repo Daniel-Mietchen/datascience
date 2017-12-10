@@ -661,3 +661,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   * > "How can we ensure that the models we build and the algorithms we use are fair? What does it even mean for an algorithm to be ‘fair’?"
 * [New Thinking Needed on How to Pay for College](http://edvancefoundation.org/blog/college-budget-model-broken/)
   * > "America’s colleges and universities are certainly aware that they face a crisis of confidence, credibility and economics ahead of them. The question is how well and how quickly will they respond to this crisis."
+* [Report from the Springer Nature hack day on November 29, 2017](https://researchdata.springernature.com/users/11717-iain-hrynaszkiewicz/posts/28536-what-was-achieved-and-what-we-learned-at-our-research-data-hack-day)
