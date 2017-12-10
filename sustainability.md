@@ -79,3 +79,5 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Cities, not nation states, will determine our future survival. Here's why](https://www.weforum.org/agenda/2017/06/as-nation-states-falter-cities-are-stepping-up)
 * [Make Our Planet Great Again](https://www.makeourplanetgreatagain.fr)
 * [Warning - Hurricane Irma Sunday 9/10](https://www.idigbio.org/content/warning-hurricane-irma-sunday-910) &mdash; data center of open project may be affected by the hurricane
+* [Do Not Ship It](https://blog.datproject.org/2017/12/10/dont-ship/)
+  - ethical considerations around peer-to-peer dat-based access to Wikipedia and reader privacy
