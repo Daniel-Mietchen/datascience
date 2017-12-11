@@ -121,6 +121,8 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Crotos/ Callisto](http://zone47.com/crotos/callisto/?l=en)
 * [Growth of Wikimedia projects](https://stats.wikimedia.org/wikimedia/animations/growth/AnimationProjectsGrowthWp.html)
 * [real-time analysis of wikipedia edits](https://sachaysl.github.io/wikimedia-challenge/)
+* [Hit parade of composers in the Concert House Berlin](http://musiklovers.eu/hitparade)
+  - [background from Coding Da Vinci project](https://codingdavinci.de/projects/2017/musik_lovers.html#project-name)
 * [further Wikimedia examples](http://infodisiac.com/Wikimedia/Visualizations/)
 * [See also](http://seealso.org/)
 
