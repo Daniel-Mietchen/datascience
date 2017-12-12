@@ -209,3 +209,4 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [The Beauty of Being a Misfit](https://www.ted.com/talks/lidia_yuknavitch_the_beauty_of_being_a_misfit)
   - via https://twitter.com/tararobertson/status/929844417028124677
 * [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
+* [Using Petscan to find articles in Wikipedia using template SBL --- candidate to connect to WIkidata object with Property P3217](https://www.youtube.com/watch?v=Lm5KwmHFGRA)
