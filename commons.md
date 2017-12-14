@@ -53,3 +53,4 @@ This file collects information related to the concept of the Commons, both in ge
 * [Wikimedia Labs](https://wikitech.wikimedia.org/wiki/Portal:Wikimedia_Labs)
   - [Jupyter notebooks at PAWS](https://wikitech.wikimedia.org/wiki/PAWS)
 * [NeuroVault](http://neurovault.org/)
+* [X-Road](https://e-estonia.com/solutions/interoperability-services/x-road/) &mdash; a kind of privacy-aware Commons for data in Estonia
