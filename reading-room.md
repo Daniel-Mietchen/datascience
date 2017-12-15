@@ -361,8 +361,12 @@ This section now lives at [https://github.com/Daniel-Mietchen/datascience/blob/m
   * [Bureaucracy: why won’t scholars break their paper chains?](http://www.timeshighereducation.co.uk/features/bureaucracy-why-wont-scholars-break-their-paper-chains/2020256.article)
   * [Research Performance Progress Report (RPPR)](http://www.nsf.gov/bfa/dias/policy/rppr/index.jsp)
     * [RPPR at NIH](http://grants.nih.gov/grants/rppr/index.htm)
-   * [Smart contracts: Blockchain will eat white collar workers for breakfast](https://99bitcoins.com/smart-contracts-blockchain-will-eat-white-collar-workers-breakfast/)
-  * [The Rise and Fall of an Online Project. Is Bureaucracy
+  * [Smart contracts: Blockchain will eat white collar workers for breakfast](https://99bitcoins.com/smart-contracts-blockchain-will-eat-white-collar-workers-breakfast/)
+  * More on blockchain
+    * [Estonia &mdash; the Digital Republic](https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic)
+    * [The Bitcoin Paradox - Why cryptocurrency will always be political.](http://nautil.us/issue/55/trust/the-bitcoin-paradox)
+    * [I Was Wrong About Bitcoin. Here’s Why.](https://www.nytimes.com/2017/12/12/technology/bitcoin-predictions.html)
+* [The Rise and Fall of an Online Project. Is Bureaucracy
 Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/content/rise-and-fall-online-project-bureaucracy-killing-efficiency-open-knowledge-production)
 * expert attention
   * needs to be directed in a way that is optimized on a systemic level 
@@ -662,4 +666,3 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [New Thinking Needed on How to Pay for College](http://edvancefoundation.org/blog/college-budget-model-broken/)
   * > "America’s colleges and universities are certainly aware that they face a crisis of confidence, credibility and economics ahead of them. The question is how well and how quickly will they respond to this crisis."
 * [Report from the Springer Nature hack day on November 29, 2017](https://researchdata.springernature.com/users/11717-iain-hrynaszkiewicz/posts/28536-what-was-achieved-and-what-we-learned-at-our-research-data-hack-day)
-* [The Bitcoin Paradox - Why cryptocurrency will always be political.](http://nautil.us/issue/55/trust/the-bitcoin-paradox)
