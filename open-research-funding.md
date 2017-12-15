@@ -168,3 +168,4 @@ which also links to numerous examples of grant proposals that have already been 
 * ["Contractor at my house just gave me a discount for being a cancer scientist."](https://twitter.com/mikefeigin/status/849685622231109632)
 * [Lack of transparency in ERC funding decisions](https://forbetterscience.com/2017/04/26/lack-of-transparency-in-erc-funding-decisions-by-shravan-vasishth/)
 * [Aaron Swartz and the Price of Information](http://www.osaarchivum.org/press-room/announcements/Aaron-Swartz-and-Price-Information)
+* [Liberapay](https://liberapay.com/) "Liberapay is a recurrent donations platform [to] help you fund the creators and projects you appreciate."
