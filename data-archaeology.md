@@ -10,6 +10,7 @@ This file collects information on data archaeology, data rescue and related matt
   - reused blood samples to sequence patient genomes to analyze the spread of HIV
 * The meteorological data gathered by [Billy Barr](https://en.wikipedia.org/wiki/Billy_Barr_(naturalist))
 * [Wikipedia's oldest articles](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia%27s_oldest_articles)
+* [Old Weather](https://www.oldweather.org/)
 
 # Missing pieces
 
@@ -18,3 +19,5 @@ I remember from the time of my PhD a story that some physically broken [phonogra
 # See also
 
 * Lots of examples in the AGU 2017 Fall session [Dark Data Revived! Data Rescue: New Discoveries with Old Data](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session26843)
+* [Map geolocation in the British Library's Mechanical Curator collection](https://commons.wikimedia.org/wiki/Commons:British_Library/Mechanical_Curator_collection/georeferencing_status)
+  - [example map](http://british-library.georeferencer.com/map/y6J21at7ahoCxzxkx5VoWu/201712151550-OBT9Z9/visualize)
