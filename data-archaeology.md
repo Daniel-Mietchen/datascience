@@ -13,7 +13,7 @@ This file collects information on data archaeology, data rescue and related matt
 
 # Missing pieces
 
-I remember from the time of my PhD a story that some broken [phonograph records](https://en.wikipedia.org/wiki/Phonograph_record) were read by way of laser technology. Don't have further details at hand, though.
+I remember from the time of my PhD a story that some physically broken [phonograph records](https://en.wikipedia.org/wiki/Phonograph_record) were read by way of scanning them with laser technology and then reassembling them virtually. Don't have further details at hand, though.
 
 # See also
 
