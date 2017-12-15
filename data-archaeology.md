@@ -20,4 +20,5 @@ I remember from the time of my PhD a story that some physically broken [phonogra
 
 * Lots of examples in the AGU 2017 Fall session [Dark Data Revived! Data Rescue: New Discoveries with Old Data](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Session26843)
 * [Map geolocation in the British Library's Mechanical Curator collection](https://commons.wikimedia.org/wiki/Commons:British_Library/Mechanical_Curator_collection/georeferencing_status)
-  - [example map](http://british-library.georeferencer.com/map/y6J21at7ahoCxzxkx5VoWu/201712151550-OBT9Z9/visualize)
+  - [overview](http://www.bl.uk/georeferencer/georeferencingmap.html)
+    - [example map](http://british-library.georeferencer.com/map/y6J21at7ahoCxzxkx5VoWu/201712151550-OBT9Z9/visualize)
