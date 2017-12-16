@@ -11,6 +11,8 @@ This file collects information related to the concept of the Commons, both in ge
 * [Humanities Commons](http://news.hcommons.org/)
   * [at University of California, Irvine](http://www.humanities.uci.edu/commons/)
 * [Pelagios Commons](http://commons.pelagios.org/)
+* [A New Pharmaceutical Commons: Transforming Drug Discovery](https://www.oxfordmartin.ox.ac.uk/publications/view/2613)
+  - commentary: [Drug discovery must change to urgently address global health needs](https://www.oxfordmartin.ox.ac.uk/news/2017_news_transforming_drug_discovery)
 
 # In the US
 * At NIH
