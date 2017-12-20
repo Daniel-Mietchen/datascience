@@ -140,6 +140,8 @@ This file collects examples of talks, lectures and other forms of presentations 
   - slightly different angle on downsizing and benefits
 * [Seconds from Disaster S02E01 Space Shuttle Columbia](https://www.youtube.com/watch?v=cAoYw4rkfWw) (via https://twitter.com/VegetaSolo1/status/928603521641050116 )
   - documentary about the Columbia disaster, highlighting the role of both data and human judgement for decision-making in complex contexts
+* [Introduction to Beaker Browser](https://www.youtube.com/watch?v=U2B9mwRFE8U) (2-min demo)
+* [The Distributed Web, and the Browser I Wrote to Surf It (Beaker Browser Demo)](https://www.youtube.com/watch?v=pi-kreA52oI) (18 min, with some more background as well as demos)
 
 # Maybe watch in the future
 
