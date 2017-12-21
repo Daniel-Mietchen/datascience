@@ -215,3 +215,5 @@ This file collects examples of talks, lectures and other forms of presentations 
   - via https://twitter.com/tararobertson/status/929844417028124677
 * [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 * [Using Petscan to find articles in Wikipedia using template SBL --- candidate to connect to WIkidata object with Property P3217](https://www.youtube.com/watch?v=Lm5KwmHFGRA)
+* [How the blockchain will radically transform the economy | Bettina Warburg](https://www.youtube.com/watch?v=RplnSVTzvnU)
+* [The next Internet Revolution | Juan Benet](https://www.youtube.com/watch?v=2RCwZDRwk48)
