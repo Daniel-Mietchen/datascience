@@ -217,3 +217,5 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Using Petscan to find articles in Wikipedia using template SBL --- candidate to connect to WIkidata object with Property P3217](https://www.youtube.com/watch?v=Lm5KwmHFGRA)
 * [How the blockchain will radically transform the economy | Bettina Warburg](https://www.youtube.com/watch?v=RplnSVTzvnU)
 * [The next Internet Revolution | Juan Benet](https://www.youtube.com/watch?v=2RCwZDRwk48)
+* [The World In 2050 [The Real Future Of Earth] – Full BBC Documentary 2017](https://www.youtube.com/watch?v=XeEYaX82jSE)
+* [Top Science Discoveries of 2017 Documentary](https://www.youtube.com/watch?v=5fCnOH2Xbp4)
