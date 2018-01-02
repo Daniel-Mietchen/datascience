@@ -105,6 +105,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * Visualization of a plan &mdash; [Facility for Antiproton and Ion Research (FAIR)](https://www.youtube.com/watch?v=OzeOkrbLIQQ)
 * [Population stats](http://population.io/#/2000/05/10/female/Somalia/expectancy)
 * [Visualizing freely available citation data using VOSviewer](https://www.cwts.nl/blog?article=n-r2r294)
+* [live global map of winds](https://earth.nullschool.net/#current/wind/surface/level/orthographic=7.14,44.51,680)
 
 ### Wikimedia examples
 
