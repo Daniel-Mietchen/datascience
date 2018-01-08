@@ -70,3 +70,5 @@ post publication peer review. Or improve research training and mentorship. Or ..
   - infrastructure around making protein structure prediction reproducible
 * [Reproducible and replicable CFD: it's harder than you think](https://arxiv.org/abs/1605.04339)
 * [Quantifying Reproducibility in Computational Biology: The Case of the Tuberculosis Drugome](https://doi.org/10.1371/journal.pone.0080278)
+* [Social Media and Suicide: A Critical Appraisal](https://medium.com/@OrbenAmy/social-media-and-suicide-a-critical-appraisal-f95e0bbd4660)
+  - comments on a reanalysis of [Increases in Depressive Symptoms, Suicide-Related Outcomes, and Suicide Rates Among U.S. Adolescents After 2010 and Links to Increased New Media Screen Time](https://doi.org/10.1177/2167702617723376) based on a different dataset
