@@ -142,6 +142,8 @@ This file collects examples of talks, lectures and other forms of presentations 
   - documentary about the Columbia disaster, highlighting the role of both data and human judgement for decision-making in complex contexts
 * [Introduction to Beaker Browser](https://www.youtube.com/watch?v=U2B9mwRFE8U) (2-min demo)
 * [The Distributed Web, and the Browser I Wrote to Surf It (Beaker Browser Demo)](https://www.youtube.com/watch?v=pi-kreA52oI) (18 min, with some more background as well as demos)
+* [Open Litter Map: Challenging Plastic Pollution with Open Data | Sean Lynch | TEDxTallaght](https://www.youtube.com/watch?v=my7Cx-kZhT4)
+  - introduces [Open Litter Map](https://openlittermap.com/)
 
 # Maybe watch in the future
 
