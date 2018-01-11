@@ -106,6 +106,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Population stats](http://population.io/#/2000/05/10/female/Somalia/expectancy)
 * [Visualizing freely available citation data using VOSviewer](https://www.cwts.nl/blog?article=n-r2r294)
 * [live global map of winds](https://earth.nullschool.net/#current/wind/surface/level/orthographic=7.14,44.51,680)
+* [Ecological footprint of electric cars](http://www.spektrum.de/news/wie-ist-die-umweltbilanz-von-elektroautos/1514423)
 
 ### Wikimedia examples
 
