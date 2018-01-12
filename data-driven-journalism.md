@@ -35,6 +35,7 @@ This file collects information pertaining to ways in which the interaction betwe
 
 * [Using New Data Insights to Grow and Maintain Loyalty with Kroger and The Wall Street Journal](http://www.sailthru.com/marketing-blog/using-new-data-insights-to-grow-and-maintain-loyalty-with-kroger-and-the-wall-street-journal/)
 * [Estonia, the Digital Republic](https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic)
+* [Collision Course: Why This Type Of Road Junction Will Keep Killing Cyclists](http://singletrackworld.com/2018/01/collision-course-why-this-type-of-road-junction-will-keep-killing-cyclists/)
 
 ## about data sharing or visualization
 
