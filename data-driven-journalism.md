@@ -56,6 +56,8 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Cutaway infographics](https://www.wired.com/2016/10/look-inside-spectacular-collection-cutaway-infographics/)
 * [1 tip for effective data visualization in Python](https://www.dataquest.io/blog/how-to-communicate-with-data/)
 * [Paper: An Argument Structure for Data Stories](https://eagereyes.org/papers/paper-an-argument-structure-for-data-stories)
+* [Most images of black holes are illustrations. Here’s what our telescopes actually capture.
+Soon, we may get to see one up close for the first time.](https://www.vox.com/science-and-health/2018/1/8/16822272/black-hole-looks-like-what)
 
 # Engaging visualizations
 
