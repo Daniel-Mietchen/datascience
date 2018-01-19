@@ -160,3 +160,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * EU action [Promoting sharing and reuse of IT solutions](https://ec.europa.eu/isa2/actions/promoting-sharing-and-reuse-interoperability-solutions_en)
   - [Sharing and Reuse Awards](https://ec.europa.eu/isa2/awards_en) &mdash; for shared IT solutions in public administration
 * [How is Open Data being re-used in Europe?](https://www.europeandataportal.eu/en/highlights/how-open-data-being-re-used-europe)
+* [Communicating Use and Reuse in the Digital Collection Interface](https://medium.com/berkman-klein-center/communicating-use-and-reuse-in-the-digital-collection-interface-434d970c4d38) &mdash; on reuse policies at various GLAM institutions
