@@ -4,7 +4,10 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 # Watched
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
+  * another one by her: [The Future of Research: Citizen Science!](https://www.youtube.com/watch?v=a-xUXNbL04M)
   * see also [Only "Scientists" Can Do Science](http://edge.org/response-detail/25504)
+* [Citizen Science: Everybody Counts | Caren Cooper](https://www.youtube.com/watch?v=G7cQHSqfSzI)
+  * big plug for iNaturalist, with useful generic remarks about citizen science, collaboration and sharing
 * [Tal Danino on using bacteria to cure cancer](http://www.ted.com/talks/tal_danino_we_can_use_bacteria_to_detect_cancer_and_maybe_treat_it#t-243227)
   * uses probiotic bacteria that are genetically modified to produce signal that is detectable through urine color
   * similar approch for therapy, i.e. genetically modified to produce cancer-treating drugs
@@ -147,10 +150,12 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 # Maybe watch in the future
 
+* [Become a Citizen Data Scientist](https://www.youtube.com/watch?v=zgijAGkdjZc)
 * Reconciliation in OpenRefine for Wikidata
   - a two-part screencast
     - https://www.youtube.com/watch?v=q8ffvdeyuNQ
     - https://www.youtube.com/watch?v=0tQPmfb6IFk
+  - see also https://histhub.ch/cat/net/blog/openrefine/
 * [Wikidata as universal (library) thesaurus](https://commons.wikimedia.org/wiki/File:Wikidatacon2017_-_Wikidata_as_universal_%28library%29_thesaurus.webm)
   - [demo](http://www.kbresearch.nl/xportal/?SELECT%20?p%20WHERE%20%7B?p%20wdt:P39%20wd:Q18887908%20.%20?p%20wdt:P19%20?place%20.%20?place%20wdt:P17%20?country%20.%20FILTER%20NOT%20EXISTS%20%7B%20?place%20wdt:P17%20wd:Q55%20.%20%7D%20%7D)
   - [background](https://medium.com/@alexstinson/wikidata-in-collections-building-a-universal-language-for-connecting-glam-catalogs-59b14aa3214c)
