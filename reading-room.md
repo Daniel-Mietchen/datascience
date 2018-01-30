@@ -109,12 +109,14 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [Den Haag Manifesto &mdash; Five steps to bringing Persistent Identifiers and Linked Open Data together](http://www.knowledge-exchange.info/Default.aspx?ID=462)
 * [Examplotron](http://examplotron.org/)
   * [blog post](http://eric.van-der-vlist.com/blog/2013/08/21/examplotron-is-moving-on/)
-* [Final Research Unplugged to focus on sonification](http://news.psu.edu/story/353884/2015/04/21/research/final-research-unplugged-focus-sonification)
 * Sonification: 
   - [PIXELSYNTH](https://ojack.github.io/PIXELSYNTH/) ([on GitHub](https://github.com/ojack/PIXELSYNTH))
   - [SoniPy](https://sourceforge.net/projects/sonipy/)
   - [sonification on GitHub](https://github.com/search?q=sonification&type=Code&utf8=%E2%9C%93)
-* [An Artist Uses an iPhone to Visualize Sounds in A.R.](https://www.wired.com/story/an-artist-uses-an-iphone-to-visualize-sounds-in-ar/) &mdash; still sonification
+  - [Final Research Unplugged to focus on sonification](http://news.psu.edu/story/353884/2015/04/21/research/final-research-unplugged-focus-sonification)
+  - [The Visual Microphone: Passive Recovery of Sound from Video](https://www.youtube.com/watch?v=FKXOucXB4a8)
+    - commentary: [If you watch closely enough, everything is a speaker](https://kottke.org/18/01/if-you-watch-closely-enough-everything-is-a-speaker)
+  - [An Artist Uses an iPhone to Visualize Sounds in A.R.](https://www.wired.com/story/an-artist-uses-an-iphone-to-visualize-sounds-in-ar/)
 * [Is software a primary product of science?](http://ivory.idyll.org/blog/2015-more-on-software.html)
 * [Why you can't run your company with big data](https://www.linkedin.com/pulse/why-you-cant-run-your-company-data-rob-lawrence)
 * [Why Big Data And The Internet of Things Are A Perfect Match](http://www.datamation.com/applications/why-big-data-and-the-internet-of-things-are-a-perfect-match.html)
