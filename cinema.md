@@ -147,9 +147,12 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [The Distributed Web, and the Browser I Wrote to Surf It (Beaker Browser Demo)](https://www.youtube.com/watch?v=pi-kreA52oI) (18 min, with some more background as well as demos)
 * [Open Litter Map: Challenging Plastic Pollution with Open Data | Sean Lynch | TEDxTallaght](https://www.youtube.com/watch?v=my7Cx-kZhT4)
   - introduces [Open Litter Map](https://openlittermap.com/)
+* [The Visual Microphone: Passive Recovery of Sound from Video](https://www.youtube.com/watch?v=FKXOucXB4a8)
+  - commentary: [If you watch closely enough, everything is a speaker](https://kottke.org/18/01/if-you-watch-closely-enough-everything-is-a-speaker)
 
 # Maybe watch in the future
 
+* [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
 * [Become a Citizen Data Scientist](https://www.youtube.com/watch?v=zgijAGkdjZc)
 * Reconciliation in OpenRefine for Wikidata
   - a two-part screencast
@@ -169,7 +172,6 @@ This file collects examples of talks, lectures and other forms of presentations 
 * older [TED MED](https://www.youtube.com/user/tedmed) talks 
 * [Sandra Collins: Memory Keepers](https://www.youtube.com/watch?v=i4mbHb5wqKo)
 * [Frank Miedema: Science in Transition](https://www.youtube.com/watch?v=sUf1ajkIAhY)
-* [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
 * [Pardis Sabeti: How we'll fight the next deadly virus](https://www.ted.com/talks/pardis_sabeti_how_we_ll_fight_the_next_deadly_virus)
 * [Big Data: Personalized Learning](https://www.youtube.com/watch?v=r099JYtanSY)
 * [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
