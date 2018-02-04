@@ -7,6 +7,7 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Show me the data: How can open data contribute to SDGs?](https://web.archive.org/web/20150919210100/http://europeandcis.undp.org/blog/2015/06/10/show-me-the-data-how-can-open-data-contribute-to-sdgs/)
   * [Sustainable Development Goals: The Impact of Access to Information on our Societies e-forum – 7-18 September 2015](http://www.ifla.org/node/9705)
   * [Can open data prevent a global food shortage?](http://www.theguardian.com/media-network/2015/sep/02/open-data-global-food-shortage)
+  * [How a lack of access to reliable weather data is hurting African farmers](https://theconversation.com/how-a-lack-of-access-to-reliable-weather-data-is-hurting-african-farmers-80011)
 * [Sustainia](http://www.sustainia.me/)
   * [SUSTAINIA100](http://www.sustainia.me/solutions)
     * [example](https://medium.com/@ECONYL/sustania-building-blocks-for-sustainable-society-ad762d4c996a)
