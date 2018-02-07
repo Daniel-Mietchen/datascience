@@ -161,3 +161,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
   - [Sharing and Reuse Awards](https://ec.europa.eu/isa2/awards_en) &mdash; for shared IT solutions in public administration
 * [How is Open Data being re-used in Europe?](https://www.europeandataportal.eu/en/highlights/how-open-data-being-re-used-europe)
 * [Communicating Use and Reuse in the Digital Collection Interface](https://medium.com/berkman-klein-center/communicating-use-and-reuse-in-the-digital-collection-interface-434d970c4d38) &mdash; on reuse policies at various GLAM institutions
+* [University of Oklahoma Astrophysicists Discover Extragalactic Planets for First Time](http://www.ou.edu/web/news_events/articles/news_2018/ou-discover-planets.html) &mdash; based on open data from NASA's Chandra X-ray Observatory
