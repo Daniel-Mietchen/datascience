@@ -20,6 +20,7 @@ This file collects information pertaining to ways in which the interaction betwe
 ## using data
 
 * [The History Of Europe Lies In British People's DNA](http://www.buzzfeed.com/christinekenneally/the-history-of-europe-lies-in-british-peoples-dna)
+** Similar story based on an individual's 23&me profile: [Die Vorfahren aus Afrika, die Tochter semmelblond](http://www.zeit.de/freitext/2018/02/11/migration-speicheltest-braslavsky/)
 * [Doing Journalism with Data](http://datadrivenjournalism.net/)
 * [4 reasons disease outbreaks are erupting around the world](http://www.vox.com/2016/5/31/11638796/why-there-are-more-infectious-disease-outbreaks)
 * [Do vacant properties explain Miami's Zika outbreak?](http://scholar.harvard.edu/jonjay/blog/do-vacant-properties-explain-miamis-zika-outbreak)
