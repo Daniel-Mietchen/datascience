@@ -672,3 +672,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Precision medicine and bioinformatics with 320 mph: When data sharing increases the understanding of diseases](http://dg.dk/en/2017/12/28/precision-medicine-and-bioinformatics-with-320-mph-when-open-data-increases-the-understanding-of-diseases/)
   - on the [Landspatientregisteret (LPR)](https://sundhedsdatastyrelsen.dk/da/registre-og-services/om-de-nationale-sundhedsregistre/sygedomme-laegemidler-og-behandlinger/landspatientregisteret) in Denmark, i.e. the [Danish National Patient Register](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655913/), and how it is studied by the [Center of Excellence for Health, Immunity and Infections](https://www.chip.dk/) directed by [Jens Lundgren](https://twitter.com/ProfJLundgren)
 - [First hacker attack in France in 1834](https://www.1843magazine.com/technology/rewind/the-crooked-timber-of-humanity)
+* Robotic recruiting
+** ["Der Algorithmus diskriminiert nicht"](http://www.zeit.de/arbeit/2018-01/roboter-recruiting-bewerbungsgespraech-computer-tim-weitzel-wirtschaftsinformatiker/komplettansicht)
