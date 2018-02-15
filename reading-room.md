@@ -527,7 +527,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   * [Open Practice Badges in Psychological Science: 18 Months On](http://www.psychologicalscience.org/index.php/publications/observer/obsonline/open-practice-badges-in-psychological-science-18-months-out.html)
   * [incentives for increasing the use of bicycles](https://nowtoronto.com/news/biko-app-gets-you-free-stuff-every-time-you-bike-in-toronto/)
   * [The Code of Hammurabi: The Best Rule To Manage Risk](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) &dash; on how to align incentives across stakeholders
-
+  * [Synoptic view of the approaches to incentivising and rewarding Open Science activities based on key Open Science principles: Respect for diversity, Collaboration, Accountability, Transparency, Social responsibility and engagement, Fairness, and Impact](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/31337/MLE%20OS_4th%20thematic%20report.pdf)
 * data discovery
   * [Calling All Statisticians for the Next Wave of Biomedical Big Data Discoveries (about BD2K/BRAIN)](http://chance.amstat.org/2015/04/calling-all-statisticians/)
   * [The Hague Declaration on Knowledge Discovery in the Digital Age](http://thehaguedeclaration.com/the-hague-declaration-on-knowledge-discovery-in-the-digital-age/)
