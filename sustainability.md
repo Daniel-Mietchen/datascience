@@ -82,3 +82,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Warning - Hurricane Irma Sunday 9/10](https://www.idigbio.org/content/warning-hurricane-irma-sunday-910) &mdash; data center of open project may be affected by the hurricane
 * [Do Not Ship It](https://blog.datproject.org/2017/12/10/dont-ship/)
   - ethical considerations around peer-to-peer dat-based access to Wikipedia and reader privacy
+* [Kuala Lumpur Declaration on Cities 2030](http://wuf9.org/kuala-lumpur-declaration/)
