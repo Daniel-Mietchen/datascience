@@ -111,6 +111,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [Population stats](http://population.io/#/2000/05/10/female/Somalia/expectancy)
 * [Visualizing freely available citation data using VOSviewer](https://www.cwts.nl/blog?article=n-r2r294)
 * [live global map of winds](https://earth.nullschool.net/#current/wind/surface/level/orthographic=7.14,44.51,680)
+* [Single-atom photography](https://qz.com/1205279/photo-of-an-atom-a-scientist-captured-an-incredible-photograph/)
 
 ### Wikimedia examples
 
