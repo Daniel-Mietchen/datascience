@@ -6,6 +6,7 @@ This file hosts information regarding data management plans and how they could b
 
 * [Ten Simple Rules for Creating a Good Data Management Plan](http://dx.doi.org/10.1371/journal.pcbi.1004525)
 * [Machine-actionable data management plans (maDMPs)](https://doi.org/10.3897/rio.3.e13086)
+* [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
 
 # Policies
 
