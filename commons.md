@@ -5,7 +5,9 @@ This file collects information related to the concept of the Commons, both in ge
 * Book: [Patterns of Commoning](http://patternsofcommoning.org/contents/)
 * [Quote](https://doi.org/10.1038/543615a)
   * > Science is increasingly a collaborative enterprise, but its infrastructure, social and technical, lags behind.
-* [Wikimedia 2030: Foreword and Introductory Notes](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikimedia-2030-forward-and-introductory-notes-dac9ec013c72)
+* Wikimedia 2030
+  - [Wikimedia’s role in shaping the future of the information commons](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikimedia-2030-wikimedias-role-in-shaping-the-future-of-the-information-commons-44b20d0a9618)
+  - [Foreword and Introductory Notes](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikimedia-2030-forward-and-introductory-notes-dac9ec013c72)
 
 # By discipline
 * [Humanities Commons](http://news.hcommons.org/)
