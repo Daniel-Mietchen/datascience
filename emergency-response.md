@@ -215,9 +215,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [WHO: research and development Blueprint for action to prevent epidemics](http://www.who.int/csr/research-and-development/en/)
 
 # Related presentations
+
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
-
+* [Data sharing and public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md) &mdash; a presentation for [Endangered Data Week 2018](http://data.library.virginia.edu/endangered-data-week-2018/)
 
 # See also
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
