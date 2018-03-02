@@ -24,7 +24,7 @@ This file collects information related to the concept of the Commons, both in ge
 * multiple other agencies (e.g. NIST) have also indicated interest in a "research data commons", and USDA launched their [Ag Data Commons](https://data.nal.usda.gov/) in October 2015 (see also [this presentation](http://www.slideshare.net/csparr/ag-data-commons-a-new-usda-catalog-and-repository-for-agricultural-research-data))
 * legal structure: [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation)
 * [Jefferson Digital Commons](http://jdc.jefferson.edu/)
-      * "The Jefferson Digital Commons is a service of Thomas Jefferson University's Center for Teaching and Learning (CTL). The Commons is a showcase for Jefferson books and journals, peer-reviewed scholarly publications, unique historical collections from the University archives, and teaching tools. The Jefferson Digital Commons allows researchers and interested readers anywhere in the world to learn about and keep up to date with Jefferson scholarship."
+  * "The Jefferson Digital Commons is a service of Thomas Jefferson University's Center for Teaching and Learning (CTL). The Commons is a showcase for Jefferson books and journals, peer-reviewed scholarly publications, unique historical collections from the University archives, and teaching tools. The Jefferson Digital Commons allows researchers and interested readers anywhere in the world to learn about and keep up to date with Jefferson scholarship."
 * [Ostrom Workshop at Indiana University Bloomington](https://ostromworkshop.indiana.edu/index.html)
 * At DOE
   - [Energy Science and Technology Software Center](https://www.osti.gov/moved/estsc/) (no data commons, but for software)
@@ -35,7 +35,7 @@ This file collects information related to the concept of the Commons, both in ge
   * [IASC 2017](http://www.iasc2017.org/): Utrecht, 10-14 July 2017.
 * [Squaring Circles: The economics and governance of scholarly infrastructures](http://cameronneylon.net/blog/squaring-circles-the-economics-and-governance-of-scholarly-infrastructures/)
 * [Zenodo](https://zenodo.org/)
-    * dedicated group on [Patient data](https://zenodo.org/collection/user-patient-data) (experimental)
+  * dedicated group on [Patient data](https://zenodo.org/collection/user-patient-data) (experimental)
 * [World Intellectual Freedom Organization](https://d.wifo.org/t/shuttleworth-fellowship-application-open-draft/13)
 * [International & Interdisciplinary Research Groups (IIRGs)](http://www.iash.ed.ac.uk/research/iirgs/)
 * [Towards a European Open Science Cloud](http://indico.cern.ch/event/388437/other-view?view=standard) (event)
