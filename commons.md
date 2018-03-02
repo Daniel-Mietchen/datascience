@@ -56,7 +56,7 @@ This file collects information related to the concept of the Commons, both in ge
 # See also
 * [Startup Crunches 100 Terabytes of Data in a Record 23 Minutes](http://www.wired.com/2014/10/startup-crunches-100-terabytes-data-record-23-minutes/)
 * [Virtual Machine Manager (CERN)](https://vmm.cern.ch/vmm/)
-      * replaced by [CernVM](http://cernvm.cern.ch/portal/)
+  * replaced by [CernVM](http://cernvm.cern.ch/portal/)
 * [Audrey Tang: Stories from the Future of Democracy](https://www.youtube.com/watch?v=mxMxg4ct-D8)
 * [Wikimedia Labs](https://wikitech.wikimedia.org/wiki/Portal:Wikimedia_Labs)
   - [Jupyter notebooks at PAWS](https://wikitech.wikimedia.org/wiki/PAWS)
