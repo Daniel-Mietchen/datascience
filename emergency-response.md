@@ -170,6 +170,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
 
+## [Hurricane Harvey (2017)](https://en.wikipedia.org/wiki/Hurricane_Harvey)
+* [Automatic Detection of Flooded Roads](https://blog.insightdatascience.com/deep-learning-for-disaster-recovery-45c8cd174d7a)
+  - [code on GitHub](https://github.com/jackkwok/neural-road-inspector)
+
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
 * [The @flintwaterstudy team advocates an #OpenScience #citizenscience approach to research](https://twitter.com/joelcreswell/status/780858479858692096)
