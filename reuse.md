@@ -162,3 +162,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [How is Open Data being re-used in Europe?](https://www.europeandataportal.eu/en/highlights/how-open-data-being-re-used-europe)
 * [Communicating Use and Reuse in the Digital Collection Interface](https://medium.com/berkman-klein-center/communicating-use-and-reuse-in-the-digital-collection-interface-434d970c4d38) &mdash; on reuse policies at various GLAM institutions
 * [University of Oklahoma Astrophysicists Discover Extragalactic Planets for First Time](http://www.ou.edu/web/news_events/articles/news_2018/ou-discover-planets.html) &mdash; based on open data from NASA's Chandra X-ray Observatory
+* [Crowdsourcing 600 Years of Human History](https://directorsblog.nih.gov/2018/03/13/crowdsourcing-600-years-of-human-history/) &mdash; uses family-level genealogy data to analyze population-level history
