@@ -16,7 +16,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Science journalism at the end of the line?](http://ways.org/en/blogs/2009/jun/28/science_journalism_at_the_end_of_the_line)  
 > Science journalists could enrich their current "scientists found out" reports with some of the "scientists are investigating - let's see how they do it!" variant, or reports on topics like animal rights in research with more pertinent data. Finally, the public would benefit from all of this - shorter research cycles, more efficient use of research funds, and a better understanding of what it actually means when scientists "found out" or "are investigating" something.
 
-# Examples of science journalism
+# Examples of (mostly science) journalism
 ## using data
 
 * [The History Of Europe Lies In British People's DNA](http://www.buzzfeed.com/christinekenneally/the-history-of-europe-lies-in-british-peoples-dna)
@@ -27,6 +27,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Concussion &mdash; Journalist Alan Schwarz crunches the numbers](https://www.sas.com/en_us/insights/articles/analytics/concussion--alan-schwarz-crunches-numbers-and-breaks-a-scandal-w.html)
 * [More than a Million Pro-Repeal Net Neutrality Comments were Likely Faked](https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6)
 * [Ecological footprint of electric cars](http://www.spektrum.de/news/wie-ist-die-umweltbilanz-von-elektroautos/1514423)
+* [A story about team and player stats from the Portland Trail Blazers (basketball)](http://www.espn.com/nba/story/_/id/22856950/zach-lowe-damian-lillard-cj-mccollum-portland-trail-blazers-nba)
 
 ### missed opportunities
 
