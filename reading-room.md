@@ -117,6 +117,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
   - [The Visual Microphone: Passive Recovery of Sound from Video](https://www.youtube.com/watch?v=FKXOucXB4a8)
     - commentary: [If you watch closely enough, everything is a speaker](https://kottke.org/18/01/if-you-watch-closely-enough-everything-is-a-speaker)
   - [An Artist Uses an iPhone to Visualize Sounds in A.R.](https://www.wired.com/story/an-artist-uses-an-iphone-to-visualize-sounds-in-ar/)
+  - [Sonification at Virginia Tech (in The Cube)](https://www.lebigdata.fr/virginia-tech-sonification-donnees)
+    - more info on [The Cube](http://www.collegiatetimes.com/news/sadie-project-works-to-deepen-the-understanding-of-data-sonification/article_4ed20eaa-0f5f-11e8-adb5-a3570f439e06.html)
 * [Is software a primary product of science?](http://ivory.idyll.org/blog/2015-more-on-software.html)
 * [Why you can't run your company with big data](https://www.linkedin.com/pulse/why-you-cant-run-your-company-data-rob-lawrence)
 * [Why Big Data And The Internet of Things Are A Perfect Match](http://www.datamation.com/applications/why-big-data-and-the-internet-of-things-are-a-perfect-match.html)
