@@ -124,6 +124,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [WikiPulse](http://wikipulse.herokuapp.com/)
   * fork: [WikiSpeed](http://waldyrious.net/wikispeed/)
 * [Wikimedia Grafana graphs of Wikidata profiling information](http://addshore.com/2015/09/wikimedia-grafana-graphs-of-wikidata-profiling-information/)
+  - [example: Wikidata edits](https://grafana.wikimedia.org/dashboard/db/wikidata-edits?refresh=1m&orgId=1)
 * [Langton's ant](https://es.wikipedia.org/w/index.php?title=Hormiga_de_Langton&oldid=82325071) (on Spanish Wikipedia)
 * [selection of other examples](https://en.wikipedia.org/wiki/User:Daniel_Mietchen/Talks/Wikipedia_Science_Conference_2015#Visualizations)
 * [Wikipedia and Wikidata Realtime Edit Stats](http://wikipedia-edits.herokuapp.com/)
