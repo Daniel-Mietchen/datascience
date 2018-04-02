@@ -29,9 +29,10 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Ecological footprint of electric cars](http://www.spektrum.de/news/wie-ist-die-umweltbilanz-von-elektroautos/1514423)
 * [A story about team and player stats from the Portland Trail Blazers (basketball)](http://www.espn.com/nba/story/_/id/22856950/zach-lowe-damian-lillard-cj-mccollum-portland-trail-blazers-nba)
 
-### missed opportunities
+### close misses
 
 * [How the First Farmers Changed History](http://www.nytimes.com/2016/10/18/science/ancient-farmers-archaeology-dna.html) &mdash; a very nice write-up but does not engage with the data directly
+* [In to Asia &mdash; New evidence about the ancient humans who occupied Asia is cascading in: the story of our species needs rewriting again](https://aeon.co/essays/new-evidence-about-the-human-occupation-of-asia-is-cascading-in) &mdash; a very nice write-up tying together different strands of evidence about the role of Asia in hominin evolution during the Pleistocene, but it too does not present any data directly other than the cave art video from Sulawesi
 
 ## about applications of data science
 
