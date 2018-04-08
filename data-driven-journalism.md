@@ -28,6 +28,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [More than a Million Pro-Repeal Net Neutrality Comments were Likely Faked](https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6)
 * [Ecological footprint of electric cars](http://www.spektrum.de/news/wie-ist-die-umweltbilanz-von-elektroautos/1514423)
 * [A story about team and player stats from the Portland Trail Blazers (basketball)](http://www.espn.com/nba/story/_/id/22856950/zach-lowe-damian-lillard-cj-mccollum-portland-trail-blazers-nba)
+* [Here's What Will Happen After a Huge Earthquake Inevitably Hits California](https://web.archive.org/web/20180408014451/https://www.vice.com/en_us/article/paxz4g/heres-what-will-happen-after-a-huge-earthquake-inevitably-hits-california) &mdash; discusses and links to relevant data; no visualizations
 
 ### close misses
 
