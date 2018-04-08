@@ -25,6 +25,7 @@ This file collects information about the ethics of data science as well as about
   * [Office for Human Research Protections (OHRP) Database for Registered IORGs & IRBs, Approved FWAs, and Documents Received in Last 60 Days](http://ohrp.cit.nih.gov/search/irbsearch.aspx?styp=bsc)
   * [Ethics panel blocks proposed Zika vaccine research](https://www.statnews.com/2017/02/28/zika-vaccine-ethics-panel/)
     - [report of the ethics panel](https://www.niaid.nih.gov/sites/default/files/EthicsZikaHumanChallengeStudiesReport2017.pdf)
+  * The [Retraction database](http://retractiondatabase.org/) currently has 397 hits when searching for "ethical" under "Reason(s) for Retraction" (see [this ticket](https://github.com/Daniel-Mietchen/ideas/issues/769))
 
 
 # See also
