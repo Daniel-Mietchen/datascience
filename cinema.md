@@ -152,6 +152,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 # Maybe watch in the future
 
+* [Image Synthesis From Text With Deep Learning | Two Minute Papers #116](https://www.youtube.com/watch?v=rAbhypxs1qQ)
+* [Which country does the most good for the world? | Simon Anholt](https://www.youtube.com/watch?v=1X7fZoDs9KU)
 * [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
 * [Become a Citizen Data Scientist](https://www.youtube.com/watch?v=zgijAGkdjZc)
 * Reconciliation in OpenRefine for Wikidata
@@ -166,6 +168,7 @@ This file collects examples of talks, lectures and other forms of presentations 
   * commentary: [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 * [The World We Want: OpenStreetMap and the Sustainable Development Goals](http://2016.stateofthemap.org/2016/the-world-we-want-openstreetmap-and-the-sustainable-development-goals/)
 * [Democratisation of Knowledge with Katherine Maher](https://www.youtube.com/watch?v=8BuyKmjy7Rw)
+* [A DARPA Perspective on Artificial Intelligence](https://www.youtube.com/watch?v=-O01G3tSYpU)
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
 * [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
@@ -205,6 +208,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Ending Pandemics in Our Lifetime](https://www.youtube.com/watch?v=n_9cX1Ilvf0)
 * [An Afternoon with NASA Astronaut Kate Rubins (HHS Only)](https://videocast.nih.gov/summary.asp?Live=23253&bhcp=1)
 * [What happens when our computers get smarter than we are?](https://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are)
+* [Tensorflow DeepLab v3 Xception Cityscapes](https://www.youtube.com/watch?v=ATlcEDSPWXY)
 * [Paywall: The Business of Scholarship. A film about Open Access.](https://twitter.com/openscience/status/864711219663392768)
 * [Kate Robinowitz: Open Data + You = Better Cities - Codeland - NYC 2017](https://www.youtube.com/watch?v=xbwrKwO8NIE)
 * [Economist Max Roser—Our World in Data](https://www.youtube.com/watch?v=Ia-3ud1TijA)
