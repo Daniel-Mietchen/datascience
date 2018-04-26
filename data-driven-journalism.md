@@ -137,6 +137,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
   - [background from Coding Da Vinci project](https://codingdavinci.de/projects/2017/musik_lovers.html#project-name)
 * [further Wikimedia examples](http://infodisiac.com/Wikimedia/Visualizations/)
 * [See also](http://seealso.org/)
+* [Network graph of sister cities with over 1 million inhabitants created with Wikidata, Gephi & SigmaJS](http://exploring-data.com/info/big-sister-cities/) &mdash; seen via [this tweet](https://twitter.com/DatavisDaily/status/989474347881558016)
 
 ## Visualization tools
 
