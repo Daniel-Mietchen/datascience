@@ -102,7 +102,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [Surging Seas: map of sea level rise](http://seeing.climatecentral.org/#12/52.3702/4.8952?show=lockinAnimated&level=3&unit=feet&pois=hide)
 * [72 Hours of Global Air Traffic in 13 seconds](https://www.youtube.com/watch?v=8hedw5jKgzw)
   * [commentary](http://metrocosm.com/global-air-traffic-map/)
-* [200k years of human history](https://www.youtube.com/watch?v=-6Wu0Q7x5D0)
+* [200k years of human history](https://www.youtube.com/watch?v=-6Wu0Q7x5D0) &mdash; "The History of the World: Every Year"
   * [similar for 5k years of European history](http://www.openculture.com/2016/10/the-history-of-europe-5000-years-animated-in-a-timelapse-map.html)
 * simple: [visualizing reading progress](http://wonkhe.com/blogs/implementing-ref2021-needs-the-input-of-the-whole-research-community/)
 * [A history of global living conditions in 5 charts](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/)
