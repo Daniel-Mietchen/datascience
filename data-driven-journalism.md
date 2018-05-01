@@ -81,6 +81,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 ## Individual examples
 
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+* [A Time-Lapse Map of Every Nuclear Explosion Since 1945](https://www.youtube.com/watch?v=LLCF7vPanrY)
 * [VisTools &mdash; data visualization tools](http://keshif.me/demo/VisTools)
 * [Global shark tracker](http://www.ocearch.org/)
 * [What's there](http://www.whatsthere.co/) (real-time feed of Instagram photos by location)
@@ -115,6 +116,8 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [Visualizing freely available citation data using VOSviewer](https://www.cwts.nl/blog?article=n-r2r294)
 * [live global map of winds](https://earth.nullschool.net/#current/wind/surface/level/orthographic=7.14,44.51,680)
 * [Single-atom photography](https://qz.com/1205279/photo-of-an-atom-a-scientist-captured-an-incredible-photograph/)
+* [10 world maps highlighting specific aspects of our planet's countries](https://www.youtube.com/watch?v=NsbS5j2duV8)
+* [World War II on All Fronts: Every Day](https://www.youtube.com/watch?v=WZJAsARQ8c4)
 
 ### Wikimedia examples
 
