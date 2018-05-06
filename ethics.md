@@ -36,3 +36,4 @@ This file collects information about the ethics of data science as well as about
 * [Federal Policy for the Protection of Human Subjects](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)
 * Data Carpentry have [published their IRB proposal and determination letter](https://twitter.com/datacarpentry/status/798672341106446337).
 * [Make open data sharing a no-brainer for ethics committees](https://open-brain-consent.readthedocs.io/en/latest/index.html)
+* [You Can’t Opt Out Of Sharing Your Data, Even If You Didn’t Opt In](https://fivethirtyeight.com/features/you-cant-opt-out-of-sharing-your-data-even-if-you-didnt-opt-in/)
