@@ -15,6 +15,7 @@ This file collects information on data archaeology, data rescue and related matt
 * [NASA confirms amateur astronomer has discovered a lost satellite](https://doi.org/10.1126/science.aat1319)
   - [NASA version](https://www.nasa.gov/feature/goddard/2018/nasa-image-confirmed)
   - [Longer story](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/01/31/nasa-lost-contact-with-a-satellite-12-years-ago-an-amateur-just-found-its-signal/)
+  - [another case where citizen astronomers take temporary control over an abandoned NASA satellite](https://en.wikipedia.org/wiki/International_Cometary_Explorer#Further_contact)
 
 # Missing pieces
 
