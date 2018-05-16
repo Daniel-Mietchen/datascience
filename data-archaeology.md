@@ -12,6 +12,9 @@ This file collects information on data archaeology, data rescue and related matt
 * [Wikipedia's oldest articles](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia%27s_oldest_articles)
 * [Old Weather](https://www.oldweather.org/)
 * [Digital technology helps decipher hidden passages on two pages masked with brown paper](https://www.theguardian.com/books/2018/may/15/anne-franks-dirty-jokes-found-diary-pages-covered-brown-paper)
+* [NASA confirms amateur astronomer has discovered a lost satellite](https://doi.org/10.1126/science.aat1319)
+  - [NASA version](https://www.nasa.gov/feature/goddard/2018/nasa-image-confirmed)
+  - [Longer story](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/01/31/nasa-lost-contact-with-a-satellite-12-years-ago-an-amateur-just-found-its-signal/)
 
 # Missing pieces
 
