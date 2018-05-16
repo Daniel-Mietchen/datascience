@@ -11,6 +11,7 @@ This file collects information on data archaeology, data rescue and related matt
 * The meteorological data gathered by [Billy Barr](https://en.wikipedia.org/wiki/Billy_Barr_(naturalist))
 * [Wikipedia's oldest articles](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia%27s_oldest_articles)
 * [Old Weather](https://www.oldweather.org/)
+* [Digital technology helps decipher hidden passages on two pages masked with brown paper](https://www.theguardian.com/books/2018/may/15/anne-franks-dirty-jokes-found-diary-pages-covered-brown-paper)
 
 # Missing pieces
 
