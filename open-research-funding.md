@@ -170,3 +170,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [Aaron Swartz and the Price of Information](http://www.osaarchivum.org/press-room/announcements/Aaron-Swartz-and-Price-Information)
 * [Liberapay](https://liberapay.com/) "Liberapay is a recurrent donations platform [to] help you fund the creators and projects you appreciate."
 * [Should research funding be allocated at random?](http://deevybee.blogspot.de/2018/04/should-research-funding-be-allocated-at.html)
+* [Abstracts of both failed and successful ERC starting grant applications 2014-2016](https://www.asktheeu.org/en/request/abstracts_of_both_failed_and_suc) (FOI request to ERC, denied)
