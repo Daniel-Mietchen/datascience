@@ -57,6 +57,7 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 ## EU
 
 * [An Analysis of Open Data and Open Science  Policies in Europe, May 2017](http://sparceurope.org/new-sparc-europe-report-analyses-open-data-open-science-policies-europe/)
+* [New Commission guidance supports EU Member States in transition to Open Science](https://ec.europa.eu/info/news/new-commission-guidance-supports-eu-member-states-transition-open-science-2018-apr-25_en)
 
 ### FP7
 * Open Access Pilot
