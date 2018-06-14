@@ -154,6 +154,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 * [Image Synthesis From Text With Deep Learning | Two Minute Papers #116](https://www.youtube.com/watch?v=rAbhypxs1qQ)
 * [Which country does the most good for the world? | Simon Anholt](https://www.youtube.com/watch?v=1X7fZoDs9KU)
+* [A teen scientist's invention to help wounds heal](https://www.ted.com/talks/anushka_naiknaware_a_teen_scientist_s_invention_to_help_wounds_heal)
 * [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
 * [Become a Citizen Data Scientist](https://www.youtube.com/watch?v=zgijAGkdjZc)
 * Reconciliation in OpenRefine for Wikidata
