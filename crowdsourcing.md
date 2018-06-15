@@ -152,3 +152,9 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Transcribe Bentham](http://blogs.ucl.ac.uk/transcribe-bentham/) &mdash; about 40k manuscripts by London philosopher Jeremy Bentham (1748 – 1832)
 * [People-led Research: A strange, sleeping giant](https://medium.com/@gbathree/people-led-research-a-strange-sleeping-giant-8b8f6e11ec4f)
 * [Aaron Swartz and the Price of Information](http://www.osaarchivum.org/press-room/announcements/Aaron-Swartz-and-Price-Information)
+* [Beluga Bits](https://www.zooniverse.org/projects/stephenresearch/beluga-bits)
+  - [introductory blog post](https://daily.zooniverse.org/2018/06/11/new-project-beluga-bits/)
+  - seen via https://twitter.com/astromonocyte/status/1006944507143876608
+* [How can citizen science contribute to data rescue?](https://twitter.com/HugDorothea/status/1006109985154138112) &mdash; on usability / user experience
+  - positive example: https://www.oldweather.org/ (engaging)
+  - negative example: http://www.data-rescue-at-home.org/ 
