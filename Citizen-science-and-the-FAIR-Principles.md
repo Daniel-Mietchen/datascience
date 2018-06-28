@@ -18,6 +18,7 @@ Of particular interest is the relationship between the FAIR Principles and the T
   - [at ECSA 2018](https://twitter.com/EvoMRI/status/1003899812939431938)
   - [with Britt Holbrook](https://twitter.com/jbrittholbrook/status/1012058309271138304)
 * [FAIR Data Expert Group of the European Commission](https://github.com/FAIR-Data-EG)
+  - [Wikidata case study](https://docs.google.com/document/d/1FcnBOPUm-9gW3gjF18FDoPNUvIn-ojduLeLe0Y8yEH8/edit#bookmark=id.s6i17fpl2em8)
 * [ECSA Working Group on Open Science](https://ecsa.citizen-science.net/working-groups/citizen-science-and-open-science)
   - [Wikidata case study](https://ecsa.citizen-science.net/working-groups/citizen-science-and-open-science/wikidata-collaborative-public-domain-knowledge-graph)
 * [Poster on Open Science and Citizen Science](https://commons.wikimedia.org/wiki/File:Citizen_Science_and_Open_Science_would_benefit_from_closer_interaction_-_20180604_100410.jpg)
