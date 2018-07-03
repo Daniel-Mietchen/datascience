@@ -37,3 +37,6 @@ This file collects information about the ethics of data science as well as about
 * Data Carpentry have [published their IRB proposal and determination letter](https://twitter.com/datacarpentry/status/798672341106446337).
 * [Make open data sharing a no-brainer for ethics committees](https://open-brain-consent.readthedocs.io/en/latest/index.html)
 * [You Can’t Opt Out Of Sharing Your Data, Even If You Didn’t Opt In](https://fivethirtyeight.com/features/you-cant-opt-out-of-sharing-your-data-even-if-you-didnt-opt-in/)
+* [(ethical) Compliance research at the University of Virginia](http://www.virginia.edu/vpr/irb/)
+  - broken link to 
+    > If you have a question regarding which IRB you should submit to please see this document.
