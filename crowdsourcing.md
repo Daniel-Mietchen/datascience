@@ -158,3 +158,4 @@ This file collects information on crowdsourcing in relation to research, especia
 * [How can citizen science contribute to data rescue?](https://twitter.com/HugDorothea/status/1006109985154138112) &mdash; on usability / user experience
   - positive example: https://www.oldweather.org/ (engaging)
   - negative example: http://www.data-rescue-at-home.org/ 
+* [frogwatching - charting climate change’s impact in the here and now ](https://theconversation.com/friday-essay-frogwatching-charting-climate-changes-impact-in-the-here-and-now-98161)
