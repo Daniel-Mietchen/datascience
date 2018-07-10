@@ -13,3 +13,6 @@ As more and more of the world's human population is living in urban environments
 * [Here’s how creative city officials want to make open data more useful](https://sunlightfoundation.com/2017/06/29/heres-how-creative-city-officials-want-to-make-open-data-more-useful/)
 * [Tactical Data Engagement](https://sunlightfoundation.com/2017/03/15/help-us-improve-how-cities-connect-open-data-to-residents-lives-with-sunlights-new-tactical-data-engagement-guide/)
 * [Global Covenant of Mayors](http://www.globalcovenantofmayors.org/)
+* [How open data is driving UK smart city innovation](http://www.itpro.co.uk/smart-city/31433/how-open-data-is-driving-uk-smart-city-innovation)
+* [Smart cities to become the norm by 2025 ](http://www.itpro.co.uk/big-data/30541/smart-cities-to-become-the-norm-by-2025)
+  - see associated report [Data Age 2025: The Evolution of Data to Life-Critical](https://www.seagate.com/files/www-content/our-story/trends/files/Seagate-WP-DataAge2025-March-2017.pdf)
