@@ -678,3 +678,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   - ["Der Algorithmus diskriminiert nicht"](http://www.zeit.de/arbeit/2018-01/roboter-recruiting-bewerbungsgespraech-computer-tim-weitzel-wirtschaftsinformatiker/komplettansicht)
 * [The future of data is open &mdash; A look at some challenges and solutions to working with big data](https://www.nceas.ucsb.edu/news/future-of-data-is-open)
 * [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
+* [Scholarly publishing is broken. Here’s how to fix it](https://aeon.co/ideas/scholarly-publishing-is-broken-heres-how-to-fix-it)
