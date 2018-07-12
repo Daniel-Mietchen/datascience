@@ -31,6 +31,11 @@ as key factors on how to achieve that. There are others, and the precise mixture
 
 * [background](http://www.sciencemag.org/news/2017/04/giant-viruses-found-austrian-sewage-fuel-debate-over-potential-fourth-domain-life)
 
+## Diffuse intrinsic pontine glioma
+
+* From the abstract (emphasis added):
+  - > We collated data from 157 unpublished cases of pediatric high-grade glioma and diffuse intrinsic pontine glioma and **20 publicly available datasets** in an integrated analysis of >1,000 cases. We identified co-segregating mutations in histone-mutant subgroups including loss of FBXW7 in H3.3G34R/V, TOP3A rearrangements in H3.3K27M, and BCOR mutations in H3.1K27M. Histone wild-type subgroups are refined by the presence of key oncogenic events or methylation profiles more closely resembling lower-grade tumors. Genomic aberrations increase with age, highlighting the infant population as biologically and clinically distinct. Uncommon pathway dysregulation is seen in small subsets of tumors, further defining the molecular diversity of the disease, opening up avenues for biological study and providing a basis for functionally defined future treatment stratification.
+
 ## JATS
 [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/) (PMC) is a repository for scholarly literature in the biomedical field. Some of its content is available under terms that allow for [Reusing, Revising, Remixing and Redistributing Research](http://blogs.plos.org/blog/2012/10/23/reusing-revising-remixing-and-redistributing-research/), e.g. to extract audio and video materials from these articles and upload them to Wikimedia Commons, as the [Open Access Media Importer](http://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) does. 
 
