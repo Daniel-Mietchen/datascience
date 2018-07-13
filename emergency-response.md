@@ -182,8 +182,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
 * [The @flintwaterstudy team advocates an #OpenScience #citizenscience approach to research](https://twitter.com/joelcreswell/status/780858479858692096)
   * sharing thoughts, plans, methods, insights, [data](http://flintwaterstudy.org/2015/12/complete-dataset-lead-results-in-tap-water-for-271-flint-samples/), activities through a blog written in accessible language ([http://flintwaterstudy.org/](http://flintwaterstudy.org/)) to engage the affected community in the research efforts addressing the serious water quality issues
-## [Tham Luang cave rescue](https://en.wikipedia.org/wiki/Tham_Luang_cave_rescue)
+## [Tham Luang cave rescue in Thailand](https://en.wikipedia.org/wiki/Tham_Luang_cave_rescue)
 * [Data from half a world away helps rescue stranded Thai football team](https://www.youtube.com/watch?v=RVU3sEn5_uU)
+  - [some more background](https://twitter.com/Intermap/status/1016344953973346304)
 
 
 # Organizations
