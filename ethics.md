@@ -40,3 +40,4 @@ This file collects information about the ethics of data science as well as about
 * [(ethical) Compliance research at the University of Virginia](http://www.virginia.edu/vpr/irb/)
   - broken link to 
     > If you have a question regarding which IRB you should submit to please see this document.
+* [Code of conduct for rescuers involved in the Tham Luang cave rescue operation in Thailand](https://twitter.com/SSaralnuch/status/1016983113493168129)
