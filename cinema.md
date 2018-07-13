@@ -177,6 +177,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
 * [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
+* [Why Open Blockchains Matter](https://www.youtube.com/watch?v=uZPIz3ArQww) &mdash; seen [here](https://twitter.com/BKBrianKelly/status/1015985989574160385)
 * older [TED MED](https://www.youtube.com/user/tedmed) talks 
 * [Sandra Collins: Memory Keepers](https://www.youtube.com/watch?v=i4mbHb5wqKo)
 * [Frank Miedema: Science in Transition](https://www.youtube.com/watch?v=sUf1ajkIAhY)
