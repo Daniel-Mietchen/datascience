@@ -25,3 +25,9 @@ This file collects information pertaining to (workforce and subject) diversity, 
 * [The Untold History of Women in Science and Technology](https://www.whitehouse.gov/women-in-STEM)
 * [Australian students recreate Martin Shkreli price-hike drug in school lab](https://www.theguardian.com/science/2016/dec/01/australian-students-recreate-martin-shkreli-price-hike-drug-in-school-lab)
 * [Diversity in Open Source Is Even Worse Than in Tech Overall](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/)
+* Harassment
+  - [Why science breeds a culture of sexism ](https://www.theguardian.com/science/2018/jul/07/why-science-is-breeding-ground-for-sexism)
+  - [Breaking the silence - preventing harassment and sexual misconduct](https://www.breakingthesilence.cam.ac.uk/)
+  - [Does Responding to Online Harassment Work?](https://civilservant.io/twitter_response_announcement-12-2017.html)
+
+ 
