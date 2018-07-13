@@ -59,6 +59,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [The Mistakes We Made Responding to Ebola](http://fortune.com/2017/02/28/brainstorm-health-02-28-intro/)
 * [Massive Ebola data site planned to combat outbreaks &mdash; An international partnership seeks African leadership to organize information about the disease](https://doi.org/10.1038/nature.2017.22545)
 * [Lessons learned](http://www.wired.co.uk/article/ebola-vaccine-outbreak)
+* [Ebola virus sequencing resources](http://artic.network/ebov/) &mdash; seen [here](https://twitter.com/arambaut/status/1004038266167943170)
 
 ## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Creating a rapid response – relevant to Zika virus](http://www.collabchem.com/2016/01/26/creating-a-rapid-response-relevant-to-zika-virus/)
