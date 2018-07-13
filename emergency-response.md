@@ -185,6 +185,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ## [Tham Luang cave rescue in Thailand](https://en.wikipedia.org/wiki/Tham_Luang_cave_rescue)
 * [Data from half a world away helps rescue stranded Thai football team](https://www.youtube.com/watch?v=RVU3sEn5_uU)
   - [some more background](https://twitter.com/Intermap/status/1016344953973346304)
+  - [code of conduct for rescuers](https://twitter.com/SSaralnuch/status/1016983113493168129)
 
 
 # Organizations
