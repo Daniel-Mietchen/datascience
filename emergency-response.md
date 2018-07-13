@@ -184,7 +184,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   * sharing thoughts, plans, methods, insights, [data](http://flintwaterstudy.org/2015/12/complete-dataset-lead-results-in-tap-water-for-271-flint-samples/), activities through a blog written in accessible language ([http://flintwaterstudy.org/](http://flintwaterstudy.org/)) to engage the affected community in the research efforts addressing the serious water quality issues
 ## [Tham Luang cave rescue in Thailand](https://en.wikipedia.org/wiki/Tham_Luang_cave_rescue)
 * [Data from half a world away helps rescue stranded Thai football team](https://www.youtube.com/watch?v=RVU3sEn5_uU)
-  - [some more background](https://twitter.com/Intermap/status/1016344953973346304)
+  - [some background](https://twitter.com/Intermap/status/1016344953973346304)
+  - [some more background](http://www.intermap.com/pressreleases/2018/07/intermap-technologies-assists-in-rescue-of-thai-soccer-team)
+    - > In partnership with our local partners, Mappoint Asia Thailand Public Company, and Chiang Rai University, Intermap supplied its newly-released NEXTMap One, a 1-meter resolution elevation dataset, to the Thai Department of National Parks on June 27th. This high resolution elevation data was supplied within three hours, and used in conjunction with other sensors to identify elevation coordinates, prioritize potential drilling points, identify drainage paths, provide a detailed and inter-active 3D model of the area, and determine alternate routes into the caves to help rescue the boys. NEXTMap One, which was provided for free, is substantially more detailed than the existing elevation data available from commercial and government sources.
   - [code of conduct for rescuers](https://twitter.com/SSaralnuch/status/1016983113493168129)
 
 
