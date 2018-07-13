@@ -149,6 +149,8 @@ This file collects examples of talks, lectures and other forms of presentations 
   - introduces [Open Litter Map](https://openlittermap.com/)
 * [The Visual Microphone: Passive Recovery of Sound from Video](https://www.youtube.com/watch?v=FKXOucXB4a8)
   - commentary: [If you watch closely enough, everything is a speaker](https://kottke.org/18/01/if-you-watch-closely-enough-everything-is-a-speaker)
+* [Data from half a world away helps rescue stranded Thai football team](https://www.youtube.com/watch?v=RVU3sEn5_uU)
+  - company specialized in geomodelling provides detailed map of the cave, which was critical to rescue attempts
 
 # Maybe watch in the future
 
