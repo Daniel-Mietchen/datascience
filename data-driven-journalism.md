@@ -119,6 +119,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [10 world maps highlighting specific aspects of our planet's countries](https://www.youtube.com/watch?v=NsbS5j2duV8)
 * [World War II on All Fronts: Every Day](https://www.youtube.com/watch?v=WZJAsARQ8c4)
 * [Human Population Through Time](https://www.youtube.com/watch?v=PUwmA3Q0_OE)
+* [Global Infections by the Numbers](https://www.scientificamerican.com/article/global-infections-by-the-numbers/)
 
 ### Wikimedia examples
 
