@@ -151,6 +151,7 @@ This file collects examples of talks, lectures and other forms of presentations 
   - commentary: [If you watch closely enough, everything is a speaker](https://kottke.org/18/01/if-you-watch-closely-enough-everything-is-a-speaker)
 * [Data from half a world away helps rescue stranded Thai football team](https://www.youtube.com/watch?v=RVU3sEn5_uU)
   - company specialized in geomodelling provides detailed map of the cave, which was critical to rescue attempts
+* [How Pandemics Spread](https://www.youtube.com/watch?v=UG8YbNbdaco) &mdash; really nice 7-min introduction to the topic
 
 # Maybe watch in the future
 
