@@ -33,8 +33,13 @@ as key factors on how to achieve that. There are others, and the precise mixture
 
 ## Diffuse intrinsic pontine glioma
 
-* From the abstract (emphasis added):
+* From the abstract of [Integrated Molecular Meta-Analysis of 1,000 Pediatric High-Grade and Diffuse Intrinsic Pontine Glioma](https://doi.org/10.1016/j.ccell.2017.08.017) (emphasis added):
   - > We collated data from 157 unpublished cases of pediatric high-grade glioma and diffuse intrinsic pontine glioma and **20 publicly available datasets** in an integrated analysis of >1,000 cases. We identified co-segregating mutations in histone-mutant subgroups including loss of FBXW7 in H3.3G34R/V, TOP3A rearrangements in H3.3K27M, and BCOR mutations in H3.1K27M. Histone wild-type subgroups are refined by the presence of key oncogenic events or methylation profiles more closely resembling lower-grade tumors. Genomic aberrations increase with age, highlighting the infant population as biologically and clinically distinct. Uncommon pathway dysregulation is seen in small subsets of tumors, further defining the molecular diversity of the disease, opening up avenues for biological study and providing a basis for functionally defined future treatment stratification.
+
+## H1N1 viral sequences
+
+* From the abstract of [Novel antigenic shift in HA sequences of H1N1 viruses detected by big data analysis](https://doi.org/10.1016/J.MEEGID.2017.03.028) (emphasis added):
+  - > The influenza virus H1N1 has been prevalent all over the world for nearly a century. Many studies on its evolutionary history, substitution rate and antigenicity-associated sites have been done with small datasets. To have a complete view, we analysed **3171 full-length HA sequences from human H1N1 viruses sampled from 1918 to 2016**, and discovered a new clade has formed with sequences isolated in Iran. 
 
 ## JATS
 [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/) (PMC) is a repository for scholarly literature in the biomedical field. Some of its content is available under terms that allow for [Reusing, Revising, Remixing and Redistributing Research](http://blogs.plos.org/blog/2012/10/23/reusing-revising-remixing-and-redistributing-research/), e.g. to extract audio and video materials from these articles and upload them to Wikimedia Commons, as the [Open Access Media Importer](http://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) does. 
