@@ -99,6 +99,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Why it takes so long to develop a vaccine against a new epidemic](http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
 * [Why we still don’t know all of the ways you can contract Zika](http://qz.com/740196/why-we-still-dont-know-all-of-the-ways-you-can-contract-zika/)
 * [A research and development Blueprint for action to prevent epidemics](http://www.who.int/csr/research-and-development/en/)
+* [High-resolution structure of the Zika virus](https://web.archive.org/web/20180715182404/https://www.nytimes.com/2018/06/26/health/zika-virus-image.html)
 
 # Earthquakes
 ## Generic
