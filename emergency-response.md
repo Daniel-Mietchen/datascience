@@ -16,6 +16,8 @@ While I started this repo in an open-ended fashion, it has since evolved a focus
 
 
 # Epidemics
+* [Global Infections by the Numbers](https://www.scientificamerican.com/article/global-infections-by-the-numbers/)
+
 ## [Global spread of H5N1 in 2005](https://en.wikipedia.org/wiki/Global_spread_of_H5N1_in_2005)
 * Global Initiative on Sharing Avian Influenza Data (GISAID)
   * [paper](http://doi.org/10.1038/442981a)
