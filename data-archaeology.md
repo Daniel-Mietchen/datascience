@@ -29,3 +29,5 @@ I remember from the time of my PhD a story that some physically broken [phonogra
     - [example map](http://british-library.georeferencer.com/map/y6J21at7ahoCxzxkx5VoWu/201712151550-OBT9Z9/visualize)
 * [Cuneiform tablets from Bassetki reveal location of ancient royal city of Mardaman](https://www.uni-tuebingen.de/en/newsfullview-landingpage/article/cuneiform-tablets-from-bassetki-reveal-location-of-ancient-royal-city-of-mardaman.html)
 * [XARXES: connecting the lives of our ancestors](http://www.cvc.uab.es/outreach/?p=291) by mining and semantically annotating hand-written historic documents
+* [Heatwave unveils ancient settlements in Wales](https://www.bbc.com/news/amp/uk-wales-44746447)
+  - if it does so this time, maybe earlier heatwaves did so as well &mdash; question is where to find suitable data
