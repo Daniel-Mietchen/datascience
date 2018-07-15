@@ -680,3 +680,5 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [The future of data is open &mdash; A look at some challenges and solutions to working with big data](https://www.nceas.ucsb.edu/news/future-of-data-is-open)
 * [Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
 * [Scholarly publishing is broken. Here’s how to fix it](https://aeon.co/ideas/scholarly-publishing-is-broken-heres-how-to-fix-it)
+* [Self-driving cars urgently need ‘ethical black boxes’ so that we can all learn from their mistakes](https://www.theguardian.com/science/political-science/2018/apr/13/self-driving-car-companies-should-not-be-allowed-to-investigate-their-own-crashes)
+  - > [Most driverless cars do log data but only in a proprietary format. We should not have to rely on the goodwill of companies choosing to donate their data.](https://twitter.com/alan_winfield/status/1015631096124530689)
