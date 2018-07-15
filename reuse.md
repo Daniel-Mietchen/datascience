@@ -174,3 +174,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [University of Oklahoma Astrophysicists Discover Extragalactic Planets for First Time](http://www.ou.edu/web/news_events/articles/news_2018/ou-discover-planets.html) &mdash; based on open data from NASA's Chandra X-ray Observatory
 * [Crowdsourcing 600 Years of Human History](https://directorsblog.nih.gov/2018/03/13/crowdsourcing-600-years-of-human-history/) &mdash; uses family-level genealogy data to analyze population-level history
 * [Reusing photos from INaturalist to study goat molt](https://www.inaturalist.org/blog/16807-mountain-goat-molts-inat-photos-and-climate-change)
+* [Global Infections by the Numbers](https://www.scientificamerican.com/article/global-infections-by-the-numbers/) &mdash; journalistic infographic reusing data from various sources
