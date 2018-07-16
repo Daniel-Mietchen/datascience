@@ -25,6 +25,10 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Global Sustainability Research Network (GSRN)](https://sustainability.hcommons.org/)
 * [Data for SDGs](http://www.data4sdgs.org/)
 * [UNESCO Science Report](http://en.unesco.org/unesco_science_report)
+
+* [The 2018 Atlas of Sustainable Development Goals: an all-new visual guide to data and development ](http://blogs.worldbank.org/opendata/2018-atlas-sustainable-development-goals-all-new-visual-guide-data-and-development)
+  > It’s filled with annotated data visualizations, which can be reproducibly built from source code and data. You can view the SDG Atlas online, download the PDF publication (30Mb), and access the data and source code behind the figures.
+
 # Research-related sustainability
 
 * [Digital Preservation Network](http://dpn.org/)
