@@ -684,3 +684,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   - > [Most driverless cars do log data but only in a proprietary format. We should not have to rely on the goodwill of companies choosing to donate their data.](https://twitter.com/alan_winfield/status/1015631096124530689)
 * [Ethicists Call for More Scrutiny of ‘Human-Challenge’ Trials](https://web.archive.org/web/20180422001621/https://www.nytimes.com/2018/04/20/health/zika-study-ethics.html)
 * [For better or worse, brace for digital disruption](https://medium.com/@JKatzaman/for-better-or-worse-brace-for-digital-disruption-34cd82b4fc20)
+* [Soundscape ecology](https://www.theguardian.com/science/audio/2018/jun/15/soundscape-ecology-with-bernie-krause-science-weekly-podcast) &mdash; on the use of acoustics for conservation and documenting biodiversity or changes or losses
