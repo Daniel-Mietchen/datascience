@@ -180,3 +180,5 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [January 1, 1925: The Day We Discovered the Universe](http://blogs.discovermagazine.com/outthere/2017/01/02/the-day-we-discovered-the-universe/)
 * [Tiny Jumping Spiders Can See the Moon](https://www.theatlantic.com/science/archive/2017/06/jumping-spiders-can-see-the-moon/529329/)
 * [job ad for data journalist at Washington Post](https://web.archive.org/web/20180325232905/http://washpostpr.tumblr.com/post/171898869402/job-posting-metro-data-reporter)
+* [The 2018 Atlas of Sustainable Development Goals: an all-new visual guide to data and development ](http://blogs.worldbank.org/opendata/2018-atlas-sustainable-development-goals-all-new-visual-guide-data-and-development)
+  > It’s filled with annotated data visualizations, which can be reproducibly built from source code and data. You can view the SDG Atlas online, download the PDF publication (30Mb), and access the data and source code behind the figures.
