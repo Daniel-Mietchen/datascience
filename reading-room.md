@@ -685,3 +685,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Ethicists Call for More Scrutiny of ‘Human-Challenge’ Trials](https://web.archive.org/web/20180422001621/https://www.nytimes.com/2018/04/20/health/zika-study-ethics.html)
 * [For better or worse, brace for digital disruption](https://medium.com/@JKatzaman/for-better-or-worse-brace-for-digital-disruption-34cd82b4fc20)
 * [Soundscape ecology](https://www.theguardian.com/science/audio/2018/jun/15/soundscape-ecology-with-bernie-krause-science-weekly-podcast) &mdash; on the use of acoustics for conservation and documenting biodiversity or changes or losses
+  - related: [Where is the world’s noisiest city?](https://www.theguardian.com/cities/2018/mar/08/where-world-noisiest-city) &mdash; also mentions studies on the effects of noise on human health
