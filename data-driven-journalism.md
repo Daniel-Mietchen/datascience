@@ -120,6 +120,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [World War II on All Fronts: Every Day](https://www.youtube.com/watch?v=WZJAsARQ8c4)
 * [Human Population Through Time](https://www.youtube.com/watch?v=PUwmA3Q0_OE)
 * [Global Infections by the Numbers](https://www.scientificamerican.com/article/global-infections-by-the-numbers/)
+* [Ce que révèlent les noms des rues de Paris](https://www.lefigaro.fr/fig-data/rues-paris/) &mdash; seen [here](https://twitter.com/Ozanamanazo/status/1023134859496235008)
 
 ### Wikimedia examples
 
