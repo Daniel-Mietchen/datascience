@@ -687,3 +687,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Soundscape ecology](https://www.theguardian.com/science/audio/2018/jun/15/soundscape-ecology-with-bernie-krause-science-weekly-podcast) &mdash; on the use of acoustics for conservation and documenting biodiversity or changes or losses
   - related: [Where is the world’s noisiest city?](https://www.theguardian.com/cities/2018/mar/08/where-world-noisiest-city) &mdash; also mentions studies on the effects of noise on human health
 * [Behemoth, bully, thief: how the English language is taking over the planet ](https://www.theguardian.com/news/2018/jul/27/english-language-global-dominance)
+* [The first rule of data science](http://berkeleysciencereview.com/article/first-rule-data-science/)
