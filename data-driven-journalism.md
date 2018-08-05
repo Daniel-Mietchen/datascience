@@ -83,6 +83,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
   - [paper](https://www.autodeskresearch.com/sites/default/files/SameStats-DifferentGraphs.pdf)
+  - [related Twitter conversation](https://twitter.com/TahaYasseri/status/859084459127316480)
 * [A Time-Lapse Map of Every Nuclear Explosion Since 1945](https://www.youtube.com/watch?v=LLCF7vPanrY)
 * [VisTools &mdash; data visualization tools](http://keshif.me/demo/VisTools)
 * [Global shark tracker](http://www.ocearch.org/)
