@@ -147,6 +147,8 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [further Wikimedia examples](http://infodisiac.com/Wikimedia/Visualizations/)
 * [See also](http://seealso.org/)
 * [Network graph of sister cities with over 1 million inhabitants created with Wikidata, Gephi & SigmaJS](http://exploring-data.com/info/big-sister-cities/) &mdash; seen via [this tweet](https://twitter.com/DatavisDaily/status/989474347881558016)
+* [Birth places of mayors]https://janakiev.com/wikidata-mayors/)
+  - accompanying blog post: [Where do Mayors Come From: Querying Wikidata with Python and SPARQL](https://janakiev.com/blog/wikidata-mayors/)
 
 ## Visualization tools
 
