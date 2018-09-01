@@ -155,6 +155,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 # Maybe watch in the future
 
+* [Sir Tim Berners-Lee: Turing Lecture, May 29, 2018](https://www.youtube.com/watch?v=BaMa4u4Fio4)
+  - seen via https://twitter.com/emcandre/status/1034778050758692869
 * [Donner vie à la science ouverte à l'INM, par Guy Rouleau](https://www.youtube.com/watch?v=QWicBeQ_xiI)
   - seen via https://twitter.com/captic/status/1006122730566160385
 * [Image Synthesis From Text With Deep Learning | Two Minute Papers #116](https://www.youtube.com/watch?v=rAbhypxs1qQ)
