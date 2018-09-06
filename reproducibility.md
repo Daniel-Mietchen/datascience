@@ -72,4 +72,4 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Quantifying Reproducibility in Computational Biology: The Case of the Tuberculosis Drugome](https://doi.org/10.1371/journal.pone.0080278)
 * [Social Media and Suicide: A Critical Appraisal](https://medium.com/@OrbenAmy/social-media-and-suicide-a-critical-appraisal-f95e0bbd4660)
   - comments on a reanalysis of [Increases in Depressive Symptoms, Suicide-Related Outcomes, and Suicide Rates Among U.S. Adolescents After 2010 and Links to Increased New Media Screen Time](https://doi.org/10.1177/2167702617723376) based on a different dataset
-* [Avoidance of sharing code was at the core of a long debate around metastability of supercooled water](https://doi.org/10.1063/PT.6.1.20180822a)
+* [Avoidance of sharing code was at the core of a long debate around metastability of supercooled water](https://doi.org/10.1063/PT.6.1.20180822a) (seen [here](https://twitter.com/walkingrandomly/status/1036641805331324929))
