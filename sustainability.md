@@ -87,3 +87,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Do Not Ship It](https://blog.datproject.org/2017/12/10/dont-ship/)
   - ethical considerations around peer-to-peer dat-based access to Wikipedia and reader privacy
 * [Kuala Lumpur Declaration on Cities 2030](http://wuf9.org/kuala-lumpur-declaration/)
+* [A better measure of research from the global south](https://doi.org/10.1038/d41586-018-05581-4) &mdash; about research evaluation at IRDC
