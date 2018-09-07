@@ -8,6 +8,7 @@ This file hosts information on efforts towards enhancing the discoverability of 
 * [Software Discovery Dashboard](http://www.se.rit.edu/~opensd/)
 
 # Services
+* [Google Dataset search](https://toolbox.google.com/datasetsearch)
 * [BiodiversityCatalogue](https://www.biodiversitycatalogue.org/)
 * Startup incubators, e.g.
    * [J Labs](http://jlabs.jnjinnovation.com/)
