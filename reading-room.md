@@ -689,3 +689,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Behemoth, bully, thief: how the English language is taking over the planet ](https://www.theguardian.com/news/2018/jul/27/english-language-global-dominance)
 * [The first rule of data science](http://berkeleysciencereview.com/article/first-rule-data-science/)
 * [bug in stats software would return data for wrong country](https://twitter.com/cimentadaj/status/1032635409396838401)
+* [Optimizing BigQuery: Cluster your tables](https://medium.com/google-cloud/bigquery-optimized-cluster-your-tables-65e2f684594b)
