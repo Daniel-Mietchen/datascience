@@ -124,6 +124,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [Human Population Through Time](https://www.youtube.com/watch?v=PUwmA3Q0_OE)
 * [Global Infections by the Numbers](https://www.scientificamerican.com/article/global-infections-by-the-numbers/)
 * [Ce que révèlent les noms des rues de Paris](https://www.lefigaro.fr/fig-data/rues-paris/) &mdash; seen [here](https://twitter.com/Ozanamanazo/status/1023134859496235008)
+* ["interactive database to examine racial disparities in educational opportunities and school discipline"](https://projects.propublica.org/miseducation/)
 
 ### Wikimedia examples
 
