@@ -690,3 +690,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [The first rule of data science](http://berkeleysciencereview.com/article/first-rule-data-science/)
 * [bug in stats software would return data for wrong country](https://twitter.com/cimentadaj/status/1032635409396838401)
 * [Optimizing BigQuery: Cluster your tables](https://medium.com/google-cloud/bigquery-optimized-cluster-your-tables-65e2f684594b)
+* Zotero repos can be public, e.g. as per [this example](https://www.zotero.org/freemoth/items/itemkey/QXL3T8LL) (seen [here](https://twitter.com/freemoth/status/1055850380452605952))
