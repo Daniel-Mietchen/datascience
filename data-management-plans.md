@@ -6,7 +6,8 @@ This file hosts information regarding data management plans and how they could b
 
 * [Ten Simple Rules for Creating a Good Data Management Plan](http://dx.doi.org/10.1371/journal.pcbi.1004525)
 * [Machine-actionable data management plans (maDMPs)](https://doi.org/10.3897/rio.3.e13086)
-* [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
+* [Ten principles for machine-actionable data management plans](http://doi.org/10.5281/zenodo.1461713)
+  - earlier version: [Ten simple rules for machine-actionable data management plans](https://doi.org/10.5281/zenodo.1172672)
 
 # Policies
 
@@ -96,3 +97,4 @@ This file hosts information regarding data management plans and how they could b
     - [OpenGovIntelligence: D6.1 - Data Management Plan](https://ec.europa.eu/futurium/en/content/d61-data-management-plan)
     - [SIMPATICO: D1.3 - Data management plan v.1](https://ec.europa.eu/futurium/en/content/d13-data-management-plan-v1)
 * [Policy Models](http://dvnweb-vm1.hmdc.harvard.edu/) &mdash; a prototype tool for creating formal models of policies
+* Swiss National Science Fund (SNF) [Data Management Plan (DMP) - Guidelines for researchers](http://www.snf.ch/en/theSNSF/research-policies/open_research_data/Pages/data-management-plan-dmp-guidelines-for-researchers.aspx)
