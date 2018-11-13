@@ -691,3 +691,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [bug in stats software would return data for wrong country](https://twitter.com/cimentadaj/status/1032635409396838401)
 * [Optimizing BigQuery: Cluster your tables](https://medium.com/google-cloud/bigquery-optimized-cluster-your-tables-65e2f684594b)
 * Zotero repos can be public, e.g. as per [this example](https://www.zotero.org/freemoth/items/itemkey/QXL3T8LL) (seen [here](https://twitter.com/freemoth/status/1055850380452605952))
+* [Old Money, New Order: American Philanthropies and the Defense of Liberal Democracy](https://web.archive.org/web/20181113160900/https://www.foreignaffairs.com/articles/2018-10-15/old-money-new-order?cid=otr-novdec2018_issue_release-101618)
