@@ -152,6 +152,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Data from half a world away helps rescue stranded Thai football team](https://www.youtube.com/watch?v=RVU3sEn5_uU)
   - company specialized in geomodelling provides detailed map of the cave, which was critical to rescue attempts
 * [How Pandemics Spread](https://www.youtube.com/watch?v=UG8YbNbdaco) &mdash; really nice 7-min introduction to the topic
+* [Der "Tyrannosaurus" von Tambach-Dietharz](https://www.ardmediathek.de/tv/Der-Osten-Entdecke-wo-du-lebst/Der-Tyrannosaurus-von-Tambach-Dietharz/MDR-Fernsehen/Video?bcastId=9397858&documentId=57097606) &mdash; provides background on the fossil site [Bromacker](https://www.wikidata.org/wiki/Q926184) and the discovery of [Orobates pabsti](https://www.wikidata.org/wiki/Q20718907)
 
 # Maybe watch in the future
 
