@@ -102,3 +102,4 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 * [Open Data Reveals $791 Million Error in Newly Adopted NYC Budget](http://iquantny.tumblr.com/post/147446103684/open-data-reveals-791-million-error-in-newly)
 * [Make all publicly funded research open access: Productivity Commission report](http://www.theaustralian.com.au/higher-education/make-all-publicly-funded-research-open-access-productivity-commission-report/news-story/bb2b3c8c349bc573eec7014d44b7efe8) (Australia)
 * [The state of Open Science in the Nordic countries](https://wiki.neic.no/w/ext/img_auth.php/5/55/The_state_of_open_science_in_the_Nordic_countries_Single.pdf)
+* [Policy harmonization (or the lack thereof)](https://twitter.com/MsStephKayB/status/1064240482107047937)
