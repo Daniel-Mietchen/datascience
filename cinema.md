@@ -153,6 +153,7 @@ This file collects examples of talks, lectures and other forms of presentations 
   - company specialized in geomodelling provides detailed map of the cave, which was critical to rescue attempts
 * [How Pandemics Spread](https://www.youtube.com/watch?v=UG8YbNbdaco) &mdash; really nice 7-min introduction to the topic
 * [Der "Tyrannosaurus" von Tambach-Dietharz](https://www.ardmediathek.de/tv/Der-Osten-Entdecke-wo-du-lebst/Der-Tyrannosaurus-von-Tambach-Dietharz/MDR-Fernsehen/Video?bcastId=9397858&documentId=57097606) &mdash; provides background on the fossil site [Bromacker](https://www.wikidata.org/wiki/Q926184) and the discovery of [Orobates pabsti](https://www.wikidata.org/wiki/Q20718907)
+* [Asaf Bartov: Wiki + data = Wikidata (and why you should care)](https://www.youtube.com/watch?v=24DOvuZWaD0)
 
 # Maybe watch in the future
 
@@ -185,6 +186,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
 * [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
 * [Why Open Blockchains Matter](https://www.youtube.com/watch?v=uZPIz3ArQww) &mdash; seen [here](https://twitter.com/BKBrianKelly/status/1015985989574160385)
+* [HPC and AI: Helping to Solve Humanity’s Grand Challenges](https://www.youtube.com/watch?time_continue=335&v=H7JJHUz9cv8)
 * older [TED MED](https://www.youtube.com/user/tedmed) talks 
 * [Sandra Collins: Memory Keepers](https://www.youtube.com/watch?v=i4mbHb5wqKo)
 * [Frank Miedema: Science in Transition](https://www.youtube.com/watch?v=sUf1ajkIAhY)
