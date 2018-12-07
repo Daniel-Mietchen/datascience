@@ -41,3 +41,4 @@ This file collects information about the ethics of data science as well as about
   - broken link to 
     > If you have a question regarding which IRB you should submit to please see this document.
 * [Code of conduct for rescuers involved in the Tham Luang cave rescue operation in Thailand](https://twitter.com/SSaralnuch/status/1016983113493168129)
+* [Comparison of surgeons (whose work affects individuals, one at a time) with that of data scientists (who may well affect large numbers of individuals in one swath)](https://twitter.com/AvolynFisher/status/1070559931865038848)
