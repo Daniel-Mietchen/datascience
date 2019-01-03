@@ -125,6 +125,8 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [Global Infections by the Numbers](https://www.scientificamerican.com/article/global-infections-by-the-numbers/)
 * [Ce que révèlent les noms des rues de Paris](https://www.lefigaro.fr/fig-data/rues-paris/) &mdash; seen [here](https://twitter.com/Ozanamanazo/status/1023134859496235008)
 * ["interactive database to examine racial disparities in educational opportunities and school discipline"](https://projects.propublica.org/miseducation/)
+* [Population Mountains](https://pudding.cool/2018/12/3d-cities-story/)
+  - > Each dot represents 1,000,000 square meters. Deeper shades of red represent more people. 
 
 ### Wikimedia examples
 
