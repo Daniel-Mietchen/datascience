@@ -1,8 +1,8 @@
-#About
+# About
 
 This file contains notes on how to make Web-based materials &ndash; and data in particular &ndash; accessible to users with disabilities.
 
-#General regulations regarding web accessibility
+# General regulations regarding web accessibility
 ## International 
 
 * W3C: [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/)
