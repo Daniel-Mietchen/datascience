@@ -9,6 +9,8 @@ This file serves the collection of information related to public access policies
 
 ## US
 
+* [Open, Public, Electronic, and Necessary Government Data Act (OPEN Government Data Act)](https://www.congress.gov/bill/114th-congress/senate-bill/2852)
+  - [commentary from SPARC](https://sparcopen.org/news/2019/huge-win-open-data-united-states/)
 * [Transparency and Open Government](https://www.whitehouse.gov/the-press-office/transparency-and-open-government) (January 21, 2009)
   * [FACT SHEET: Data by the People, for the People — Eight Years of Progress Opening Government Data to Spur Innovation, Opportunity, & Economic Growth](https://www.whitehouse.gov/the-press-office/2016/09/28/fact-sheet-data-people-people-eight-years-progress-opening-government)
 * [Memorandum M-13-13, Open Data Policy - Managing Information as an Asset (May 9, 2013)](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf)
