@@ -127,6 +127,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * ["interactive database to examine racial disparities in educational opportunities and school discipline"](https://projects.propublica.org/miseducation/)
 * [Population Mountains](https://pudding.cool/2018/12/3d-cities-story/)
   - > Each dot represents 1,000,000 square meters. Deeper shades of red represent more people. 
+* [How many of a country's largest cities do you need to put on a map to be able to recognise the country?](https://cities.k-nut.eu/) (seen [here](https://twitter.com/notknut/status/1086596855289520129))
 
 ### Wikimedia examples
 
