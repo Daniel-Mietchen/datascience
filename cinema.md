@@ -6,6 +6,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 * [Sir Tim Berners-Lee: Turing Lecture, May 29, 2018](https://www.youtube.com/watch?v=BaMa4u4Fio4)
   - seen via https://twitter.com/emcandre/status/1034778050758692869
+  - "[[the web] shouldn't just be designed for finished articles](https://www.youtube.com/watch?v=BaMa4u4Fio4#t=30m33s)"
 * [Wikidata Turns 6: A Special Interview with Denny Vrandečić](https://www.youtube.com/watch?v=VdAc0JReVSw)
 * [Donner vie à la science ouverte à l'INM, par Guy Rouleau](https://www.youtube.com/watch?v=QWicBeQ_xiI)
   - seen via https://twitter.com/captic/status/1006122730566160385
