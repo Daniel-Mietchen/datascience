@@ -2,6 +2,100 @@
 
 This file collects examples of talks, lectures and other forms of presentations that can be watched online. 
 
+# Maybe watch in the future
+
+* [Sir Tim Berners-Lee: Turing Lecture, May 29, 2018](https://www.youtube.com/watch?v=BaMa4u4Fio4)
+  - seen via https://twitter.com/emcandre/status/1034778050758692869
+* [Wikidata Turns 6: A Special Interview with Denny Vrandečić](https://www.youtube.com/watch?v=VdAc0JReVSw)
+* [Donner vie à la science ouverte à l'INM, par Guy Rouleau](https://www.youtube.com/watch?v=QWicBeQ_xiI)
+  - seen via https://twitter.com/captic/status/1006122730566160385
+* [Image Synthesis From Text With Deep Learning | Two Minute Papers #116](https://www.youtube.com/watch?v=rAbhypxs1qQ)
+* [Which country does the most good for the world? | Simon Anholt](https://www.youtube.com/watch?v=1X7fZoDs9KU)
+* [A teen scientist's invention to help wounds heal](https://www.ted.com/talks/anushka_naiknaware_a_teen_scientist_s_invention_to_help_wounds_heal)
+  - seen via https://twitter.com/Karim_Sandid/status/1006064751464603649
+* [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
+* [Become a Citizen Data Scientist](https://www.youtube.com/watch?v=zgijAGkdjZc)
+* Reconciliation in OpenRefine for Wikidata
+  - a two-part screencast
+    - https://www.youtube.com/watch?v=q8ffvdeyuNQ
+    - https://www.youtube.com/watch?v=0tQPmfb6IFk
+  - see also https://histhub.ch/cat/net/blog/openrefine/
+* [Wikidata as universal (library) thesaurus](https://commons.wikimedia.org/wiki/File:Wikidatacon2017_-_Wikidata_as_universal_%28library%29_thesaurus.webm)
+  - [demo](http://www.kbresearch.nl/xportal/?SELECT%20?p%20WHERE%20%7B?p%20wdt:P39%20wd:Q18887908%20.%20?p%20wdt:P19%20?place%20.%20?place%20wdt:P17%20?country%20.%20FILTER%20NOT%20EXISTS%20%7B%20?place%20wdt:P17%20wd:Q55%20.%20%7D%20%7D)
+  - [background](https://medium.com/@alexstinson/wikidata-in-collections-building-a-universal-language-for-connecting-glam-catalogs-59b14aa3214c)
+* [Pathways for discovery of free software](https://media.libreplanet.org/u/libreplanet/m/pathways-for-discovery-of-free-software/)
+* Naftali Tishby: [Information Theory of Deep Learning](https://www.youtube.com/watch?v=bLqJHjXihK8)
+  * commentary: [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
+* [The World We Want: OpenStreetMap and the Sustainable Development Goals](http://2016.stateofthemap.org/2016/the-world-we-want-openstreetmap-and-the-sustainable-development-goals/)
+* [Democratisation of Knowledge with Katherine Maher](https://www.youtube.com/watch?v=8BuyKmjy7Rw)
+* [A DARPA Perspective on Artificial Intelligence](https://www.youtube.com/watch?v=-O01G3tSYpU)
+* [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
+* [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
+* [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
+* [Why Open Blockchains Matter](https://www.youtube.com/watch?v=uZPIz3ArQww) &mdash; seen [here](https://twitter.com/BKBrianKelly/status/1015985989574160385)
+* [HPC and AI: Helping to Solve Humanity’s Grand Challenges](https://www.youtube.com/watch?time_continue=335&v=H7JJHUz9cv8)
+* older [TED MED](https://www.youtube.com/user/tedmed) talks 
+* [Sandra Collins: Memory Keepers](https://www.youtube.com/watch?v=i4mbHb5wqKo)
+* [Frank Miedema: Science in Transition](https://www.youtube.com/watch?v=sUf1ajkIAhY)
+* [Pardis Sabeti: How we'll fight the next deadly virus](https://www.ted.com/talks/pardis_sabeti_how_we_ll_fight_the_next_deadly_virus)
+* [Big Data: Personalized Learning](https://www.youtube.com/watch?v=r099JYtanSY)
+* [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
+* [Michaela Murphy | On Resilience](https://www.youtube.com/watch?v=phhT1rGc96c)
+* [CMake talk](https://www.youtube.com/watch?v=TqjtN8NGtl4)
+* [Rafael Yuste: What understanding the brain means to science and medicine](https://www.youtube.com/watch?v=n7cAuG-G_3k)
+* [8 TED talks on the origin of ideas](http://www.educatorstechnology.com/2014/07/8-good-ted-talks-on-origin-of-ideas.html)
+* [Create Flappy Bird in Python](https://www.youtube.com/watch?v=h2Uhla6nLDU)
+* [Ideas from Europe](http://ideasfromeurope.eu/speakers-ideas-from-europe/)
+* [Eli Pariser: Beware online "filter bubbles"](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles)
+* [Guido van Rossum - Keynote: Python now and in the future](https://www.youtube.com/watch?v=bp3mCgrdMxU)
+* [Diary of a Citizen Scientist with Sharman Apt Russell](https://www.youtube.com/watch?v=jdWVpyRtUGg)
+* [Marvin Minsky: Health and the human mind](https://www.ted.com/talks/marvin_minsky_on_health_and_the_human_mind?language=en)
+* [David McCandless: The beauty of data visualization](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
+* [Healing With Poetry - Nelofer Khan Habibullah](https://www.youtube.com/watch?v=rOR2xlQstGE)
+* [Life in the Fast Lane - The Power of Large Scale Graphs](https://www.youtube.com/watch?v=Oxmurknhnto)
+* [Videos from MLconf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q) &mdash; all around machine learning
+* [Sandy Pentland - Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow)
+* [Alex 'Sandy' Pentland - How social networks make us smarter](https://www.youtube.com/watch?v=XAGBBt9RNbc)
+* [Stuart Brown: Play is more than fun](https://www.youtube.com/watch?v=HHwXlcHcTHc)
+* [Michael J. Twery: "The Role of Sleep in Health"](https://videocast.nih.gov/Summary.asp?File=21123&bhcp=1)
+* [Zika at University of California TV](http://www.uctv.tv/search/?keyword=zika&x=0&y=0)
+* [Margaret Levenstein - Financing Innovation or Speculation, the Case of Cleveland](http://www.youtube.com/watch?v=g8Ms7s-tPM4) &mdash; research on the impact of the 1930s Great Depression on innovative firms in the Midwest
+* [Missing Evidence: Does physics still need experiment?](https://iai.tv/video/missing-evidence)
+* [The Tyranny of Evidence](https://iai.tv/video/the-tyranny-of-evidence)
+* [Mike Osterholm: "Deadliest Enemy: Our War Against Killer Germs”](https://www.youtube.com/watch?v=vukHzn2juxw)
+* [Building large-scale crowdsourcing communities with the Humanitarian OpenStreetMap Team](https://www.youtube.com/watch?v=N0DsatEt0J8)
+* [Fighting Disaster with Crowdsourcing](https://www.youtube.com/watch?v=Mp5EDWk3PHU)
+* [The Humanitarian Data Exchange and HOT, CJ Hendrix](https://www.youtube.com/watch?v=fdmNCyNCSxU)
+* [Humanitarian OpenStreetMap: mapping the future of crisis response by Joseph Reeves](https://www.youtube.com/watch?v=2CIoO8oIDlM)
+* [Ending Pandemics in Our Lifetime](https://www.youtube.com/watch?v=n_9cX1Ilvf0)
+* [An Afternoon with NASA Astronaut Kate Rubins (HHS Only)](https://videocast.nih.gov/summary.asp?Live=23253&bhcp=1)
+* [What happens when our computers get smarter than we are?](https://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are)
+* [Tensorflow DeepLab v3 Xception Cityscapes](https://www.youtube.com/watch?v=ATlcEDSPWXY)
+* [Paywall: The Business of Scholarship. A film about Open Access.](https://twitter.com/openscience/status/864711219663392768)
+* [Kate Robinowitz: Open Data + You = Better Cities - Codeland - NYC 2017](https://www.youtube.com/watch?v=xbwrKwO8NIE)
+* [Economist Max Roser—Our World in Data](https://www.youtube.com/watch?v=Ia-3ud1TijA)
+* [Climate model-data comparisons](https://www.youtube.com/watch?v=tPSIvu0gQ90)
+* [How to Become a Data Scientist in 2017? | Data Scientist Career | Data Science Future](https://www.youtube.com/watch?v=ccCblUZFM0w)
+* [Video of Navigate All the Knowledge (ConceptMap.io) presentation](http://learnjavafx.typepad.com/weblog/2016/03/video-of-navigate-all-the-knowledge-conceptmapio-presentation.html) &mdash; with Wikidata visualizations
+* [Querying OSM + Wikidata from a single RDF database intro](https://www.youtube.com/watch?v=KDiKzbuIhts)
+* [The Hidden Secret of the Statues on Easter Island](https://www.youtube.com/watch?v=mH0sIjAHBVY)
+* [Working Out Loud: The making of a movement | John Stepper](https://www.youtube.com/watch?v=XpjNl3Z10uc)
+* [Why do whales sing? - Stephanie Sardelis](http://ed.ted.com/lessons/how-do-whales-sing-stephanie-sardelis)
+* [Making robots more like children | Rodney Brooks](https://www.youtube.com/watch?v=m2ViWnfbADE)
+* [Sharon Terry: Science didn&#39;t understand my kids&#39; rare disease until I decided to study it](https://www.ted.com/talks/sharon_terry_science_didn_t_understand_my_kids_rare_disease_until_i_decided_to_study_it)
+  - had watched that during TEDMED 2016 &mdash; notes at https://github.com/Daniel-Mietchen/events/issues/51
+* [Why Astronomers Love Python And Why You Should Too](https://www.youtube.com/watch?v=W9dwGZ6yY0k)
+* [The animated guide to blockchain (Explanimators: Episode 5)](https://www.youtube.com/watch?v=cFVGBxYiBFo&feature=youtu.be)
+* [#OER18 Session: Wikidata, the Semantic Web, and the emerging global knowledge base](https://www.youtube.com/watch?v=f5LSciRRwSQ)
+* [The Beauty of Being a Misfit](https://www.ted.com/talks/lidia_yuknavitch_the_beauty_of_being_a_misfit)
+  - via https://twitter.com/tararobertson/status/929844417028124677
+* [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
+* [Using Petscan to find articles in Wikipedia using template SBL --- candidate to connect to WIkidata object with Property P3217](https://www.youtube.com/watch?v=Lm5KwmHFGRA)
+* [How the blockchain will radically transform the economy | Bettina Warburg](https://www.youtube.com/watch?v=RplnSVTzvnU)
+* [The next Internet Revolution | Juan Benet](https://www.youtube.com/watch?v=2RCwZDRwk48)
+* [The World In 2050 [The Real Future Of Earth] – Full BBC Documentary 2017](https://www.youtube.com/watch?v=XeEYaX82jSE)
+* [Top Science Discoveries of 2017 Documentary](https://www.youtube.com/watch?v=5fCnOH2Xbp4)
+
 # Watched
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
   * another one by her: [The Future of Research: Citizen Science!](https://www.youtube.com/watch?v=a-xUXNbL04M)
@@ -154,97 +248,3 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [How Pandemics Spread](https://www.youtube.com/watch?v=UG8YbNbdaco) &mdash; really nice 7-min introduction to the topic
 * [Der "Tyrannosaurus" von Tambach-Dietharz](https://www.ardmediathek.de/tv/Der-Osten-Entdecke-wo-du-lebst/Der-Tyrannosaurus-von-Tambach-Dietharz/MDR-Fernsehen/Video?bcastId=9397858&documentId=57097606) &mdash; provides background on the fossil site [Bromacker](https://www.wikidata.org/wiki/Q926184) and the discovery of [Orobates pabsti](https://www.wikidata.org/wiki/Q20718907)
 * [Asaf Bartov: Wiki + data = Wikidata (and why you should care)](https://www.youtube.com/watch?v=24DOvuZWaD0)
-
-# Maybe watch in the future
-
-* [Sir Tim Berners-Lee: Turing Lecture, May 29, 2018](https://www.youtube.com/watch?v=BaMa4u4Fio4)
-  - seen via https://twitter.com/emcandre/status/1034778050758692869
-* [Wikidata Turns 6: A Special Interview with Denny Vrandečić](https://www.youtube.com/watch?v=VdAc0JReVSw)
-* [Donner vie à la science ouverte à l'INM, par Guy Rouleau](https://www.youtube.com/watch?v=QWicBeQ_xiI)
-  - seen via https://twitter.com/captic/status/1006122730566160385
-* [Image Synthesis From Text With Deep Learning | Two Minute Papers #116](https://www.youtube.com/watch?v=rAbhypxs1qQ)
-* [Which country does the most good for the world? | Simon Anholt](https://www.youtube.com/watch?v=1X7fZoDs9KU)
-* [A teen scientist's invention to help wounds heal](https://www.ted.com/talks/anushka_naiknaware_a_teen_scientist_s_invention_to_help_wounds_heal)
-  - seen via https://twitter.com/Karim_Sandid/status/1006064751464603649
-* [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
-* [Become a Citizen Data Scientist](https://www.youtube.com/watch?v=zgijAGkdjZc)
-* Reconciliation in OpenRefine for Wikidata
-  - a two-part screencast
-    - https://www.youtube.com/watch?v=q8ffvdeyuNQ
-    - https://www.youtube.com/watch?v=0tQPmfb6IFk
-  - see also https://histhub.ch/cat/net/blog/openrefine/
-* [Wikidata as universal (library) thesaurus](https://commons.wikimedia.org/wiki/File:Wikidatacon2017_-_Wikidata_as_universal_%28library%29_thesaurus.webm)
-  - [demo](http://www.kbresearch.nl/xportal/?SELECT%20?p%20WHERE%20%7B?p%20wdt:P39%20wd:Q18887908%20.%20?p%20wdt:P19%20?place%20.%20?place%20wdt:P17%20?country%20.%20FILTER%20NOT%20EXISTS%20%7B%20?place%20wdt:P17%20wd:Q55%20.%20%7D%20%7D)
-  - [background](https://medium.com/@alexstinson/wikidata-in-collections-building-a-universal-language-for-connecting-glam-catalogs-59b14aa3214c)
-* [Pathways for discovery of free software](https://media.libreplanet.org/u/libreplanet/m/pathways-for-discovery-of-free-software/)
-* Naftali Tishby: [Information Theory of Deep Learning](https://www.youtube.com/watch?v=bLqJHjXihK8)
-  * commentary: [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
-* [The World We Want: OpenStreetMap and the Sustainable Development Goals](http://2016.stateofthemap.org/2016/the-world-we-want-openstreetmap-and-the-sustainable-development-goals/)
-* [Democratisation of Knowledge with Katherine Maher](https://www.youtube.com/watch?v=8BuyKmjy7Rw)
-* [A DARPA Perspective on Artificial Intelligence](https://www.youtube.com/watch?v=-O01G3tSYpU)
-* [Preventing the Next Global Pandemic: Lessons from Ebola and Zika](https://www.youtube.com/watch?v=x03QvDVrXZQ)
-* [TED talk on fight against Ebola](https://twitter.com/HansRosling/status/685758709780328448)
-* [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
-* [Why Open Blockchains Matter](https://www.youtube.com/watch?v=uZPIz3ArQww) &mdash; seen [here](https://twitter.com/BKBrianKelly/status/1015985989574160385)
-* [HPC and AI: Helping to Solve Humanity’s Grand Challenges](https://www.youtube.com/watch?time_continue=335&v=H7JJHUz9cv8)
-* older [TED MED](https://www.youtube.com/user/tedmed) talks 
-* [Sandra Collins: Memory Keepers](https://www.youtube.com/watch?v=i4mbHb5wqKo)
-* [Frank Miedema: Science in Transition](https://www.youtube.com/watch?v=sUf1ajkIAhY)
-* [Pardis Sabeti: How we'll fight the next deadly virus](https://www.ted.com/talks/pardis_sabeti_how_we_ll_fight_the_next_deadly_virus)
-* [Big Data: Personalized Learning](https://www.youtube.com/watch?v=r099JYtanSY)
-* [Beyond Code: Repository Mining with Clojure](https://www.youtube.com/watch?v=hWhBmJJZoNM)
-* [Michaela Murphy | On Resilience](https://www.youtube.com/watch?v=phhT1rGc96c)
-* [CMake talk](https://www.youtube.com/watch?v=TqjtN8NGtl4)
-* [Rafael Yuste: What understanding the brain means to science and medicine](https://www.youtube.com/watch?v=n7cAuG-G_3k)
-* [8 TED talks on the origin of ideas](http://www.educatorstechnology.com/2014/07/8-good-ted-talks-on-origin-of-ideas.html)
-* [Create Flappy Bird in Python](https://www.youtube.com/watch?v=h2Uhla6nLDU)
-* [Ideas from Europe](http://ideasfromeurope.eu/speakers-ideas-from-europe/)
-* [Eli Pariser: Beware online "filter bubbles"](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles)
-* [Guido van Rossum - Keynote: Python now and in the future](https://www.youtube.com/watch?v=bp3mCgrdMxU)
-* [Diary of a Citizen Scientist with Sharman Apt Russell](https://www.youtube.com/watch?v=jdWVpyRtUGg)
-* [Marvin Minsky: Health and the human mind](https://www.ted.com/talks/marvin_minsky_on_health_and_the_human_mind?language=en)
-* [David McCandless: The beauty of data visualization](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
-* [Healing With Poetry - Nelofer Khan Habibullah](https://www.youtube.com/watch?v=rOR2xlQstGE)
-* [Life in the Fast Lane - The Power of Large Scale Graphs](https://www.youtube.com/watch?v=Oxmurknhnto)
-* [Videos from MLconf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q) &mdash; all around machine learning
-* [Sandy Pentland - Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow)
-* [Alex 'Sandy' Pentland - How social networks make us smarter](https://www.youtube.com/watch?v=XAGBBt9RNbc)
-* [Stuart Brown: Play is more than fun](https://www.youtube.com/watch?v=HHwXlcHcTHc)
-* [Michael J. Twery: "The Role of Sleep in Health"](https://videocast.nih.gov/Summary.asp?File=21123&bhcp=1)
-* [Zika at University of California TV](http://www.uctv.tv/search/?keyword=zika&x=0&y=0)
-* [Margaret Levenstein - Financing Innovation or Speculation, the Case of Cleveland](http://www.youtube.com/watch?v=g8Ms7s-tPM4) &mdash; research on the impact of the 1930s Great Depression on innovative firms in the Midwest
-* [Missing Evidence: Does physics still need experiment?](https://iai.tv/video/missing-evidence)
-* [The Tyranny of Evidence](https://iai.tv/video/the-tyranny-of-evidence)
-* [Mike Osterholm: "Deadliest Enemy: Our War Against Killer Germs”](https://www.youtube.com/watch?v=vukHzn2juxw)
-* [Building large-scale crowdsourcing communities with the Humanitarian OpenStreetMap Team](https://www.youtube.com/watch?v=N0DsatEt0J8)
-* [Fighting Disaster with Crowdsourcing](https://www.youtube.com/watch?v=Mp5EDWk3PHU)
-* [The Humanitarian Data Exchange and HOT, CJ Hendrix](https://www.youtube.com/watch?v=fdmNCyNCSxU)
-* [Humanitarian OpenStreetMap: mapping the future of crisis response by Joseph Reeves](https://www.youtube.com/watch?v=2CIoO8oIDlM)
-* [Ending Pandemics in Our Lifetime](https://www.youtube.com/watch?v=n_9cX1Ilvf0)
-* [An Afternoon with NASA Astronaut Kate Rubins (HHS Only)](https://videocast.nih.gov/summary.asp?Live=23253&bhcp=1)
-* [What happens when our computers get smarter than we are?](https://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are)
-* [Tensorflow DeepLab v3 Xception Cityscapes](https://www.youtube.com/watch?v=ATlcEDSPWXY)
-* [Paywall: The Business of Scholarship. A film about Open Access.](https://twitter.com/openscience/status/864711219663392768)
-* [Kate Robinowitz: Open Data + You = Better Cities - Codeland - NYC 2017](https://www.youtube.com/watch?v=xbwrKwO8NIE)
-* [Economist Max Roser—Our World in Data](https://www.youtube.com/watch?v=Ia-3ud1TijA)
-* [Climate model-data comparisons](https://www.youtube.com/watch?v=tPSIvu0gQ90)
-* [How to Become a Data Scientist in 2017? | Data Scientist Career | Data Science Future](https://www.youtube.com/watch?v=ccCblUZFM0w)
-* [Video of Navigate All the Knowledge (ConceptMap.io) presentation](http://learnjavafx.typepad.com/weblog/2016/03/video-of-navigate-all-the-knowledge-conceptmapio-presentation.html) &mdash; with Wikidata visualizations
-* [Querying OSM + Wikidata from a single RDF database intro](https://www.youtube.com/watch?v=KDiKzbuIhts)
-* [The Hidden Secret of the Statues on Easter Island](https://www.youtube.com/watch?v=mH0sIjAHBVY)
-* [Working Out Loud: The making of a movement | John Stepper](https://www.youtube.com/watch?v=XpjNl3Z10uc)
-* [Why do whales sing? - Stephanie Sardelis](http://ed.ted.com/lessons/how-do-whales-sing-stephanie-sardelis)
-* [Making robots more like children | Rodney Brooks](https://www.youtube.com/watch?v=m2ViWnfbADE)
-* [Sharon Terry: Science didn&#39;t understand my kids&#39; rare disease until I decided to study it](https://www.ted.com/talks/sharon_terry_science_didn_t_understand_my_kids_rare_disease_until_i_decided_to_study_it)
-  - had watched that during TEDMED 2016 &mdash; notes at https://github.com/Daniel-Mietchen/events/issues/51
-* [Why Astronomers Love Python And Why You Should Too](https://www.youtube.com/watch?v=W9dwGZ6yY0k)
-* [The animated guide to blockchain (Explanimators: Episode 5)](https://www.youtube.com/watch?v=cFVGBxYiBFo&feature=youtu.be)
-* [#OER18 Session: Wikidata, the Semantic Web, and the emerging global knowledge base](https://www.youtube.com/watch?v=f5LSciRRwSQ)
-* [The Beauty of Being a Misfit](https://www.ted.com/talks/lidia_yuknavitch_the_beauty_of_being_a_misfit)
-  - via https://twitter.com/tararobertson/status/929844417028124677
-* [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro)
-* [Using Petscan to find articles in Wikipedia using template SBL --- candidate to connect to WIkidata object with Property P3217](https://www.youtube.com/watch?v=Lm5KwmHFGRA)
-* [How the blockchain will radically transform the economy | Bettina Warburg](https://www.youtube.com/watch?v=RplnSVTzvnU)
-* [The next Internet Revolution | Juan Benet](https://www.youtube.com/watch?v=2RCwZDRwk48)
-* [The World In 2050 [The Real Future Of Earth] – Full BBC Documentary 2017](https://www.youtube.com/watch?v=XeEYaX82jSE)
-* [Top Science Discoveries of 2017 Documentary](https://www.youtube.com/watch?v=5fCnOH2Xbp4)
