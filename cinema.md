@@ -252,3 +252,6 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Der "Tyrannosaurus" von Tambach-Dietharz](https://www.ardmediathek.de/tv/Der-Osten-Entdecke-wo-du-lebst/Der-Tyrannosaurus-von-Tambach-Dietharz/MDR-Fernsehen/Video?bcastId=9397858&documentId=57097606) &mdash; provides background on the fossil site [Bromacker](https://www.wikidata.org/wiki/Q926184) and the discovery of [Orobates pabsti](https://www.wikidata.org/wiki/Q20718907)
 * [Asaf Bartov: Wiki + data = Wikidata (and why you should care)](https://www.youtube.com/watch?v=24DOvuZWaD0)
 * [35C3 - Freude ist nur ein Mangel an Information](https://www.youtube.com/watch?v=MRqWaRMFsPs)
+* [How learning German taught me the link between maths and poetry | Harry Baker | TEDxVienna](https://www.youtube.com/watch?v=_98m4Vod6_8)
+* [The most important language you will EVER learn | Poet Ali | TEDxOrangeCoast](https://www.youtube.com/watch?v=488ZBeaGo6s)
+  - nice overview of non-linguistic ways of sharing experiences
