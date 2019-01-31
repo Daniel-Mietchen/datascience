@@ -31,3 +31,4 @@ This file collects information pertaining to (workforce and subject) diversity, 
   - [Does Responding to Online Harassment Work?](https://civilservant.io/twitter_response_announcement-12-2017.html)
 * [Review: ‘Lab Girl,’ Hope Jahren’s Road Map to the Secret Life of Plants](https://web.archive.org/web/20180309221008/https://www.nytimes.com/2016/03/29/books/review-lab-girl-hope-jahrens-road-map-to-the-secret-life-of-plants.html)
 * ["analysis [of schools in Charlottesville] shows that white students there are about four times as likely as black students to be considered gifted"](https://www.propublica.org/article/charlottesville-other-jim-crow-legacy-separate-and-unequal-education) 
+* [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
