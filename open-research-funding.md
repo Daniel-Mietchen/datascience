@@ -175,3 +175,4 @@ which also links to numerous examples of grant proposals that have already been 
 * [Should research funding be allocated at random?](http://deevybee.blogspot.de/2018/04/should-research-funding-be-allocated-at.html)
 * [Abstracts of both failed and successful ERC starting grant applications 2014-2016](https://www.asktheeu.org/en/request/abstracts_of_both_failed_and_suc) (FOI request to ERC, denied)
 * [pretix](https://github.com/pretix/pretix) &mdash; FLOSS suite for handling ticket sales, including [transparent display of conference funding situation](https://web.archive.org/web/20181223070431/https://tickets.events.ccc.de/35c3/intro/)
+* [A look at Participatory Budgeting](https://www.mysociety.org/2018/01/25/a-look-at-participatory-budgeting/)
