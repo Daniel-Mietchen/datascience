@@ -18,6 +18,7 @@ This file collects information on data archaeology, data rescue and related matt
   - [Longer story](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/01/31/nasa-lost-contact-with-a-satellite-12-years-ago-an-amateur-just-found-its-signal/)
   - [another case where citizen astronomers take temporary control over an abandoned NASA satellite](https://en.wikipedia.org/wiki/International_Cometary_Explorer#Further_contact)
 * ["century-old glass astronomy plates had revealed a new problem: Some of the more obscure greenhouse gases — especially chlorofluorocarbons, or CFCs, a class of man-made substances used in refrigerators and spray cans — had proliferated wildly in recent years"](https://web.archive.org/web/20181230140912/https://www.nytimes.com/interactive/2018/08/01/magazine/climate-change-losing-earth.html)
+  - a very detailed and inspiring essay on climate change, where this bit on astronomy plates is just a tiny side note
 
 # Missing pieces
 
