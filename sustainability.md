@@ -91,3 +91,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Losing Earth: The Decade We Almost Stopped Climate Change](https://web.archive.org/web/20181230140912/https://www.nytimes.com/interactive/2018/08/01/magazine/climate-change-losing-earth.html)
   - a very detailed and inspiring essay on climate change
   - [corresponding Wikidata item](https://www.wikidata.org/wiki/Q61716662)
+* [right to repair](https://eeb.org/eu-governments-support-first-set-of-laws-for-more-repairable-products/)
