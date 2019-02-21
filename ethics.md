@@ -46,3 +46,4 @@ This file collects information about the ethics of data science as well as about
 * [Fake fingerprints can imitate real ones in biometric systems – research ](https://www.theguardian.com/technology/2018/nov/15/fake-fingerprints-can-imitate-real-fingerprints-in-biometric-systems-research) ([archived](https://web.archive.org/web/20181217104712/https://www.theguardian.com/technology/2018/nov/15/fake-fingerprints-can-imitate-real-fingerprints-in-biometric-systems-research))
 * [Hacker ethics](https://www.ccc.de/en/hackerethik) by Chaos Computer Club
 * [Global Technology Collective](https://github.com/Daniel-Mietchen/ideas/issues/1129)
+* [Good Data Practices for Indigenous Data Sovereignty](https://nnigovernance.arizona.edu/good-data-practices-indigenous-data-sovereignty)
