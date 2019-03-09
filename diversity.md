@@ -17,6 +17,7 @@ This file collects information pertaining to (workforce and subject) diversity, 
 * [Practical Guide to Improving Gender Equality in Research Organisations (February 2017)](http://www.scienceeurope.org/wp-content/uploads/2017/01/SE_Gender_Practical-Guide.pdf)
 
 # See also
+* [Gender in the Global Research Landscape, U-Multirank 2019](https://www.elsevier.com/__data/assets/pdf_file/0008/265661/ElsevierGenderReport_final_for-web.pdf)
 * [Consideration of Sex as a Biological Variable in NIH-funded Research](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
 * [Why Science Needs Female Mice](http://www.nytimes.com/2015/07/19/opinion/sunday/why-science-needs-female-mice.html)
 * [The Women Behind the New Horizons Mission and New Pluto Map](http://www.americaspace.com/?p=84357)
