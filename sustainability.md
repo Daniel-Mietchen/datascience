@@ -92,3 +92,5 @@ This file hosts information regarding sustainability, especially the sustainabil
   - a very detailed and inspiring essay on climate change
   - [corresponding Wikidata item](https://www.wikidata.org/wiki/Q61716662)
 * [right to repair](https://eeb.org/eu-governments-support-first-set-of-laws-for-more-repairable-products/)
+* [4th National Climate Assessment](https://www.globalchange.gov/nca4) (US)
+  - [lay summary](https://grist.org/article/we-broke-down-what-climate-change-will-do-region-by-region/)
