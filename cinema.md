@@ -103,6 +103,8 @@ This file collects examples of talks, lectures and other forms of presentations 
 
  * [Copenhagen Atomics - Asia Nuclear Business Platform](https://www.youtube.com/watch?v=3HP98Y61wnw) (Thomas Jam Pedersen on Molten-Salt Reactors)
    - ["really keen on openness and transparency"](https://www.youtube.com/watch?v=3HP98Y61wnw#t=5m23s)
+   - GitHub repo: [copenhagenatomics](https://github.com/copenhagenatomics)
+   - "we also have several data libraries that are available online"
    - got there via the following chain, where the next video was linked as "related" from the YouTube page of the previous one:
      - [Sing for the Climate Belgium - Final clip](https://www.youtube.com/watch?v=XGgBtHoIO4g) (I actually sawthe Flemish version but cannot find that right now, as I had been distracted by an ad for [CuriosityStream](https://curiositystream.com/video/1571/david-attenboroughs-light-on-earth) (cf. [Wikipedia entry](https://en.wikipedia.org/wiki/CuriosityStream))
      - [Why renewables can’t save the planet | Michael Shellenberger](https://www.youtube.com/watch?v=N-yALPEpV4w)
