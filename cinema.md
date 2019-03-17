@@ -106,7 +106,7 @@ This file collects examples of talks, lectures and other forms of presentations 
    - GitHub repo: [copenhagenatomics](https://github.com/copenhagenatomics)
    - "we also have several data libraries that are available online"
    - got there via the following chain, where the next video was linked as "related" from the YouTube page of the previous one:
-     - [Sing for the Climate Belgium - Final clip](https://www.youtube.com/watch?v=XGgBtHoIO4g) (I actually sawthe Flemish version but cannot find that right now, as I had been distracted by an ad for [CuriosityStream](https://curiositystream.com/video/1571/david-attenboroughs-light-on-earth) (cf. [Wikipedia entry](https://en.wikipedia.org/wiki/CuriosityStream))
+     - [Sing for the Climate Belgium - Final clip](https://www.youtube.com/watch?v=XGgBtHoIO4g) (I actually saw the Flemish version but cannot find that right now, as I had been distracted by an ad for [CuriosityStream](https://curiositystream.com/video/1571/david-attenboroughs-light-on-earth) (cf. [Wikipedia entry](https://en.wikipedia.org/wiki/CuriosityStream))
      - [Why renewables can’t save the planet | Michael Shellenberger](https://www.youtube.com/watch?v=N-yALPEpV4w)
      - [Thorium can give humanity clean, pollution free energy | Kirk Sorensen](https://www.youtube.com/watch?v=kybenSq0KPo)
      - [Making Safe Nuclear Power from Thorium | Thomas Jam Pedersen](https://www.youtube.com/watch?v=tHO1ebNxhVI)
