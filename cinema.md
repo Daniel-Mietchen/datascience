@@ -8,6 +8,7 @@ This file collects examples of talks, lectures and other forms of presentations 
   - seen via https://twitter.com/emcandre/status/1034778050758692869
   - ["[the web] shouldn't just be designed for finished articles"](https://www.youtube.com/watch?v=BaMa4u4Fio4#t=30m33s)
   - ["if you spend 98% of your life using the web, you may have to spend 2% of your life defending it"](https://www.youtube.com/watch?v=BaMa4u4Fio4#t=39m48s)
+* [Lessons from Oak Ridge National Laboratory by Syd Ball, ORNL at Thorium Energy Conference 2018](https://www.youtube.com/watch?v=lPYKRH7Ijtw)
 * [Wikimania 2016, Hackathon: Running bots and executive code on labs with just a web terminal (PAWS)](https://www.youtube.com/watch?v=70oYKPaGuMc)
 * [Wikidata Turns 6: A Special Interview with Denny Vrandečić](https://www.youtube.com/watch?v=VdAc0JReVSw)
 * [Donner vie à la science ouverte à l'INM, par Guy Rouleau](https://www.youtube.com/watch?v=QWicBeQ_xiI)
