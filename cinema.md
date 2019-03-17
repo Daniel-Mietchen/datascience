@@ -100,6 +100,14 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [Top Science Discoveries of 2017 Documentary](https://www.youtube.com/watch?v=5fCnOH2Xbp4)
 
 # Watched
+
+ * [Copenhagen Atomics - Asia Nuclear Business Platform](https://www.youtube.com/watch?v=3HP98Y61wnw) (Thomas Jam Pedersen on Molten-Salt Reactors)
+   - ["really keen on openness and transparency"](https://www.youtube.com/watch?v=3HP98Y61wnw#t=5m23s)
+   - got there via the following chain, where the next video was linked as "related" from the YouTube page of the previous one:
+     - [Sing for the Climate Belgium - Final clip](https://www.youtube.com/watch?v=XGgBtHoIO4g) (I actually sawthe Flemish version but cannot find that right now, as I had been distracted by an ad for [CuriosityStream](https://curiositystream.com/video/1571/david-attenboroughs-light-on-earth) (cf. [Wikipedia entry](https://en.wikipedia.org/wiki/CuriosityStream))
+     - [Why renewables can’t save the planet | Michael Shellenberger](https://www.youtube.com/watch?v=N-yALPEpV4w)
+     - [Thorium can give humanity clean, pollution free energy | Kirk Sorensen](https://www.youtube.com/watch?v=kybenSq0KPo)
+     - [Making Safe Nuclear Power from Thorium | Thomas Jam Pedersen](https://www.youtube.com/watch?v=tHO1ebNxhVI)
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
   * another one by her: [The Future of Research: Citizen Science!](https://www.youtube.com/watch?v=a-xUXNbL04M)
   * see also [Only "Scientists" Can Do Science](http://edge.org/response-detail/25504)
