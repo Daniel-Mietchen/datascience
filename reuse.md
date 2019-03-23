@@ -176,3 +176,4 @@ elaborates recommendations on how best to tag articles in JATS, so as to facilit
 * [Reusing photos from INaturalist to study goat molt](https://www.inaturalist.org/blog/16807-mountain-goat-molts-inat-photos-and-climate-change)
 * [Global Infections by the Numbers](https://www.scientificamerican.com/article/global-infections-by-the-numbers/) &mdash; journalistic infographic reusing data from various sources
 * [Data use Ontology](https://www.ga4gh.org/news/now-open-for-comment-ga4gh-data-use-ontology/)
+* [Reanalyzing environmental lidar data for archaeology: Mesoamerican applications and implications](https://doi.org/10.1016/j.jasrep.2016.07.029)
