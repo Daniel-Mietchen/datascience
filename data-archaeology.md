@@ -20,6 +20,7 @@ This file collects information on data archaeology, data rescue and related matt
 * ["century-old glass astronomy plates had revealed a new problem: Some of the more obscure greenhouse gases — especially chlorofluorocarbons, or CFCs, a class of man-made substances used in refrigerators and spray cans — had proliferated wildly in recent years"](https://web.archive.org/web/20181230140912/https://www.nytimes.com/interactive/2018/08/01/magazine/climate-change-losing-earth.html)
   - a very detailed and inspiring essay on climate change, where this bit on astronomy plates is just a tiny side note
 * [Reanalyzing environmental lidar data for archaeology: Mesoamerican applications and implications](https://doi.org/10.1016/j.jasrep.2016.07.029)
+  - see also [LiDAR and the Archaeology Revolution](https://www.gislounge.com/lidar-archaeology-revolution/)
 
 
 # Missing pieces
