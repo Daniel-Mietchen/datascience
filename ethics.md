@@ -47,3 +47,4 @@ This file collects information about the ethics of data science as well as about
 * [Hacker ethics](https://www.ccc.de/en/hackerethik) by Chaos Computer Club
 * [Global Technology Collective](https://github.com/Daniel-Mietchen/ideas/issues/1129)
 * [Good Data Practices for Indigenous Data Sovereignty](https://nnigovernance.arizona.edu/good-data-practices-indigenous-data-sovereignty)
+  - [Sören Auer on data sovereignty (Datenhoheit) in the German parliament (Bundestag)](https://www.tib.eu/de/service/aktuelles/detail/tib-direktor-als-experte-zu-kuenstlicher-intelligenz-ki-im-deutschen-bundestag/)
