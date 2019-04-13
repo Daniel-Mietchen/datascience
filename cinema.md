@@ -103,7 +103,9 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 # Watched
 
- * [Copenhagen Atomics - Asia Nuclear Business Platform](https://www.youtube.com/watch?v=3HP98Y61wnw) (Thomas Jam Pedersen on Molten-Salt Reactors)
+* [How to take a picture of a black hole | Katie Bouman](https://www.youtube.com/watch?v=BIvezCVcsYs)
+  - with lots of examples regarding how to integrate data of different kinds across sources, scales and assumptions
+* [Copenhagen Atomics - Asia Nuclear Business Platform](https://www.youtube.com/watch?v=3HP98Y61wnw) (Thomas Jam Pedersen on Molten-Salt Reactors)
    - ["really keen on openness and transparency"](https://www.youtube.com/watch?v=3HP98Y61wnw#t=5m23s)
    - GitHub repo: [copenhagenatomics](https://github.com/copenhagenatomics)
    - "we also have several data libraries that are available online"
