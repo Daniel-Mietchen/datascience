@@ -103,6 +103,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 
 # Watched
 
+* [What happens when our computers get smarter than we are? | Nick Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk) &mdash; suggests that figuring out superintelligent AI is a hard problem, and that making it safe for humanity is harder still, so we should strive to work out the control part as much as possible before we figure out the superintelligence part *per se*, and if we are successful, this new AI might actually be aligned with our values and thus help humanity develop in a way we would approve of.
 * [How to take a picture of a black hole | Katie Bouman](https://www.youtube.com/watch?v=BIvezCVcsYs)
   - with lots of examples regarding how to integrate data of different kinds across sources, scales and assumptions
 * [Copenhagen Atomics - Asia Nuclear Business Platform](https://www.youtube.com/watch?v=3HP98Y61wnw) (Thomas Jam Pedersen on Molten-Salt Reactors)
