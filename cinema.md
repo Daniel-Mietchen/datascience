@@ -1,6 +1,4 @@
-# About
-
-This file collects examples of talks, lectures and other forms of presentations that can be watched online. 
+*[About](cinema.md#about)・ [Maybe watch in the future](cinema.md#maybe-watch-in-the-future)・ [Watched](cinema.md#watched)
 
 # Maybe watch in the future
 
@@ -273,3 +271,7 @@ This file collects examples of talks, lectures and other forms of presentations 
 * [How learning German taught me the link between maths and poetry | Harry Baker | TEDxVienna](https://www.youtube.com/watch?v=_98m4Vod6_8)
 * [The most important language you will EVER learn | Poet Ali | TEDxOrangeCoast](https://www.youtube.com/watch?v=488ZBeaGo6s)
   - nice overview of non-linguistic ways of sharing experiences
+
+# About
+
+This file collects examples of talks, lectures and other forms of presentations that can be watched online. 
