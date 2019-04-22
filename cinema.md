@@ -5,7 +5,7 @@
 
 * [Science can answer moral questions | Sam Harris](https://www.youtube.com/watch?v=Hj9oB4zpHww)
   - ["How have we convinced ourselves that in the moral sphere, there is no such thing as moral expertise, or moral talent, or moral genius even?"](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=16m15s)
-  - ["We simply must converge on the answers we give to the most important questions in human life."](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=18m15s)
+  - ["We simply must converge on the answers we give to the most important questions in human life. And to do that, we have to admit that these questions have answers."](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=18m15s)
 * [What happens when our computers get smarter than we are? | Nick Bostrom](https://www.youtube.com/watch?v=MnT1xgZgkpk) &mdash; suggests that figuring out superintelligent AI is a hard problem, and that making it safe for humanity is harder still, so we should strive to work out the control part as much as possible before we figure out the superintelligence part *per se*, and if we are successful, this new AI might actually be aligned with our values and thus help humanity develop in a way we would approve of.
   - basically the same recommendation but told in a slightly different fashion: [Can we build AI without losing control over it? | Sam Harris](https://www.youtube.com/watch?v=8nt3edWLgIg)
 * [How to take a picture of a black hole | Katie Bouman](https://www.youtube.com/watch?v=BIvezCVcsYs)
