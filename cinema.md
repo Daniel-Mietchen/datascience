@@ -144,6 +144,7 @@
   - argues that innovation usually comes from doing things differently rather than from merely doing things the same way at different intensities, which most people tend to do in response to challenges
 * [Every second counts](http://everysecondcounts.eu/)
   - "America first", but can we just agree on making [country X] second?
+* [A kinder, gentler philosophy of success | Alain de Botton](https://www.youtube.com/watch?v=MtSE4rglxbY#t=14m33s) &mdash; "Let's make sure our ideas of success are truely our own."
 * [The scientific method is crap](https://www.youtube.com/watch?v=j12BBcKSgEQ#t=12m50s)
   - "instead, embrace the cycle of scientific thinking &mdash; observe, explain, predict"
 * [Our approach to innovation is dead wrong](https://www.youtube.com/watch?v=pii8tTx1UYM)
