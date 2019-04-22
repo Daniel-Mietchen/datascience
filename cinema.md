@@ -1,4 +1,4 @@
-*[About](cinema.md#about)・ [Maybe watch in the future](cinema.md#maybe-watch-in-the-future)・ [Watched](cinema.md#watched)
+*[About](cinema.md#about)・ [Maybe watch in the future](cinema.md#maybe-watch-in-the-future)・ [Watched](cinema.md#watched)*
 
 # Maybe watch in the future
 
