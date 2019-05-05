@@ -80,6 +80,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 
 ## Individual examples
 
+* [Migration between Eastern and Western Germany](https://www.zeit.de/politik/deutschland/2019-05/ost-west-wanderung-abwanderung-ostdeutschland-umzug)
 * [If the Moon were only 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
   - [paper](https://www.autodeskresearch.com/sites/default/files/SameStats-DifferentGraphs.pdf)
