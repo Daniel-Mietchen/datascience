@@ -3,6 +3,10 @@
 
 # Watched
 
+* [Jem Bendell - Deep Adaptation](https://www.youtube.com/watch?v=DAZJtFZZYmM) &mdash; basically a video frontend to a [paper](http://lifeworth.com/deepadaptation.pdf) that asks "What do we do if collapse is coming?", and breaks this down into 
+  - Resilience &mdash; things we absolutely do not want to let go, i.e. our core values
+  - Relinquishment &mdash; things we absolutely need to let go
+  - Restauration &mdash; things that we may have lost and that are worth getting back into our lives
 * [Science can answer moral questions | Sam Harris](https://www.youtube.com/watch?v=Hj9oB4zpHww)
   - ["How have we convinced ourselves that in the moral sphere, there is no such thing as moral expertise, or moral talent, or moral genius even?"](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=16m15s)
   - ["We simply must converge on the answers we give to the most important questions in human life. And to do that, we have to admit that these questions have answers."](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=18m15s)
