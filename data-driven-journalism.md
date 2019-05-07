@@ -130,6 +130,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
   - > Each dot represents 1,000,000 square meters. Deeper shades of red represent more people. 
 * [How many of a country's largest cities do you need to put on a map to be able to recognise the country?](https://cities.k-nut.eu/) (seen [here](https://twitter.com/notknut/status/1086596855289520129))
 * [Spiegelmining](http://www.dkriesel.com/spiegelmining) &mdash; with [zoomable map](http://www.dkriesel.com/static/spon5_graph_keywords/) of topics covered in articles in the Spiegel newspaper's online edition
+* [How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)
 
 ### Wikimedia examples
 
