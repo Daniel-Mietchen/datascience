@@ -136,6 +136,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 
 * [Listen to Wikipedia](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko)
   - [Wikidata variant](http://listen.hatnote.com/#wikidata,fr,de,it,rm,en)
+* [Wikidata Recent changes live stream](https://tools.wmflabs.org/wikidata-todo/rcvis.html)
 * [Wikidata Galaxy](http://wiki.polyfra.me/)
 * [WikiReplay](http://cosmiclattes.github.io/wikireplay/player.html)
 * [WikiStream](http://wikistream.wmflabs.org/)
