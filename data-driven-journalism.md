@@ -77,6 +77,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [Data Stories](http://www.sciencemag.org/projects/data-stories)
 * [MakeOverMonday](http://www.makeovermonday.co.uk/data/) &mdash; "chasing poor data vizzes"
 * [Datenlese](http://www.spiegel.de/thema/daten/)
+* [DSI course on visualization](http://web.arch.virginia.edu/arch547/Archive/)
 
 ## Individual examples
 
