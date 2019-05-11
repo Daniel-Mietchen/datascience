@@ -73,6 +73,7 @@
   * makes the case for bringing precision medicine approaches to public health
 * [Digital biology and open science -- the coming revolution | Stephen Larson](https://www.youtube.com/watch?v=EKopW86CCJo)
  * putting OpenWorm into the context of engineering, digital biology and open science
+* [What your doctor won’t disclose](https://www.youtube.com/watch?v=oxYU5GNngnk) &mdash; about http://www.whosmydoctor.com/ (apparently defunct now) and other aspects of transparency on the doctors' end in the context of establishing trust with patients 
 * [Truly sustainable economic development: Ernesto Sirolli at TEDxEQChCh](https://www.youtube.com/watch?v=SpIxZiBpGU0)
   * harnessing the power of local communities for economic development
     * [Dambisa Moyo's book "Dead Aid"](https://en.wikipedia.org/wiki/Dambisa_Moyo#Dead_Aid)
