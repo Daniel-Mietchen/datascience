@@ -197,3 +197,4 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [job ad for data journalist at Washington Post](https://web.archive.org/web/20180325232905/http://washpostpr.tumblr.com/post/171898869402/job-posting-metro-data-reporter)
 * [The 2018 Atlas of Sustainable Development Goals: an all-new visual guide to data and development ](http://blogs.worldbank.org/opendata/2018-atlas-sustainable-development-goals-all-new-visual-guide-data-and-development)
   > It’s filled with annotated data visualizations, which can be reproducibly built from source code and data. You can view the SDG Atlas online, download the PDF publication (30Mb), and access the data and source code behind the figures.
+* [Data journalism awards](https://datajournalismawards.org/) &mdash; [some background](https://www.europeandataportal.eu/en/highlights/data-driven-journalism)
