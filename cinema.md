@@ -48,6 +48,7 @@
   * provides an estimated number and some background on how it was arrived at, nicely visualized
 * [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
   * introduces the Web annotation tool [Hypothes.is](https://hypothes.is/) as an element of human cultural evolution
+* [Tess Posner, AI4ALL Diverse and Inclusive AI - H2O World San Francisco](https://www.youtube.com/watch?v=5pIsLg7Ga_w)
 * All of TEDMED 2015
   * [sessions](http://tedmed.com/event/stage2015) ([schedule](http://www.tedmed.com/files/Downloads/TEDMED_2015_Schedule.pdf))
   * notes on paper, since I watched in full screen mode
