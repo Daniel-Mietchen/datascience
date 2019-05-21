@@ -182,6 +182,9 @@
 * [How learning German taught me the link between maths and poetry | Harry Baker | TEDxVienna](https://www.youtube.com/watch?v=_98m4Vod6_8)
 * [The most important language you will EVER learn | Poet Ali | TEDxOrangeCoast](https://www.youtube.com/watch?v=488ZBeaGo6s)
   - nice overview of non-linguistic ways of sharing experiences
+* [Sabine Hossenfelder: Was läuft falsch in der gegenwärtigen Physik? (What's wrong with Physics today?)](https://www.youtube.com/watch?v=99hVAu1k6G8)
+  - with comments (starting at about [53min](https://www.youtube.com/watch?v=99hVAu1k6G8#t=53m)) on the current academic system
+  
 
 # Maybe watch in the future
 
