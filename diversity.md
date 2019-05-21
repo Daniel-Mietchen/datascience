@@ -15,7 +15,10 @@ This file collects information pertaining to (workforce and subject) diversity, 
    * [Burlington Ruby Conference](http://www.burlingtonrubyconference.com/conduct)
 * [Are women still at a disadvantage in science?](http://www.dcscience.net/2015/06/15/are-women-still-at-a-disadvantage-in-science/)
 * [Practical Guide to Improving Gender Equality in Research Organisations (February 2017)](http://www.scienceeurope.org/wp-content/uploads/2017/01/SE_Gender_Practical-Guide.pdf)
-
+* [Tess Posner, AI4ALL: Diverse and Inclusive AI - H2O World San Francisco](https://www.youtube.com/watch?v=5pIsLg7Ga_w)
+  - addresses diversity and inclusion from multiple angles, summarized from about 13:30 min onwards
+  - mentions LatinX in AI, Black in AI, Women in Machine Learning, fas.ai and http://ai-4-all.org as organizations to partner with
+  
 # See also
 * [Gender in the Global Research Landscape, U-Multirank 2019](https://www.elsevier.com/__data/assets/pdf_file/0008/265661/ElsevierGenderReport_final_for-web.pdf)
 * [Consideration of Sex as a Biological Variable in NIH-funded Research](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-102.html)
