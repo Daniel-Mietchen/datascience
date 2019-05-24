@@ -100,3 +100,4 @@ This file hosts information regarding sustainability, especially the sustainabil
   > "A senior U.N. environmental official says entire nations could be wiped off the face of the Earth by rising sea levels if the global warming trend is not reversed by the year 2000."
   - [archival copy](https://web.archive.org/web/20190524033433/https://apnews.com/bd45c372caf118ec99964ea547880cd0)
   - seen [here](https://twitter.com/JohnClarksonGSM/status/1131758235273195520)
+* [‘Resilience bonds’: A secret weapon against catastrophe](http://www.bbc.com/future/story/20170515-resilience-bonds-a-secret-weapon-against-catastrophe)
