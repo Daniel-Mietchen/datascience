@@ -96,3 +96,7 @@ This file hosts information regarding sustainability, especially the sustainabil
   - [lay summary](https://grist.org/article/we-broke-down-what-climate-change-will-do-region-by-region/)
 * [How climate change will transform business and the workforce](http://www.bbc.com/future/story/20170705-how-climate-change-could-transform-the-work-force)
 * [How a small minority can change the world: Nonviolent protests are twice as likely to succeed as armed conflicts – and those engaging a threshold of 3.5% of the population have never failed to bring about change](http://www.bbc.com/future/story/20190513-it-only-takes-35-of-people-to-change-the-world)
+* 30 June **1989**: [U.N. Predicts Disaster if Global Warming Not Checked](https://apnews.com/bd45c372caf118ec99964ea547880cd0)
+  > "A senior U.N. environmental official says entire nations could be wiped off the face of the Earth by rising sea levels if the global warming trend is not reversed by the year 2000."
+  - [archival copy](https://web.archive.org/web/20190524033433/https://apnews.com/bd45c372caf118ec99964ea547880cd0)
+  - seen [here](https://twitter.com/JohnClarksonGSM/status/1131758235273195520)
