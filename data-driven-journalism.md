@@ -132,6 +132,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [How many of a country's largest cities do you need to put on a map to be able to recognise the country?](https://cities.k-nut.eu/) (seen [here](https://twitter.com/notknut/status/1086596855289520129))
 * [Spiegelmining](http://www.dkriesel.com/spiegelmining) &mdash; with [zoomable map](http://www.dkriesel.com/static/spon5_graph_keywords/) of topics covered in articles in the Spiegel newspaper's online edition
 * [How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)
+* [Climate change dataviz at Rio 2016 Opening Ceremony](https://www.youtube.com/watch?v=N_qXm9HY9Ro#t=53m) &mdash; I did not watch the whole thing but just the ca. 5 min related to climate change, prompted by [this tweet](https://twitter.com/mxfh/status/1131323607257419778)
 
 ### Wikimedia examples
 
