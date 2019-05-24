@@ -94,3 +94,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [right to repair](https://eeb.org/eu-governments-support-first-set-of-laws-for-more-repairable-products/)
 * [4th National Climate Assessment](https://www.globalchange.gov/nca4) (US)
   - [lay summary](https://grist.org/article/we-broke-down-what-climate-change-will-do-region-by-region/)
+* [How climate change will transform business and the workforce](http://www.bbc.com/future/story/20170705-how-climate-change-could-transform-the-work-force)
