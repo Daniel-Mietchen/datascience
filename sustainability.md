@@ -95,3 +95,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [4th National Climate Assessment](https://www.globalchange.gov/nca4) (US)
   - [lay summary](https://grist.org/article/we-broke-down-what-climate-change-will-do-region-by-region/)
 * [How climate change will transform business and the workforce](http://www.bbc.com/future/story/20170705-how-climate-change-could-transform-the-work-force)
+* [How a small minority can change the world: Nonviolent protests are twice as likely to succeed as armed conflicts – and those engaging a threshold of 3.5% of the population have never failed to bring about change](http://www.bbc.com/future/story/20190513-it-only-takes-35-of-people-to-change-the-world)
