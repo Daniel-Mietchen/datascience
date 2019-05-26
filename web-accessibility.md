@@ -45,3 +45,4 @@ This file contains notes on how to make Web-based materials &ndash; and data in 
 * [Three common accessibility pitfalls for developers](http://simplyaccessible.com/article/pitfalls-info-relationships/)
 * [Integrating Contrast Checks in Your Web Workflow](https://24ways.org/2014/integrating-contrast-checks-in-your-web-workflow/)
 * [What the grayscale challenge taught us about phone addiction](https://blog.mozilla.org/internetcitizen/2018/02/13/grayscale/) &mdash; about changing one's phones to gray scale
+* [Hardware to teach blind kids how to code](https://www.bbc.com/news/technology-46959888)
