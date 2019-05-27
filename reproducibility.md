@@ -76,3 +76,5 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Team of researchers challenge bold astronomical prediction](https://calvin.edu/news/archive/team-of-researchers-challenge-bold-astronomical-prediction)
   - essentially about wrong information in a source paper leading to bold claims in a paper that could be rejected by checking the information in the source papers
 * [Taking Reproducible Research in Robotics to the Mainstream: Building on the IEEE RAM R-Articles]()
+* [Commitment to Research Transparency](http://www.researchtransparency.org/)
+* [Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)
