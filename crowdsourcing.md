@@ -159,3 +159,4 @@ This file collects information on crowdsourcing in relation to research, especia
   - positive example: https://www.oldweather.org/ (engaging)
   - negative example: http://www.data-rescue-at-home.org/ 
 * [frogwatching - charting climate change’s impact in the here and now ](https://theconversation.com/friday-essay-frogwatching-charting-climate-changes-impact-in-the-here-and-now-98161)
+* [Das Leben als Labor: Wissen? Schaffen Wissenschaftler. Bisher. Neuerdings beteiligen sich Millionen Laien an Forschungsprojekten. Über Theorie und Praxis der Citizen Science.](https://www.brandeins.de/magazine/brand-eins-thema/innovation-2019/citizen-science-das-leben-als-labor)
