@@ -3,6 +3,7 @@
 
 # Watched
 
+* [This country isn't just carbon neutral — it's carbon negative | Tshering Tobgay](https://www.youtube.com/watch?v=7Lc_dlVrg5M) &mdash; about Bhutan's [Gross National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness) policy and how it can inspire effective measures towards sustainability and climate justice, both in their country and around the world
 * [Jem Bendell - Deep Adaptation](https://www.youtube.com/watch?v=DAZJtFZZYmM) &mdash; basically a video frontend to a [paper](http://lifeworth.com/deepadaptation.pdf) that asks "What do we do if collapse is coming?", and breaks this down into 
   - Resilience &mdash; things we absolutely do not want to let go, i.e. our core values
   - Relinquishment &mdash; things we absolutely need to let go
