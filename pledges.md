@@ -13,6 +13,7 @@ This file collects materials related to pledges an similat aspirational statemen
     - [Research Without Walls](http://www.researchwithoutwalls.org/451)
 * Legal entities
   - examples:
+    - [Montreal Neurological Institute](https://openscienceneuro.org/)
     - [DORA](https://sfdora.org/signers/) (also individuals)
     - [Leiden Manifesto](http://www.leidenmanifesto.org/)
     - [Bouchout Declaration](http://www.bouchoutdeclaration.org/signatories/organizations/)
