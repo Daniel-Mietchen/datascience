@@ -45,3 +45,5 @@ This file collects materials related to pledges an similat aspirational statemen
   - forms for operationalizing values
   - badges as in some journals for data sharing
   - contracts
+  - evaluation rubrics
+  - openness facilitates reporting
