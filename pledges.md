@@ -18,6 +18,7 @@ This file collects materials related to pledges an similat aspirational statemen
   - examples:
     - [Montreal Neurological Institute](https://openscienceneuro.org/)
     - [Ghent University](https://www.ugent.be/en/news-events/ghent-university-talent-rat-race-transformation-career-evaluation-model.htm) &mdash; "'We are transforming our university into a place where talent once again feels valued and nurtured’"
+    - [CITEC](https://www.cit-ec.de/en/open-science/manifesto)
     - [DORA](https://sfdora.org/signers/) (also individuals)
     - [Leiden Manifesto](http://www.leidenmanifesto.org/)
     - [Bouchout Declaration](http://www.bouchoutdeclaration.org/signatories/organizations/)
@@ -52,5 +53,5 @@ This file collects materials related to pledges an similat aspirational statemen
   - openness facilitates reporting
 
 # See also
-
+* [What can research institutions do to encourage open science?](https://ask-open-science.org/882)
 * [Pledges at Ask Open Science](https://ask-open-science.org/tag/pledges)
