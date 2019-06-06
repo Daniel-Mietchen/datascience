@@ -7,11 +7,13 @@ This file collects materials related to pledges an similat aspirational statemen
 * Individuals
   - Examples:
     - [Erin McKiernan](https://twitter.com/emckiernan13/status/668885842094522369)
+    - [Ruben Arslan](https://rubenarslan.github.io/bug_bounty.html) (bug bounty for science)
     - [grant peer review](https://ask-open-science.org/835)
 * Groups of individuals
   - examples:
     - [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
     - [Research Without Walls](http://www.researchwithoutwalls.org/451)
+    - [Berlin call to action for open science](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program/Berlin_Call_to_Action)
 * Legal entities
   - examples:
     - [Montreal Neurological Institute](https://openscienceneuro.org/)
