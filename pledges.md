@@ -7,6 +7,7 @@ This file collects materials related to pledges an similat aspirational statemen
 * Individuals
   - Examples:
     - [Erin McKiernan](https://twitter.com/emckiernan13/status/668885842094522369)
+    - [grant peer review](https://ask-open-science.org/835)
 * Groups of individuals
   - examples:
     - [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
@@ -14,9 +15,11 @@ This file collects materials related to pledges an similat aspirational statemen
 * Legal entities
   - examples:
     - [Montreal Neurological Institute](https://openscienceneuro.org/)
+    - [Ghent University](https://www.ugent.be/en/news-events/ghent-university-talent-rat-race-transformation-career-evaluation-model.htm) &mdash; "'We are transforming our university into a place where talent once again feels valued and nurtured’"
     - [DORA](https://sfdora.org/signers/) (also individuals)
     - [Leiden Manifesto](http://www.leidenmanifesto.org/)
     - [Bouchout Declaration](http://www.bouchoutdeclaration.org/signatories/organizations/)
+    - [UVA Draft Strategic Plan](https://bov.virginia.edu/system/files/public/meetings/190524_Draft%20Strategic%20Plan.pdf)
 
 # Potential dimensions of pledges
 
@@ -45,3 +48,7 @@ This file collects materials related to pledges an similat aspirational statemen
   - contracts
   - evaluation rubrics
   - openness facilitates reporting
+
+# See also
+
+* [Pledges at Ask Open Science](https://ask-open-science.org/tag/pledges)
