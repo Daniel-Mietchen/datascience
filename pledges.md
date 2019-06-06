@@ -1,6 +1,6 @@
 # About
 
-This file collects materials related to pledges an similat aspirational statements regarding openness in the context of research, teaching and academia.
+This file collects materials related to pledges an similat aspirational statements regarding values like openness, diversity and ethics in the context of research, teaching and academia.
 
 # Potential levels of pledges
 
@@ -30,10 +30,12 @@ This file collects materials related to pledges an similat aspirational statemen
 
 # Potential dimensions of pledges
 
+* diversity (e.g. manels)
+* ethics
+* openness
 * cover all aspects of research, teaching and academic community service
 * collaboration (e.g. dependencies on behaviour of others)
 * community service (e.g. reviewing)
-* diversity (e.g. manels)
 * patents?
 
 # Potential features of pledges
