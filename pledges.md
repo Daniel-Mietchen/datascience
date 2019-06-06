@@ -20,12 +20,11 @@ This file collects materials related to pledges an similat aspirational statemen
 
 # Potential dimensions of pledges
 
-* aspects of the research cycle
+* cover all aspects of research, teaching and academic community service
 * collaboration (e.g. dependencies on behaviour of others)
 * community service (e.g. reviewing)
-* teaching
-* administration
 * diversity (e.g. manels)
+* patents?
 
 # Potential features of pledges
 
@@ -36,7 +35,6 @@ This file collects materials related to pledges an similat aspirational statemen
 * openly licensed
 * have some obligatory components
 * allow for publicly documented exceptions
-* cover all aspects of research, teaching and academic community service
 * be integrated into strategies around hiring, promotion, diversity, FAIR etc.
 * contain provisions for regular (yearly or so) review
 
