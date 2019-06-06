@@ -41,13 +41,14 @@ This file collects materials related to pledges an similat aspirational statemen
 # Potential features of pledges
 
 * version controlled
+* simple
 * modular
 * easily forkable
 * regular (e.g. annual) review
 * openly licensed
 * have some obligatory components
 * allow for publicly documented exceptions
-* be integrated into strategies around hiring, promotion, diversity, FAIR etc.
+* be integrated into strategies around hiring, promotion, diversity, reproducibility, FAIR etc.
 * contain provisions for regular (yearly or so) review
 * transition phase
 
