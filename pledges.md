@@ -43,6 +43,7 @@ This file collects materials related to pledges an similat aspirational statemen
 * allow for publicly documented exceptions
 * be integrated into strategies around hiring, promotion, diversity, FAIR etc.
 * contain provisions for regular (yearly or so) review
+* transition phase
 
 # Open issues
 * How to integrate pledges with applicable workflows
