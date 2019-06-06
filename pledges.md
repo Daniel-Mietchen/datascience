@@ -8,6 +8,8 @@ This file collects materials related to pledges an similat aspirational statemen
   - Examples:
     - [Erin McKiernan](https://twitter.com/emckiernan13/status/668885842094522369)
     - [Ruben Arslan](https://rubenarslan.github.io/bug_bounty.html) (bug bounty for science)
+    - [Suchith Anand](https://opensourcegeospatial.icaci.org/2017/07/the-pledge-i-support-open-principles-for-science-and-education-for-building-a-better-world-for-everyone/)
+    - [Suzan Koseoglu](https://differentreadings.com/2015/12/01/an-open-pledge/) (with links to other examples)
     - [grant peer review](https://ask-open-science.org/835)
 * Groups of individuals
   - examples:
@@ -15,6 +17,7 @@ This file collects materials related to pledges an similat aspirational statemen
     - [Research Without Walls](http://www.researchwithoutwalls.org/451)
     - [Berlin call to action for open science](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program/Berlin_Call_to_Action)
 * Legal entities
+  - [What is a good starting point for an Open Science Manifesto or Research Data Policy a university could issue?](https://ask-open-science.org/1060)
   - examples:
     - [Montreal Neurological Institute](https://openscienceneuro.org/)
     - [Ghent University](https://www.ugent.be/en/news-events/ghent-university-talent-rat-race-transformation-career-evaluation-model.htm) &mdash; "'We are transforming our university into a place where talent once again feels valued and nurtured’"
