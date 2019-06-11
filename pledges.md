@@ -35,6 +35,7 @@ This file collects materials related to pledges an similat aspirational statemen
 * openness
 * cover all aspects of research, teaching and academic community service
 * collaboration (e.g. dependencies on behaviour of others)
+  - distinguish between roles in collaboration (e.g. PI, first author)?
 * community service (e.g. reviewing)
 * patents?
 
