@@ -38,6 +38,8 @@ This file collects materials related to pledges an similat aspirational statemen
   - distinguish between roles in collaboration (e.g. PI, first author)?
 * community service (e.g. reviewing)
 * patents?
+* FAIR
+  - e.g. ORCID
 
 # Potential features of pledges
 
