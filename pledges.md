@@ -29,6 +29,8 @@ This file collects materials related to pledges an similat aspirational statemen
     - [Leiden Manifesto](http://www.leidenmanifesto.org/)
     - [Bouchout Declaration](http://www.bouchoutdeclaration.org/signatories/organizations/)
     - [UVA Draft Strategic Plan](https://bov.virginia.edu/system/files/public/meetings/190524_Draft%20Strategic%20Plan.pdf)
+  - [Commitment Statement in the Earth, Space, and Environmental Sciences for depositing and sharing data](http://www.copdess.org/enabling-fair-data-project/commitment-to-enabling-fair-data-in-the-earth-space-and-environmental-sciences/)
+    - > "I hereby confirm that the signing organization commits to the Enabling FAIR Data objectives as defined in the Commitment Statement. We will review the commitment elements, develop a plan to address gaps, and complete the plan within one year of signing (or soonest)."
 
 # Potential dimensions of pledges
 
