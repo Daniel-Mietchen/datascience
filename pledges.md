@@ -30,7 +30,7 @@ This file collects materials related to pledges an similat aspirational statemen
 
 # Potential dimensions of pledges
 
-* diversity (e.g. manels)
+* diversity (e.g. [manels](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/time-end-manel-tradition))
 * ethics
 * openness
 * cover all aspects of research, teaching and academic community service
