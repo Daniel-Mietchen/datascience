@@ -15,6 +15,8 @@ This file collects materials related to pledges an similat aspirational statemen
   - examples:
     - [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
     - [Research Without Walls](http://www.researchwithoutwalls.org/451)
+    - [Commitment Statement in the Earth, Space, and Environmental Sciences for depositing and sharing data](http://www.copdess.org/enabling-fair-data-project/commitment-to-enabling-fair-data-in-the-earth-space-and-environmental-sciences/)
+      - > "I hereby confirm that the signing individual commits to the Enabling FAIR Data objectives as defined in the Commitment Statement. I will review the commitment elements, develop a plan to address gaps, and complete the plan within one year of signing (or soonest)."
     - [Berlin call to action for open science](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program/Berlin_Call_to_Action)
 * Legal entities
   - [What is a good starting point for an Open Science Manifesto or Research Data Policy a university could issue?](https://ask-open-science.org/1060)
