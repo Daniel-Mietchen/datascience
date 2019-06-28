@@ -103,3 +103,4 @@ This file hosts information regarding sustainability, especially the sustainabil
   - seen [here](https://twitter.com/JohnClarksonGSM/status/1131758235273195520)
 * [‘Resilience bonds’: A secret weapon against catastrophe](http://www.bbc.com/future/story/20170515-resilience-bonds-a-secret-weapon-against-catastrophe)
 * [How to take over your town: the inside story of a local revolution ](https://www.theguardian.com/society/2019/jun/12/how-to-take-over-your-town-the-inside-story-of-a-local-revolution) &mdash; nice piece on how participatory politics can have an impact on the local level
+* [Prosperity without Growth—Foundations for the Economy of Tomorrow](https://www.cusp.ac.uk/themes/aetw/pwg/)
