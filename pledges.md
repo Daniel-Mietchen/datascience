@@ -18,6 +18,7 @@ This file collects materials related to pledges an similat aspirational statemen
     - [Commitment Statement in the Earth, Space, and Environmental Sciences for depositing and sharing data](http://www.copdess.org/enabling-fair-data-project/commitment-to-enabling-fair-data-in-the-earth-space-and-environmental-sciences/)
       - > "I hereby confirm that the signing individual commits to the Enabling FAIR Data objectives as defined in the Commitment Statement. I will review the commitment elements, develop a plan to address gaps, and complete the plan within one year of signing (or soonest)."
     - [Berlin call to action for open science](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program/Berlin_Call_to_Action)
+    - [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/endorsements-and-signatures/view-all-individual-signatures/)
 * Legal entities
   - [What is a good starting point for an Open Science Manifesto or Research Data Policy a university could issue?](https://ask-open-science.org/1060)
   - examples:
@@ -31,12 +32,14 @@ This file collects materials related to pledges an similat aspirational statemen
     - [UVA Draft Strategic Plan](https://bov.virginia.edu/system/files/public/meetings/190524_Draft%20Strategic%20Plan.pdf)
   - [Commitment Statement in the Earth, Space, and Environmental Sciences for depositing and sharing data](http://www.copdess.org/enabling-fair-data-project/commitment-to-enabling-fair-data-in-the-earth-space-and-environmental-sciences/)
     - > "I hereby confirm that the signing organization commits to the Enabling FAIR Data objectives as defined in the Commitment Statement. We will review the commitment elements, develop a plan to address gaps, and complete the plan within one year of signing (or soonest)."
+    - [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/endorsements-and-signatures/organization-list/)
 
 # Potential dimensions of pledges
 
 * diversity (e.g. [manels](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/time-end-manel-tradition))
 * ethics
 * openness
+* sustainability (e.g. as per [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/read-the-position-statement/))
 * cover all aspects of research, teaching and academic community service
 * collaboration (e.g. dependencies on behaviour of others)
   - distinguish between roles in collaboration (e.g. PI, first author)?
