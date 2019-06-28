@@ -697,3 +697,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Information Security](https://events.ccc.de/congress/2018/wiki/index.php/Static:Information_Security) &mdash; CCC wiki page with introductory information on how to secure devices for attending events and using public networks
 * [Google Knowledge Graph — The Best Guide For Beginners](https://hackernoon.com/google-knowledge-graph-the-best-guide-for-beginners-d513c1180abf)
 * [How I Fully Quit Google (And You Can, Too)](https://medium.com/s/story/how-i-fully-quit-google-and-you-can-too-4c2f3f85793a/)
+* [Prosperity without Growth—Foundations for the Economy of Tomorrow](https://www.cusp.ac.uk/themes/aetw/pwg/)
