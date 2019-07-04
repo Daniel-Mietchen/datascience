@@ -36,6 +36,9 @@ This file is to facilitate the collection of information pertaining to the citat
 * [Why shared data should not be acknowledged on the author byline](https://www.ncbi.nlm.nih.gov/pubmed/22008368)
   - "We briefly discuss viable alternatives for crediting contributors, such as citations of papers describing shared data"
 * [How do you deposit data citations?](https://www.crossref.org/blog/how-do-you-deposit-data-citations/)
+* [ESIP Data Preservation and Stewardship Committee. 2019. Data Citation Guidelines for Earth Science Data. Ver. 2. Earth Science Information Partners](https://doi.org/10.6084/m9.figshare.8441816)
+  - These guidelines provide the basis for most all Earth science-related journals. See also https://doi.org/10.5281/zenodo.1451971 .
+
 
 # See also
 * Software citation
