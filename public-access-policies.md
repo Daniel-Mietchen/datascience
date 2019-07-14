@@ -30,6 +30,7 @@ This file serves the collection of information related to public access policies
   * [report](https://medium.com/cancer-moonshot/my-report-to-the-president-3c64b0dae863#.igz7bo949)
 * [Federally Funded Research Results Are Becoming More Open and Accessible](https://www.whitehouse.gov/blog/2016/10/28/federally-funded-research-results-are-becoming-more-open-and-accessible)
 * [Federal Policy for the Protection of Human Subjects](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)
+* [Data Sharing Policy for the National Institute of Mental Health](https://grants.nih.gov/grants/guide/notice-files/NOT-MH-19-033.html)
 
 ## UK
 
