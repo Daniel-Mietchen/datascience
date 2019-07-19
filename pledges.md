@@ -1,6 +1,6 @@
 # About
 
-This file collects materials related to pledges an similat aspirational statements regarding values like openness, diversity and ethics in the context of research, teaching and academia.
+This file collects materials related to pledges and similar aspirational statements regarding values like openness, diversity and ethics in the context of research, teaching and academia.
 
 # Potential levels of pledges
 
