@@ -33,6 +33,7 @@ This file collects materials related to pledges an similat aspirational statemen
     - [Commitment Statement in the Earth, Space, and Environmental Sciences for depositing and sharing data](http://www.copdess.org/enabling-fair-data-project/commitment-to-enabling-fair-data-in-the-earth-space-and-environmental-sciences/)
       - > "I hereby confirm that the signing organization commits to the Enabling FAIR Data objectives as defined in the Commitment Statement. We will review the commitment elements, develop a plan to address gaps, and complete the plan within one year of signing (or soonest)."
     - [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/endorsements-and-signatures/organization-list/)
+    - [Sustainability Tracking, Assessment & Rating System](https://stars.aashe.org/)
 
 # Potential dimensions of pledges
 
