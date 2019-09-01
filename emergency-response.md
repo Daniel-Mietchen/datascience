@@ -183,6 +183,15 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Automatic Detection of Flooded Roads](https://blog.insightdatascience.com/deep-learning-for-disaster-recovery-45c8cd174d7a)
   - [code on GitHub](https://github.com/jackkwok/neural-road-inspector)
 
+## [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
+* Found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019)%20AND%20data&src=typed_query&f=live).
+  - some other initiatives that are more common but haven't figured in my examples above so far:
+    - [road tolls suspended in some affected areas](https://twitter.com/RAsaWFTV/status/1168217033097588736)
+      - [more details in similar report](https://www.wftv.com/weather/eye-on-the-tropics/gov-ron-desantis-suspends-tolls-on-florida-s-turnpike-mainline-ahead-of-hurricane-dorian/981551629) ([archived](http://web.archive.org/save/https://www.wftv.com/weather/eye-on-the-tropics/gov-ron-desantis-suspends-tolls-on-florida-s-turnpike-mainline-ahead-of-hurricane-dorian/981551629))
+    - [waiving of smartphone data fees for some customers in affected areas](http://web.archive.org/save/https://www.verizon.com/about/news/verizon-response-unlimited-call-text-and-data-customers-dorians-path)
+    - [YouTube videos on the matter under CC BY](https://www.youtube.com/results?search_query=hurricane+AND+dorian&sp=CAISAjAB)
+      - [example upload](https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm)
+
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
 * [The @flintwaterstudy team advocates an #OpenScience #citizenscience approach to research](https://twitter.com/joelcreswell/status/780858479858692096)
