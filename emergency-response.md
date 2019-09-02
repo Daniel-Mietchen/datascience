@@ -198,6 +198,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - [Hurricane Dorian - the science behind the storm](https://www.nationalgeographic.com/environment/2019/08/hurricane-dorian-science-behind-the-storm/)
     - [premium access to data in weather app made free around Dorian](https://twitter.com/flowxapp/status/1168303386329939968)
     - [footage from on the ground](https://twitter.com/mildhighent518/status/1168564896369393665)
+  - comments on equity, e.g. ["We now have the science to help predict what's coming, but not everybody has the means to evacuate."](https://twitter.com/MiriamvGool/status/1168426799853907968)
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
