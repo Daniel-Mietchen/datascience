@@ -184,7 +184,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - [code on GitHub](https://github.com/jackkwok/neural-road-inspector)
 
 ## [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
-* Found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019)%20AND%20data&src=typed_query&f=live).
+* Found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian%20OR%20%23HurricaneDorain)%20AND%20data&src=typed_query&f=live).
   - some other initiatives that are more common but haven't figured in my examples above so far:
     - [sharing emergency contact details](http://web.archive.org/web/20190901205446/https://twitter.com/AbbyCe/status/1168265681105825792)
     - [road tolls suspended in some affected areas](https://twitter.com/RAsaWFTV/status/1168217033097588736)
@@ -194,11 +194,51 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - similar [in-kind offers from AT&T, Comcast, Uber](http://web.archive.org/save/https://www.cnn.com/us/live-news/hurricane-dorian-september-2019/h_af321a11c59bc059501fd11a8a4ab5b2)
     - [YouTube videos on the matter under CC BY](https://www.youtube.com/results?search_query=hurricane+AND+dorian&sp=CAISAjAB)
       - [example upload](https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm)
+    - lots of clips from people in affected areas, but rarely under open licenses
+      - e.g. https://twitter.com/mildhighent518/status/1168564896369393665
     - [Hurricane safety tips](https://www.nationalgeographic.com/environment/natural-disasters/hurricane-safety-tips/)
+      - Red Cross: https://twitter.com/VARedCross/status/1168593694775267334
     - [Hurricane Dorian - the science behind the storm](https://www.nationalgeographic.com/environment/2019/08/hurricane-dorian-science-behind-the-storm/)
     - [premium access to data in weather app made free around Dorian](https://twitter.com/flowxapp/status/1168303386329939968)
     - [footage from on the ground](https://twitter.com/mildhighent518/status/1168564896369393665)
+    - reconnaissance aircraft
+      - [overview of the kinds of data collected](https://www.aerotime.aero/clement.charpentreau/23888-inside-the-eye-of-dorian-the-hurricane-hunters-video)
+        - some other perspectives on data integration 
+          - [essential apps](https://twitter.com/anthonypuzzo/status/1168654938030968832)
+            - [GitHub page](https://dorian-disasterresponse.opendata.arcgis.com/)
+          - [diversity of data sources](https://twitter.com/CReppWx/status/1168655331838386177)
+          - [3D Climateviewer](http://climateviewer.org/3d/)
+      - footage
+        - https://twitter.com/NOAA_HurrHunter/status/1168365343103959040
+        - https://twitter.com/wxlada/status/1168276946150727681
+        - https://www.dvidshub.net/unit/403w
+        - a while ago, I have seen footage on YouTube of such a plane crossing the eye of a hurricane &mdash; have to dig that out
+      - [data loss](https://twitter.com/KalTellefsenWX/status/1168585474555961344)
+      - [gender balance](https://www.nbcnews.com/know-your-value/feature/meet-all-women-hurricane-hunters-team-facing-down-dorian-ncna1048436)
+    - drones
+      - interdictions, e.g. https://twitter.com/AeroSpaceNews/status/1168633009437732865
+      - for preparedness, e.g. 
+    - pilots volunteering to fly over to affected areas
+      - e.g. https://twitter.com/MelindaLeeWINK/status/1168645474859008000
+        - requests for volunteer pilots, e.g. https://twitter.com/BULLYNOT2U/status/1168643948476346368
+    - rescue pilot operations
+      - e.g. https://twitter.com/Bahamaspress/status/1168650714060603392
   - comments on equity, e.g. ["We now have the science to help predict what's coming, but not everybody has the means to evacuate."](https://twitter.com/MiriamvGool/status/1168426799853907968)
+  - declarations of a state of emergency
+    - Virginia
+      - https://www.governor.virginia.gov/newsroom/all-releases/2019/september/headline-846244-en.html
+        - [emergency preparedness plan](https://www.vaemergency.gov/prepare/make-a-plan/)
+        - [hurricane preparedness](https://www.vaemergency.gov/threats/hurricanes/)
+        - [evacuation zone lookup](https://www.vaemergency.gov/hurricane-evacuation-zone-lookup/)
+        - [emergency supply kits](https://www.vaemergency.gov/prepare/supply-kit/)
+    - lots of other comments on earlier ones for other places closer to the eye of the storm
+      - including questioning why certain areas had declared an emergency and others had not
+  - e-scooters
+    - https://twitter.com/AudryT/status/1168648349118943232
+  - urgency
+    - https://twitter.com/R_7/status/1168646927421980672
+  - typos 
+    - [#HurricaneDorain was trending](https://twitter.com/rockmancuso/status/1168638368202285056)
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
