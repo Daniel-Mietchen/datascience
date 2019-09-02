@@ -110,3 +110,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [How Much Is the Future Worth?](https://slate.com/technology/2017/09/how-social-discounting-helps-explain-why-we-dont-prepare-for-disasters-like-hurricane-harvey.html)
   - Wikipedia: [Social discount rate](https://en.wikipedia.org/wiki/Social_discount_rate)
 * [Why you should think about being a good ancestor — and 3 ways to start doing it](https://ideas.ted.com/why-you-should-think-about-being-a-good-ancestor-and-3-ways-to-start-doing-it/?utm_source=pocket-newtab)
+* United Nation's [Act Now initiative](https://www.un.org/en/actnow/)
