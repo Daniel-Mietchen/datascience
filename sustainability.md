@@ -50,7 +50,8 @@ This file hosts information regarding sustainability, especially the sustainabil
 * Three-part blog post series on sustainability of open research infrastructure
   - [Open Resources: Who Should Pay?](https://unlockingresearch.blog.lib.cam.ac.uk/?p=1483)
   - [Sustaining open research resources – a funder perspective](https://unlockingresearch.blog.lib.cam.ac.uk/?p=1520)
-
+* [REV Ocean](https://www.revocean.org/)
+  - World's largest research vessel, dedicated to research on marine sciences and related fields
 
 # Health-related societal challenges
 * some are in the Sustainable Development Goals
