@@ -78,3 +78,14 @@ post publication peer review. Or improve research training and mentorship. Or ..
 * [Taking Reproducible Research in Robotics to the Mainstream: Building on the IEEE RAM R-Articles]()
 * [Commitment to Research Transparency](http://www.researchtransparency.org/)
 * [Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)
+* LIGO resources on analyzing gravitaitonal wave data
+  - [LIGO Binder of initial gravitational wave detection](https://github.com/minrk/ligo-binder)
+  - [Public Gravitational Wave Alerts](https://www.ligo.caltech.edu/news/ligo20190411)
+    - > "LIGO and Virgo will publicly announce candidate gravitational wave triggers with a high likelihood of astrophysical origin within minutes of the waves arriving in the three detectors (LIGO Hanford, LIGO Livingston, and Virgo)"
+    - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/about/)
+    - [LIGO Data Management Plan](https://dcc.ligo.org/LIGO-M1000066/public)
+    - Data
+      - [latest candidate events](https://dcc.ligo.org/LIGO-M1000066/public)
+      - [superevents](https://gracedb.ligo.org/superevents/)
+        - e.g. [S190901ap](https://gracedb.ligo.org/superevents/S190901ap/)
+    - [Data analysis guide](https://www.ligo.org/science/Publication-DataAnalysisGuide/index.php)
