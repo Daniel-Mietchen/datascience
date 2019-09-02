@@ -104,3 +104,9 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [‘Resilience bonds’: A secret weapon against catastrophe](http://www.bbc.com/future/story/20170515-resilience-bonds-a-secret-weapon-against-catastrophe)
 * [How to take over your town: the inside story of a local revolution ](https://www.theguardian.com/society/2019/jun/12/how-to-take-over-your-town-the-inside-story-of-a-local-revolution) &mdash; nice piece on how participatory politics can have an impact on the local level
 * [Prosperity without Growth—Foundations for the Economy of Tomorrow](https://www.cusp.ac.uk/themes/aetw/pwg/)
+* [Dear Tomorrow](https://www.deartomorrow.org/)
+  - [sample letter](https://www.deartomorrow.org/message/to-my-grandchildren-6/)
+* [Centre for Studies of Climate Change Denialism](https://www.chalmers.se/en/departments/tme/centres/ceforced/Pages/default.aspx)
+* [How Much Is the Future Worth?](https://slate.com/technology/2017/09/how-social-discounting-helps-explain-why-we-dont-prepare-for-disasters-like-hurricane-harvey.html)
+  - Wikipedia: [Social discount rate](https://en.wikipedia.org/wiki/Social_discount_rate)
+* [Why you should think about being a good ancestor — and 3 ways to start doing it](https://ideas.ted.com/why-you-should-think-about-being-a-good-ancestor-and-3-ways-to-start-doing-it/?utm_source=pocket-newtab)
