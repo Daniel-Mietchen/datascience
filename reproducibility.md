@@ -85,7 +85,8 @@ post publication peer review. Or improve research training and mentorship. Or ..
     - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/about/)
     - [LIGO Data Management Plan](https://dcc.ligo.org/LIGO-M1000066/public)
     - Data
-      - [latest candidate events](https://dcc.ligo.org/LIGO-M1000066/public)
+      - [latest candidate events](https://gracedb.ligo.org/latest/)
       - [superevents](https://gracedb.ligo.org/superevents/)
+        - [public alerts](https://gracedb.ligo.org/superevents/public/O3/)
         - e.g. [S190901ap](https://gracedb.ligo.org/superevents/S190901ap/)
     - [Data analysis guide](https://www.ligo.org/science/Publication-DataAnalysisGuide/index.php)
