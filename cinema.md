@@ -9,6 +9,7 @@
   - Resilience &mdash; things we absolutely do not want to let go, i.e. our core values
   - Relinquishment &mdash; things we absolutely need to let go
   - Restauration &mdash; things that we may have lost and that are worth getting back into our lives
+* [Children of India speaking with Greta Thunberg's voice](https://twitter.com/fridays_india/status/1168177177281454080)
 * [How to green the world's deserts and reverse climate change | Allan Savory](https://www.youtube.com/watch?v=vpTHi7O66pI)
   - about [holistic management (planned grazing)](https://en.wikipedia.org/wiki/Holistic_management_(agriculture))
   - see also the documentary [Running out of Time](https://www.youtube.com/watch?v=q7pI7IYaJLI)
