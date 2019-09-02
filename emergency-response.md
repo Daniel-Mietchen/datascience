@@ -191,6 +191,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - [more details in similar report](https://www.wftv.com/weather/eye-on-the-tropics/gov-ron-desantis-suspends-tolls-on-florida-s-turnpike-mainline-ahead-of-hurricane-dorian/981551629) ([archived](http://web.archive.org/save/https://www.wftv.com/weather/eye-on-the-tropics/gov-ron-desantis-suspends-tolls-on-florida-s-turnpike-mainline-ahead-of-hurricane-dorian/981551629))
     - [waiving of smartphone data fees for some customers in affected areas](http://web.archive.org/save/https://www.verizon.com/about/news/verizon-response-unlimited-call-text-and-data-customers-dorians-path)
       - "First responder customers with wireless priority service should utilize \*272 when placing calls."
+      - similar [in-kind offers from AT&T, Comcast, Uber](http://web.archive.org/save/https://www.cnn.com/us/live-news/hurricane-dorian-september-2019/h_af321a11c59bc059501fd11a8a4ab5b2)
     - [YouTube videos on the matter under CC BY](https://www.youtube.com/results?search_query=hurricane+AND+dorian&sp=CAISAjAB)
       - [example upload](https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm)
     - [Hurricane safety tips](https://www.nationalgeographic.com/environment/natural-disasters/hurricane-safety-tips/)
