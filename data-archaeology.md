@@ -25,6 +25,7 @@ This file collects information on data archaeology, data rescue and related matt
   - > "We present the discovery of an emission nebula in the Galactic globular cluster M 22 (NGC 6656) in observations made with the integral-field spectrograph MUSE. We extract the spectrum of the nebula and use the radial velocity determined from the emission lines to confirm that the nebula is part of NGC 6656. Emission-line ratios are used to determine the electron temperature and density. It is estimated to have a mass of 1 to 17×10−5 solar masses. This mass and the emission-line ratios indicate that the nebula is a nova remnant. Its position coincides with the reported location of a 'guest star', an ancient Chinese term for transients, observed in May 48 BCE. With this discovery, this nova may be one of the oldest confirmed extrasolar events recorded in human history."
 * [The Eldgjá eruption: timing, long-range impacts and influence on the Christianisation of Iceland](https://doi.org/10.1007/s10584-018-2171-9)
   - uses ice cores, tree rings and medieval scripts, among other sources
+  - [some background](https://www.sciencealert.com/how-a-volcanic-outburst-1-000-years-ago-was-so-brutal-it-slayed-gods-ragnarok-norse-voluspa-eldgja)
 
 # Missing pieces
 
