@@ -195,6 +195,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - [example upload](https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm)
     - [Hurricane safety tips](https://www.nationalgeographic.com/environment/natural-disasters/hurricane-safety-tips/)
     - [Hurricane Dorian - the science behind the storm](https://www.nationalgeographic.com/environment/2019/08/hurricane-dorian-science-behind-the-storm/)
+    - [premium access to data in weather app made free around Dorian](https://twitter.com/flowxapp/status/1168303386329939968)
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
