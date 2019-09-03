@@ -276,7 +276,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - via Google doc ([mobile](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/mobilebasic)/[desktop](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/view) &mdash; 
  http://bit.ly/bahamaspersonsfound ) containing names of missing people and checkmarks if they have been found
        - [tweet](https://twitter.com/nameuniqueapick/status/1168715236951506944)
-      - via a non-public Facebook group https://www.facebook.com/groups/529794051099366/about/
+      - via an initially non-public Facebook group that was later made public: https://www.facebook.com/groups/529794051099366/about/
+        - now via a [dedicated website](http://dorianpeoplesearch.com/) ([archive](http://web.archive.org/web/20190903200729/http://dorianpeoplesearch.com/))
       - via digital apps https://twitter.com/Acanthe20/status/1168599277897170944
     - tweets listing people confirmed safe: https://twitter.com/TAndrosica/status/1168895139416330249
   - nomenclature: 
