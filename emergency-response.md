@@ -263,6 +263,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
     - misinterpretation of data visualizations, e.g. as per https://boingboing.net/2019/08/29/why-hurricane-maps-do-a-terrib.html
     - why Dorian stayed over the Bahamas for so long: https://twitter.com/gwccwx/status/1168754298936840192
+    - [current atmospheric streams](https://earth.nullschool.net/fr/#current/chem/surface/level/overlay=cosc/orthographic=-75.39,34.17,1095/loc=-79.009,25.945)
+      - seen via [this tweet](https://twitter.com/HagardValerie/status/1168765338592403457)
   - disaster relief gaming 
     - e.g. https://twitter.com/DrKimWood/status/1168576963537252352
   - search and rescue
