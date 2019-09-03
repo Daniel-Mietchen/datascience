@@ -243,6 +243,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - https://twitter.com/R_7/status/1168646927421980672
   - typos 
     - [#HurricaneDorain was trending](https://twitter.com/rockmancuso/status/1168638368202285056)
+  - maps https://twitter.com/O535592636453O/status/1168726610943475713  
   - map errors
     - e.g. https://twitter.com/ALostrich/status/1168231429920219137
     - https://twitter.com/wattsupbrent/status/1168243019386097664
