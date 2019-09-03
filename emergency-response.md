@@ -278,6 +278,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
        - [tweet](https://twitter.com/nameuniqueapick/status/1168715236951506944)
       - via a non-public Facebook group https://www.facebook.com/groups/529794051099366/about/
       - via digital apps https://twitter.com/Acanthe20/status/1168599277897170944
+    - tweets listing people confirmed safe: https://twitter.com/TAndrosica/status/1168895139416330249
   - nomenclature: 
     - https://twitter.com/arrdfe25/status/1168729957666885633
       - source of the image: https://www.weather.gov/srh/tropical ([archived](http://web.archive.org/save/https://www.weather.gov/srh/tropical))
