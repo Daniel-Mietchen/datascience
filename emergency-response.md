@@ -198,6 +198,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - "First responder customers with wireless priority service should utilize \*272 when placing calls."
       - similar [in-kind offers from AT&T, Comcast, Uber](http://web.archive.org/save/https://www.cnn.com/us/live-news/hurricane-dorian-september-2019/h_af321a11c59bc059501fd11a8a4ab5b2)
         - or [AirBnb](https://twitter.com/AirbnbHelp/status/1167987944134565889)
+        - [Uber service suspended in affected area](https://twitter.com/Adam4NY/status/1168879138461093888)
     - [YouTube videos on the matter under CC BY](https://www.youtube.com/results?search_query=hurricane+AND+dorian&sp=CAISAjAB)
       - [example upload](https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm)
     - lots of clips from people in affected areas, but rarely under open licenses
