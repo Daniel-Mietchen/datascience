@@ -219,6 +219,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
         - https://twitter.com/wxlada/status/1168276946150727681
         - https://www.dvidshub.net/unit/403w
         - a while ago, I have seen footage on YouTube of such a plane crossing the eye of a hurricane &mdash; have to dig that out
+          - found it: https://www.youtube.com/watch?v=u7UWWjkpd7o
       - [data loss](https://twitter.com/KalTellefsenWX/status/1168585474555961344)
       - [gender balance](https://www.nbcnews.com/know-your-value/feature/meet-all-women-hurricane-hunters-team-facing-down-dorian-ncna1048436)
     - drones
