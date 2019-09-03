@@ -261,6 +261,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - via digital images https://twitter.com/Bahamaspress/status/1168419466058829829
       - via digital forms asking for location and other details of the missing/ isolated people https://twitter.com/nemabahamas/status/1168364547989790721
       - via digital apps https://twitter.com/Acanthe20/status/1168599277897170944
+  - nomenclature: https://twitter.com/arrdfe25/status/1168729957666885633
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
