@@ -189,7 +189,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - [code on GitHub](https://github.com/jackkwok/neural-road-inspector)
 
 ## [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
-* Found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian%20OR%20%23HurricaneDorain)%20AND%20data&src=typed_query&f=live).
+* Found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian%20OR%20%23HurricaneDorain)%20AND%20(%22open%20data%22%20OR%20opendata%20OR%20%22open%20science%22%20OR%20openscience%20OR%20visualization%20OR%20dataviz)&src=typed_query&f=live).
   - some other initiatives that are more common but haven't figured in my examples above so far:
     - [sharing emergency contact details](http://web.archive.org/web/20190901205446/https://twitter.com/AbbyCe/status/1168265681105825792)
     - [road tolls suspended in some affected areas](https://twitter.com/RAsaWFTV/status/1168217033097588736)
@@ -262,6 +262,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - https://twitter.com/manelrodero/status/1168611726193045509
     - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
     - misinterpretation of data visualizations, e.g. as per https://boingboing.net/2019/08/29/why-hurricane-maps-do-a-terrib.html
+    - why Dorian stayed over the Bahamas for so long: https://twitter.com/gwccwx/status/1168754298936840192
   - disaster relief gaming 
     - e.g. https://twitter.com/DrKimWood/status/1168576963537252352
   - search and rescue
@@ -284,6 +285,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
         - https://twitter.com/EllenYChang/status/1168569483444858880
           - https://mobilegiving.org/
     - fake 
+  - education
+    - [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
