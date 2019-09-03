@@ -179,6 +179,11 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ## [Typhoon Haiyan (2013)](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 * [Open StreetMap coordination page](http://wiki.openstreetmap.org/wiki/Typhoon_Haiyan)
 
+## [Cyclone Enawo (2017)](https://en.wikipedia.org/wiki/Cyclone_Enawo)
+* Humanitarian Data Exchange format and platform used to collate diverse data
+  - [case study](https://twitter.com/EvoMRI/status/1129419003242401794)
+  - [datasets](https://data.humdata.org/search?tags=cyclone&q=enawo&ext_page_size=25)
+
 ## [Hurricane Harvey (2017)](https://en.wikipedia.org/wiki/Hurricane_Harvey)
 * [Automatic Detection of Flooded Roads](https://blog.insightdatascience.com/deep-learning-for-disaster-recovery-45c8cd174d7a)
   - [code on GitHub](https://github.com/jackkwok/neural-road-inspector)
@@ -248,6 +253,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - https://twitter.com/O535592636453O/status/1168726610943475713  
     - [administrative bodies twinned with places in the Bahamas](https://query.wikidata.org/#%23defaultView%3AMap%0ASELECT%20%20DISTINCT%20%3Ftwin%20%3FtwinLabel%20%3Fbahamasplace%20%3FbahamasplaceLabel%20%3Fgeobahamas%20%3Fgeo%20%3Flayer%20%3FlayerLabel%20WHERE%20%7B%0A%20%20%3Fbahamasplace%20wdt%3AP17%20wd%3AQ778%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP190%20%3Ftwin%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP625%20%3Fgeobahamas%20.%0A%20%20%3Ftwin%20wdt%3AP625%20%3Fgeo%20%3B%0A%20%20%20%20%20%20%20%20wdt%3AP17%20%3Flayer%20.%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D)
       - [tweet](https://twitter.com/EvoMRI/status/1168716280062496768)
+    - [webcams along the projected path](https://www.arcgis.com/apps/opsdashboard/index.html#/5a47f07951d64733bca940741f9c0664)
   - map errors
     - e.g. https://twitter.com/ALostrich/status/1168231429920219137
     - https://twitter.com/wattsupbrent/status/1168243019386097664
@@ -262,6 +268,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - digital search for missing people
       - via digital images https://twitter.com/Bahamaspress/status/1168419466058829829
       - via digital forms asking for location and other details of the missing/ isolated people https://twitter.com/nemabahamas/status/1168364547989790721
+      - via Google doc ([mobile](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/mobilebasic)/[desktop](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/view) &mdash; 
+ http://bit.ly/bahamaspersonsfound ) containing names of missing people and checkmarks if they have been found
+       - [tweet](https://twitter.com/nameuniqueapick/status/1168715236951506944)
+      - via a non-public Facebook group https://www.facebook.com/groups/529794051099366/about/
       - via digital apps https://twitter.com/Acanthe20/status/1168599277897170944
   - nomenclature: 
     - https://twitter.com/arrdfe25/status/1168729957666885633
