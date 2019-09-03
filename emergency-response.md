@@ -268,6 +268,12 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - source of the image: https://www.weather.gov/srh/tropical ([archived](http://web.archive.org/save/https://www.weather.gov/srh/tropical))
   - aftermath
     - https://twitter.com/drpavito1/status/1168686044784603136
+  - donations
+    - legit
+      - https://twitter.com/WCKitchen/status/1168336428864102401
+        - https://twitter.com/EllenYChang/status/1168569483444858880
+          - https://mobilegiving.org/
+    - fake 
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
