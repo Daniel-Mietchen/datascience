@@ -266,7 +266,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - nomenclature: 
     - https://twitter.com/arrdfe25/status/1168729957666885633
       - source of the image: https://www.weather.gov/srh/tropical ([archived](http://web.archive.org/save/https://www.weather.gov/srh/tropical))
-  
+  - aftermath
+    - https://twitter.com/drpavito1/status/1168686044784603136
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
