@@ -285,6 +285,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - aftermath
     - https://twitter.com/drpavito1/status/1168686044784603136
       - see also https://twitter.com/bymyelf/status/1168751762314055681
+    - https://twitter.com/Rankinstudio/status/1168881359781163008
   - donations
     - legit
       - https://twitter.com/WCKitchen/status/1168336428864102401
