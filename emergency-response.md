@@ -250,6 +250,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - e.g. evolution of Dorian over the course of its initial 8 days: https://twitter.com/manelrodero/status/1168611726193045509
   - disaster relief gaming 
     - e.g. https://twitter.com/DrKimWood/status/1168576963537252352
+  - search and rescue
+    - digital search for missing people https://twitter.com/Bahamaspress/status/1168419466058829829
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
