@@ -192,6 +192,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - [waiving of smartphone data fees for some customers in affected areas](http://web.archive.org/save/https://www.verizon.com/about/news/verizon-response-unlimited-call-text-and-data-customers-dorians-path)
       - "First responder customers with wireless priority service should utilize \*272 when placing calls."
       - similar [in-kind offers from AT&T, Comcast, Uber](http://web.archive.org/save/https://www.cnn.com/us/live-news/hurricane-dorian-september-2019/h_af321a11c59bc059501fd11a8a4ab5b2)
+        - or [AirBnb](https://twitter.com/AirbnbHelp/status/1167987944134565889)
     - [YouTube videos on the matter under CC BY](https://www.youtube.com/results?search_query=hurricane+AND+dorian&sp=CAISAjAB)
       - [example upload](https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm)
     - lots of clips from people in affected areas, but rarely under open licenses
@@ -242,6 +243,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - https://twitter.com/R_7/status/1168646927421980672
   - typos 
     - [#HurricaneDorain was trending](https://twitter.com/rockmancuso/status/1168638368202285056)
+  - map errors
+    - e.g. https://twitter.com/ALostrich/status/1168231429920219137
+    - https://twitter.com/wattsupbrent/status/1168243019386097664
   - data visualization
     - e.g. evolution of Dorian over the course of its initial 8 days: https://twitter.com/manelrodero/status/1168611726193045509
   - disaster relief gaming 
