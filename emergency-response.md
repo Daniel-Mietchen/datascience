@@ -243,7 +243,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - https://twitter.com/R_7/status/1168646927421980672
   - typos 
     - [#HurricaneDorain was trending](https://twitter.com/rockmancuso/status/1168638368202285056)
-  - maps https://twitter.com/O535592636453O/status/1168726610943475713  
+  - maps 
+    - https://twitter.com/O535592636453O/status/1168726610943475713  
+    - [administrative bodies twinned with places in the Bahamas](https://query.wikidata.org/#%23defaultView%3AMap%0ASELECT%20%20DISTINCT%20%3Ftwin%20%3FtwinLabel%20%3Fbahamasplace%20%3FbahamasplaceLabel%20%3Fgeobahamas%20%3Fgeo%20%3Flayer%20%3FlayerLabel%20WHERE%20%7B%0A%20%20%3Fbahamasplace%20wdt%3AP17%20wd%3AQ778%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP190%20%3Ftwin%20%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wdt%3AP625%20%3Fgeobahamas%20.%0A%20%20%3Ftwin%20wdt%3AP625%20%3Fgeo%20%3B%0A%20%20%20%20%20%20%20%20wdt%3AP17%20%3Flayer%20.%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D)
+      - [tweet](https://twitter.com/EvoMRI/status/1168716280062496768)
   - map errors
     - e.g. https://twitter.com/ALostrich/status/1168231429920219137
     - https://twitter.com/wattsupbrent/status/1168243019386097664
