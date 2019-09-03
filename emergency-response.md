@@ -294,7 +294,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
         - https://twitter.com/EllenYChang/status/1168569483444858880
           - https://mobilegiving.org/
       - https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7485#at_pco=smlwn-1.0&at_si=5d6d4dde3155d0db&at_ab=per-2&at_pos=0&at_tot=1
-      - unchecked: https://www.gofundme.com/f/headknowles-emergency-funds
+      - http://dorianpeoplesearch.com/relief-organisations/
+        - also lists https://www.gofundme.com/f/headknowles-emergency-funds
     - fake 
   - education
     - [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
