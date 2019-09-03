@@ -218,6 +218,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - drones
       - interdictions, e.g. https://twitter.com/AeroSpaceNews/status/1168633009437732865
       - for preparedness, e.g. 
+        - https://twitter.com/SkyHorseTech/status/1168601064855212032
+        - https://twitter.com/FPL_Newsroom/status/1168636206789332995
+      - in the aftermath, e.g. https://twitter.com/giocastilhos/status/1168637405433188352
     - pilots volunteering to fly over to affected areas
       - e.g. https://twitter.com/MelindaLeeWINK/status/1168645474859008000
         - requests for volunteer pilots, e.g. https://twitter.com/BULLYNOT2U/status/1168643948476346368
@@ -239,6 +242,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - https://twitter.com/R_7/status/1168646927421980672
   - typos 
     - [#HurricaneDorain was trending](https://twitter.com/rockmancuso/status/1168638368202285056)
+  - data visualization
+    - e.g. evolution of Dorian over the course of its initial 8 days: https://twitter.com/manelrodero/status/1168611726193045509
+  - disaster relief gaming 
+    - e.g. https://twitter.com/DrKimWood/status/1168576963537252352
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
