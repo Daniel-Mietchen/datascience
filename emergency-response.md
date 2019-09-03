@@ -253,7 +253,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - data visualization
     - e.g. evolution of Dorian over the course of its initial 8 days: 
       - https://twitter.com/manelrodero/status/1168611726193045509
-      - misinterpretation of data visualizations, e.g. as per https://boingboing.net/2019/08/29/why-hurricane-maps-do-a-terrib.html
+    - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
+    - misinterpretation of data visualizations, e.g. as per https://boingboing.net/2019/08/29/why-hurricane-maps-do-a-terrib.html
   - disaster relief gaming 
     - e.g. https://twitter.com/DrKimWood/status/1168576963537252352
   - search and rescue
