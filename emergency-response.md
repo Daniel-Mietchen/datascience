@@ -282,6 +282,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - source of the image: https://www.weather.gov/srh/tropical ([archived](http://web.archive.org/save/https://www.weather.gov/srh/tropical))
   - aftermath
     - https://twitter.com/drpavito1/status/1168686044784603136
+      - see also https://twitter.com/bymyelf/status/1168751762314055681
   - donations
     - legit
       - https://twitter.com/WCKitchen/status/1168336428864102401
