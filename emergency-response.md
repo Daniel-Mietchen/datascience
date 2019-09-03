@@ -233,6 +233,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - https://www.governor.virginia.gov/newsroom/all-releases/2019/september/headline-846244-en.html
         - [emergency preparedness plan](https://www.vaemergency.gov/prepare/make-a-plan/)
         - [hurricane preparedness](https://www.vaemergency.gov/threats/hurricanes/)
+        - [hurricane evacuation guide](https://www.vaemergency.gov/hurricane-evacuation-zone-lookup/hurricane-evacuation-guide/)
         - [evacuation zone lookup](https://www.vaemergency.gov/hurricane-evacuation-zone-lookup/)
         - [emergency supply kits](https://www.vaemergency.gov/prepare/supply-kit/)
     - lots of other comments on earlier ones for other places closer to the eye of the storm
