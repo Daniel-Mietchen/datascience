@@ -228,7 +228,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
         - https://twitter.com/FPL_Newsroom/status/1168636206789332995
       - in the aftermath, e.g. https://twitter.com/giocastilhos/status/1168637405433188352
     - pilots volunteering to fly over to affected areas
-      - e.g. https://twitter.com/MelindaLeeWINK/status/1168645474859008000
+      - e.g. https://twitter.com/MelindaLeeWINK/status/1168645474859008000 or https://twitter.com/feelgoodflorida/status/1168857212585959426
         - requests for volunteer pilots, e.g. https://twitter.com/BULLYNOT2U/status/1168643948476346368
     - rescue pilot operations
       - e.g. https://twitter.com/Bahamaspress/status/1168650714060603392
@@ -286,6 +286,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - https://twitter.com/WCKitchen/status/1168336428864102401
         - https://twitter.com/EllenYChang/status/1168569483444858880
           - https://mobilegiving.org/
+      - https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7485#at_pco=smlwn-1.0&at_si=5d6d4dde3155d0db&at_ab=per-2&at_pos=0&at_tot=1
+      - unchecked: https://www.gofundme.com/f/headknowles-emergency-funds
     - fake 
   - education
     - [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
