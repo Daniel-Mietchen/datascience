@@ -96,7 +96,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [How a mosquito bite inspired a campaign to map every school in the world](http://www.itpro.co.uk/open-source/31358/how-a-mosquito-bite-inspired-a-campaign-to-map-every-school-in-the-world)
   - > The disease proved to be a wakeup call to a chronic lack of even basic medical infrastructure across Latin America. There were no vaccines available, no clinics prepared for the influx of concerned mothers, very few universal family planning services in place, and the high degree of poverty in the regions left many unable to access the most basic of protections, such as mosquito nets.
   - > For organisations like UNICEF, the most immediate challenge was a lack of accurate data on those affected. Without official public records, the organisation was forced to rely on the region's mobile operators that were able to offer data, albeit aggregated and anonymised, on the movements of people. Combined with temperature and poverty data, which showed the most favourable areas for mosquitoes to breed, the information was used to help direct people away from the most dangerous areas.
-  - I [pinged them](https://twitter.com/EvoMRI/status/1016638423048818688) on integration with Wikidata's data bout schools
+  - I [pinged them](https://twitter.com/EvoMRI/status/1016638423048818688) on integration with Wikidata's data about schools
 
 ### Background on Zika and other otbreaks
 * [Why it takes so long to develop a vaccine against a new epidemic](http://qz.com/751478/why-it-takes-so-long-to-develop-a-vaccine-against-a-new-epidemic/)
