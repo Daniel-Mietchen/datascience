@@ -267,6 +267,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - https://twitter.com/manelrodero/status/1168611726193045509
     - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
     - misinterpretation of data visualizations, e.g. as per https://boingboing.net/2019/08/29/why-hurricane-maps-do-a-terrib.html
+      - more on this "cone of uncertainty" chart: https://junkcharts.typepad.com/junk_charts/2019/09/as-dorian-confounds-meteorologists-we-keep-our-minds-clear-on-hurricane-graphics-and-discover-correl.html
+        - includes pointer to this video: https://www.youtube.com/watch?v=04QRN5gUe08
     - why Dorian stayed over the Bahamas for so long: https://twitter.com/gwccwx/status/1168754298936840192
       - more on this in https://www.msn.com/en-us/Weather/topstories/why-dorian-stalled-out-over-the-bahamas/ar-AAGLbuZ?ocid=st
         - > "Basically, the winds that typically steer a hurricane along fell apart at the same time that the storm landed over the Bahamas. "
