@@ -6,6 +6,7 @@ This file serves to collect thoughts on how to stimulate the reuse of open data,
 as key factors on how to achieve that. There are others, and the precise mixture probably depends much on context.
 
 # Research questions
+
 * How are research objects being used?
 * What kinds of reuses are there?
 * What are useful ways to track these kinds of reuses?
@@ -40,6 +41,11 @@ as key factors on how to achieve that. There are others, and the precise mixture
 
 * From the abstract of [Novel antigenic shift in HA sequences of H1N1 viruses detected by big data analysis](https://doi.org/10.1016/J.MEEGID.2017.03.028) (emphasis added):
   - > The influenza virus H1N1 has been prevalent all over the world for nearly a century. Many studies on its evolutionary history, substitution rate and antigenicity-associated sites have been done with small datasets. To have a complete view, we analysed **3171 full-length HA sequences from human H1N1 viruses sampled from 1918 to 2016**, and discovered a new clade has formed with sequences isolated in Iran. 
+
+## Visualization of wind speeds in an area
+
+* https://twitter.com/blueraster/status/1168933523924889603
+  - intended for monitoring fires but can be used for [monitoring hurricanes as well](https://fires.globalforestwatch.org/map/?utm_content=buffer5d41c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#activeLayers=windDirection&activeBasemap=dark-gray&activeImagery=&planetCategory=PLANET-MONTHLY&planetPeriod=Jan%200000&x=-78.986206&y=27.139501&z=7)
 
 ## JATS
 [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/) (PMC) is a repository for scholarly literature in the biomedical field. Some of its content is available under terms that allow for [Reusing, Revising, Remixing and Redistributing Research](http://blogs.plos.org/blog/2012/10/23/reusing-revising-remixing-and-redistributing-research/), e.g. to extract audio and video materials from these articles and upload them to Wikimedia Commons, as the [Open Access Media Importer](http://commons.wikimedia.org/wiki/User:Open_Access_Media_Importer_Bot) does. 
