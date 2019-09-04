@@ -189,7 +189,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - [code on GitHub](https://github.com/jackkwok/neural-road-inspector)
 
 ## [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
-* Found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian%20OR%20%23HurricaneDorain)%20AND%20(%22open%20data%22%20OR%20opendata%20OR%20%22open%20science%22%20OR%20openscience%20OR%20visualization%20OR%20dataviz)&src=typed_query&f=live).
+* When I started looking into this storm more closely throughout September 1, 2019, I found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian%20OR%20%23HurricaneDorain)%20AND%20(%22open%20data%22%20OR%20opendata%20OR%20%22open%20science%22%20OR%20openscience%20OR%20visualization%20OR%20dataviz)&src=typed_query&f=live).
+  - [OpenStreetMap coordination page prepared on September 3](https://wiki.openstreetmap.org/w/index.php?title=Organised_Editing%2FActivities%2FHumanitarian_OpenStreetMap_Team&type=revision&diff=1898705&oldid=1895986)
   - some other initiatives that are more common but haven't figured in my examples above so far:
     - [sharing emergency contact details](http://web.archive.org/web/20190901205446/https://twitter.com/AbbyCe/status/1168265681105825792)
     - [road tolls suspended in some affected areas](https://twitter.com/RAsaWFTV/status/1168217033097588736)
