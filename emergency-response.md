@@ -214,6 +214,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
           - [essential apps](https://twitter.com/anthonypuzzo/status/1168654938030968832)
             - [GitHub page](https://dorian-disasterresponse.opendata.arcgis.com/)
           - [diversity of data sources](https://twitter.com/CReppWx/status/1168655331838386177)
+            - more on this in https://www.msn.com/en-us/Weather/topstories/why-dorian-stalled-out-over-the-bahamas/ar-AAGLbuZ?ocid=st
+              - > "National Weather Service forecasts build on models and real-time observations collected from offices throughout the country. Twice a day, McNatt said, 92 weather stations across North America and the Pacific, plus 10 stations in the Caribbean release weather balloons into the atmosphere. Those balloons collect data on temperature, wind speed, humidity, and pressure for the NWS. "
           - [3D Climateviewer](http://climateviewer.org/3d/)
       - footage
         - https://twitter.com/NOAA_HurrHunter/status/1168365343103959040
@@ -265,6 +267,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
     - misinterpretation of data visualizations, e.g. as per https://boingboing.net/2019/08/29/why-hurricane-maps-do-a-terrib.html
     - why Dorian stayed over the Bahamas for so long: https://twitter.com/gwccwx/status/1168754298936840192
+      - more on this in https://www.msn.com/en-us/Weather/topstories/why-dorian-stalled-out-over-the-bahamas/ar-AAGLbuZ?ocid=st
+        - > "Basically, the winds that typically steer a hurricane along fell apart at the same time that the storm landed over the Bahamas. "
     - [current atmospheric streams](https://earth.nullschool.net/fr/#current/chem/surface/level/overlay=cosc/orthographic=-75.39,34.17,1095/loc=-79.009,25.945)
       - seen via [this tweet](https://twitter.com/HagardValerie/status/1168765338592403457)
   - disaster relief gaming 
