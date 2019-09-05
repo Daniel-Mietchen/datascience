@@ -225,6 +225,7 @@
   - [demo](http://www.kbresearch.nl/xportal/?SELECT%20?p%20WHERE%20%7B?p%20wdt:P39%20wd:Q18887908%20.%20?p%20wdt:P19%20?place%20.%20?place%20wdt:P17%20?country%20.%20FILTER%20NOT%20EXISTS%20%7B%20?place%20wdt:P17%20wd:Q55%20.%20%7D%20%7D)
   - [background](https://medium.com/@alexstinson/wikidata-in-collections-building-a-universal-language-for-connecting-glam-catalogs-59b14aa3214c)
 * [Pathways for discovery of free software](https://media.libreplanet.org/u/libreplanet/m/pathways-for-discovery-of-free-software/)
+* [Where money meets open source - Nadia Eghbal (GitHub)](https://www.youtube.com/watch?v=bjAinwgvQqc)
 * Naftali Tishby: [Information Theory of Deep Learning](https://www.youtube.com/watch?v=bLqJHjXihK8)
   * commentary: [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 * [The World We Want: OpenStreetMap and the Sustainable Development Goals](http://2016.stateofthemap.org/2016/the-world-we-want-openstreetmap-and-the-sustainable-development-goals/)
