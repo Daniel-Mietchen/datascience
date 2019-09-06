@@ -246,6 +246,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
         - [hurricane evacuation guide](https://www.vaemergency.gov/hurricane-evacuation-zone-lookup/hurricane-evacuation-guide/)
         - [evacuation zone lookup](https://www.vaemergency.gov/hurricane-evacuation-zone-lookup/)
         - [emergency supply kits](https://www.vaemergency.gov/prepare/supply-kit/)
+        - see also [tweets on Dorian and Virginia](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian)%20AND%20virginia&src=typed_query&f=live)
     - lots of other comments on earlier ones for other places closer to the eye of the storm
       - including questioning why certain areas had declared an emergency and others had not
   - e-scooters
@@ -266,6 +267,12 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - e.g. evolution of Dorian over the course of its initial 8 days: 
       - https://twitter.com/manelrodero/status/1168611726193045509
     - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
+    - satellite data that users can overlay with geomaps 
+      - https://twitter.com/KalteMalte53/status/1169918657436246017
+      - https://apps.sentinel-hub.com/eo-browser/?lat=37.200&lng=-76.553&zoom=8&time=2019-09-05&preset=CUSTOM&datasource=Sentinel-3%20OLCI&layers=B07,B05,B03&evalscript=cmV0dXJuIFtCMDcqMC41LEIwNSowLjUsQjAzKjAuNV07
+    - discussion of visualization versus actual photos and how they can be leveraged together to help people get a better understanding of the storm and its effects, with comments on how to build a navigation app that takes into account roads closed due to flooding
+      - https://twitter.com/NevianaZhgaba/status/1169892401940271109
+      - https://medium.com/nightingale/dataviz-to-the-rescue-adding-emotion-to-the-data-348e5b71e77d
     - misinterpretation of data visualizations, e.g. as per https://boingboing.net/2019/08/29/why-hurricane-maps-do-a-terrib.html
       - more on this "cone of uncertainty" chart: https://junkcharts.typepad.com/junk_charts/2019/09/as-dorian-confounds-meteorologists-we-keep-our-minds-clear-on-hurricane-graphics-and-discover-correl.html
         - includes pointer to this video: https://www.youtube.com/watch?v=04QRN5gUe08
@@ -274,6 +281,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
         - > "Basically, the winds that typically steer a hurricane along fell apart at the same time that the storm landed over the Bahamas. "
     - [current atmospheric streams](https://earth.nullschool.net/fr/#current/chem/surface/level/overlay=cosc/orthographic=-75.39,34.17,1095/loc=-79.009,25.945)
       - seen via [this tweet](https://twitter.com/HagardValerie/status/1168765338592403457)
+    - [USGS water dashboard for Dorian](https://webapps.usgs.gov/dorian/)
+      - seen via https://twitter.com/danielkpearson/status/1169840282398908417
   - disaster relief gaming 
     - e.g. https://twitter.com/DrKimWood/status/1168576963537252352
   - search and rescue
