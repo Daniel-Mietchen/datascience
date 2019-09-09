@@ -115,3 +115,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * Sustainability of pet food
   - e.g. as per https://www.yorapetfoods.com/about-us , which is based on [Hermetia illucens](https://en.wikipedia.org/wiki/Hermetia_illucens) larvae that are edible to humans too.
 * [Agenda 2030 in my municipality: a handbook for practitioners for localising the Sustainable Development Goals](http://www.nalas.eu/News/SDGs_Handbook)
+* [What If We Stopped Pretending?](https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending) (...that we can stop climate change?)
