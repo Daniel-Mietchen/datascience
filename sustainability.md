@@ -112,3 +112,5 @@ This file hosts information regarding sustainability, especially the sustainabil
   - Wikipedia: [Social discount rate](https://en.wikipedia.org/wiki/Social_discount_rate)
 * [Why you should think about being a good ancestor — and 3 ways to start doing it](https://ideas.ted.com/why-you-should-think-about-being-a-good-ancestor-and-3-ways-to-start-doing-it/?utm_source=pocket-newtab)
 * United Nation's [Act Now initiative](https://www.un.org/en/actnow/)
+* Sustainability of pet food
+  - e.g. as per https://www.yorapetfoods.com/about-us , which is based on [Hermetia illucens](https://en.wikipedia.org/wiki/Hermetia_illucens) larvae that are edible to humans too.
