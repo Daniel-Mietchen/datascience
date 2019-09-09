@@ -114,3 +114,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * United Nation's [Act Now initiative](https://www.un.org/en/actnow/)
 * Sustainability of pet food
   - e.g. as per https://www.yorapetfoods.com/about-us , which is based on [Hermetia illucens](https://en.wikipedia.org/wiki/Hermetia_illucens) larvae that are edible to humans too.
+* [Agenda 2030 in my municipality: a handbook for practitioners for localising the Sustainable Development Goals](http://www.nalas.eu/News/SDGs_Handbook)
