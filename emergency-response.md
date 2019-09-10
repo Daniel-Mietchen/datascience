@@ -352,6 +352,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - NYT: "A Virginia University Offers Free Semester to Students in Bahamas Displaced by Hurricane"
         - https://twitter.com/lboogiepopworld/status/1170786627628785664
           - full text at http://web.archive.org/web/20190910045452/https://www.nytimes.com/2019/09/07/us/hampton-university-bahamas.html
+      - The Hill: 
+        - https://twitter.com/thecollegeroar/status/1170044768191225857
+        - http://web.archive.org/web/20190910060125/https://thehill.com/blogs/blog-briefing-room/news/460212-historically-black-university-to-offer-free-enrollment-room-and
   - donations
     - legit
       - https://twitter.com/WCKitchen/status/1168336428864102401
