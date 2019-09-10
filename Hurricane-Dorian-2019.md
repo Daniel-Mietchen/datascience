@@ -10,7 +10,7 @@ Dorian as seen from the International Space Station on 2 September 2019. By Chri
 
 # README
 
-*These notes are very loosely sorted into some preliminary thematic complexes. They were initially roughly chronological but this is not the case any more. Knowing that emergency-related information is rather instable (not just but also on the web), I made an effort to archive the URLs listed here via the Internet Archive's Wayback Machine. So if any of the links in here do not work for you any more, you should be able to find a copy of the respective pages over there (unless the website's operator has disallowed web crawler access in their robots.txt).
+*These notes are very loosely sorted into some preliminary thematic complexes. They were initially roughly chronological but this is not the case any more. Knowing that emergency-related information is rather instable (not just but also on the web), I made an effort to archive the URLs listed here via the Internet Archive's [Wayback Machine](http://web.archive.org). So if any of the links in here do not work for you any more, you should be able to find a copy of the respective pages over there (unless the website's operator has disallowed web crawler access in their robots.txt).
 As of September 10, I am in the process of reorganizing these notes into something a bit more structured and more easy to navigate and digest. Help with this is most welcome.*
 
 # Summary
