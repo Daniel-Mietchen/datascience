@@ -192,6 +192,14 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Summary from the Weather Channel](https://weather.com/storms/hurricane/news/2019-09-08-hurricane-dorian-recap-bahamas-united-states-canada)
 * When I started looking into this storm more closely throughout September 1, 2019, I found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian%20OR%20%23HurricaneDorain)%20AND%20(%22open%20data%22%20OR%20opendata%20OR%20%22open%20science%22%20OR%20openscience%20OR%20visualization%20OR%20dataviz)&src=typed_query&f=live).
   - [OpenStreetMap coordination page prepared on September 3](https://wiki.openstreetmap.org/w/index.php?title=Organised_Editing%2FActivities%2FHumanitarian_OpenStreetMap_Team&type=revision&diff=1898705&oldid=1895986)
+    - [actual coordination page](https://wiki.openstreetmap.org/wiki/Hurricane_Dorian)
+      - actual mapping tasks (Abaco Islands 1 &2):
+        - https://tasks.hotosm.org/project/6653
+        - https://tasks.hotosm.org/project/6656
+  - open data from the EU's Copernicus satellites: https://twitter.com/CopernicusEU/status/1171010901153067008
+  - high-resolution commercial satellite data of the affected region provided for free by Maxar: https://twitter.com/Geospex/status/1170360410085777413
+    - call for digital responders using these open data: https://twitter.com/Fourhawaii/status/1169436661110804482
+    - background on their Open Data Program: https://twitter.com/tkodanaz/status/1171070237740916736
   - some other initiatives that are more common but haven't figured in my examples above so far:
     - [sharing emergency contact details](http://web.archive.org/web/20190901205446/https://twitter.com/AbbyCe/status/1168265681105825792)
     - [road tolls suspended in some affected areas](https://twitter.com/RAsaWFTV/status/1168217033097588736)
@@ -211,6 +219,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - [Hurricane Dorian - the science behind the storm](https://www.nationalgeographic.com/environment/2019/08/hurricane-dorian-science-behind-the-storm/)
     - [premium access to data in weather app made free around Dorian](https://twitter.com/flowxapp/status/1168303386329939968)
     - [footage from on the ground](https://twitter.com/mildhighent518/status/1168564896369393665)
+    - more footage: https://twitter.com/jeperego/status/1169125448372166661
     - reconnaissance aircraft
       - [overview of the kinds of data collected](https://www.aerotime.aero/clement.charpentreau/23888-inside-the-eye-of-dorian-the-hurricane-hunters-video)
         - some other perspectives on data integration 
@@ -266,13 +275,20 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - e.g. https://twitter.com/ALostrich/status/1168231429920219137
     - https://twitter.com/wattsupbrent/status/1168243019386097664
   - data visualization
-    - e.g. evolution of Dorian over the course of its initial 8 days: 
+    - "Fantastic virtual/augmented/immersive reality visualization": https://twitter.com/DavidRosowsky/status/1168994551169765378
+      - about https://twitter.com/weatherchannel/status/1168980587711008768
+    - evolution of Dorian over the course of its initial 8 days: 
       - https://twitter.com/manelrodero/status/1168611726193045509
+       - similar for a more extended period: https://twitter.com/UN_JWFOWLER/status/1171105006101192704
+         - based on https://twitter.com/WMO/status/1171069544695304193
     - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
     - satellite data that users can overlay with geomaps 
       - https://twitter.com/KalteMalte53/status/1169918657436246017
       - https://apps.sentinel-hub.com/eo-browser/?lat=37.200&lng=-76.553&zoom=8&time=2019-09-05&preset=CUSTOM&datasource=Sentinel-3%20OLCI&layers=B07,B05,B03&evalscript=cmV0dXJuIFtCMDcqMC41LEIwNSowLjUsQjAzKjAuNV07
     - satellite imagery of Earth showing Dorian and three other tropical storm systems: https://commons.wikimedia.org/wiki/File:Dorian,_Fernand,_Gabrielle_and_Juliette_2019-09-02_1700Z.jpg
+    - evolution of wind fields https://twitter.com/GPapavasileiou4/status/1169401036475424768
+    - tweets about Dorian over time by verified Twitter accounts: https://twitter.com/jasonbaumgartne/status/1170843846714023936
+    - comparison of predicted versus actual path of the storm: https://twitter.com/watkinstrack/status/1170203128412680192
     - discussion of visualization versus actual photos and how they can be leveraged together to help people get a better understanding of the storm and its effects, with comments on how to build a navigation app that takes into account roads closed due to flooding
       - https://twitter.com/NevianaZhgaba/status/1169892401940271109
       - https://medium.com/nightingale/dataviz-to-the-rescue-adding-emotion-to-the-data-348e5b71e77d
@@ -295,11 +311,15 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - via Google doc ([mobile](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/mobilebasic)/[desktop](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/view) &mdash; 
  http://bit.ly/bahamaspersonsfound ) containing names of missing people and checkmarks if they have been found
        - [tweet](https://twitter.com/nameuniqueapick/status/1168715236951506944)
+         - with some initial results: https://twitter.com/ai6yrham/status/1170438001668677633
       - via an initially non-public Facebook group that was later made public: https://www.facebook.com/groups/529794051099366/about/
         - now via a [dedicated website](http://dorianpeoplesearch.com/) ([archive](http://web.archive.org/web/20190903200729/http://dorianpeoplesearch.com/))
       - via digital apps https://twitter.com/Acanthe20/status/1168599277897170944
-    - tweets listing people confirmed safe: https://twitter.com/TAndrosica/status/1168895139416330249
-  - nomenclature: 
+      - tweets listing people confirmed safe: 
+        - https://twitter.com/TAndrosica/status/1168895139416330249
+    - on-grounds search and rescue
+      - https://twitter.com/ABC7News/status/1170899635168337920
+  - hurricane nomenclature: 
     - https://twitter.com/arrdfe25/status/1168729957666885633
       - source of the image: https://www.weather.gov/srh/tropical ([archived](http://web.archive.org/save/https://www.weather.gov/srh/tropical))
       - "peak of the hurricane season"? https://twitter.com/kellycass/status/1168858271144402944
@@ -307,6 +327,15 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - https://twitter.com/drpavito1/status/1168686044784603136
       - see also https://twitter.com/bymyelf/status/1168751762314055681
     - https://twitter.com/Rankinstudio/status/1168881359781163008
+    - airline cancellations https://twitter.com/srbija_eu/status/1169128067459162112
+    - before/ after images along the East Coast; https://twitter.com/marczak_rob/status/1171115505907843072
+    - cancellations of blood donations https://twitter.com/RedCrossMAR/status/1171038291841310720
+    - Hampton University "to offer free tuition, room & board to displaced students from [University of the Bahamas]"
+      - announcement tweet https://twitter.com/HBCUDigest/status/1169636612793425921
+      - Thank you tweet from University of the Bahamas https://twitter.com/University_Bah/status/1169646989769940999
+      - NYT: "A Virginia University Offers Free Semester to Students in Bahamas Displaced by Hurricane"
+        - https://twitter.com/lboogiepopworld/status/1170786627628785664
+          - full text at http://web.archive.org/web/20190910045452/https://www.nytimes.com/2019/09/07/us/hampton-university-bahamas.html
   - donations
     - legit
       - https://twitter.com/WCKitchen/status/1168336428864102401
@@ -316,11 +345,13 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - http://dorianpeoplesearch.com/relief-organisations/
         - also lists https://www.gofundme.com/f/headknowles-emergency-funds
     - fake 
+      - https://twitter.com/BBBCentralVA/status/1171036994396459008
   - education
     - [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
     - Visualization of wind speeds in an area https://twitter.com/blueraster/status/1168933523924889603
       - intended for monitoring fires but can be used for [monitoring hurricanes as well](https://fires.globalforestwatch.org/map/?utm_content=buffer5d41c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#activeLayers=windDirection&activeBasemap=dark-gray&activeImagery=&planetCategory=PLANET-MONTHLY&planetPeriod=Jan%200000&x=-78.986206&y=27.139501&z=7)
-
+    - winter storm archive: https://twitter.com/webberweather/status/1123712965969104901
+    
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
