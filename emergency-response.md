@@ -189,7 +189,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - [code on GitHub](https://github.com/jackkwok/neural-road-inspector)
 
 ## [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
-* [Summary from the Weather Channel](https://weather.com/storms/hurricane/news/2019-09-08-hurricane-dorian-recap-bahamas-united-states-canada)
+
+*These notes are very loosely sorted into some preliminary thematic complexes. They were initially roughly chronological but this is not the case any more.*
+* [Summary from the Weather Channel](https://weather.com/storms/hurricane/news/2019-09-08-hurricane-dorian-recap-bahamas-united-states-canada) (as of 8 September)
 * When I started looking into this storm more closely throughout September 1, 2019, I found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian%20OR%20%23HurricaneDorain)%20AND%20(%22open%20data%22%20OR%20opendata%20OR%20%22open%20science%22%20OR%20openscience%20OR%20visualization%20OR%20dataviz)&src=typed_query&f=live).
   - [OpenStreetMap coordination page prepared on September 3](https://wiki.openstreetmap.org/w/index.php?title=Organised_Editing%2FActivities%2FHumanitarian_OpenStreetMap_Team&type=revision&diff=1898705&oldid=1895986)
     - [actual coordination page](https://wiki.openstreetmap.org/wiki/Hurricane_Dorian)
@@ -219,7 +221,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - [Hurricane Dorian - the science behind the storm](https://www.nationalgeographic.com/environment/2019/08/hurricane-dorian-science-behind-the-storm/)
     - [premium access to data in weather app made free around Dorian](https://twitter.com/flowxapp/status/1168303386329939968)
     - [footage from on the ground](https://twitter.com/mildhighent518/status/1168564896369393665)
-    - more footage: https://twitter.com/jeperego/status/1169125448372166661
+    - more footage: 
+      - https://twitter.com/jeperego/status/1169125448372166661
+      - https://twitter.com/sociascience/status/1168970320889483264 (video of rotating cloud formation)
     - reconnaissance aircraft
       - [overview of the kinds of data collected](https://www.aerotime.aero/clement.charpentreau/23888-inside-the-eye-of-dorian-the-hurricane-hunters-video)
         - some other perspectives on data integration 
@@ -323,6 +327,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - https://twitter.com/arrdfe25/status/1168729957666885633
       - source of the image: https://www.weather.gov/srh/tropical ([archived](http://web.archive.org/save/https://www.weather.gov/srh/tropical))
       - "peak of the hurricane season"? https://twitter.com/kellycass/status/1168858271144402944
+      - some similar perspectives
+        - https://twitter.com/robnucatola/status/1169175204809072641
+        - https://en.wikipedia.org/wiki/File:Dorian,_Fernand,_Gabrielle_and_Juliette_2019-09-02_1700Z.jpg
   - aftermath
     - https://twitter.com/drpavito1/status/1168686044784603136
       - see also https://twitter.com/bymyelf/status/1168751762314055681
@@ -351,6 +358,16 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - Visualization of wind speeds in an area https://twitter.com/blueraster/status/1168933523924889603
       - intended for monitoring fires but can be used for [monitoring hurricanes as well](https://fires.globalforestwatch.org/map/?utm_content=buffer5d41c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#activeLayers=windDirection&activeBasemap=dark-gray&activeImagery=&planetCategory=PLANET-MONTHLY&planetPeriod=Jan%200000&x=-78.986206&y=27.139501&z=7)
     - winter storm archive: https://twitter.com/webberweather/status/1123712965969104901
+  - Sharpiegate
+    - https://www.wikidata.org/wiki/Q67178691
+      - http://web.archive.org/web/20190907051458/https://www.vox.com/policy-and-politics/2019/9/6/20851971/trump-hurricane-dorian-alabama-sharpie-cnn-media
+    - https://en.wikipedia.org/wiki/Sharpiegate
+      - https://www.law.cornell.edu/uscode/text/18/2074
+      - http://web.archive.org/web/20190910053208/https://www.theguardian.com/us-news/live/2019/sep/09/trump-news-today-latest-mark-sanford-north-carolina-washington
+      - http://web.archive.org/web/20190910053437/https://www.washingtonpost.com/opinions/we-worked-for-the-noaa-weather-forecasting-should-never-be-political/2019/09/09/0045efe4-d340-11e9-9343-40db57cf6abd_story.html?noredirect=on
+      - http://web.archive.org/web/20190910053944/https://www.nytimes.com/2019/09/09/opinion/trump-democracy.html?smid=tw-nytopinion&smtyp=cur
+  - #DorianJeep https://twitter.com/NYTNational/status/1170684222979395584
+    - http://web.archive.org/web/20190910052126/https://www.nytimes.com/2019/09/07/us/myrtle-beach-jeep.html
     
 
 # Other crises
