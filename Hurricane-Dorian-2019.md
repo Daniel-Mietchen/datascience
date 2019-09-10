@@ -1,6 +1,6 @@
 # About 
 
-This file collects information related to [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian). 
+This file collects information related to [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian). It developed out of a Dorian-specific section in [emergency-response.md](emergency-response.md) and is to be considered supplementary to that file.
 
 # Documentation
 *These notes are very loosely sorted into some preliminary thematic complexes. They were initially roughly chronological but this is not the case any more.*
