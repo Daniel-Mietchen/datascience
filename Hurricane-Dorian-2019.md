@@ -1,6 +1,8 @@
 # About 
 
-This file collects information related to [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian). It developed out of a Dorian-specific section in [emergency-response.md](emergency-response.md) and is to be considered supplementary to that file.
+This file collects information related to [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian), with a focus on data-related aspects of it. These notes developed out of a Dorian-specific section in [emergency-response.md](emergency-response.md) and are to be considered in the broader context of the information gathered in that file.
+
+[![Dorian as seen from the Internatinoal Space Station on 2 September 2019](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dorian_2019-09-02_1520Z_by_ISS-60.jpg/1280px-Dorian_2019-09-02_1520Z_by_ISS-60.jpg)](https://commons.wikimedia.org/wiki/File:Dorian_2019-09-02_1520Z_by_ISS-60.jpg)
 
 # Documentation
 *These notes are very loosely sorted into some preliminary thematic complexes. They were initially roughly chronological but this is not the case any more.*
