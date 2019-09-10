@@ -10,7 +10,8 @@ Dorian as seen from the International Space Station on 2 September 2019. By Chri
 
 # README
 
-*These notes are very loosely sorted into some preliminary thematic complexes. They were initially roughly chronological but this is not the case any more. As of September 10, I am in the process of reorganizing them into something a bit more structured and more easy to navigate and digest. Help with this is most welcome.*
+*These notes are very loosely sorted into some preliminary thematic complexes. They were initially roughly chronological but this is not the case any more. Knowing that emergency-related information is rather instable (not just but also on the web), I made an effort to archive the URLs listed here via the Internet Archive's Wayback Machine. So if any of the links in here do not work for you any more, you should be able to find a copy of the respective pages over there (unless the website's operator has disallowed web crawler access in their robots.txt).
+As of September 10, I am in the process of reorganizing these notes into something a bit more structured and more easy to navigate and digest. Help with this is most welcome.*
 
 # Summary
 
@@ -161,6 +162,7 @@ Dorian as seen from the International Space Station on 2 September 2019. By Chri
      - with some initial results: https://twitter.com/ai6yrham/status/1170438001668677633
   - via an initially non-public Facebook group that was later made public: https://www.facebook.com/groups/529794051099366/about/
     - now via a [dedicated website](http://dorianpeoplesearch.com/) ([archive](http://web.archive.org/web/20190903200729/http://dorianpeoplesearch.com/))
+      - switched to HTTPS: https://dorianpeoplesearch.com/relief-organizations/
   - via digital apps https://twitter.com/Acanthe20/status/1168599277897170944
   - tweets listing people confirmed safe: 
     - https://twitter.com/TAndrosica/status/1168895139416330249
