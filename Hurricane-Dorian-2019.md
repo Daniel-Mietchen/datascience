@@ -1,6 +1,12 @@
-## [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
+# About 
 
+This file collects information related to [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian). 
+
+# Documentation
 *These notes are very loosely sorted into some preliminary thematic complexes. They were initially roughly chronological but this is not the case any more.*
+
+# Notes
+
 * [Summary from the Weather Channel](https://weather.com/storms/hurricane/news/2019-09-08-hurricane-dorian-recap-bahamas-united-states-canada) (as of 8 September)
 * When I started looking into this storm more closely throughout September 1, 2019, I found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian%20OR%20%23HurricaneDorain)%20AND%20(%22open%20data%22%20OR%20opendata%20OR%20%22open%20science%22%20OR%20openscience%20OR%20visualization%20OR%20dataviz)&src=typed_query&f=live).
   - [OpenStreetMap coordination page prepared on September 3](https://wiki.openstreetmap.org/w/index.php?title=Organised_Editing%2FActivities%2FHumanitarian_OpenStreetMap_Team&type=revision&diff=1898705&oldid=1895986)
