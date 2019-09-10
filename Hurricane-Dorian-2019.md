@@ -204,17 +204,17 @@ Dorian as seen from the International Space Station on 2 September 2019. By Chri
 - Visualization of wind speeds in an area https://twitter.com/blueraster/status/1168933523924889603
   - intended for monitoring fires but can be used for [monitoring hurricanes as well](https://fires.globalforestwatch.org/map/?utm_content=buffer5d41c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#activeLayers=windDirection&activeBasemap=dark-gray&activeImagery=&planetCategory=PLANET-MONTHLY&planetPeriod=Jan%200000&x=-78.986206&y=27.139501&z=7)
 - winter storm archive: https://twitter.com/webberweather/status/1123712965969104901
-- Sharpiegate
-- https://www.wikidata.org/wiki/Q67178691
-  - http://web.archive.org/web/20190907051458/https://www.vox.com/policy-and-politics/2019/9/6/20851971/trump-hurricane-dorian-alabama-sharpie-cnn-media
-- https://en.wikipedia.org/wiki/Sharpiegate
-- it's illegal to alter official maps
-  - https://www.law.cornell.edu/uscode/text/18/2074
-- summaries of the course of events
-  - https://twitter.com/wxdam/status/1169308075662151680
-  - http://web.archive.org/web/20190910053208/https://www.theguardian.com/us-news/live/2019/sep/09/trump-news-today-latest-mark-sanford-north-carolina-washington
-  - http://web.archive.org/web/20190910053437/https://www.washingtonpost.com/opinions/we-worked-for-the-noaa-weather-forecasting-should-never-be-political/2019/09/09/0045efe4-d340-11e9-9343-40db57cf6abd_story.html?noredirect=on
-  - http://web.archive.org/web/20190910053944/https://www.nytimes.com/2019/09/09/opinion/trump-democracy.html?smid=tw-nytopinion&smtyp=cur
+- #Sharpiegate
+  - https://www.wikidata.org/wiki/Q67178691
+    - http://web.archive.org/web/20190907051458/https://www.vox.com/policy-and-politics/2019/9/6/20851971/trump-hurricane-dorian-alabama-sharpie-cnn-media
+  - https://en.wikipedia.org/wiki/Sharpiegate
+  - it's illegal to alter official maps
+    - https://www.law.cornell.edu/uscode/text/18/2074
+  - summaries of the course of events
+    - https://twitter.com/wxdam/status/1169308075662151680
+    - http://web.archive.org/web/20190910053208/https://www.theguardian.com/us-news/live/2019/sep/09/trump-news-today-latest-mark-sanford-north-carolina-washington
+    - http://web.archive.org/web/20190910053437/https://www.washingtonpost.com/opinions/we-worked-for-the-noaa-weather-forecasting-should-never-be-political/2019/09/09/0045efe4-d340-11e9-9343-40db57cf6abd_story.html?noredirect=on
+    - http://web.archive.org/web/20190910053944/https://www.nytimes.com/2019/09/09/opinion/trump-democracy.html?smid=tw-nytopinion&smtyp=cur
 - #DorianJeep https://twitter.com/NYTNational/status/1170684222979395584
   - http://web.archive.org/web/20190910052126/https://www.nytimes.com/2019/09/07/us/myrtle-beach-jeep.html
   - raising money for the Bahamas
