@@ -203,6 +203,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - call for digital responders using these open data: https://twitter.com/Fourhawaii/status/1169436661110804482
     - background on their Open Data Program: https://twitter.com/tkodanaz/status/1171070237740916736
   - some other initiatives that are more common but haven't figured in my examples above so far:
+    - preparations
+      - https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm
+      - https://twitter.com/photodb/status/1170376612921167872
     - [sharing emergency contact details](http://web.archive.org/web/20190901205446/https://twitter.com/AbbyCe/status/1168265681105825792)
     - [road tolls suspended in some affected areas](https://twitter.com/RAsaWFTV/status/1168217033097588736)
       - [more details in similar report](https://www.wftv.com/weather/eye-on-the-tropics/gov-ron-desantis-suspends-tolls-on-florida-s-turnpike-mainline-ahead-of-hurricane-dorian/981551629) ([archived](http://web.archive.org/save/https://www.wftv.com/weather/eye-on-the-tropics/gov-ron-desantis-suspends-tolls-on-florida-s-turnpike-mainline-ahead-of-hurricane-dorian/981551629))
@@ -247,6 +250,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
         - https://twitter.com/SkyHorseTech/status/1168601064855212032
         - https://twitter.com/FPL_Newsroom/status/1168636206789332995
       - in the aftermath, e.g. https://twitter.com/giocastilhos/status/1168637405433188352
+        - https://twitter.com/WTKR3/status/1169811225422848000 
     - pilots volunteering to fly over to affected areas
       - e.g. https://twitter.com/MelindaLeeWINK/status/1168645474859008000 or https://twitter.com/feelgoodflorida/status/1168857212585959426
         - requests for volunteer pilots, e.g. https://twitter.com/BULLYNOT2U/status/1168643948476346368
@@ -262,6 +266,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
         - [evacuation zone lookup](https://www.vaemergency.gov/hurricane-evacuation-zone-lookup/)
         - [emergency supply kits](https://www.vaemergency.gov/prepare/supply-kit/)
         - see also [tweets on Dorian and Virginia](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian)%20AND%20virginia&src=typed_query&f=live)
+        - https://twitter.com/MikeTFox5/status/1169811078659883009
+        - forecasts for Virginia
+          - http://web.archive.org/web/20190910055020/https://wtvr.com/2019/09/05/heres-how-dorian-will-impact-virginia/
+            - via https://twitter.com/CBS6/status/1169810530187587584
     - lots of other comments on earlier ones for other places closer to the eye of the storm
       - including questioning why certain areas had declared an emergency and others had not
   - e-scooters
@@ -283,6 +291,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - about https://twitter.com/weatherchannel/status/1168980587711008768
     - evolution of Dorian over the course of its initial 8 days: 
       - https://twitter.com/manelrodero/status/1168611726193045509
+       - similar for 7 days: https://twitter.com/WHEC_SPensgen/status/1169811179281223680
        - similar for a more extended period: https://twitter.com/UN_JWFOWLER/status/1171105006101192704
          - based on https://twitter.com/WMO/status/1171069544695304193
     - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
@@ -362,13 +371,19 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - https://www.wikidata.org/wiki/Q67178691
       - http://web.archive.org/web/20190907051458/https://www.vox.com/policy-and-politics/2019/9/6/20851971/trump-hurricane-dorian-alabama-sharpie-cnn-media
     - https://en.wikipedia.org/wiki/Sharpiegate
+    - it's illegal to alter official maps
       - https://www.law.cornell.edu/uscode/text/18/2074
+    - summaries of the course of events
+      - https://twitter.com/wxdam/status/1169308075662151680
       - http://web.archive.org/web/20190910053208/https://www.theguardian.com/us-news/live/2019/sep/09/trump-news-today-latest-mark-sanford-north-carolina-washington
       - http://web.archive.org/web/20190910053437/https://www.washingtonpost.com/opinions/we-worked-for-the-noaa-weather-forecasting-should-never-be-political/2019/09/09/0045efe4-d340-11e9-9343-40db57cf6abd_story.html?noredirect=on
       - http://web.archive.org/web/20190910053944/https://www.nytimes.com/2019/09/09/opinion/trump-democracy.html?smid=tw-nytopinion&smtyp=cur
   - #DorianJeep https://twitter.com/NYTNational/status/1170684222979395584
     - http://web.archive.org/web/20190910052126/https://www.nytimes.com/2019/09/07/us/myrtle-beach-jeep.html
-    
+    - raising money for the Bahamas
+      - http://web.archive.org/web/20190910055451/https://www.thestate.com/news/weather-news/article234799927.html
+        - via https://twitter.com/dtravisbland/status/1170063547721822208
+
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
