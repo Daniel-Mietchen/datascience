@@ -189,6 +189,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
   - [code on GitHub](https://github.com/jackkwok/neural-road-inspector)
 
 ## [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
+* [Summary from the Weather Channel](https://weather.com/storms/hurricane/news/2019-09-08-hurricane-dorian-recap-bahamas-united-states-canada)
 * When I started looking into this storm more closely throughout September 1, 2019, I found nothing particularly new in terms of openness so far but it was interesting to [filter the feed by mentions of data](https://twitter.com/search?q=(%23Dorian%20OR%20%23Dorian2019%20OR%20%23HurricaneDorian%20OR%20%23HurricaneDorain)%20AND%20(%22open%20data%22%20OR%20opendata%20OR%20%22open%20science%22%20OR%20openscience%20OR%20visualization%20OR%20dataviz)&src=typed_query&f=live).
   - [OpenStreetMap coordination page prepared on September 3](https://wiki.openstreetmap.org/w/index.php?title=Organised_Editing%2FActivities%2FHumanitarian_OpenStreetMap_Team&type=revision&diff=1898705&oldid=1895986)
   - some other initiatives that are more common but haven't figured in my examples above so far:
@@ -199,6 +200,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
       - "First responder customers with wireless priority service should utilize \*272 when placing calls."
       - similar [in-kind offers from AT&T, Comcast, Uber](http://web.archive.org/save/https://www.cnn.com/us/live-news/hurricane-dorian-september-2019/h_af321a11c59bc059501fd11a8a4ab5b2)
         - or [AirBnb](https://twitter.com/AirbnbHelp/status/1167987944134565889)
+          - more on that: https://twitter.com/Airbnb/status/1170115002721656833
         - [Uber service suspended in affected area](https://twitter.com/Adam4NY/status/1168879138461093888)
     - [YouTube videos on the matter under CC BY](https://www.youtube.com/results?search_query=hurricane+AND+dorian&sp=CAISAjAB)
       - [example upload](https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm)
@@ -270,6 +272,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - satellite data that users can overlay with geomaps 
       - https://twitter.com/KalteMalte53/status/1169918657436246017
       - https://apps.sentinel-hub.com/eo-browser/?lat=37.200&lng=-76.553&zoom=8&time=2019-09-05&preset=CUSTOM&datasource=Sentinel-3%20OLCI&layers=B07,B05,B03&evalscript=cmV0dXJuIFtCMDcqMC41LEIwNSowLjUsQjAzKjAuNV07
+    - satellite imagery of Earth showing Dorian and three other tropical storm systems: https://commons.wikimedia.org/wiki/File:Dorian,_Fernand,_Gabrielle_and_Juliette_2019-09-02_1700Z.jpg
     - discussion of visualization versus actual photos and how they can be leveraged together to help people get a better understanding of the storm and its effects, with comments on how to build a navigation app that takes into account roads closed due to flooding
       - https://twitter.com/NevianaZhgaba/status/1169892401940271109
       - https://medium.com/nightingale/dataviz-to-the-rescue-adding-emotion-to-the-data-348e5b71e77d
