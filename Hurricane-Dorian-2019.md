@@ -32,11 +32,13 @@ As of September 10, I am in the process of reorganizing these notes into somethi
   - high-resolution commercial satellite data of the affected region provided for free by Maxar: https://twitter.com/Geospex/status/1170360410085777413
     - call for digital responders using these open data: https://twitter.com/Fourhawaii/status/1169436661110804482
     - background on their Open Data Program: https://twitter.com/tkodanaz/status/1171070237740916736
+- [YouTube videos on the matter under CC BY](https://www.youtube.com/results?search_query=hurricane+AND+dorian&sp=CAISAjAB)
+  - [example upload](https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm)
 
 
 # Notes
 
-*Some other initiatives that are more common but not much about openness and thus haven't figured in the examples I have gathered in [emergency-response.md](emergency-response.md) so far*
+*In this section, I am listing some Dorian-related initiatives or activities that are more of a kind that is common in emergency contexts but not much about openness and thus haven't figured in the examples I have gathered in [emergency-response.md](emergency-response.md) so far*
 
 - Preparations
   - https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm
@@ -50,8 +52,6 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - or [AirBnb](https://twitter.com/AirbnbHelp/status/1167987944134565889)
       - more on that: https://twitter.com/Airbnb/status/1170115002721656833
     - [Uber service suspended in affected area](https://twitter.com/Adam4NY/status/1168879138461093888)
-- [YouTube videos on the matter under CC BY](https://www.youtube.com/results?search_query=hurricane+AND+dorian&sp=CAISAjAB)
-  - [example upload](https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm)
 - lots of clips from people in affected areas, but rarely under open licenses
   - e.g. https://twitter.com/mildhighent518/status/1168564896369393665
 - [Hurricane safety tips](https://www.nationalgeographic.com/environment/natural-disasters/hurricane-safety-tips/)
@@ -122,21 +122,21 @@ As of September 10, I am in the process of reorganizing these notes into somethi
 - e.g. https://twitter.com/ALostrich/status/1168231429920219137
 - https://twitter.com/wattsupbrent/status/1168243019386097664
 - data visualization
-- "Fantastic virtual/augmented/immersive reality visualization": https://twitter.com/DavidRosowsky/status/1168994551169765378
-  - about https://twitter.com/weatherchannel/status/1168980587711008768
-- evolution of Dorian over the course of its initial 8 days: 
-  - https://twitter.com/manelrodero/status/1168611726193045509
-   - similar for 7 days: https://twitter.com/WHEC_SPensgen/status/1169811179281223680
-   - similar for a more extended period: https://twitter.com/UN_JWFOWLER/status/1171105006101192704
-     - based on https://twitter.com/WMO/status/1171069544695304193
-- evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
+  - "Fantastic virtual/augmented/immersive reality visualization": https://twitter.com/DavidRosowsky/status/1168994551169765378
+    - about https://twitter.com/weatherchannel/status/1168980587711008768
+  - evolution of Dorian over the course of its initial 8 days: 
+    - https://twitter.com/manelrodero/status/1168611726193045509
+     - similar for 7 days: https://twitter.com/WHEC_SPensgen/status/1169811179281223680
+     - similar for a more extended period: https://twitter.com/UN_JWFOWLER/status/1171105006101192704
+       - based on https://twitter.com/WMO/status/1171069544695304193
+    - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
+    - evolution of wind fields https://twitter.com/GPapavasileiou4/status/1169401036475424768
+    - tweets about Dorian over time by verified Twitter accounts: https://twitter.com/jasonbaumgartne/status/1170843846714023936
+    - comparison of predicted versus actual path of the storm: https://twitter.com/watkinstrack/status/1170203128412680192
 - satellite data that users can overlay with geomaps 
   - https://twitter.com/KalteMalte53/status/1169918657436246017
   - https://apps.sentinel-hub.com/eo-browser/?lat=37.200&lng=-76.553&zoom=8&time=2019-09-05&preset=CUSTOM&datasource=Sentinel-3%20OLCI&layers=B07,B05,B03&evalscript=cmV0dXJuIFtCMDcqMC41LEIwNSowLjUsQjAzKjAuNV07
 - satellite imagery of Earth showing Dorian and three other tropical storm systems: https://commons.wikimedia.org/wiki/File:Dorian,_Fernand,_Gabrielle_and_Juliette_2019-09-02_1700Z.jpg
-- evolution of wind fields https://twitter.com/GPapavasileiou4/status/1169401036475424768
-- tweets about Dorian over time by verified Twitter accounts: https://twitter.com/jasonbaumgartne/status/1170843846714023936
-- comparison of predicted versus actual path of the storm: https://twitter.com/watkinstrack/status/1170203128412680192
 - discussion of visualization versus actual photos and how they can be leveraged together to help people get a better understanding of the storm and its effects, with comments on how to build a navigation app that takes into account roads closed due to flooding
   - https://twitter.com/NevianaZhgaba/status/1169892401940271109
   - https://medium.com/nightingale/dataviz-to-the-rescue-adding-emotion-to-the-data-348e5b71e77d
@@ -151,37 +151,37 @@ As of September 10, I am in the process of reorganizing these notes into somethi
 - [USGS water dashboard for Dorian](https://webapps.usgs.gov/dorian/)
   - seen via https://twitter.com/danielkpearson/status/1169840282398908417
 - disaster relief gaming 
-- e.g. https://twitter.com/DrKimWood/status/1168576963537252352
+  - e.g. https://twitter.com/DrKimWood/status/1168576963537252352
 - search and rescue
-- digital search for missing people
-  - via digital images https://twitter.com/Bahamaspress/status/1168419466058829829
-  - via digital forms asking for location and other details of the missing/ isolated people https://twitter.com/nemabahamas/status/1168364547989790721
-  - via Google doc ([mobile](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/mobilebasic)/[desktop](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/view) &mdash; 
+  - digital search for missing people
+    - via digital images https://twitter.com/Bahamaspress/status/1168419466058829829
+    - via digital forms asking for location and other details of the missing/ isolated people https://twitter.com/nemabahamas/status/1168364547989790721
+    - via Google doc ([mobile](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/mobilebasic)/[desktop](https://docs.google.com/document/d/1M9wVx_Krgzb2cycTOGF4ZsS5JDrvRGwggCblUGtq6II/view) &mdash; 
  http://bit.ly/bahamaspersonsfound ) containing names of missing people and checkmarks if they have been found
-   - [tweet](https://twitter.com/nameuniqueapick/status/1168715236951506944)
-     - with some initial results: https://twitter.com/ai6yrham/status/1170438001668677633
-  - via an initially non-public Facebook group that was later made public: https://www.facebook.com/groups/529794051099366/about/
-    - now via a [dedicated website](http://dorianpeoplesearch.com/) ([archive](http://web.archive.org/web/20190903200729/http://dorianpeoplesearch.com/))
-      - switched to HTTPS: https://dorianpeoplesearch.com/relief-organizations/
-  - via digital apps https://twitter.com/Acanthe20/status/1168599277897170944
-  - tweets listing people confirmed safe: 
-    - https://twitter.com/TAndrosica/status/1168895139416330249
+     - [tweet](https://twitter.com/nameuniqueapick/status/1168715236951506944)
+       - with some initial results: https://twitter.com/ai6yrham/status/1170438001668677633
+    - via an initially non-public Facebook group that was later made public: https://www.facebook.com/groups/529794051099366/about/
+      - now via a [dedicated website](http://dorianpeoplesearch.com/) ([archive](http://web.archive.org/web/20190903200729/http://dorianpeoplesearch.com/))
+        - switched to HTTPS: https://dorianpeoplesearch.com/relief-organizations/
+    - via digital apps https://twitter.com/Acanthe20/status/1168599277897170944
+    - tweets listing people confirmed safe: 
+      - https://twitter.com/TAndrosica/status/1168895139416330249
 - on-grounds search and rescue
   - https://twitter.com/ABC7News/status/1170899635168337920
 - hurricane nomenclature: 
-- https://twitter.com/arrdfe25/status/1168729957666885633
-  - source of the image: https://www.weather.gov/srh/tropical ([archived](http://web.archive.org/save/https://www.weather.gov/srh/tropical))
+  - https://twitter.com/arrdfe25/status/1168729957666885633
+    - source of the image: https://www.weather.gov/srh/tropical ([archived](http://web.archive.org/save/https://www.weather.gov/srh/tropical))
   - "peak of the hurricane season"? https://twitter.com/kellycass/status/1168858271144402944
   - some similar perspectives
     - https://twitter.com/robnucatola/status/1169175204809072641
     - https://en.wikipedia.org/wiki/File:Dorian,_Fernand,_Gabrielle_and_Juliette_2019-09-02_1700Z.jpg
 - aftermath
-- https://twitter.com/drpavito1/status/1168686044784603136
-  - see also https://twitter.com/bymyelf/status/1168751762314055681
-- https://twitter.com/Rankinstudio/status/1168881359781163008
-- airline cancellations https://twitter.com/srbija_eu/status/1169128067459162112
-- before/ after images along the East Coast; https://twitter.com/marczak_rob/status/1171115505907843072
-- cancellations of blood donations https://twitter.com/RedCrossMAR/status/1171038291841310720
+  - https://twitter.com/drpavito1/status/1168686044784603136
+    - see also https://twitter.com/bymyelf/status/1168751762314055681
+  - https://twitter.com/Rankinstudio/status/1168881359781163008
+  - airline cancellations https://twitter.com/srbija_eu/status/1169128067459162112
+  - before/ after images along the East Coast; https://twitter.com/marczak_rob/status/1171115505907843072
+  - cancellations of blood donations https://twitter.com/RedCrossMAR/status/1171038291841310720
 - Hampton University "to offer free tuition, room & board to displaced students from [University of the Bahamas]"
   - announcement tweet https://twitter.com/HBCUDigest/status/1169636612793425921
   - Thank you tweet from University of the Bahamas https://twitter.com/University_Bah/status/1169646989769940999
@@ -192,20 +192,20 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - https://twitter.com/thecollegeroar/status/1170044768191225857
     - http://web.archive.org/web/20190910060125/https://thehill.com/blogs/blog-briefing-room/news/460212-historically-black-university-to-offer-free-enrollment-room-and
 - donations
-- legit
-  - https://twitter.com/WCKitchen/status/1168336428864102401
+  - legit
+    - https://twitter.com/WCKitchen/status/1168336428864102401
     - https://twitter.com/EllenYChang/status/1168569483444858880
       - https://mobilegiving.org/
-  - https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7485#at_pco=smlwn-1.0&at_si=5d6d4dde3155d0db&at_ab=per-2&at_pos=0&at_tot=1
-  - http://dorianpeoplesearch.com/relief-organisations/
-    - also lists https://www.gofundme.com/f/headknowles-emergency-funds
+    - https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7485#at_pco=smlwn-1.0&at_si=5d6d4dde3155d0db&at_ab=per-2&at_pos=0&at_tot=1
+    - http://dorianpeoplesearch.com/relief-organisations/
+      - also lists https://www.gofundme.com/f/headknowles-emergency-funds
 - fake 
   - https://twitter.com/BBBCentralVA/status/1171036994396459008
 - education
-- [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
-- Visualization of wind speeds in an area https://twitter.com/blueraster/status/1168933523924889603
+  - [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
+  - Visualization of wind speeds in an area https://twitter.com/blueraster/status/1168933523924889603
   - intended for monitoring fires but can be used for [monitoring hurricanes as well](https://fires.globalforestwatch.org/map/?utm_content=buffer5d41c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#activeLayers=windDirection&activeBasemap=dark-gray&activeImagery=&planetCategory=PLANET-MONTHLY&planetPeriod=Jan%200000&x=-78.986206&y=27.139501&z=7)
-- winter storm archive: https://twitter.com/webberweather/status/1123712965969104901
+  - winter storm archive: https://twitter.com/webberweather/status/1123712965969104901
 - #Sharpiegate
   - https://www.wikidata.org/wiki/Q67178691
     - http://web.archive.org/web/20190907051458/https://www.vox.com/policy-and-politics/2019/9/6/20851971/trump-hurricane-dorian-alabama-sharpie-cnn-media
@@ -222,5 +222,3 @@ As of September 10, I am in the process of reorganizing these notes into somethi
   - raising money for the Bahamas
     - http://web.archive.org/web/20190910055451/https://www.thestate.com/news/weather-news/article234799927.html
       - via https://twitter.com/dtravisbland/status/1170063547721822208
-
-
