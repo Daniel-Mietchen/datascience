@@ -31,7 +31,8 @@ This file collects information on data archaeology, data rescue and related matt
 
 # Missing pieces
 
-I remember from the time of my PhD a story that some physically broken [phonograph records](https://en.wikipedia.org/wiki/Phonograph_record) were read by way of scanning them with laser technology and then reassembling them virtually. Don't have further details at hand, though.
+- Lots of paper documents of the Secret Service of Eastern Germany have been physically shredded to pieces around the time that the Berlin Wall came down and virtually reassambled afterwards. There are multiple resources on this online but I have not gone through them systematically yet.
+- I remember from the time of my PhD (2004-ish) a story that some physically broken [phonograph records](https://en.wikipedia.org/wiki/Phonograph_record) were read by way of scanning them with laser technology and then reassembling them virtually. Don't have further details at hand, though.
 
 # See also
 
