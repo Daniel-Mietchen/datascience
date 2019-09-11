@@ -217,6 +217,10 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - http://web.archive.org/web/20190910053208/https://www.theguardian.com/us-news/live/2019/sep/09/trump-news-today-latest-mark-sanford-north-carolina-washington
     - http://web.archive.org/web/20190910053437/https://www.washingtonpost.com/opinions/we-worked-for-the-noaa-weather-forecasting-should-never-be-political/2019/09/09/0045efe4-d340-11e9-9343-40db57cf6abd_story.html?noredirect=on
     - http://web.archive.org/web/20190910053944/https://www.nytimes.com/2019/09/09/opinion/trump-democracy.html?smid=tw-nytopinion&smtyp=cur
+    - https://twitter.com/coachjer421/status/1169343787216228352
+    - https://twitter.com/andrew_mullet_/status/1171654500899328000
+    - how to lie with maps
+      - https://twitter.com/AlbertoCairo/status/1171765453452169216
 - #DorianJeep https://twitter.com/NYTNational/status/1170684222979395584
   - http://web.archive.org/web/20190910052126/https://www.nytimes.com/2019/09/07/us/myrtle-beach-jeep.html
   - raising money for the Bahamas
