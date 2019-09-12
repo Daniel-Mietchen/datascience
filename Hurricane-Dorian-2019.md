@@ -43,6 +43,7 @@ As of September 10, I am in the process of reorganizing these notes into somethi
 - Preparations
   - https://commons.wikimedia.org/wiki/File:Hurricane_Dorian_-_Emergency_Update.webm
   - https://twitter.com/photodb/status/1170376612921167872
+  - "[look for the helpers](https://twitter.com/kimija/status/1171395273442123776)"
 - [sharing emergency contact details](http://web.archive.org/web/20190901205446/https://twitter.com/AbbyCe/status/1168265681105825792)
 - [road tolls suspended in some affected areas](https://twitter.com/RAsaWFTV/status/1168217033097588736)
   - [more details in similar report](https://www.wftv.com/weather/eye-on-the-tropics/gov-ron-desantis-suspends-tolls-on-florida-s-turnpike-mainline-ahead-of-hurricane-dorian/981551629) ([archived](http://web.archive.org/save/https://www.wftv.com/weather/eye-on-the-tropics/gov-ron-desantis-suspends-tolls-on-florida-s-turnpike-mainline-ahead-of-hurricane-dorian/981551629))
@@ -199,8 +200,14 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7485#at_pco=smlwn-1.0&at_si=5d6d4dde3155d0db&at_ab=per-2&at_pos=0&at_tot=1
     - http://dorianpeoplesearch.com/relief-organisations/
       - also lists https://www.gofundme.com/f/headknowles-emergency-funds
-- fake 
-  - https://twitter.com/BBBCentralVA/status/1171036994396459008
+  - numerous companies, countless individuals have given
+    - prominent examples: 
+      - https://twitter.com/zelafrica/status/1171641730296352775
+      - https://twitter.com/LeonKaye/status/1171647556109029376
+  - fake 
+    - https://twitter.com/BBBCentralVA/status/1171036994396459008
+- insurance costs
+  - https://twitter.com/amruthasuri/status/1171647575935586304
 - education
   - [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
   - Visualization of wind speeds in an area https://twitter.com/blueraster/status/1168933523924889603
@@ -221,6 +228,8 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - https://twitter.com/andrew_mullet_/status/1171654500899328000
     - how to lie with maps
       - https://twitter.com/AlbertoCairo/status/1171765453452169216
+    - NOAA-internal investigation announced over questions regarding scientific integrity
+      - https://www.cnn.com/2019/09/10/politics/read-craig-mclean-noaa-dorian-hurricane-trump/index.html
 - #DorianJeep https://twitter.com/NYTNational/status/1170684222979395584
   - http://web.archive.org/web/20190910052126/https://www.nytimes.com/2019/09/07/us/myrtle-beach-jeep.html
   - raising money for the Bahamas
