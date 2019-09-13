@@ -14,6 +14,7 @@
   - about [holistic management (planned grazing)](https://en.wikipedia.org/wiki/Holistic_management_(agriculture))
   - see also the documentary [Running out of Time](https://www.youtube.com/watch?v=q7pI7IYaJLI)
     - This YouTube video included an [ad that I actually watched](https://youtu.be/vdT8EprNE8A), about the U.S. Farmers and Ranchers Alliance's [30 Harvests](https://usfarmersandranchers.org/30-harvests/)  initiative towards sustainable agriculture
+* [The Daily Show With Trevor Noah: Greta Thunberg - Inspiring Others to Take a Stand Against Climate Change - Extended Interview](http://www.cc.com/video-clips/ed6ma7/the-daily-show-with-trevor-noah-greta-thunberg---inspiring-others-to-take-a-stand-against-climate-change---extended-interview?xrs=tds_091219_3)
 * [Die Zerstörung der CDU.](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) &mdash; most solid commentary I have come across regarding the [2019 European Parliament election](https://en.wikipedia.org/wiki/2019_European_Parliament_election) in May 2019
 * [Science can answer moral questions | Sam Harris](https://www.youtube.com/watch?v=Hj9oB4zpHww)
   - ["How have we convinced ourselves that in the moral sphere, there is no such thing as moral expertise, or moral talent, or moral genius even?"](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=16m15s)
@@ -198,6 +199,7 @@
 
 # Maybe watch in the future
 
+* [“We Are Striking to Disrupt the System”: An Hour with 16-Year-Old Climate Activist Greta Thunberg](https://www.youtube.com/watch?v=Dgi30Wy_V74)
 * [Sir Tim Berners-Lee: Turing Lecture, May 29, 2018](https://www.youtube.com/watch?v=BaMa4u4Fio4)
   - seen via https://twitter.com/emcandre/status/1034778050758692869
   - ["[the web] shouldn't just be designed for finished articles"](https://www.youtube.com/watch?v=BaMa4u4Fio4#t=30m33s)
