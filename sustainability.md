@@ -119,4 +119,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * Some institutions have plans around climate change adaptation, e.g.
  - [Smithsonian](https://www.si.edu/Content/Pdf/About/Smithsonian-Institution-Climate-Adaptation-Plan.pdf)
  - [https://www.archives.gov/files/about/plans-reports/sustainability/2012-appendix1-climate-change-adaptation-plan.pdf](NARA)
- 
+* [Being the Change: Live Well and Spark a Climate Revolution](https://peterkalmus.net/books/)
