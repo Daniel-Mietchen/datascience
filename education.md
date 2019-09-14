@@ -12,3 +12,7 @@ This file facilitates the collection of notes on teaching data-related skills. I
 # References
 
 * [Merging Open Data Sources to Plan Learning Activities for Online Students](https://doi.org/10.1109/IV.2019.00058)
+
+# See also 
+
+* [datasets.md](datasets.md)
