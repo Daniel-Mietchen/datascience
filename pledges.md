@@ -76,3 +76,4 @@ This file collects materials related to pledges and similar aspirational stateme
 * [Pledges at Ask Open Science](https://ask-open-science.org/tag/pledges)
 * [Grimpact – Time to acknowledge the dark side of the impact agenda](https://blogs.lse.ac.uk/impactofsocialsciences/2019/05/28/grimpact-time-to-acknowledge-the-dark-side-of-the-impact-agenda/)
 * [The ‘Welcome Letter’: A Useful Tool for Laboratories and Teams](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479682/)
+* [Urban Institute's Funding Principles](https://www.urban.org/aboutus/our-funding/funding-principles)
