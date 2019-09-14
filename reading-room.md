@@ -699,3 +699,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [How I Fully Quit Google (And You Can, Too)](https://medium.com/s/story/how-i-fully-quit-google-and-you-can-too-4c2f3f85793a/)
 * [Prosperity without Growth—Foundations for the Economy of Tomorrow](https://www.cusp.ac.uk/themes/aetw/pwg/)
 * [Beyond Measure: The Big Impact of Small Changes](http://goroundtable.com/blog/beyond-measure-the-big-impact-of-small-changes/)
+* [Being the Change: Live Well and Spark a Climate Revolution](https://peterkalmus.net/books/)
