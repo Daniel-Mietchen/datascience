@@ -53,6 +53,7 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - or [AirBnb](https://twitter.com/AirbnbHelp/status/1167987944134565889)
       - more on that: https://twitter.com/Airbnb/status/1170115002721656833
     - [Uber service suspended in affected area](https://twitter.com/Adam4NY/status/1168879138461093888)
+    - [Walmart](https://twitter.com/mmespy/status/1171396379224301568)
 - lots of clips from people in affected areas, but rarely under open licenses
   - e.g. https://twitter.com/mildhighent518/status/1168564896369393665
 - [Hurricane safety tips](https://www.nationalgeographic.com/environment/natural-disasters/hurricane-safety-tips/)
@@ -63,6 +64,7 @@ As of September 10, I am in the process of reorganizing these notes into somethi
 - more footage: 
   - https://twitter.com/jeperego/status/1169125448372166661
   - https://twitter.com/sociascience/status/1168970320889483264 (video of rotating cloud formation)
+  - https://www.youtube.com/watch?v=DV-PLJq4HD4 (from Abaco)
 - reconnaissance aircraft
   - [overview of the kinds of data collected](https://www.aerotime.aero/clement.charpentreau/23888-inside-the-eye-of-dorian-the-hurricane-hunters-video)
     - some other perspectives on data integration 
@@ -128,9 +130,11 @@ As of September 10, I am in the process of reorganizing these notes into somethi
   - [timeline of Dorian predictions](https://www.nhc.noaa.gov/archive/2019/DORIAN_graphics.php?product=wind_probs_34_F120)
   - evolution of Dorian over the course of its initial 8 days: 
     - https://twitter.com/manelrodero/status/1168611726193045509
-     - similar for 7 days: https://twitter.com/WHEC_SPensgen/status/1169811179281223680
-     - similar for a more extended period: https://twitter.com/UN_JWFOWLER/status/1171105006101192704
-       - based on https://twitter.com/WMO/status/1171069544695304193
+    - https://twitter.com/StuOstro/status/1171482464679686148
+    - https://twitter.com/NOAASatellites/status/1171395300390424577
+      - similar for 7 days: https://twitter.com/WHEC_SPensgen/status/1169811179281223680
+      - similar for a more extended period: https://twitter.com/UN_JWFOWLER/status/1171105006101192704
+        - based on https://twitter.com/WMO/status/1171069544695304193
     - evolution while over the Bahamas https://twitter.com/capitalweather/status/1168658747658555393
     - evolution of wind fields https://twitter.com/GPapavasileiou4/status/1169401036475424768
     - tweets about Dorian over time by verified Twitter accounts: https://twitter.com/jasonbaumgartne/status/1170843846714023936
@@ -168,8 +172,10 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - via digital apps https://twitter.com/Acanthe20/status/1168599277897170944
     - tweets listing people confirmed safe: 
       - https://twitter.com/TAndrosica/status/1168895139416330249
-- on-grounds search and rescue
-  - https://twitter.com/ABC7News/status/1170899635168337920
+  - on-grounds search and rescue
+    - https://twitter.com/ABC7News/status/1170899635168337920
+    - https://twitter.com/JoeSkurz_KMOT/status/1171651936501882880
+    - https://twitter.com/Bahamaspress/status/1171299047581323264
 - hurricane nomenclature: 
   - https://twitter.com/arrdfe25/status/1168729957666885633
     - source of the image: https://www.weather.gov/srh/tropical ([archived](http://web.archive.org/save/https://www.weather.gov/srh/tropical))
@@ -178,12 +184,68 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - https://twitter.com/robnucatola/status/1169175204809072641
     - https://en.wikipedia.org/wiki/File:Dorian,_Fernand,_Gabrielle_and_Juliette_2019-09-02_1700Z.jpg
 - aftermath
+  - counting the losses
+    - https://twitter.com/firstpost/status/1171635805602930694
+      - https://www.firstpost.com/world/hurricane-dorian-toll-rises-to-50-desperation-grows-in-bahamas-as-survivors-are-turned-away-from-overflowing-shelters-7320541.html
+    - https://twitter.com/saunsea/status/1171628758408675328
+    - https://twitter.com/grumpyoldtechie/status/1171623639994839040
+      - https://earthobservatory.nasa.gov/images/145584/in-the-wake-of-hurricane-dorian?linkId=73483164
+    - oil spill
+      - https://twitter.com/the_hindu/status/1172027058936934400
+        - https://www.thehindu.com/news/international/oil-spill-adds-to-list-of-dorian-induced-woes-in-bahamas/article29397751.ece?homepage=true
+  - resilience in the Bahamas
+    - https://twitter.com/DonGlassII/status/1171644410167209985
+    - https://twitter.com/missunnysideups/status/1171629539346309120
+      - https://twitter.com/NickPBrown/status/1171423064879489024
+    - https://www.theguardian.com/world/2019/sep/13/hurricane-dorian-the-mudd-haitians-inequality
+  - lessons learned 
+    - from previous hurricanes: https://twitter.com/Miguel_Guirao/status/1171440385337356289
+      - https://undpbb.exposure.co/lessons-learnt-from-the-response-to-hurricanes-irma-and-maria
+    - from Dorian: https://twitter.com/EcoInternetDrGB/status/1171614095964917760
+      - https://communitynewspapers.com/south-miami-home/lessons-learned-from-hurricane-dorianor-were-they/
   - https://twitter.com/drpavito1/status/1168686044784603136
     - see also https://twitter.com/bymyelf/status/1168751762314055681
   - https://twitter.com/Rankinstudio/status/1168881359781163008
   - airline cancellations https://twitter.com/srbija_eu/status/1169128067459162112
   - before/ after images along the East Coast; https://twitter.com/marczak_rob/status/1171115505907843072
-  - cancellations of blood donations https://twitter.com/RedCrossMAR/status/1171038291841310720
+  - cancellations of blood donations 
+    - https://twitter.com/photodb/status/1171525239873818624
+    - https://twitter.com/RedCrossMAR/status/1171038291841310720
+  - interview / podcast about Dorian in the Bahamas
+    - https://www.youtube.com/watch?v=E7yS_YvDFZk
+  - cannonball washed ashore
+    - https://twitter.com/RichbergLaw/status/1171613073527980032
+      - https://abc11.com/weather/civil-war-cannonballs-found-on-sc-beach-after-hurricane-dorian/5528611/
+        - > "Following 2016's Hurricane Matthew, 16 cannonballs washed up at the same beach."
+  - Canada: 
+    - https://twitter.com/ThomasDyck_me/status/1171399152154095616
+    - https://twitter.com/PauliticalEye/status/1171654032752021504
+      - https://www.theglobeandmail.com/canada/article-100-foot-wave-recorded-off-the-coast-of-newfoundland-during-dorian-2/
+        - data https://www.theweathernetwork.com/ca/news/article/newfoundland-buoy-records-100-foot-wave-near-port-aux-basques-as-dorian-passes
+- relationship to climate change
+  - https://twitter.com/Wingtags/status/1171514021779894275
+  - https://twitter.com/NRDC/status/1171513714228387841
+    - https://www.nrdc.org/experts/rob-moore/dorian-florence-etc-world-one-degree-warming
+  - see also https://www.weforum.org/agenda/2019/05/greenland-is-approaching-the-threshold-of-an-irreversible-melt-and-the-consequences-for-coastal-cities-could-be-dire-974b963f45
+  - https://twitter.com/AlyceeLane/status/1171647312705310720
+  - Twitter thread http://web.archive.org/save/https://twitter.com/KHayhoe/status/1032658784127266816
+  - https://twitter.com/sherzadharis/status/1171631141062873089
+    - https://www.theguardian.com/environment/2019/sep/10/climate-crisis-world-readiness-effects-gravely-insufficient-report
+  - https://twitter.com/Guest_Posts_SEO/status/1171635247970168833
+  - https://twitter.com/GretaThunberg/status/1171553603858960384
+    - https://www.theguardian.com/law/2019/sep/09/climate-crisis-human-rights-un-michelle-bachelet-united-nations
+  - https://twitter.com/vivianharris45/status/1171626343433302016
+    - https://www.theguardian.com/commentisfree/2019/sep/11/can-we-save-the-world-one-tree-at-a-time
+  - https://twitter.com/DNThomas01/status/1171622013082984448
+    - https://www.nasa.gov/feature/goddard/2019/satellite-data-record-shows-climate-changes-impact-on-fires
+  - https://twitter.com/vivianharris45/status/1171621992656769024
+    - https://www.abc.net.au/news/2019-09-11/fighting-fires-becoming-impossible-task/11497588
+  - https://twitter.com/jezzaruni/status/1172024444589629440
+    - https://twitter.com/GretaThunberg/status/1171944930824130561
+      - https://www.democracynow.org/2019/9/11/greta_thunberg_swedish_activist_climate_crisis
+  - https://twitter.com/pmagn/status/1172026431464857600
+    - https://www.theguardian.com/cities/2018/dec/12/silence-shenzhen-world-first-electric-bus-fleet
+  
 - Hampton University "to offer free tuition, room & board to displaced students from [University of the Bahamas]"
   - announcement tweet https://twitter.com/HBCUDigest/status/1169636612793425921
   - Thank you tweet from University of the Bahamas https://twitter.com/University_Bah/status/1169646989769940999
@@ -193,6 +255,8 @@ As of September 10, I am in the process of reorganizing these notes into somethi
   - The Hill: 
     - https://twitter.com/thecollegeroar/status/1170044768191225857
     - http://web.archive.org/web/20190910060125/https://thehill.com/blogs/blog-briefing-room/news/460212-historically-black-university-to-offer-free-enrollment-room-and
+- Visa & immigration issues
+  - https://twitter.com/Beckstle/status/1171299211666763776
 - donations
   - legit
     - https://twitter.com/WCKitchen/status/1168336428864102401
@@ -201,19 +265,29 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=7485#at_pco=smlwn-1.0&at_si=5d6d4dde3155d0db&at_ab=per-2&at_pos=0&at_tot=1
     - http://dorianpeoplesearch.com/relief-organisations/
       - also lists https://www.gofundme.com/f/headknowles-emergency-funds
+    - https://twitter.com/IMC_Worldwide/status/1171616356883730433
+      - https://give.internationalmedicalcorps.org/page/47784/donate/
   - numerous companies, countless individuals have given
     - prominent examples: 
       - https://twitter.com/zelafrica/status/1171641730296352775
       - https://twitter.com/LeonKaye/status/1171647556109029376
   - fake 
     - https://twitter.com/BBBCentralVA/status/1171036994396459008
-- insurance costs
+- insurance matters
   - https://twitter.com/amruthasuri/status/1171647575935586304
+  - https://twitter.com/Growlinggreeng1/status/1171642678133567489
+    - https://twitter.com/PeterGleick/status/1171632533932371968
+      - https://www.berkeleyside.com/2019/09/09/insurance-companies-give-the-boot-to-berkeley-hills-homeowners-citing-fire-risk
 - education
   - [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
   - Visualization of wind speeds in an area https://twitter.com/blueraster/status/1168933523924889603
   - intended for monitoring fires but can be used for [monitoring hurricanes as well](https://fires.globalforestwatch.org/map/?utm_content=buffer5d41c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#activeLayers=windDirection&activeBasemap=dark-gray&activeImagery=&planetCategory=PLANET-MONTHLY&planetPeriod=Jan%200000&x=-78.986206&y=27.139501&z=7)
   - winter storm archive: https://twitter.com/webberweather/status/1123712965969104901
+- Pets
+  - https://twitter.com/EngagePrepRecov/status/1171295811654651904
+  - https://twitter.com/USATODAY/status/1171421239539376128
+  - https://twitter.com/shaunpcassidy/status/1170731744271585281
+  - pets versus humans https://twitter.com/ladysaydee/status/1171649350851858439
 - #Sharpiegate
   - https://www.wikidata.org/wiki/Q67178691
     - http://web.archive.org/web/20190907051458/https://www.vox.com/policy-and-politics/2019/9/6/20851971/trump-hurricane-dorian-alabama-sharpie-cnn-media
@@ -230,7 +304,10 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - how to lie with maps
       - https://twitter.com/AlbertoCairo/status/1171765453452169216
     - NOAA-internal investigation announced over questions regarding scientific integrity
-      - https://www.cnn.com/2019/09/10/politics/read-craig-mclean-noaa-dorian-hurricane-trump/index.html
+      - https://twitter.com/marczak_rob/status/1171630564958507009
+        - https://www.cnn.com/2019/09/10/politics/read-craig-mclean-noaa-dorian-hurricane-trump/index.html
+    - White House involvement
+      - https://twitter.com/renato_mariotti/status/1171823602792108032
 - #DorianJeep https://twitter.com/NYTNational/status/1170684222979395584
   - http://web.archive.org/web/20190910052126/https://www.nytimes.com/2019/09/07/us/myrtle-beach-jeep.html
   - raising money for the Bahamas
