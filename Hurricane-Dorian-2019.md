@@ -214,6 +214,7 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - using satellite data and high-resolution modeling
       - https://twitter.com/GCEOA/status/1172570894918651907
         - https://www.envirositecorp.com/news-and-events/news/2019/09/04/hurricane-dorian-and-the-environmental-threats-in-its-path/
+      - https://twitter.com/NGA_GEOINT/status/1172141242404225029
     - https://twitter.com/saunsea/status/1171628758408675328
     - https://twitter.com/grumpyoldtechie/status/1171623639994839040
       - https://earthobservatory.nasa.gov/images/145584/in-the-wake-of-hurricane-dorian?linkId=73483164
