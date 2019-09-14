@@ -54,6 +54,11 @@ As of September 10, I am in the process of reorganizing these notes into somethi
       - more on that: https://twitter.com/Airbnb/status/1170115002721656833
     - [Uber service suspended in affected area](https://twitter.com/Adam4NY/status/1168879138461093888)
     - [Walmart](https://twitter.com/mmespy/status/1171396379224301568)
+    - Mobile carriers in Canada did it too
+      - https://twitter.com/NewGizmoBlog/status/1171877850703683585
+      - beware high bills after the disaster: https://twitter.com/NSConsumers/status/1171853575540170752
+    - Amazon https://twitter.com/JeffBezos/status/1171060934753734656
+      - https://www.amazon.com/l/17285237011
 - lots of clips from people in affected areas, but rarely under open licenses
   - e.g. https://twitter.com/mildhighent518/status/1168564896369393665
 - [Hurricane safety tips](https://www.nationalgeographic.com/environment/natural-disasters/hurricane-safety-tips/)
@@ -108,6 +113,15 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - forecasts for Virginia
       - http://web.archive.org/web/20190910055020/https://wtvr.com/2019/09/05/heres-how-dorian-will-impact-virginia/
         - via https://twitter.com/CBS6/status/1169810530187587584
+    - activation of the National Guard
+      - https://www.wric.com/news/virginia-news/virginia-national-guard-soldiers-ready-to-assist-first-responders-on-the-eastern-shore/
+    - waste colletion
+      - https://twitter.com/WAVY_News/status/1171525293615403013
+        - https://www.wavy.com/news/local-news/virginia-beach/virginia-beach-continues-waste-collection-after-hurricane-dorian/
+    - resilience adaptation initiative
+      - https://twitter.com/vaseagrant/status/1172533060820029440
+        - https://vaseagrant.org/raftcapecharles/
+    - 
 - lots of other comments on earlier ones for other places closer to the eye of the storm
   - including questioning why certain areas had declared an emergency and others had not
 - e-scooters
@@ -139,6 +153,12 @@ As of September 10, I am in the process of reorganizing these notes into somethi
     - evolution of wind fields https://twitter.com/GPapavasileiou4/status/1169401036475424768
     - tweets about Dorian over time by verified Twitter accounts: https://twitter.com/jasonbaumgartne/status/1170843846714023936
     - comparison of predicted versus actual path of the storm: https://twitter.com/watkinstrack/status/1170203128412680192
+    - using social media data to monitor displacement of affected populations
+      - https://twitter.com/L__Peters/status/1172659810744930304
+      - https://twitter.com/twailgrrl/status/1172232024574365697
+        - https://www.newyorker.com/news/news-desk/how-social-media-is-helping-survivors-of-hurricane-dorian-in-the-bahamas
+    - ocean currents https://twitter.com/maracoos/status/1172166046633119746
+      - http://oceansmap.maracoos.org/?permalink=%7B%22l%22%3A%7B%22wms%22%3A%5B%22otps_harmonic_tidal_model%22%2C%22avhrr_07_sst_nasa%22%2C%22active_tropical_cyclones%22%5D%2C%22geojson%22%3A%5B%22gliderdac_collection%22%2C%22hfr_stations_collection%22%5D%7D%2C%22m%22%3A%7B%22b%22%3A%5B-94.02099609375001%2C33.43144133557529%2C-63.08349609375001%2C44.653024159812%5D%7D%7D
 - satellite data that users can overlay with geomaps 
   - https://twitter.com/KalteMalte53/status/1169918657436246017
   - https://apps.sentinel-hub.com/eo-browser/?lat=37.200&lng=-76.553&zoom=8&time=2019-09-05&preset=CUSTOM&datasource=Sentinel-3%20OLCI&layers=B07,B05,B03&evalscript=cmV0dXJuIFtCMDcqMC41LEIwNSowLjUsQjAzKjAuNV07
@@ -166,6 +186,7 @@ As of September 10, I am in the process of reorganizing these notes into somethi
  http://bit.ly/bahamaspersonsfound ) containing names of missing people and checkmarks if they have been found
      - [tweet](https://twitter.com/nameuniqueapick/status/1168715236951506944)
        - with some initial results: https://twitter.com/ai6yrham/status/1170438001668677633
+       - updated figures https://twitter.com/ai6yrham/status/1171763979615494144 (Sep 11)
     - via an initially non-public Facebook group that was later made public: https://www.facebook.com/groups/529794051099366/about/
       - now via a [dedicated website](http://dorianpeoplesearch.com/) ([archive](http://web.archive.org/web/20190903200729/http://dorianpeoplesearch.com/))
         - switched to HTTPS: https://dorianpeoplesearch.com/relief-organizations/
@@ -187,12 +208,24 @@ As of September 10, I am in the process of reorganizing these notes into somethi
   - counting the losses
     - https://twitter.com/firstpost/status/1171635805602930694
       - https://www.firstpost.com/world/hurricane-dorian-toll-rises-to-50-desperation-grows-in-bahamas-as-survivors-are-turned-away-from-overflowing-shelters-7320541.html
+    - damage to nature (with drone footage)
+      - https://twitter.com/ai6yrham/status/1171498972747194368
+        - https://twitter.com/blkahn/status/1171493008761450499
+    - using satellite data and high-resolution modeling
+      - https://twitter.com/GCEOA/status/1172570894918651907
+        - https://www.envirositecorp.com/news-and-events/news/2019/09/04/hurricane-dorian-and-the-environmental-threats-in-its-path/
     - https://twitter.com/saunsea/status/1171628758408675328
     - https://twitter.com/grumpyoldtechie/status/1171623639994839040
       - https://earthobservatory.nasa.gov/images/145584/in-the-wake-of-hurricane-dorian?linkId=73483164
     - oil spill
       - https://twitter.com/the_hindu/status/1172027058936934400
         - https://www.thehindu.com/news/international/oil-spill-adds-to-list-of-dorian-induced-woes-in-bahamas/article29397751.ece?homepage=true
+    - cell coverage more available than water
+      - https://twitter.com/ai6yrham/status/1172656863092998144
+    - along the US East Coast
+      - https://twitter.com/raiznerslania/status/1172566897520521217
+    - aerial damage assessment
+      - https://www.weathernationtv.com/news/hurricane-dorian-before-and-after-damage-assessment-imagery/
   - resilience in the Bahamas
     - https://twitter.com/DonGlassII/status/1171644410167209985
     - https://twitter.com/missunnysideups/status/1171629539346309120
@@ -219,6 +252,9 @@ As of September 10, I am in the process of reorganizing these notes into somethi
         - > "Following 2016's Hurricane Matthew, 16 cannonballs washed up at the same beach."
   - Canada: 
     - https://twitter.com/ThomasDyck_me/status/1171399152154095616
+    - huge wave detected 
+      - https://twitter.com/Ocean_Networks/status/1171491048385695744
+      - more details https://twitter.com/remi_wnd/status/1172445746026598400
     - https://twitter.com/PauliticalEye/status/1171654032752021504
       - https://www.theglobeandmail.com/canada/article-100-foot-wave-recorded-off-the-coast-of-newfoundland-during-dorian-2/
         - data https://www.theweathernetwork.com/ca/news/article/newfoundland-buoy-records-100-foot-wave-near-port-aux-basques-as-dorian-passes
@@ -267,6 +303,9 @@ As of September 10, I am in the process of reorganizing these notes into somethi
       - also lists https://www.gofundme.com/f/headknowles-emergency-funds
     - https://twitter.com/IMC_Worldwide/status/1171616356883730433
       - https://give.internationalmedicalcorps.org/page/47784/donate/
+   - matching funds
+     - https://twitter.com/jtimberlake/status/1172119901844189184
+       - https://www.onebahamasfund.org/
   - numerous companies, countless individuals have given
     - prominent examples: 
       - https://twitter.com/zelafrica/status/1171641730296352775
@@ -278,6 +317,8 @@ As of September 10, I am in the process of reorganizing these notes into somethi
   - https://twitter.com/Growlinggreeng1/status/1171642678133567489
     - https://twitter.com/PeterGleick/status/1171632533932371968
       - https://www.berkeleyside.com/2019/09/09/insurance-companies-give-the-boot-to-berkeley-hills-homeowners-citing-fire-risk
+  - post-disaster disasters due to looting 
+    - https://twitter.com/BBBCentralVA/status/1171423419881181184 
 - education
   - [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
   - Visualization of wind speeds in an area https://twitter.com/blueraster/status/1168933523924889603
