@@ -7,3 +7,7 @@ This file is to facilitate the collection and curation of open datasets, e.g. fo
 * Urban Institute releases Urban Data Catalog
   - https://datacatalog.urban.org/search/type/dataset
   - background: https://medium.com/@urban_institute/announcing-the-urban-institute-data-catalog-ce2c787e38e9
+
+# See also
+
+* [education.md](education.md)
