@@ -288,7 +288,7 @@ As of September 10, I am in the process of reorganizing these notes into somethi
   - https://twitter.com/USATODAY/status/1171421239539376128
   - https://twitter.com/shaunpcassidy/status/1170731744271585281
   - pets versus humans https://twitter.com/ladysaydee/status/1171649350851858439
-- #Sharpiegate
+- [#Sharpiegate](https://en.wikipedia.org/wiki/Sharpiegate)
   - https://www.wikidata.org/wiki/Q67178691
     - http://web.archive.org/web/20190907051458/https://www.vox.com/policy-and-politics/2019/9/6/20851971/trump-hurricane-dorian-alabama-sharpie-cnn-media
   - https://en.wikipedia.org/wiki/Sharpiegate
