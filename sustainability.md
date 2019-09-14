@@ -116,3 +116,7 @@ This file hosts information regarding sustainability, especially the sustainabil
   - e.g. as per https://www.yorapetfoods.com/about-us , which is based on [Hermetia illucens](https://en.wikipedia.org/wiki/Hermetia_illucens) larvae that are edible to humans too.
 * [Agenda 2030 in my municipality: a handbook for practitioners for localising the Sustainable Development Goals](http://www.nalas.eu/News/SDGs_Handbook)
 * [What If We Stopped Pretending?](https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending) (...that we can stop climate change?)
+* Some institutions have plans around climate change adaptation, e.g.
+ - [Smithsonian](https://www.si.edu/Content/Pdf/About/Smithsonian-Institution-Climate-Adaptation-Plan.pdf)
+ - [https://www.archives.gov/files/about/plans-reports/sustainability/2012-appendix1-climate-change-adaptation-plan.pdf](NARA)
+ 
