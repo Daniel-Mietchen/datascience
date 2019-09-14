@@ -28,6 +28,11 @@ This file collects information on data archaeology, data rescue and related matt
   - [some background](https://www.sciencealert.com/how-a-volcanic-outburst-1-000-years-ago-was-so-brutal-it-slayed-gods-ragnarok-norse-voluspa-eldgja)
 * Prehistoric solar radiation anomalies: [Tree rings reveal globally coherent signature of cosmogenic radiocarbon events in 774 and 993 CE](https://www.wikidata.org/wiki/Q57094208)
   - > "Here we measure the 14C content in 484 individual tree rings formed in the periods 770–780 and 990–1000 CE. Distinct 14C excursions starting in the boreal summer of 774 and the boreal spring of 993 ensure the precise dating of 44 tree-ring records from five continents. We also identify a meridional decline of 11-year mean atmospheric radiocarbon concentrations across both hemispheres. Corroborated by historical eye-witness accounts of red auroras, our results suggest a global exposure to strong solar proton radiation."
+* [Deciphering scripts in ancient languages using deep learning](https://www.wikidata.org/wiki/Q67496406)
+  - [news piece](https://weirdnews.info/2019/07/17/a-i-is-translating-messages-of-long-lost-languages/)
+  - [background on the conference]()
+  - [code](https://github.com/j-luo93/NeuroDecipher)
+    
 
 # Missing pieces
 
