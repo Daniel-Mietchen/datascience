@@ -125,6 +125,7 @@ As of September 10, I am in the process of reorganizing these notes into somethi
 - data visualization
   - "Fantastic virtual/augmented/immersive reality visualization": https://twitter.com/DavidRosowsky/status/1168994551169765378
     - about https://twitter.com/weatherchannel/status/1168980587711008768
+  - [timeline of Dorian predictions](https://www.nhc.noaa.gov/archive/2019/DORIAN_graphics.php?product=wind_probs_34_F120)
   - evolution of Dorian over the course of its initial 8 days: 
     - https://twitter.com/manelrodero/status/1168611726193045509
      - similar for 7 days: https://twitter.com/WHEC_SPensgen/status/1169811179281223680
