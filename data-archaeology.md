@@ -6,7 +6,7 @@ This file collects information on data archaeology, data rescue and related matt
 
 - According to Wikipedia, "[Data archaeology refers to the art and science of recovering computer data encoded and/or encrypted in now obsolete media or formats. Data archaeology can also refer to recovering information from damaged electronic formats after natural or man made disasters.](https://en.wikipedia.org/w/index.php?title=Data_archaeology&oldid=882440063)".
 
-Here, I will be using the term in a broader sense of recovering data from natural or historic records of past events.
+Here, I will be using the term in a broader sense of *recovering data from natural or historic records of past events*, e.g. through [forensic astronomy](https://en.wikipedia.org/wiki/Forensic_astronomy).
 
 # Examples
 
