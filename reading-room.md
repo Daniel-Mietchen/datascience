@@ -700,3 +700,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Prosperity without Growth—Foundations for the Economy of Tomorrow](https://www.cusp.ac.uk/themes/aetw/pwg/)
 * [Beyond Measure: The Big Impact of Small Changes](http://goroundtable.com/blog/beyond-measure-the-big-impact-of-small-changes/)
 * [Being the Change: Live Well and Spark a Climate Revolution](https://peterkalmus.net/books/)
+* [Paleo-Indians in Virginia](http://www.virginiaplaces.org/nativeamerican/paleoindians.html)
