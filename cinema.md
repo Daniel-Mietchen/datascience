@@ -17,6 +17,8 @@
 * [The Daily Show With Trevor Noah: Greta Thunberg - Inspiring Others to Take a Stand Against Climate Change - Extended Interview](http://www.cc.com/video-clips/ed6ma7/the-daily-show-with-trevor-noah-greta-thunberg---inspiring-others-to-take-a-stand-against-climate-change---extended-interview?xrs=tds_091219_3)
 * [A Message From the Future With Alexandria Ocasio-Cortez](https://www.youtube.com/watch?v=d9uTH0iprVQ)
   - describes a future in which the current climate crisis was averted by concerted climate action
+* [Alexander von Humboldt: der erste Wikipedianer?](https://www.zdf.de/dokumentation/terra-x/war-humboldt-der-erste-wikipedianer-100.html)
+  - nice idea to frame his desire to share his research with the widest possible audiences as a precursor to Wikipedia
 * [Die Zerstörung der CDU.](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) &mdash; most solid commentary I have come across regarding the [2019 European Parliament election](https://en.wikipedia.org/wiki/2019_European_Parliament_election) in May 2019
 * [Science can answer moral questions | Sam Harris](https://www.youtube.com/watch?v=Hj9oB4zpHww)
   - ["How have we convinced ourselves that in the moral sphere, there is no such thing as moral expertise, or moral talent, or moral genius even?"](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=16m15s)
