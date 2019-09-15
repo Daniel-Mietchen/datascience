@@ -52,3 +52,5 @@ This file collects information on data archaeology, data rescue and related matt
 * [Death by skiing accident resolved after 64 years through social networks and DNA analysis](https://twitter.com/poliziadistato/status/1023434264552062976) ([Background](https://www.20minutes.fr/societe/2314811-20180730-italie-skieur-francais-disparu-64-ans-identifie-grace-reseaux-sociaux), [Wikidata](https://www.wikidata.org/wiki/Q55841497))
 * At SciDataCon 2018, I was told that some museum in Knysna had a painting from the 1800s (or so) depicting a coelacanth
 * [Rich thread about Kristallnacht documentation](https://twitter.com/ElishevaAvital/status/1060914913328148480)
+* [Verlorenes Wissen (1/2) - mit Harald Lesch: Sonnenpillen und der Superbeton der Antike](https://www.zdf.de/dokumentation/terra-x/verlorenes-wissen-mit-harald-lesch-sonnenpillen-und-der-superbeton-der-antike-100.html)
+  - about innovations from the past that got lost in history
