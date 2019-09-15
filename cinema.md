@@ -20,6 +20,8 @@
 * [Alexander von Humboldt: der erste Wikipedianer?](https://www.zdf.de/dokumentation/terra-x/war-humboldt-der-erste-wikipedianer-100.html)
   - nice idea to frame his desire to share his research with the widest possible audiences as a precursor to Wikipedia
 * [Die Zerstörung der CDU.](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) &mdash; most solid commentary I have come across regarding the [2019 European Parliament election](https://en.wikipedia.org/wiki/2019_European_Parliament_election) in May 2019
+* [Brauchen wir wirklich eine CO2-Steuer?](https://www.zdf.de/dokumentation/terra-x/lesch-und-co-brauchen-wir-wiklich-eine-co2-steuer-100.html)
+  - comments and discussion on the pros and cons of a carbon tax and emission trading in Germany and Europe
 * [Science can answer moral questions | Sam Harris](https://www.youtube.com/watch?v=Hj9oB4zpHww)
   - ["How have we convinced ourselves that in the moral sphere, there is no such thing as moral expertise, or moral talent, or moral genius even?"](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=16m15s)
   - ["We simply must converge on the answers we give to the most important questions in human life. And to do that, we have to admit that these questions have answers."](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=18m15s)
