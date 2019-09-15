@@ -2,6 +2,12 @@
 
 This file collects information on data archaeology, data rescue and related matters.
 
+# Definitions
+
+- According to Wikipedia, "[Data archaeology refers to the art and science of recovering computer data encoded and/or encrypted in now obsolete media or formats. Data archaeology can also refer to recovering information from damaged electronic formats after natural or man made disasters.](https://en.wikipedia.org/w/index.php?title=Data_archaeology&oldid=882440063)".
+
+Here, I will be using the term in a broader sense of recovering data from natural or historic records of past events.
+
 # Examples
 
 * [Measurement of the Earth's rotation: 720 BC to AD 2015](https://doi.org/10.1098/rspa.2016.0404)
@@ -23,6 +29,7 @@ This file collects information on data archaeology, data rescue and related matt
   - see also [LiDAR and the Archaeology Revolution](https://www.gislounge.com/lidar-archaeology-revolution/)
 * [Nova observed 48 BC by Chinese astronomers](https://arxiv.org/abs/1904.11515)
   - > "We present the discovery of an emission nebula in the Galactic globular cluster M 22 (NGC 6656) in observations made with the integral-field spectrograph MUSE. We extract the spectrum of the nebula and use the radial velocity determined from the emission lines to confirm that the nebula is part of NGC 6656. Emission-line ratios are used to determine the electron temperature and density. It is estimated to have a mass of 1 to 17×10−5 solar masses. This mass and the emission-line ratios indicate that the nebula is a nova remnant. Its position coincides with the reported location of a 'guest star', an ancient Chinese term for transients, observed in May 48 BCE. With this discovery, this nova may be one of the oldest confirmed extrasolar events recorded in human history."
+* [Astronomers say Monet's 'Sunset' masterpiece was painted at 4:53PM on February 5th, 1883](https://www.theverge.com/2014/1/24/5340688/astronomers-say-monets-sunset-masterpiece-was-painted-at-4-53-pm-on)
 * [The Eldgjá eruption: timing, long-range impacts and influence on the Christianisation of Iceland](https://doi.org/10.1007/s10584-018-2171-9)
   - uses ice cores, tree rings and medieval scripts, among other sources
   - [some background](https://www.sciencealert.com/how-a-volcanic-outburst-1-000-years-ago-was-so-brutal-it-slayed-gods-ragnarok-norse-voluspa-eldgja)
@@ -54,3 +61,5 @@ This file collects information on data archaeology, data rescue and related matt
 * [Rich thread about Kristallnacht documentation](https://twitter.com/ElishevaAvital/status/1060914913328148480)
 * [Verlorenes Wissen (1/2) - mit Harald Lesch: Sonnenpillen und der Superbeton der Antike](https://www.zdf.de/dokumentation/terra-x/verlorenes-wissen-mit-harald-lesch-sonnenpillen-und-der-superbeton-der-antike-100.html)
   - about innovations from the past that got lost in history
+* [America’s archaeology data keeps disappearing – even though the law says the government is supposed to preserve it](https://theconversation.com/americas-archaeology-data-keeps-disappearing-even-though-the-law-says-the-government-is-supposed-to-preserve-it-104674)
+  - [background](https://www.tdar.org/why-tdar/compliance/)
