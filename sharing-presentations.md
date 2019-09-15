@@ -14,7 +14,7 @@ This file hosts some thoughts about how presentations could be made more useful 
 * Similar considerations apply to components of the presentation, e.g. images should be shared as vector graphics whenever possible rather than as bitmaps.
 
 # Licensing
-* There should be a clear license statement on either within a presentation (e.g. on one slide) or closely associated with it (e.g. in the metadata).
+* There should be a clear license statement either within a presentation (e.g. on one slide) or closely associated with it (e.g. in the metadata).
 
 # See also
 * I am not aware of any good guidance on how to do good live demos of research-related software and tools, so this could be another avenue worth exploring.
