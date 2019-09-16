@@ -357,3 +357,4 @@ As of September 10, I am in the process of reorganizing these notes into somethi
   - raising money for the Bahamas
     - http://web.archive.org/web/20190910055451/https://www.thestate.com/news/weather-news/article234799927.html
       - via https://twitter.com/dtravisbland/status/1170063547721822208
+    - https://www.gofundme.com/f/red-jeep-for-the-bahamas
