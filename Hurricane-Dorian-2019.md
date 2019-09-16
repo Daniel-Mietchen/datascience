@@ -352,6 +352,8 @@ As of September 10, I am in the process of reorganizing these notes into somethi
       - https://twitter.com/renato_mariotti/status/1171823602792108032
 - #DorianJeep https://twitter.com/NYTNational/status/1170684222979395584
   - http://web.archive.org/web/20190910052126/https://www.nytimes.com/2019/09/07/us/myrtle-beach-jeep.html
+  - video https://www.reuters.com/video/2019/09/05/dorian-puts-jeep-to-the-test-on-south-ca?videoId=596531324
+    - used in a car blog https://www.autoblog.com/2019/09/05/jeep-on-beach-south-carolina-hurricane-dorian/
   - raising money for the Bahamas
     - http://web.archive.org/web/20190910055451/https://www.thestate.com/news/weather-news/article234799927.html
       - via https://twitter.com/dtravisbland/status/1170063547721822208
