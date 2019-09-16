@@ -63,3 +63,4 @@ Here, I will be using the term in a broader sense of *recovering data from natur
   - about innovations from the past that got lost in history
 * [America’s archaeology data keeps disappearing – even though the law says the government is supposed to preserve it](https://theconversation.com/americas-archaeology-data-keeps-disappearing-even-though-the-law-says-the-government-is-supposed-to-preserve-it-104674)
   - [background](https://www.tdar.org/why-tdar/compliance/)
+* [Beringian paleoecology inferred from permafrost-preserved fungal DNA](https://www.wikidata.org/wiki/Q28770029)
