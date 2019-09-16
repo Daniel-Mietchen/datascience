@@ -160,7 +160,10 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [Network graph of sister cities with over 1 million inhabitants created with Wikidata, Gephi & SigmaJS](http://exploring-data.com/info/big-sister-cities/) &mdash; seen via [this tweet](https://twitter.com/DatavisDaily/status/989474347881558016)
 * [Birth places of mayors](https://janakiev.com/wikidata-mayors/)
   - accompanying blog post: [Where do Mayors Come From: Querying Wikidata with Python and SPARQL](https://janakiev.com/blog/wikidata-mayors/)
-
+* an interactive people map of the USA, where city names are replaced by their most Wikipedia'ed resident
+  - [intro tweet](https://twitter.com/puddingviz/status/1133751142721163269)
+  - [visualization](https://pudding.cool/2019/05/people-map/)
+  
 ## Visualization tools
 
 * [5 open source dashboard tools for visualizing data](https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data)
