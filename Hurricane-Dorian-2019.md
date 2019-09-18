@@ -15,8 +15,10 @@ As of September 10, I am in the process of reorganizing these notes into somethi
 
 # Summary
 
-* [Wikipedia: Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
-* [Summary of Hurricane Dorian from the Weather Channel](https://weather.com/storms/hurricane/news/2019-09-08-hurricane-dorian-recap-bahamas-united-states-canada) (as of 8 September)
+* Wikipedia: [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
+* Weather Channel (on September 8): [Hurricane Dorian recap](https://weather.com/storms/hurricane/news/2019-09-08-hurricane-dorian-recap-bahamas-united-states-canada) (as of 8 September)
+* Columbia Journalism Review (September 5) [How Bahamians have covered Dorian](https://www.cjr.org/the_media_today/hurricane_dorian_bahamas.php)
+* Columbia Journalism Review (September 4) [The difficulties of covering Hurricane Dorian](https://www.cjr.org/the_media_today/hurricane_dorian_bahamas.php)
 
 # Openness
 
