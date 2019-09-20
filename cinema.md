@@ -20,6 +20,9 @@
 * [Alexander von Humboldt: der erste Wikipedianer?](https://www.zdf.de/dokumentation/terra-x/war-humboldt-der-erste-wikipedianer-100.html)
   - nice idea to frame his desire to share his research with the widest possible audiences as a precursor to Wikipedia
 * [Die Zerstörung der CDU.](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) &mdash; most solid commentary I have come across regarding the [2019 European Parliament election](https://en.wikipedia.org/wiki/2019_European_Parliament_election) in May 2019
+* [Auer, Sören: Towards Knowledge Graph based Representation, Augmentation and Exploration of Scholarly Communications.](https://doi.org/10.5446/42465)
+  - describes The Open Research Knowledge Graph being developed at TIB Hanover https://labs.tib.eu/orkg/
+  - interesting approach to building a scholarly knowledge graph similar to WikiCite but more focused on experts than on "the crowd"
 * [Brauchen wir wirklich eine CO2-Steuer?](https://www.zdf.de/dokumentation/terra-x/lesch-und-co-brauchen-wir-wiklich-eine-co2-steuer-100.html)
   - comments and discussion on the pros and cons of a carbon tax and emission trading in Germany and Europe
 * [Science can answer moral questions | Sam Harris](https://www.youtube.com/watch?v=Hj9oB4zpHww)
@@ -29,6 +32,8 @@
   - basically the same recommendation but told in a slightly different fashion: [Can we build AI without losing control over it? | Sam Harris](https://www.youtube.com/watch?v=8nt3edWLgIg)
 * [How to take a picture of a black hole | Katie Bouman](https://www.youtube.com/watch?v=BIvezCVcsYs)
   - with lots of examples regarding how to integrate data of different kinds across sources, scales and assumptions
+* [A free world needs satire | Patrick Chappatte](https://www.youtube.com/watch?v=MIGtyaVb2Xc)
+  - numerous good examples of how caricature nails certain conversations, and how antidemocratic measures make caricature suffer
 * [A new way to remove CO2 from the atmosphere | Jennifer Wilcox](https://www.youtube.com/watch?v=XY_lzonfE3I)
   - not sure what's new about it, but contains a high-level overview of carbon sequestration approaches
 * [Copenhagen Atomics - Asia Nuclear Business Platform](https://www.youtube.com/watch?v=3HP98Y61wnw) (Thomas Jam Pedersen on Molten-Salt Reactors)
