@@ -120,3 +120,6 @@ This file hosts information regarding sustainability, especially the sustainabil
  - [Smithsonian](https://www.si.edu/Content/Pdf/About/Smithsonian-Institution-Climate-Adaptation-Plan.pdf)
  - [https://www.archives.gov/files/about/plans-reports/sustainability/2012-appendix1-climate-change-adaptation-plan.pdf](NARA)
 * [Being the Change: Live Well and Spark a Climate Revolution](https://peterkalmus.net/books/)
+* [Coolproducts don’t cost the Earth](https://eeb.org/library/coolproducts-report/)
+  - [report (PDF)](https://mk0eeborgicuypctuf7e.kinstacdn.com/wp-content/uploads/2019/09/Coolproducts-report.pdf)
+  - background: [Revealed: The climate cost of ‘disposable smartphones’](https://eeb.org/revealed-the-climate-cost-of-disposable-smartphones/)
