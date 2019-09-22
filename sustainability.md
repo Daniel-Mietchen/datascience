@@ -59,6 +59,22 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Cancer Research UK Grand Challenges](http://www.cancerresearchuk.org/about-us/cancer-news/press-release/2015-10-12-cancer-research-uk-launches-ps100m-grand-challenges-to-tackle-the-most-important-questions-in-cancer)
 * [TEDMED Great Challenges](http://tedmed.com/greatchallenges)
 
+# Travel-related environmental footprint
+
+* [Seven steps to make travel to scientific conferences more sustainable](https://doi.org/10.1038/d41586-019-02747-6)
+* [No Fly Climate Sci](https://noflyclimatesci.org/)
+* [Opinion: Instead of flight shaming, let’s be thoughtful and selective about all travel](https://ensia.com/voices/flight-shaming-flying-travel-carbon-co2-emissions-flyless-aviation-cars-trains/)
+* Blog [Flying Less: Reducing Academia's Carbon Footprint](https://academicflyingblog.wordpress.com/) with lots of thoughtful pieces on the matter, with particular attention to flying
+  - [petition (from 2015) to academic institutions and societies to monitor and reduce their environmental footprint, especially in relation to flying](https://academicflyingblog.wordpress.com/2015/10/17/a-petition-calling-upon-universities-and-professional-associations-to-greatly-reduce-flying/)
+    - [implementation examples](https://academicflyingblog.wordpress.com/2019/06/18/updates-on-various-fronts/)
+      - e.g. [Université de Neuchâtel](http://www.unine.ch/durable/deplacements-avion)
+      - see also pp. 15-19 of [Harvard Kennedy School Sustainability Plan](https://green.harvard.edu/sites/green.harvard.edu/files/HKS%20Sustainability%20Plan%20%20FINAL.pdf) (seen via [this tweet](https://twitter.com/JenniferWeeks83/status/1174490750056378373))
+      - [conference](https://academicflyingblog.wordpress.com/2019/06/11/a-flyingless-anthropology-revisiting-displace18/)
+* [International Council on Clean Transportation](https://theicct.org/)
+  - [Choose Your Own Adventure: By Plane, Car, Train, or Bus?](https://theicct.org/blogs/staff/choose-your-own-adventure-plane-car-train-or-bus)
+* [Fly or drive? Parsing the evolving climate math](https://www.yaleclimateconnections.org/2015/09/evolving-climate-math-of-flying-vs-driving/)
+
+
 # See also
 * [Wikidata as a digital preservation knowledgebase - Open Preservation Foundation](http://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/)
 * [Data Seal of Approval](http://www.datasealofapproval.org/)
