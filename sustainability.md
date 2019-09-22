@@ -125,3 +125,4 @@ This file hosts information regarding sustainability, especially the sustainabil
   - background: [Revealed: The climate cost of ‘disposable smartphones’](https://eeb.org/revealed-the-climate-cost-of-disposable-smartphones/)
 * [Global Fossil Fuel Subsidies Remain Large: An Update Based on Country-Level Estimates](https://www.imf.org/en/Publications/WP/Issues/2019/05/02/Global-Fossil-Fuel-Subsidies-Remain-Large-An-Update-Based-on-Country-Level-Estimates-46509)
 * [Climate and Clean Air Coalition](https://ccacoalition.org/)
+  - [Time to act to reduce short-lived climate pollutants](https://ccacoalition.org/en/node/85)
