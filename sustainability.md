@@ -144,3 +144,5 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Climate and Clean Air Coalition](https://ccacoalition.org/)
   - [Time to act to reduce short-lived climate pollutants](https://ccacoalition.org/en/node/85)
 * [Community control of the electric grid](https://www.ecowatch.com/chicagos-campaign-electricity-public-control-2640437976.html)
+* [Climate Change Communication Award](https://twitter.com/fatbeehive/status/1174966465696395264)
+  - [details](https://climateoutreach.org/climate-communication-awards/)
