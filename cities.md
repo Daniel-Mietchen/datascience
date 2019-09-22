@@ -16,3 +16,4 @@ As more and more of the world's human population is living in urban environments
 * [How open data is driving UK smart city innovation](http://www.itpro.co.uk/smart-city/31433/how-open-data-is-driving-uk-smart-city-innovation)
 * [Smart cities to become the norm by 2025 ](http://www.itpro.co.uk/big-data/30541/smart-cities-to-become-the-norm-by-2025)
   - see associated report [Data Age 2025: The Evolution of Data to Life-Critical](https://www.seagate.com/files/www-content/our-story/trends/files/Seagate-WP-DataAge2025-March-2017.pdf)
+  - see also [National Award for Smart Growth Achievement](https://www.epa.gov/smartgrowth/national-award-smart-growth-achievement)
