@@ -123,3 +123,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Coolproducts don’t cost the Earth](https://eeb.org/library/coolproducts-report/)
   - [report (PDF)](https://mk0eeborgicuypctuf7e.kinstacdn.com/wp-content/uploads/2019/09/Coolproducts-report.pdf)
   - background: [Revealed: The climate cost of ‘disposable smartphones’](https://eeb.org/revealed-the-climate-cost-of-disposable-smartphones/)
+* [Global Fossil Fuel Subsidies Remain Large: An Update Based on Country-Level Estimates](https://www.imf.org/en/Publications/WP/Issues/2019/05/02/Global-Fossil-Fuel-Subsidies-Remain-Large-An-Update-Based-on-Country-Level-Estimates-46509)
