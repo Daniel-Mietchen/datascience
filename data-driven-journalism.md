@@ -134,6 +134,8 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)
 * [Climate change dataviz at Rio 2016 Opening Ceremony](https://www.youtube.com/watch?v=N_qXm9HY9Ro#t=53m) &mdash; I did not watch the whole thing but just the ca. 5 min related to climate change, prompted by [this tweet](https://twitter.com/mxfh/status/1131323607257419778)
 * [Warming stripes](https://showyourstripes.info/) 
+* [Moore’s Law predictions vs actual growth in transistor count](https://twitter.com/JeffDean/status/1175612749990133761)
+  - [source](https://www.reddit.com/r/dataisbeautiful/comments/cynql1/moores_law_graphed_vs_real_cpus_gpus_1965_2019_oc/)
 
 ### Wikimedia examples
 
