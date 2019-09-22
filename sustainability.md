@@ -73,6 +73,7 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [International Council on Clean Transportation](https://theicct.org/)
   - [Choose Your Own Adventure: By Plane, Car, Train, or Bus?](https://theicct.org/blogs/staff/choose-your-own-adventure-plane-car-train-or-bus)
 * [Fly or drive? Parsing the evolving climate math](https://www.yaleclimateconnections.org/2015/09/evolving-climate-math-of-flying-vs-driving/)
+* [Paper straws alone won't save the planet](https://twitter.com/MichaelEMann/status/1175515714171678720) &mdash; with comments on academic travel
 
 
 # See also
