@@ -9,6 +9,10 @@
   - Resilience &mdash; things we absolutely do not want to let go, i.e. our core values
   - Relinquishment &mdash; things we absolutely need to let go
   - Restauration &mdash; things that we may have lost and that are worth getting back into our lives
+* [Sustainable Investing: What you didn't know could make you money. | Karina Funk | TEDxWilmington](https://www.youtube.com/watch?v=fno1QIuA6EQ)
+  - makes the case that profits and environment need not be as much at odds as they are often pereceived to be
+  - she highlights what she called "environmental business advantage", i.e. some business advantage gained from reducing the environmental footprint of the company
+  - more on this in [this report](https://www.sec.gov/Archives/edgar/data/1548609/000089853116000977/baf-ncsra.htm)
 * [Children of India speaking with Greta Thunberg's voice](https://twitter.com/fridays_india/status/1168177177281454080)
 * [How to green the world's deserts and reverse climate change | Allan Savory](https://www.youtube.com/watch?v=vpTHi7O66pI)
   - about [holistic management (planned grazing)](https://en.wikipedia.org/wiki/Holistic_management_(agriculture))
