@@ -136,6 +136,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [Warming stripes](https://showyourstripes.info/) 
 * [Moore’s Law predictions vs actual growth in transistor count](https://twitter.com/JeffDean/status/1175612749990133761)
   - [source](https://www.reddit.com/r/dataisbeautiful/comments/cynql1/moores_law_graphed_vs_real_cpus_gpus_1965_2019_oc/)
+* [Climate Clock](https://climateclock.net/) &mdash; indicates the time until we reach 1.5°C or 2°C of global warming with respect to pre-industrial levels.
 
 ### Wikimedia examples
 
