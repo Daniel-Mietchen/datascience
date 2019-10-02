@@ -294,3 +294,4 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Archaeologists scanning a Mexican pyramid for damage following September's devastating earthquake have uncovered traces of an ancient temple](https://www.bbc.com/news/world-latin-america-44806790)
 * [Mediterranean rescue vessel makes its logbooks public](https://blog.zeit.de/teilchen/2018/08/02/aquarius-rettungsschiff-fluechtlinge-mittelmeer-seenotrettung/)
 * [Free training and education for professionals interested in identifying, using, and sharing disaster health information](https://disasterinfo.nlm.nih.gov/training)
+* Shuttleworth project: [Revolutionising the disaster relief supply chain](https://shuttleworthfoundation.org/fellows/andrew-lamb/)
