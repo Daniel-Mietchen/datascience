@@ -23,6 +23,13 @@
   - describes a future in which the current climate crisis was averted by concerted climate action
 * [Alexander von Humboldt: der erste Wikipedianer?](https://www.zdf.de/dokumentation/terra-x/war-humboldt-der-erste-wikipedianer-100.html)
   - nice idea to frame his desire to share his research with the widest possible audiences as a precursor to Wikipedia
+* [Moral behavior in animals | Frans de Waal](https://www.youtube.com/watch?v=GcJxRqTs5nk)
+  - nice overview on how to use behavioral experiments with animals to deconstruct the components of their morality: 
+    - empathy and consolation
+    - prosocial tendencies
+    - reciprocity and fairness
+* [Ecosia as a place to work](https://www.youtube.com/watch?v=qCdK-ifNpRs)
+  - with concrete examples of policies, practices and perks
 * [Die Zerstörung der CDU.](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) &mdash; most solid commentary I have come across regarding the [2019 European Parliament election](https://en.wikipedia.org/wiki/2019_European_Parliament_election) in May 2019
 * [Auer, Sören: Towards Knowledge Graph based Representation, Augmentation and Exploration of Scholarly Communications.](https://doi.org/10.5446/42465)
   - describes The Open Research Knowledge Graph being developed at TIB Hanover https://labs.tib.eu/orkg/
