@@ -13,6 +13,8 @@
   - makes the case that profits and environment need not be as much at odds as they are often pereceived to be
   - she highlights what she called "environmental business advantage", i.e. some business advantage gained from reducing the environmental footprint of the company
   - more on this in [this report](https://www.sec.gov/Archives/edgar/data/1548609/000089853116000977/baf-ncsra.htm)
+* [Luisa Neubauer|TEDxYouth@München: Why you should be a climate activist](https://www.ted.com/talks/luisa_neubauer_why_you_should_be_a_climate_activist)
+  - makes the case that everyone should be a climate activist, and gives some pointers on how to get started
 * [Children of India speaking with Greta Thunberg's voice](https://twitter.com/fridays_india/status/1168177177281454080)
 * [How to green the world's deserts and reverse climate change | Allan Savory](https://www.youtube.com/watch?v=vpTHi7O66pI)
   - about [holistic management (planned grazing)](https://en.wikipedia.org/wiki/Holistic_management_(agriculture))
