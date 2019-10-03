@@ -92,6 +92,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Big Data for Infectious Disease Surveillance and Modeling](https://doi.org/10.1093/infdis/jiw400)
 * [Principles for Data Sharing in Public Health Emergencies](https://doi.org/10.6084/m9.figshare.4733590)
 * [Progress in promoting data sharing in public health emergencies](https://doi.org/10.2471/BLT.17.192096)
+* [Sharing health research data – the role of funders in improving the impact](https://doi.org/10.12688/f1000research.16523.1)
 * [Principles for Sharing the Data and Benefits of Public Health Surveillance](https://datasharing.chathamhouse.org/guide/)
 * [How a mosquito bite inspired a campaign to map every school in the world](http://www.itpro.co.uk/open-source/31358/how-a-mosquito-bite-inspired-a-campaign-to-map-every-school-in-the-world)
   - > The disease proved to be a wakeup call to a chronic lack of even basic medical infrastructure across Latin America. There were no vaccines available, no clinics prepared for the influx of concerned mothers, very few universal family planning services in place, and the high degree of poverty in the regions left many unable to access the most basic of protections, such as mosquito nets.
