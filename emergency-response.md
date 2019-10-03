@@ -252,6 +252,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Data Sharing as a Key Component of Addressing and Preparing for Disease Outbreaks](https://github.com/Daniel-Mietchen/events/blob/master/Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md)
 
 # See also
+
+* [Outbreak science](https://outbreakscience.org/)
+  - also has an initiative on data sharing in outbreak contexts, with details not public yet
 * [CDC’s CERC Program—Principles to communicate by in an emergency response and everyday life](http://blogs.cdc.gov/publichealthmatters/2015/06/cdcs-cerc-program-principles-to-communicate-by-in-an-emergency-response-and-everyday-life/)
 * [List of natural disasters by death toll](https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll)
 * [List of foodborne illness outbreaks](https://en.wikipedia.org/wiki/List_of_foodborne_illness_outbreaks)
