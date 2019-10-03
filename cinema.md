@@ -38,6 +38,9 @@
   - interesting approach to building a scholarly knowledge graph similar to WikiCite but more focused on experts than on "the crowd"
 * [Brauchen wir wirklich eine CO2-Steuer?](https://www.zdf.de/dokumentation/terra-x/lesch-und-co-brauchen-wir-wiklich-eine-co2-steuer-100.html)
   - comments and discussion on the pros and cons of a carbon tax and emission trading in Germany and Europe
+* [The most important thing you can do to fight climate change: talk about it (Katharine Hayhoe | TEDWomen 2018)](https://www.ted.com/talks/katharine_hayhoe_the_most_important_thing_you_can_do_to_fight_climate_change_talk_about_it)
+  - The title says it all
+  - With some remarks on travel impact and remote talks
 * [Science can answer moral questions | Sam Harris](https://www.youtube.com/watch?v=Hj9oB4zpHww)
   - ["How have we convinced ourselves that in the moral sphere, there is no such thing as moral expertise, or moral talent, or moral genius even?"](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=16m15s)
   - ["We simply must converge on the answers we give to the most important questions in human life. And to do that, we have to admit that these questions have answers."](https://www.youtube.com/watch?v=Hj9oB4zpHww#t=18m15s)
