@@ -12,7 +12,7 @@ I am particularly interested in the intersection between the two, i.e. organizat
  1. to advance my general understanding under which conditions open approaches are being favoured over closed ones,
  1. to see how my own activities as an open researcher or as a volunteer for open knowledge initiatives like Wikimedia can be integrated with emergency response activities, particularly with the digital response, as I am rarely in a position to respond on the ground.
 
-While I started this repo in an open-ended fashion, it has since evolved a focus on data sharing in public health emergencies, which has been receiving a growing interest lately, as discussed in [this paper](http://dx.doi.org/10.1371/journal.pmed.1002109). I have also begun to give talks on the subject, e.g. [at SciDataCon 2016](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md), [at IMED 2016](https://github.com/Daniel-Mietchen/talks/blob/master/IMED-2016.md) or [Endangered Data Week 2018](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md).
+While I started this repo in an open-ended fashion, it has since evolved a focus on data sharing in public health emergencies, which has been receiving a growing interest lately, as discussed in [this paper](http://dx.doi.org/10.1371/journal.pmed.1002109). I have also begun to give talks on the subject, as detailed [here](emergency-response.md#related-presentations).
 
 
 # Epidemics
