@@ -249,7 +249,8 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/talks/blob/master/SciDataCon2016.md) &mdash; a presentation for [SciDataCon 2016](http://www.scidatacon.org/2016/)
 * [Data sharing in public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/IMED-2016.md) &mdash; a presentation for the [International Meeting on Emerging Diseases and Surveillance (IMED 2016)](http://imed.isid.org/)
 * [Data sharing and public health emergencies](https://github.com/Daniel-Mietchen/events/blob/master/Endangered-Data-Week-UVA-2018.md) &mdash; a presentation for [Endangered Data Week 2018](http://data.library.virginia.edu/endangered-data-week-2018/)
-* [Data Sharing as a Key Component of Addressing and Preparing for Disease Outbreaks](https://github.com/Daniel-Mietchen/events/blob/master/Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md)
+* [Data sharing as a new component of addressing and preparing for disease outbreaks](SciDataCon-2018-data-sharing.md) &mdash; a presentation given at [SciDataCon 2018](https://www.scidatacon.org/IDW2018/)
+* [Data Sharing as a Key Component of Addressing and Preparing for Disease Outbreaks](https://github.com/Daniel-Mietchen/events/blob/master/Environmental-Health-Seminar-Env-H-580-on-2019-01-31.md) &mdash; a guest lecture at the University of Washington in January 2019.
 
 # See also
 
