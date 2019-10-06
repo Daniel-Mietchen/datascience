@@ -64,6 +64,10 @@
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
   * another one by her: [The Future of Research: Citizen Science!](https://www.youtube.com/watch?v=a-xUXNbL04M)
   * see also [Only "Scientists" Can Do Science](http://edge.org/response-detail/25504)
+* [Sacagawea - Heroine of the Lewis and Clark Journey](https://www.youtube.com/watch?v=_ww905YIpeM)
+  * The Lewis & Clark Expedition recounted from the perspective of Sacagawea
+* [Terra X Imperium - Der Kriegsruf der Indianer](https://www.youtube.com/watch?v=52JV4GqUSt8)
+  * very introductory overview of the interactions between Native Americans, Europeans and the fledgling USA
 * [Citizen Science: Everybody Counts | Caren Cooper](https://www.youtube.com/watch?v=G7cQHSqfSzI)
   * big plug for iNaturalist, with useful generic remarks about citizen science, collaboration and sharing
 * [Tal Danino on using bacteria to cure cancer](http://www.ted.com/talks/tal_danino_we_can_use_bacteria_to_detect_cancer_and_maybe_treat_it#t-243227)
