@@ -64,6 +64,9 @@
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
   * another one by her: [The Future of Research: Citizen Science!](https://www.youtube.com/watch?v=a-xUXNbL04M)
   * see also [Only "Scientists" Can Do Science](http://edge.org/response-detail/25504)
+* [The Virginia Indians: Meet the Tribes](https://www.youtube.com/watch?v=3B2qp0r-Zxk)
+  * introduces the 11 native tribes recognized by the State of Virginia
+  * part of the [collection of videos about the Monacans](https://www.monacannation.com/tribe-in-videos.html)
 * [Sacagawea - Heroine of the Lewis and Clark Journey](https://www.youtube.com/watch?v=_ww905YIpeM)
   * The Lewis & Clark Expedition recounted from the perspective of Sacagawea
 * [Terra X Imperium - Der Kriegsruf der Indianer](https://www.youtube.com/watch?v=52JV4GqUSt8)
@@ -334,7 +337,7 @@
 * [The next Internet Revolution | Juan Benet](https://www.youtube.com/watch?v=2RCwZDRwk48)
 * [The World In 2050 [The Real Future Of Earth] – Full BBC Documentary 2017](https://www.youtube.com/watch?v=XeEYaX82jSE)
 * [Top Science Discoveries of 2017 Documentary](https://www.youtube.com/watch?v=5fCnOH2Xbp4)
-
+* [collection of videos about the Monacans](https://www.monacannation.com/tribe-in-videos.html)
 
 # About
 
