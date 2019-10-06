@@ -30,6 +30,7 @@ As of September 10, I am in the process of reorganizing these notes into somethi
       - actual mapping tasks (Abaco Islands 1 &2):
         - https://tasks.hotosm.org/project/6653
         - https://tasks.hotosm.org/project/6656
+      - in the media: [After Hurricane Dorian, The 'Wikipedia Of Maps' Came To The Rescue](https://www.npr.org/sections/goatsandsoda/2019/10/03/765783296/after-hurricane-dorian-the-wikipedia-of-maps-came-to-the-rescue)
   - open data from the EU's Copernicus satellites: https://twitter.com/CopernicusEU/status/1171010901153067008
   - high-resolution commercial satellite data of the affected region provided for free by Maxar: https://twitter.com/Geospex/status/1170360410085777413
     - call for digital responders using these open data: https://twitter.com/Fourhawaii/status/1169436661110804482
