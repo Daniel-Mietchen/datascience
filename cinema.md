@@ -241,6 +241,9 @@
 # Maybe watch in the future
 
 * [“We Are Striking to Disrupt the System”: An Hour with 16-Year-Old Climate Activist Greta Thunberg](https://www.youtube.com/watch?v=Dgi30Wy_V74)
+* [The success of nonviolent civil resistance: Erica Chenoweth](https://www.youtube.com/watch?v=YJSehRlU34w)
+  - [background info](https://rationalinsurgent.com/2013/11/04/my-talk-at-tedxboulder-civil-resistance-and-the-3-5-rule/)
+  - in the media: [BBC: The '3.5% Rule': How a Small Minority Can Change the World](http://www.bbc.com/future/story/20190513-it-only-takes-35-of-people-to-change-the-world)
 * [Sir Tim Berners-Lee: Turing Lecture, May 29, 2018](https://www.youtube.com/watch?v=BaMa4u4Fio4)
   - seen via https://twitter.com/emcandre/status/1034778050758692869
   - ["[the web] shouldn't just be designed for finished articles"](https://www.youtube.com/watch?v=BaMa4u4Fio4#t=30m33s)
