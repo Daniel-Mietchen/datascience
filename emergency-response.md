@@ -302,3 +302,4 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [Free training and education for professionals interested in identifying, using, and sharing disaster health information](https://disasterinfo.nlm.nih.gov/training)
 * Shuttleworth project: [Revolutionising the disaster relief supply chain](https://shuttleworthfoundation.org/fellows/andrew-lamb/)
 * [The Future of Disaster Risk Pooling for Developing Countries: Where Do We Go from Here?](https://www.wri.org/publication/disaster-risk-pooling)
+* [‘Resilience bonds’: A secret weapon against catastrophe](http://www.bbc.com/future/story/20170515-resilience-bonds-a-secret-weapon-against-catastrophe)
