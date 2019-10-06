@@ -68,6 +68,7 @@
   * The Lewis & Clark Expedition recounted from the perspective of Sacagawea
 * [Terra X Imperium - Der Kriegsruf der Indianer](https://www.youtube.com/watch?v=52JV4GqUSt8)
   * very introductory overview of the interactions between Native Americans, Europeans and the fledgling USA
+  * mentioned the [Cherokee Phoenix](https://en.wikipedia.org/wiki/Cherokee_Phoenix), a bilingual newspaper published in both English and Cherokee
 * [Citizen Science: Everybody Counts | Caren Cooper](https://www.youtube.com/watch?v=G7cQHSqfSzI)
   * big plug for iNaturalist, with useful generic remarks about citizen science, collaboration and sharing
 * [Tal Danino on using bacteria to cure cancer](http://www.ted.com/talks/tal_danino_we_can_use_bacteria_to_detect_cancer_and_maybe_treat_it#t-243227)
