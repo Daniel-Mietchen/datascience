@@ -70,6 +70,7 @@
     - one of them are the [Nansemond](https://nansemond.org/)
       - see their [Mattanock Town](http://mattanocktown.org/)
   * part of the [collection of videos about the Monacans](https://www.monacannation.com/tribe-in-videos.html)
+  - see also [Disappering Indians?](http://www2.vcdh.virginia.edu/lewisandclark/students/projects/monacans/index.html)
 * [Sacagawea - Heroine of the Lewis and Clark Journey](https://www.youtube.com/watch?v=_ww905YIpeM)
   * The Lewis & Clark Expedition recounted from the perspective of Sacagawea
 * [Terra X Imperium - Der Kriegsruf der Indianer](https://www.youtube.com/watch?v=52JV4GqUSt8)
