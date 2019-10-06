@@ -66,6 +66,8 @@
   * see also [Only "Scientists" Can Do Science](http://edge.org/response-detail/25504)
 * [The Virginia Indians: Meet the Tribes](https://www.youtube.com/watch?v=3B2qp0r-Zxk)
   * introduces the 11 native tribes recognized by the State of Virginia
+    - one of them are the [Nansemond](https://nansemond.org/)
+      - see their [Mattanock Town](http://mattanocktown.org/)
   * part of the [collection of videos about the Monacans](https://www.monacannation.com/tribe-in-videos.html)
 * [Sacagawea - Heroine of the Lewis and Clark Journey](https://www.youtube.com/watch?v=_ww905YIpeM)
   * The Lewis & Clark Expedition recounted from the perspective of Sacagawea
