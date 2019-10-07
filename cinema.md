@@ -24,6 +24,9 @@
     - joined a group demanding the the city of Berlin divest from fossil fuels
       - success
   - website http://was-macht-mein-geld.de/
+* [The Spring](https://vimeo.com/180467014)
+  - inspiring approach to realizing the vision of providing every human with clean drinking water
+  - [they use open hardware sensors](https://www.charitywater.org/projects/sensors/)
 * [Children of India speaking with Greta Thunberg's voice](https://twitter.com/fridays_india/status/1168177177281454080)
 * [How to green the world's deserts and reverse climate change | Allan Savory](https://www.youtube.com/watch?v=vpTHi7O66pI)
   - about [holistic management (planned grazing)](https://en.wikipedia.org/wiki/Holistic_management_(agriculture))
