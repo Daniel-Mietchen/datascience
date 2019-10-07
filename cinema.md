@@ -245,6 +245,9 @@
 
 * [The Big U-Turn Ahead: Calling Australia to Action on Climate Change](https://www.youtube.com/watch?v=OzQsjuzr3_M)
   - one of the most powerful presentations outlining what is known about climate change and what this means for climate action
+    - key points: 
+      - [36 min: visualization of current global warming projections versus the last 2000 years](https://www.youtube.com/watch?v=OzQsjuzr3_M#t=35m27s)
+      - [44 min: explanation why it is critical to act now](https://www.youtube.com/watch?v=OzQsjuzr3_M#t=44m00s)
   - watched parts of it via [this Twitter thread](https://twitter.com/Jumpsteady/status/1163718889139818496)
   - see also this paper: [](https://doi.org/10.1073/pnas.1810141115)
 * [“We Are Striking to Disrupt the System”: An Hour with 16-Year-Old Climate Activist Greta Thunberg](https://www.youtube.com/watch?v=Dgi30Wy_V74)
