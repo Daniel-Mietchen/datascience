@@ -66,3 +66,4 @@ Here, I will be using the term in a broader sense of *recovering data from natur
 * [Beringian paleoecology inferred from permafrost-preserved fungal DNA](https://www.wikidata.org/wiki/Q28770029)
 * Wikipedia's [History of discoveries](https://en.wikipedia.org/wiki/History_of_discoveries)
 * [Some witchy history and a very smart woman in data science](https://ammienoot.com/brain-fluff/some-witchy-history-and-a-very-smart-woman-in-data-science/) &mdash; seen via https://twitter.com/ammienoot/status/1176248290754605057
+* [2,000-year-old Herculaneum Scrolls from Institut de France studied at Diamond Light Source](https://www.eurekalert.org/pub_releases/2019-10/dls-2hs100219.php)
