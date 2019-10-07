@@ -26,6 +26,14 @@
   - describes a future in which the current climate crisis was averted by concerted climate action
 * [Alexander von Humboldt: der erste Wikipedianer?](https://www.zdf.de/dokumentation/terra-x/war-humboldt-der-erste-wikipedianer-100.html)
   - nice idea to frame his desire to share his research with the widest possible audiences as a precursor to Wikipedia
+* [The three secrets of resilient people | Lucy Hone](https://www.youtube.com/watch?v=NWH8N-BvhAw)
+  - resilient people 
+    - know that suffering is part of life
+      - this stops them from feeling discriminated against
+    - are good at selecting where to put their attention
+      - focus on things they can change and somehow accept what they can't
+      - can find something they are grateful for despite their negative experience
+    - ask themselves whether what they are doing is helping or harming them
 * [Moral behavior in animals | Frans de Waal](https://www.youtube.com/watch?v=GcJxRqTs5nk)
   - nice overview on how to use behavioral experiments with animals to deconstruct the components of their morality: 
     - empathy and consolation
