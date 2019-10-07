@@ -16,6 +16,11 @@
 * [Luisa Neubauer|TEDxYouth@München: Why you should be a climate activist](https://www.ted.com/talks/luisa_neubauer_why_you_should_be_a_climate_activist)
   - makes the case that everyone should be a climate activist, and gives some pointers on how to get started
 * [How to be a climate activist](https://www.youtube.com/watch?v=A6sYE8iXCds)
+* [What One Person Can Do About Climate Change | Ella Lagé]()
+  - got involved with 350.org
+    - joined a group demanding the the city of Berlin divest from fossil fuels
+      - success
+  - website http://was-macht-mein-geld.de/
 * [Children of India speaking with Greta Thunberg's voice](https://twitter.com/fridays_india/status/1168177177281454080)
 * [How to green the world's deserts and reverse climate change | Allan Savory](https://www.youtube.com/watch?v=vpTHi7O66pI)
   - about [holistic management (planned grazing)](https://en.wikipedia.org/wiki/Holistic_management_(agriculture))
