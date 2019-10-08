@@ -326,7 +326,7 @@ As of September 10, I am in the process of reorganizing these notes into somethi
 - education
   - [storm surge](https://twitter.com/MrScottEddy/status/1168641076812496907)
   - Visualization of wind speeds in an area https://twitter.com/blueraster/status/1168933523924889603
-  - intended for monitoring fires but can be used for [monitoring hurricanes as well](https://fires.globalforestwatch.org/map/?utm_content=buffer5d41c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#activeLayers=windDirection&activeBasemap=dark-gray&activeImagery=&planetCategory=PLANET-MONTHLY&planetPeriod=Jan%200000&x=-78.986206&y=27.139501&z=7)
+    - intended for monitoring fires but can be used for [monitoring hurricanes as well](https://fires.globalforestwatch.org/map/?utm_content=buffer5d41c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#activeLayers=windDirection&activeBasemap=dark-gray&activeImagery=&planetCategory=PLANET-MONTHLY&planetPeriod=Jan%200000&x=-78.986206&y=27.139501&z=7)
   - winter storm archive: https://twitter.com/webberweather/status/1123712965969104901
 - Pets
   - https://twitter.com/EngagePrepRecov/status/1171295811654651904
