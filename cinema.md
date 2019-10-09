@@ -19,11 +19,30 @@
   - organize
   - choose your action
   - plan
-* [What One Person Can Do About Climate Change | Ella Lagé]()
+* [What One Person Can Do About Climate Change | Ella Lagé](https://www.youtube.com/watch?v=LRQWXFCaOGs)
   - got involved with 350.org
     - joined a group demanding the the city of Berlin divest from fossil fuels
       - success
   - website http://was-macht-mein-geld.de/
+* [A simple and smart way to fix climate change | Dan Miller](https://www.youtube.com/watch?v=0k2-SzlDGko)
+  - Why climate change can wreck our soul?
+    - Refers to [Svante Arrhenius' 1896 paper on the effect of CO2 on global warming](https://doi.org/10.1080/14786449608620846)
+  - Why do we all ignore it?
+    - We respond to threats that 
+      - are visible
+      - have historic precedence
+      - are immediate
+      - have direct personal impacts
+      - simple causality
+      - caused by an enemy
+    - Climate change does not fit these patterns
+    - But our perception on the matter is changing
+      - while some see it as "simply" an environmental issue, more and more are realizing that this is an issue with economic, social, political, security and other ramifications
+  - How can we fix the disconnect?
+    - "There's a way to do it that almost everybody will like"
+      - Carbon tax
+        - nicely explained
+      - The question is not whether climate legislation will happen but whether it will happen in time before major climate tipping points are reached
 * [The Spring](https://vimeo.com/180467014)
   - inspiring approach to realizing the vision of providing every human with clean drinking water
   - [they use open hardware sensors](https://www.charitywater.org/projects/sensors/)
