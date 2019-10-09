@@ -24,6 +24,26 @@
     - joined a group demanding the the city of Berlin divest from fossil fuels
       - success
   - website http://was-macht-mein-geld.de/
+* [Forget climate Apocalypse. There's hope for our warming planet | Jelmer Mommers](https://www.youtube.com/watch?v=gtu9GHhiK0o)
+  - climate change framed as the problem of visualizing an invisible problem
+  - Focuses on three things
+    - Accuracy of reporting
+    - Humanness
+    - Hopefulness
+  - shows some representations/ visualizations
+    - map of climate change-related food insecurity
+      - as per [Food Security Index](https://foodsecurityindex.eiu.com/)
+    - plot of Western military interventions overlaid on map of borders of deserts, which have caused conflicts throughout history, radicalizing people who then go on to perpetuate conflict
+      - "along with the temperatures, we are turning up the amount of suffering on Earth, ... the volume of existing problems"
+    - plot of prices of solar energy going down
+      - "it's peace energy" (since investing in solar reduces the need for fossil-based energy and thus the contributions to fossil-linked conflicts)
+    - Easter parade in New York City
+      - in 1900: almost all vehicles are horse-drawn carts
+      - in 1913: almost all cars
+      - so change can happen quickly
+  - climate justice
+    - Paris treaty
+    - pressure from the streets
 * [A simple and smart way to fix climate change | Dan Miller](https://www.youtube.com/watch?v=0k2-SzlDGko)
   - Why climate change can wreck our soul?
     - Refers to [Svante Arrhenius' 1896 paper on the effect of CO2 on global warming](https://doi.org/10.1080/14786449608620846)
