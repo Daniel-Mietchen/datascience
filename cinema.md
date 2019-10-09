@@ -45,6 +45,16 @@
       - The question is not whether climate legislation will happen but whether it will happen in time before major climate tipping points are reached
 * [What one skill = an awesome life? | Dr. Shimi Kang](https://www.youtube.com/watch?v=1EHZAQmw2JA)
   - spoiler: Adaptability
+  - mentions three things that humans are not doing that are throwing us off balance
+    - "P.O.D" (she wrote abook on it: "The Dolphin Way")
+      - Play (gives passion)
+        - unstructured, like the Lego of old times, not overprescribed and directed
+      - Others (connecting with them gives purpose)
+        - why do we adapt
+        - social isolation corrodes our bodies
+      - Downtime (gives balance)
+        - rest and relaxation are a key prerequisite to adaptability
+          - essentially, a breakthrough starts with a break
 * [The Spring](https://vimeo.com/180467014)
   - inspiring approach to realizing the vision of providing every human with clean drinking water
   - [they use open hardware sensors](https://www.charitywater.org/projects/sensors/)
