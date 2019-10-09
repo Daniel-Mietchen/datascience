@@ -5,7 +5,7 @@
 
 * [Shell Oil's Stark Climate Change Warning from 1991](https://www.youtube.com/watch?v=vTlYYlRN0LY) &mdash; lays out in useful detail what was known about climate change back then
 * [Inside the mind of a climate change scientist | Corinne Le Quéré](https://www.youtube.com/watch?v=O6f4Q_ReMxA)
-  - "I have a mountain of data on my shoulders" [that tell the stroy of climate change]
+  - "I have a mountain of data on my shoulders" [that tell the story of climate change]
     - engaging story around using data as a basis for getting people to act
 * [Jem Bendell - Deep Adaptation](https://www.youtube.com/watch?v=DAZJtFZZYmM) &mdash; basically a video frontend to a [paper](http://lifeworth.com/deepadaptation.pdf) that asks "What do we do if collapse is coming?", and breaks this down into 
   - Resilience &mdash; things we absolutely do not want to let go, i.e. our core values
