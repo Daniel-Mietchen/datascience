@@ -108,6 +108,12 @@
    * about how to link patient data to patient's course of action, with thoughts on redesigning the forms that are used to convey the result of clinical diagnostics to patients
 * [Atheism 2.0 | Alain de Botton](https://www.youtube.com/watch?v=2Oe6HUgrRlQ)
   - looks at aspects of religions that atheists can learn from to enrich their lives, e.g. around arts, education, travel
+* [Five dangerous things every school should do | Gever Tulley](https://www.youtube.com/watch?v=oyWA3p4aVHM)
+  - Let kids co-design their education
+  - Trust the kids
+  - The default answer to "Can I"/ "Am I allowed to" questions should be yes
+  - Focus on habits and character instead of test scores
+  - Let's agree that Everything is interesting
 * [Isaac Kohane : How can every clinical visit be used to advance medical science?](https://www.youtube.com/watch?v=P5O66e8r2QM)
    * starts with a nice analogy to hurrikane information, where available satellite and other data is integrated in almost real time into predictive models that clearly lay out the options people will be facing as a result. Why don't we integrate patient data with people's lifes in the same way?
 * [Peter Chiarelli: Accelerating open science and the urgency to act now](https://www.youtube.com/watch?v=Xz4xa0m1u5o)
