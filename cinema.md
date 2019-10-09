@@ -4,11 +4,14 @@
 # Watched
 
 * [Shell Oil's Stark Climate Change Warning from 1991](https://www.youtube.com/watch?v=vTlYYlRN0LY) &mdash; lays out in useful detail what was known about climate change back then
-* [This country isn't just carbon neutral — it's carbon negative | Tshering Tobgay](https://www.youtube.com/watch?v=7Lc_dlVrg5M) &mdash; about Bhutan's [Gross National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness) policy and how it can inspire effective measures towards sustainability and climate justice, both in their country and around the world
+* [Inside the mind of a climate change scientist | Corinne Le Quéré](https://www.youtube.com/watch?v=O6f4Q_ReMxA)
+  - "I have a mountain of data on my shoulders" [that tell the stroy of climate change]
+    - engaging story around using data as a basis for getting people to act
 * [Jem Bendell - Deep Adaptation](https://www.youtube.com/watch?v=DAZJtFZZYmM) &mdash; basically a video frontend to a [paper](http://lifeworth.com/deepadaptation.pdf) that asks "What do we do if collapse is coming?", and breaks this down into 
   - Resilience &mdash; things we absolutely do not want to let go, i.e. our core values
   - Relinquishment &mdash; things we absolutely need to let go
   - Restauration &mdash; things that we may have lost and that are worth getting back into our lives
+* [This country isn't just carbon neutral — it's carbon negative | Tshering Tobgay](https://www.youtube.com/watch?v=7Lc_dlVrg5M) &mdash; about Bhutan's [Gross National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness) policy and how it can inspire effective measures towards sustainability and climate justice, both in their country and around the world
 * [Sustainable Investing: What you didn't know could make you money. | Karina Funk | TEDxWilmington](https://www.youtube.com/watch?v=fno1QIuA6EQ)
   - makes the case that profits and environment need not be as much at odds as they are often pereceived to be
   - she highlights what she called "environmental business advantage", i.e. some business advantage gained from reducing the environmental footprint of the company
