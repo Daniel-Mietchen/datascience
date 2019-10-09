@@ -43,6 +43,12 @@
       - Carbon tax
         - nicely explained
       - The question is not whether climate legislation will happen but whether it will happen in time before major climate tipping points are reached
+* [Why the majority is always wrong | Paul Rulkens](https://www.youtube.com/watch?v=VNGFep6rncY)
+  - intro story about Einstein being challenged about using the same questions in an exam as he did the year before, to which he is reported to have replied
+    - > "The questions are the same, but the answers have changed."
+  - about thinking inside/ outside of boxes bound by norms and standards
+    - breakthroughs happen when those standards are put in question and reframed, reversed or done away with
+  - nice use of a flipchart
 * [What one skill = an awesome life? | Dr. Shimi Kang](https://www.youtube.com/watch?v=1EHZAQmw2JA)
   - spoiler: Adaptability
   - mentions three things that humans are not doing that are throwing us off balance
