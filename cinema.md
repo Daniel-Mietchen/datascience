@@ -43,6 +43,8 @@
       - Carbon tax
         - nicely explained
       - The question is not whether climate legislation will happen but whether it will happen in time before major climate tipping points are reached
+* [What one skill = an awesome life? | Dr. Shimi Kang](https://www.youtube.com/watch?v=1EHZAQmw2JA)
+  - spoiler: Adaptability
 * [The Spring](https://vimeo.com/180467014)
   - inspiring approach to realizing the vision of providing every human with clean drinking water
   - [they use open hardware sensors](https://www.charitywater.org/projects/sensors/)
