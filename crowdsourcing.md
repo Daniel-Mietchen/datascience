@@ -160,3 +160,5 @@ This file collects information on crowdsourcing in relation to research, especia
   - negative example: http://www.data-rescue-at-home.org/ 
 * [frogwatching - charting climate change’s impact in the here and now ](https://theconversation.com/friday-essay-frogwatching-charting-climate-changes-impact-in-the-here-and-now-98161)
 * [Das Leben als Labor: Wissen? Schaffen Wissenschaftler. Bisher. Neuerdings beteiligen sich Millionen Laien an Forschungsprojekten. Über Theorie und Praxis der Citizen Science.](https://www.brandeins.de/magazine/brand-eins-thema/innovation-2019/citizen-science-das-leben-als-labor)
+* [Open Fire Map](http://openfiremap.org/?zoom=17&lat=46.94822&lon=7.43676&layers=B0000T)
+* [WheelMap](https://wheelmap.org/search)
