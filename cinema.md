@@ -339,6 +339,9 @@
 * [The success of nonviolent civil resistance: Erica Chenoweth](https://www.youtube.com/watch?v=YJSehRlU34w)
   - [background info](https://rationalinsurgent.com/2013/11/04/my-talk-at-tedxboulder-civil-resistance-and-the-3-5-rule/)
   - in the media: [BBC: The '3.5% Rule': How a Small Minority Can Change the World](http://www.bbc.com/future/story/20190513-it-only-takes-35-of-people-to-change-the-world)
+* Two collections of movies recommended by the Australian Red Cross: 
+  - [13 must-see movies that will change the way you see the world ](https://www.redcross.org.au/news-and-media/news/13-must-see-movies)
+  - [Movies to change the way you see the world, part 2 ](https://www.redcross.org.au/news-and-media/news/part-2-movies-to-change-the-way-you-see-the-world?utm_medium=email&utm_campaign=20191003_gen_everyday-newsletter_individuals_always-on&utm_content=20191003_gen_everyday-newsletter_individuals_always-on+Version+A+CID_cbccb559b871e1ad7a54e8e5aa1099b5&utm_source=campaignmonitor&utm_term=SHOW%20ME%20THE%20LIST&utm_medium=email&utm_campaign=20191003_gen_everyday-newsletter_individuals_always-on&utm_content=20191003_gen_everyday-newsletter_individuals_always-on+CID_cbccb559b871e1ad7a54e8e5aa1099b5&utm_source=campaignmonitor&utm_term=17%20more%20movies)
 * [Sir Tim Berners-Lee: Turing Lecture, May 29, 2018](https://www.youtube.com/watch?v=BaMa4u4Fio4)
   - seen via https://twitter.com/emcandre/status/1034778050758692869
   - ["[the web] shouldn't just be designed for finished articles"](https://www.youtube.com/watch?v=BaMa4u4Fio4#t=30m33s)
