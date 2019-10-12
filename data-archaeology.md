@@ -67,3 +67,5 @@ Here, I will be using the term in a broader sense of *recovering data from natur
 * Wikipedia's [History of discoveries](https://en.wikipedia.org/wiki/History_of_discoveries)
 * [Some witchy history and a very smart woman in data science](https://ammienoot.com/brain-fluff/some-witchy-history-and-a-very-smart-woman-in-data-science/) &mdash; seen via https://twitter.com/ammienoot/status/1176248290754605057
 * [2,000-year-old Herculaneum Scrolls from Institut de France studied at Diamond Light Source](https://www.eurekalert.org/pub_releases/2019-10/dls-2hs100219.php)
+* [Mapping Connectivity Damage in the Case of Phineas Gage](https://doi.org/10.1371/journal.pone.0037454)
+  - e.g. https://commons.wikimedia.org/wiki/File:Mapping-Connectivity-Damage-in-the-Case-of-Phineas-Gage-pone.0037454.s007.ogv
