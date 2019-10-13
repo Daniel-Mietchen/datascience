@@ -702,3 +702,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Being the Change: Live Well and Spark a Climate Revolution](https://peterkalmus.net/books/)
 * [Paleo-Indians in Virginia](http://www.virginiaplaces.org/nativeamerican/paleoindians.html)
 * [Flash Drives for Freedom](https://flashdrivesforfreedom.org/) &mdash; USB sticks for North Korea
+* [An AI learned to play hide-and-seek. The strategies it came up with on its own were astounding.](https://www.vox.com/future-perfect/2019/9/20/20872672/ai-learn-play-hide-and-seek)
