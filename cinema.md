@@ -352,6 +352,7 @@
 * [Aufstand oder Aussterben? Die Bewegung "Extinction Rebellion"](https://www.youtube.com/watch?v=eopJw91cxL0)
 * [Lessons from Oak Ridge National Laboratory by Syd Ball, ORNL at Thorium Energy Conference 2018](https://www.youtube.com/watch?v=lPYKRH7Ijtw)
 * [Lernen sichtbar machen](https://www.youtube.com/watch?v=dnftZiBjPDs) &mdash; critical appraisal of John Hattie's [Visible Learning](https://en.wikipedia.org/wiki/Visible_Learning)
+* [Strands of the modern semantic web: schema.org, Wikidata, and the Knowledge Graph](https://www.youtube.com/watch?v=UzyIlAXOAP8)
 * [Wikimania 2016, Hackathon: Running bots and executive code on labs with just a web terminal (PAWS)](https://www.youtube.com/watch?v=70oYKPaGuMc)
 * [Who Says Science has Nothing to Say About Morality?](https://www.youtube.com/watch?v=Mm2Jrr0tRXk)
 * [Wikidata Turns 6: A Special Interview with Denny Vrandečić](https://www.youtube.com/watch?v=VdAc0JReVSw)
