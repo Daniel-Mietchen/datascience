@@ -79,7 +79,7 @@
       - Play (gives passion)
         - unstructured, like the Lego of old times, not overprescribed and directed
       - Others (connecting with them gives purpose)
-        - why do we adapt
+        - why do we adapt?
         - social isolation corrodes our bodies
       - Downtime (gives balance)
         - rest and relaxation are a key prerequisite to adaptability
@@ -197,6 +197,8 @@
   * some good examples, e.g. Keith Jarrett's [The Köln Concert](https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert)
 * [Ramesh Raskar on Camera Culture and mental framework for innovation](http://www.tedxbeaconstreet.com/ramesh-raskar/)
   * I actually watched several of his talks &mdash; this one is just a good overview
+* [Is our climate headed for a mathematical tipping point? - Victor J. Donnay](https://www.youtube.com/watch?v=EoYSToa2Yfw)
+  - kid-friendly explanation of the concept behind the term "climate tipping point"
 * [Manu Prakash on Foldscope](https://www.youtube.com/watch?v=h8cF5QPPmWU)
   * nice [collection of images taken with Foldscope](https://microcosmos.foldscope.com/) 
 * [Thomas Suarez: A 12-year-old app developer](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
