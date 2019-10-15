@@ -1,6 +1,6 @@
 # About
 
-This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. Most of these I have read already but typically under circumstances (e.g. offline on a train) that did not provide me with an opportunity to properly include them here. The plan is thus to spend an entire day every now and then on sorting and reading  through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
+This file hosts metadata about or links to resources that seem relevant for activities covered by this repo, but that have not been incorporated in any of the more specific files yet. Most of these I have read already but typically under circumstances that did not provide me with an opportunity to properly include them here. The plan is thus to spend an entire day every now and then on sorting and reading  through these resources and putting them into context, be it in one of the more thematically focused files in this repository or elsewhere.
 
 # List
 * [What should a modern scientific infrastructure look like?](http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/)
@@ -309,6 +309,8 @@ This file hosts metadata about or links to resources that seem relevant for acti
 * [The day when science is truly open](http://www.euroscientist.com/the-day-when-science-is-truly-open/)
 * [Critical appraisal guidelines for assessing the quality and impact of user involvement in research](http://dx.doi.org/10.1111/j.1369-7625.2010.00607.x)
 * [The Data Harvest Report – sharing data for knowledge, jobs and growth](https://rd-alliance.org/data-harvest-report-sharing-data-knowledge-jobs-and-growth.html)
+* [Open Scholarship and the need for collective action](http://repository.jisc.ac.uk/7542/2/Open_Scholarship_and_the_need_for_collective_action_Oct_2019.pdf)
+  - seen [here](https://twitter.com/knowexchange/status/1184022850165862400)
 
 # Services
 * [HUGO Gene Nomenclature Committee](http://www.genenames.org/)
