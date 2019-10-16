@@ -131,6 +131,10 @@
   - basically the same recommendation but told in a slightly different fashion: [Can we build AI without losing control over it? | Sam Harris](https://www.youtube.com/watch?v=8nt3edWLgIg)
 * [How to take a picture of a black hole | Katie Bouman](https://www.youtube.com/watch?v=BIvezCVcsYs)
   - with lots of examples regarding how to integrate data of different kinds across sources, scales and assumptions
+* [How to create a better research poster in less time (including templates)](https://www.youtube.com/watch?v=1RwJbhkCA58)
+  - proposes a new approach to designing an academic poster
+  - I pinged the presenter about participation in his [study](https://www.youtube.com/watch?v=1RwJbhkCA58#t=19m)
+  - He also has a manifesto [Let's Make Science User-Friendly](https://www.youtube.com/watch?v=WBjhxjWDiHw)
 * [A free world needs satire | Patrick Chappatte](https://www.youtube.com/watch?v=MIGtyaVb2Xc)
   - numerous good examples of how caricature nails certain conversations, and how antidemocratic measures make caricature suffer
 * [A new way to remove CO2 from the atmosphere | Jennifer Wilcox](https://www.youtube.com/watch?v=XY_lzonfE3I)
