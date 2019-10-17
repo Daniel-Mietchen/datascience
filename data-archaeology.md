@@ -69,3 +69,4 @@ Here, I will be using the term in a broader sense of *recovering data from natur
 * [2,000-year-old Herculaneum Scrolls from Institut de France studied at Diamond Light Source](https://www.eurekalert.org/pub_releases/2019-10/dls-2hs100219.php)
 * [Mapping Connectivity Damage in the Case of Phineas Gage](https://doi.org/10.1371/journal.pone.0037454)
   - e.g. https://commons.wikimedia.org/wiki/File:Mapping-Connectivity-Damage-in-the-Case-of-Phineas-Gage-pone.0037454.s007.ogv
+* [Finding Extinction Where You Least Expect It – In the Special Collections Library](https://news.virginia.edu/content/finding-extinction-where-you-least-expect-it-special-collections-library)
