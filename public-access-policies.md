@@ -107,3 +107,4 @@ surprising discoveries and creative insights"](http://openscience.fi/documents/1
 * [The state of Open Science in the Nordic countries](https://wiki.neic.no/w/ext/img_auth.php/5/55/The_state_of_open_science_in_the_Nordic_countries_Single.pdf)
 * [Policy harmonization (or the lack thereof)](https://twitter.com/MsStephKayB/status/1064240482107047937)
 * [Request for pointers to lists of policies](https://twitter.com/EvoMRI/status/1132421453448667137)
+* [Open-Access-Strategie des Landes Brandenburg](https://doi.org/10.5281/zenodo.2581782) (Open Access Strategy of the German State of Brandenburg; CC0-licensed)
