@@ -707,3 +707,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [Paleo-Indians in Virginia](http://www.virginiaplaces.org/nativeamerican/paleoindians.html)
 * [Flash Drives for Freedom](https://flashdrivesforfreedom.org/) &mdash; USB sticks for North Korea
 * [An AI learned to play hide-and-seek. The strategies it came up with on its own were astounding.](https://www.vox.com/future-perfect/2019/9/20/20872672/ai-learn-play-hide-and-seek)
+* [Computer Science Could Learn A Lot From Library And Information Science](http://web.archive.org/web/20191020085447/https://www.forbes.com/sites/kalevleetaru/2019/08/05/computer-science-could-learn-a-lot-from-library-and-information-science/)
