@@ -167,6 +167,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * an interactive people map of the USA, where city names are replaced by their most Wikipedia'ed resident
   - [intro tweet](https://twitter.com/puddingviz/status/1133751142721163269)
   - [visualization](https://pudding.cool/2019/05/people-map/)
+* [Carbon budget calculator](https://carbonbudgetcalculator.com/country.html)
   
 ## Visualization tools
 
