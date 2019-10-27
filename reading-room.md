@@ -715,3 +715,10 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
     - [early draft](https://jevinwest.org/papers/Kim2017asa.pdf)
 * [How well known are different FAIR initiatives amongst researchers?](https://twitter.com/garethcmurphy/status/1187781144747622400)    
 * [Machine Learning Infrastructure: Build vs. Buy vs. Open-Source](https://blog.verta.ai/blog/ml-infrastructure-build-vs-buy-vs-open-source)
+* Data champions
+  - https://twitter.com/hashtag/DataChampions
+  - https://openworking.wordpress.com/data-champions/
+    - https://openworking.wordpress.com/2019/07/03/reduce-reuse-recycle-knowledge-how-open-hardware-can-help-to-build-a-more-sustainable-future/
+    - [How to start a community of Data Champions?](https://doi.org/10.5281/zenodo.3510137)
+      - [Promoting the work of the Data Champions Poster](http://doi.org/10.5281/zenodo.3519499)
+  - https://www.data.cam.ac.uk/intro-data-champions
