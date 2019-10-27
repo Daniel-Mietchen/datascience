@@ -714,3 +714,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
       - discusses impact of search engine features on citation patterns
     - [early draft](https://jevinwest.org/papers/Kim2017asa.pdf)
 * [How well known are different FAIR initiatives amongst researchers?](https://twitter.com/garethcmurphy/status/1187781144747622400)    
+* [Machine Learning Infrastructure: Build vs. Buy vs. Open-Source](https://blog.verta.ai/blog/ml-infrastructure-build-vs-buy-vs-open-source)
