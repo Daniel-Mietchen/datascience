@@ -98,3 +98,4 @@ This file hosts information regarding data management plans and how they could b
     - [SIMPATICO: D1.3 - Data management plan v.1](https://ec.europa.eu/futurium/en/content/d13-data-management-plan-v1)
 * [Policy Models](http://dvnweb-vm1.hmdc.harvard.edu/) &mdash; a prototype tool for creating formal models of policies
 * Swiss National Science Fund (SNF) [Data Management Plan (DMP) - Guidelines for researchers](http://www.snf.ch/en/theSNSF/research-policies/open_research_data/Pages/data-management-plan-dmp-guidelines-for-researchers.aspx)
+* Outreach via coffee table: [Aalto University's Data Management team offers reviewing DMPs](https://twitter.com/adivea/status/1188038207201595393)
