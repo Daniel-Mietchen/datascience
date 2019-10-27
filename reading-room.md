@@ -531,6 +531,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
     - with comments on modeling the incentive landscape
   * ["academia has some perverse incentives structures that we would never have intentionally built into science as a process."](https://socialbat.org/2015/08/12/goals-of-science-vs-goals-of-scientists-a-love-letter-for-plos-one/)
   * [Open Practice Badges in Psychological Science: 18 Months On](http://www.psychologicalscience.org/index.php/publications/observer/obsonline/open-practice-badges-in-psychological-science-18-months-out.html)
+   * [Open Library Badges](https://badge.openbiblio.eu/)
   * [incentives for increasing the use of bicycles](https://nowtoronto.com/news/biko-app-gets-you-free-stuff-every-time-you-bike-in-toronto/)
   * [The Code of Hammurabi: The Best Rule To Manage Risk](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) &dash; on how to align incentives across stakeholders
   * [Synoptic view of the approaches to incentivising and rewarding Open Science activities based on key Open Science principles: Respect for diversity, Collaboration, Accountability, Transparency, Social responsibility and engagement, Fairness, and Impact](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/31337/MLE%20OS_4th%20thematic%20report.pdf)
