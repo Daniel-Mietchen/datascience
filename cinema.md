@@ -240,6 +240,7 @@
   * [summary tweet](https://twitter.com/EvoMRI/status/772090639131545601)
 * [Audrey Tang: Stories from the Future of Democracy](https://www.youtube.com/watch?v=mxMxg4ct-D8) 
   * open data as a key principle in the government of Taiwan
+* [Billionaire Mathematician - Numberphile](https://www.youtube.com/watch?v=gjVDqfUhXOY) &mdash; shortened version of a 1h interview with James Harris Simons about his mathematical research, his entrepreneurship and his philanthropy
 * [Back to the thesis: Francis Collins](https://www.youtube.com/watch?v=e3QAWyGW1DY) 
   * useful
   * great illustrations
