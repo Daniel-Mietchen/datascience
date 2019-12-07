@@ -42,7 +42,6 @@ This file hosts metadata about or links to resources that seem relevant for acti
 
 > We propose that the success of iSpot arises from the structure of its social network that efficiently connects beginners and experts, overcoming the social as well as geographic barriers that normally separate the two. 
 
-* [Nice thread by Michael Nielsen on the history of open science](https://threadreaderapp.com/thread/1197254585339002881.html)
 * [Is there a library-sized hole in the internet?](http://www.researchinformation.info/news/news_story.php?news_id=1847)
 * [Refining the brightest and best new ideas in research data management](http://www.researchinformation.info/news/news_story.php?news_id=1863&task=delete)
 * [Professor uses data gathered from squirrels to make music](http://news.psu.edu/story/348178/2015/03/16/research/professor-uses-data-gathered-squirrels-make-music)
@@ -724,3 +723,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
     - [How to start a community of Data Champions?](https://doi.org/10.5281/zenodo.3510137)
       - [Promoting the work of the Data Champions Poster](http://doi.org/10.5281/zenodo.3519499)
   - https://www.data.cam.ac.uk/intro-data-champions
+* [Nice thread by Michael Nielsen on the history of open science](https://threadreaderapp.com/thread/1197254585339002881.html)
