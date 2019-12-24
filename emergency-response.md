@@ -64,6 +64,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [An Ebola Outbreak Has Just Been Stopped. Here’s What It Tells Us About Containing Epidemics.](https://hbr.org/2018/07/an-ebola-outbreak-has-just-been-stopped-heres-what-it-tells-us-about-containing-epidemics)
 * [Ebola virus sequencing resources](http://artic.network/ebov/) &mdash; seen [here](https://twitter.com/arambaut/status/1004038266167943170)
 * [Data Sharing in Public Health Emergencies: Anthropological and Historical Perspectives on Data Sharing during the 2014-2016 Ebola Epidemic and the 2016 Yellow Fever Epidemic (report from 26 November 2018)](http://www.glopid-r.org/wp-content/uploads/2019/07/data-sharing-in-public-health-emergencies-yellow-fever-and-ebola.pdf)
+* [WHO consultation on Data and Results Sharing During Public Health Emergencies: Background Briefing](https://www.who.int/medicines/ebola-treatment/background_briefing_on_data_results_sharing_during_phes.pdf)
 
 ## [Zika virus outbreak in the Americas (2015–present)](https://en.wikipedia.org/wiki/Zika_virus_outbreak_in_the_Americas_%282015%E2%80%93present%29)
 * [Creating a rapid response – relevant to Zika virus](http://www.collabchem.com/2016/01/26/creating-a-rapid-response-relevant-to-zika-virus/)
