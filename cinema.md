@@ -188,6 +188,9 @@
   * [on Wikipedia](https://en.wikipedia.org/wiki/Computer_Networks:_The_Heralds_of_Resource_Sharing)
 * [How many trees in the world?](https://www.youtube.com/watch?v=jqdOkXQngw8)
   * provides an estimated number and some background on how it was arrived at, nicely visualized
+* [Why it's so hard to make healthy decisions | David Asch](https://www.youtube.com/watch?v=PI5V1-IFvlI)
+  * highlights how behavioral economics can help improve behavior
+  * with side notes on the role of Batman in the introduction of seatbelts in America
 * [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
   * introduces the Web annotation tool [Hypothes.is](https://hypothes.is/) as an element of human cultural evolution
 * [Tess Posner, AI4ALL Diverse and Inclusive AI - H2O World San Francisco](https://www.youtube.com/watch?v=5pIsLg7Ga_w)
