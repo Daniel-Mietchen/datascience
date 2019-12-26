@@ -200,18 +200,19 @@
     - evolution of the universe
     - biological evolution
     - evolution of human culture
+      - speaks of a "color palette" of life which we can use to paint our own lives and to which we can add new colours (e.g. for the piano)
 * [How to know your life purpose in 5 minutes | Adam Leipzig](https://www.youtube.com/watch?v=vVsXO9brK7M)
   - distills it to answering five questions, which he demoes in the talk and has people shout their responses (I did not shout, but am penciling in my responses)
     - Who are you (just first name)?
       - [Q20895785](https://www.wikidata.org/wiki/Q20895785)
         - Comment: even though I am using my real name essentially everywhere on the web where this is an option, I have multiple names in multiple contexts, e.g. in different languages, and while unique identifiers like an ORCID ID or a Wikidata QID can map all of these in principle, there are some that I do not want to mix too much in public.
         - another way to explore some aspects of who I am is to plunge into some of the [recordings of some of my activities](https://github.com/Daniel-Mietchen/events/blob/master/recordings.md)
-    - What is the best thing that you feel uniquely qualify to teach?
+    - What is the best thing that you feel uniquely qualified to teach?
       - open collaboration
     - Who do you do it for?
       - current and future generations
     - What do these people want or need?
-      - a fair chance to paint their lives in a full color palette (cf. [Everything is Connected -- Here's How: | Tom Chi](https://www.youtube.com/watch?v=rPh3c8Sa37M) above)
+      - a fair chance to live their lives to the fullest, without compromising the chances of current or future generations to do the same
     - How do these people change as a result of your activities?
       - become more collaborative themselves, both in the present and with past or future generations, as well as with other species and technology
 * [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
