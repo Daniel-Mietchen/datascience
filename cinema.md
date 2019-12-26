@@ -358,6 +358,7 @@
   - ["if you spend 98% of your life using the web, you may have to spend 2% of your life defending it"](https://www.youtube.com/watch?v=BaMa4u4Fio4#t=39m48s)
 * [The transformative power of classical music | Benjamin Zander](https://www.youtube.com/watch?v=r9LCwI5iErE)
 * [Aufstand oder Aussterben? Die Bewegung "Extinction Rebellion"](https://www.youtube.com/watch?v=eopJw91cxL0)
+* [We are all connected with nature: Nixiwaka Yawanawa](https://www.youtube.com/watch?v=xk0-yebNA_o) &mdash; an indigenous perspective from Brazil
 * [Lessons from Oak Ridge National Laboratory by Syd Ball, ORNL at Thorium Energy Conference 2018](https://www.youtube.com/watch?v=lPYKRH7Ijtw)
 * [Lernen sichtbar machen](https://www.youtube.com/watch?v=dnftZiBjPDs) &mdash; critical appraisal of John Hattie's [Visible Learning](https://en.wikipedia.org/wiki/Visible_Learning)
 * [Strands of the modern semantic web: schema.org, Wikidata, and the Knowledge Graph](https://www.youtube.com/watch?v=UzyIlAXOAP8)
