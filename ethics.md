@@ -50,6 +50,7 @@ This file collects information about the ethics of data science as well as about
 * [Sören Auer on data sovereignty (Datenhoheit) in the German parliament (Bundestag)](https://www.tib.eu/de/service/aktuelles/detail/tib-direktor-als-experte-zu-kuenstlicher-intelligenz-ki-im-deutschen-bundestag/)
 * [GIDA - The Global Indigenous Data Alliance](https://www.gida-global.org/) &mdash; highlights issues of data sovereignty
 * [International Ethical Guidelines for Health-related Research Involving Humans](https://cioms.ch/wp-content/uploads/2017/01/WEB-CIOMS-EthicalGuidelines.pdf)
-* [Guidance For Managing Ethical IssuesIn Infectious Disease Outbreaks](https://www.who.int/blueprint/what/research-development/guidance_for_managing_ethical_issues.pdf)
+* [Guidance For Managing Ethical Issues In Infectious Disease Outbreaks](https://www.who.int/blueprint/what/research-development/guidance_for_managing_ethical_issues.pdf)
 * [Recovery Toolkit - Supporting countries to achieve health service resilience: A library of tools & resources available during the recoveryperiod of a public health emergency](https://apps.who.int/iris/bitstream/handle/10665/205944/WHO_HIS_SDS_2016.2_eng.pdf)
 * [WHO consultation on Data and Results Sharing During Public Health Emergencies - Background Briefing](https://www.who.int/medicines/ebola-treatment/background_briefing_on_data_results_sharing_during_phes.pdf)
+* [Data Sharing in Public Health Emergencies: Anthropological and Historical PerspectivesonData Sharing during the 2014-2016 Ebola Epidemic and the 2016 Yellow Fever Epidemic](http://www.glopid-r.org/wp-content/uploads/2019/07/data-sharing-in-public-health-emergencies-yellow-fever-and-ebola.pdf)
