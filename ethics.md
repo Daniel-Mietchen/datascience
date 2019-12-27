@@ -49,3 +49,5 @@ This file collects information about the ethics of data science as well as about
 * [Good Data Practices for Indigenous Data Sovereignty](https://nnigovernance.arizona.edu/good-data-practices-indigenous-data-sovereignty)
 * [Sören Auer on data sovereignty (Datenhoheit) in the German parliament (Bundestag)](https://www.tib.eu/de/service/aktuelles/detail/tib-direktor-als-experte-zu-kuenstlicher-intelligenz-ki-im-deutschen-bundestag/)
 * [GIDA - The Global Indigenous Data Alliance](https://www.gida-global.org/) &mdash; highlights issues of data sovereignty
+* [International Ethical Guidelines for Health-related Research Involving Humans](https://cioms.ch/wp-content/uploads/2017/01/WEB-CIOMS-EthicalGuidelines.pdf)
+* [Guidance For Managing Ethical IssuesIn Infectious Disease Outbreaks](https://www.who.int/blueprint/what/research-development/guidance_for_managing_ethical_issues.pdf)
