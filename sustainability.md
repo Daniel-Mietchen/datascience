@@ -146,3 +146,7 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Community control of the electric grid](https://www.ecowatch.com/chicagos-campaign-electricity-public-control-2640437976.html)
 * [Climate Change Communication Award](https://twitter.com/fatbeehive/status/1174966465696395264)
   - [details](https://climateoutreach.org/climate-communication-awards/)
+* Walkable neighbourhoods
+  - [10 min](http://plazaperspective.com/the-10-minute-neighborhood/)
+  - [15 min](https://www.strongtowns.org/journal/2019/9/6/7-rules-for-creating-15-minute-neighborhoods)
+  - [20 min](https://www.ecosia.org/search?q=20+minute+neighbourhood)
