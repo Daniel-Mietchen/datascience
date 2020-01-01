@@ -12,6 +12,11 @@
   - Relinquishment &mdash; things we absolutely need to let go
   - Restauration &mdash; things that we may have lost and that are worth getting back into our lives
 * [This country isn't just carbon neutral — it's carbon negative | Tshering Tobgay](https://www.youtube.com/watch?v=7Lc_dlVrg5M) &mdash; about Bhutan's [Gross National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness) policy and how it can inspire effective measures towards sustainability and climate justice, both in their country and around the world
+* [De klimaatzaak](https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2015-2016/de-klimaatzaak.html)
+  - about [State of the Netherlands v. Urgenda Foundation](https://en.wikipedia.org/wiki/State_of_the_Netherlands_v._Urgenda_Foundation)
+  - broadcast in 2015, with the initial ruling of the district court featured as the highlight, which was uphelp in later instances twice, the latest being by the Dutch Supreme Court in December 2020
+  - remarkably car-centric for a piece on climate change and emissions from fossil fuels
+    - also multiple depictions of single-use plastics and of upper-class lifestyle
 * [Sustainable Investing: What you didn't know could make you money. | Karina Funk | TEDxWilmington](https://www.youtube.com/watch?v=fno1QIuA6EQ)
   - makes the case that profits and environment need not be as much at odds as they are often pereceived to be
   - she highlights what she called "environmental business advantage", i.e. some business advantage gained from reducing the environmental footprint of the company
