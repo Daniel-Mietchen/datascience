@@ -378,6 +378,8 @@
   - watched parts of it via [this Twitter thread](https://twitter.com/Jumpsteady/status/1163718889139818496)
   - see also this paper: [Trajectories of the Earth System in the Anthropocene](https://doi.org/10.1073/pnas.1810141115)
 * [“We Are Striking to Disrupt the System”: An Hour with 16-Year-Old Climate Activist Greta Thunberg](https://www.youtube.com/watch?v=Dgi30Wy_V74)
+* Recordings from Chaos Communication Congresses
+  - e.g. [from 36C3 (2019)](https://github.com/Daniel-Mietchen/events/issues/638#issuecomment-569464433)
 * [The success of nonviolent civil resistance: Erica Chenoweth](https://www.youtube.com/watch?v=YJSehRlU34w)
   - [background info](https://rationalinsurgent.com/2013/11/04/my-talk-at-tedxboulder-civil-resistance-and-the-3-5-rule/)
   - in the media: [BBC: The '3.5% Rule': How a Small Minority Can Change the World](http://www.bbc.com/future/story/20190513-it-only-takes-35-of-people-to-change-the-world)
