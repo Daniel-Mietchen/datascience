@@ -3,6 +3,9 @@
 
 # Watched
 
+* [What we can and need to change to keep climate change low - the scientist view ](https://media.ccc.de/v/36c3-10991-science_for_future)
+  - not the best talk rhetorically, didactically or in terms of slides, but a decent coverage of one of today's key issues
+  - with lots of examples drawn directly from the IPCC reports, to which commentary and contextualization are provided
 * [Shell Oil's Stark Climate Change Warning from 1991](https://www.youtube.com/watch?v=vTlYYlRN0LY) &mdash; lays out in useful detail what was known about climate change back then
 * [Inside the mind of a climate change scientist | Corinne Le Quéré](https://www.youtube.com/watch?v=O6f4Q_ReMxA)
   - "I have a mountain of data on my shoulders" [that tell the story of climate change]
