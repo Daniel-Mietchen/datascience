@@ -150,3 +150,7 @@ This file hosts information regarding sustainability, especially the sustainabil
   - [10 min](http://plazaperspective.com/the-10-minute-neighborhood/)
   - [15 min](https://www.strongtowns.org/journal/2019/9/6/7-rules-for-creating-15-minute-neighborhoods)
   - [20 min](https://www.ecosia.org/search?q=20+minute+neighbourhood)
+* [Advice](https://twitter.com/NationalParkSi/status/1178982354888663040) on what the public sector can do with respect to net zero emissions &mdash; background: [The role of Public Sector Bodies in tackling climate change: A Consultation](https://consult.gov.scot/energy-and-climate-change-directorate/role-of-public-sector-in-decarbonising/)
+  - set a date by which to reach zero emissions (sustainably)
+  - report on how current and planned spending align with emissions reduction targets
+  - make their annual reports publicly accessible (ideally in a FAIR manner)
