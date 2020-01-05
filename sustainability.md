@@ -154,3 +154,4 @@ This file hosts information regarding sustainability, especially the sustainabil
   - set a date by which to reach zero emissions (sustainably)
   - report on how current and planned spending align with emissions reduction targets
   - make their annual reports publicly accessible (ideally in a FAIR manner)
+* [10 basic facts on climate action](https://threadreaderapp.com/thread/1213328993354756096.html)
