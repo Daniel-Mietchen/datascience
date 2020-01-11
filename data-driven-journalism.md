@@ -62,6 +62,7 @@ This file collects information pertaining to ways in which the interaction betwe
 * [Paper: An Argument Structure for Data Stories](https://eagereyes.org/papers/paper-an-argument-structure-for-data-stories)
 * [Most images of black holes are illustrations. Here’s what our telescopes actually capture.
 Soon, we may get to see one up close for the first time.](https://www.vox.com/science-and-health/2018/1/8/16822272/black-hole-looks-like-what)
+* [What’s Going On in This Graph?](https://web.archive.org/web/20190306050925/https://www.nytimes.com/2019/02/21/learning/whats-going-on-in-this-graph-feb-27-2019.html) &mdash; on a scarf knitted based on data about communting delays in Bavaria in 2018
 
 # Engaging visualizations
 
