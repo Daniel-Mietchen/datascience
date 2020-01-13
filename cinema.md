@@ -199,6 +199,18 @@
 * [Why it's so hard to make healthy decisions | David Asch](https://www.youtube.com/watch?v=PI5V1-IFvlI)
   * highlights how behavioral economics can help improve behavior
   * with side notes on the role of Batman in the introduction of seatbelts in America
+* [Programmieren Lernen für Kids - in Minecraft](https://media.ccc.de/v/36c3-104-programmieren-lernen-fr-kids-in-minecraft) (36C3)
+  - instructor created a simplified world in Minecraft that 
+    - has no distractions
+    - does not allow users to do things manually
+    - has a turtle that
+      - can do things
+      - can be remote controlled through programs
+  - uses [MineCraftEdu](https://minecraft.gamepedia.com/Mods/MinecraftEdu), which is not available since 2016
+    - key component is [ComputerCraftEdu](http://computercraftedu.com/), which is still available stand-alone
+    - alternative [Microsoft Education Edition](https://education.minecraft.net) is only available for actual schools, so not for parents or volunteer teachers
+    - [contact info](http://web.archive.org/web/20200113045211/https://forscherkurse-augsburg.de/)
+      - see also [Meet & Code](https://meet-and-code.org/)
 * [Everything is Connected -- Here's How: | Tom Chi](https://www.youtube.com/watch?v=rPh3c8Sa37M)
   - tells three stories
     - heart
