@@ -4,6 +4,7 @@ As more and more of the world's human population is living in urban environments
 
 # Resources
 
+* [Barcelona declares climate emergency](https://www.barcelona.cat/infobarcelona/en/climate-emergency-declared-in-barcelona_902739.html)
 * [Creating a Better Economy with Data Science](https://cities-today.com/city-become-smart-must-adopt-culture-data/)
 * [Cities, not nation states, will determine our future survival. Here's why](https://www.weforum.org/agenda/2017/06/as-nation-states-falter-cities-are-stepping-up)
 * [Using Open Data, a Scientist Is Finding New York City’s Best Stories](http://observer.com/2015/08/using-open-data-a-scientist-is-finding-new-york-citys-best-stories/)
