@@ -5,7 +5,7 @@
 
 * ["The greatest shortcoming of the human race is our inability to understand the exponential function. But this kind of steady growth is the centrepiece of the entire global economy. Who would realise at 5 minutes to 12, that there is a problem? Think about it." — Prof. Al Bartlett](https://twitter.com/Jumpsteady/status/1178918445229981696)
 * ["The only sustainable growth is degrowth"](https://twitter.com/parents4future/status/1206694192740786179)
-  - actually, not &mdash; what we need is a steady-state economy
+  - actually, not &mdash; what we need is a [steady-state economy](https://en.wikipedia.org/wiki/Steady-state_economy)
 * [What we can and need to change to keep climate change low - the scientist view ](https://media.ccc.de/v/36c3-10991-science_for_future)
   - not the best talk rhetorically, didactically or in terms of slides, but a decent coverage of one of today's key issues
   - with lots of examples drawn directly from the IPCC reports, to which commentary and contextualization are provided
