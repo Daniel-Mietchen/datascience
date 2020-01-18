@@ -194,6 +194,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ## [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
 * see details in [Hurricane-Dorian-2019.md](Hurricane-Dorian-2019.md)
 
+## [Novel coronavirus (2019-nCoV)]()
+* see details in [Wuhan-virus-outbreak-2019.md](Wuhan-virus-outbreak-2019.md)
+
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
 * [The @flintwaterstudy team advocates an #OpenScience #citizenscience approach to research](https://twitter.com/joelcreswell/status/780858479858692096)
