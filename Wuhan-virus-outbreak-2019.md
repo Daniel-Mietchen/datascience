@@ -14,11 +14,14 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 # Open questions
 
 * [Was the Huanan seafood market at the epicenter?](https://twitter.com/suilee/status/1217730098494722048)
-  - If so, what there was it?
-    - Which animal was the host from which the virus jumped over?
-    - Which humans were the first to be infected?
-      - Who was in contact with the infected?
-  - If not, then what was?
+  - If so, 
+    - what there was it?
+      - Which animal was the host from which the virus jumped over?
+      - Which humans were the first to be infected?
+        - Who was in contact with the infected?
+    - When was it?
+      - [“Doctors began seeing a new type of viral pneumonia—fever, cough, difficulty breathing — in people who worked at or visited a food market in the suburbs of Wuhan late last month."](https://twitter.com/JamarlinMartin/status/1218396568488988672) (i.e. in December 2019)
+  - If not, then what was? 
 * [How does the virus spread?](https://twitter.com/suilee/status/1217730098494722048)
   - Can it be transmitted from human to human?
   - Can it be transmitted sexually?
