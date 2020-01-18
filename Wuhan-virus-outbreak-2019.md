@@ -11,6 +11,20 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * reusing http://virological.org/
 
+# Open questions
+
+* [Was the Huanan seafood market at the epicenter?](https://twitter.com/suilee/status/1217730098494722048)
+  - If so, what there was it?
+    - Which animal was the host from which the virus jumped over?
+    - Which humans were the first to be infected?
+      - Who was in contact with the infected?
+  - If not, then what was?
+* [How does the virus spread?](https://twitter.com/suilee/status/1217730098494722048)
+  - Can it be transmitted from human to human?
+  - Can it be transmitted sexually?
+  - Can it be transmitted vertically, leading to congenital infection?
+
+
 # Freedom of Press
 
 * https://twitter.com/HongKongFP/status/1216974257386733569
@@ -32,7 +46,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * data integration of disease vulnerability and air traffic
   * https://twitter.com/donal_bisanzio/status/1218190352848474119
 
-
 ## Scholia
 
 * https://tools.wmflabs.org/scholia/topic/Q82069695
+
