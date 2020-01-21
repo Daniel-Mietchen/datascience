@@ -130,6 +130,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * [OpenStreetMap response](http://blog.okfn.org/2010/01/15/open-street-map-community-responds-to-haiti-crisis/)
 * [Crisis camp](https://en.wikipedia.org/wiki/Crisis_camp)
 * [Random Hacks of Kindness](https://en.wikipedia.org/wiki/Random_Hacks_of_Kindness)
+* Besides the earthquake, the year 2010 was remarkable because it also spotted the highest precipitation in 50 years, as well as a very hot summer, both of which contributed to the Cholera outbreak, as per [https://www.eventbrite.com/e/building-bridges-lecture-oceans-climate-and-human-health-tickets-86187957501 Rita Colwell].
 
 ## [2011 Christchurch earthquake](https://en.wikipedia.org/wiki/2011_Christchurch_earthquake)
 * [Christchurch Recovery Map](https://en.wikipedia.org/wiki/Christchurch_Recovery_Map) through Ushahidi
