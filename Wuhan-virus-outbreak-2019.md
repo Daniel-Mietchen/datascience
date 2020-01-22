@@ -29,9 +29,17 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - Can it be transmitted vertically, leading to congenital infection?
 * Some more questions [here](https://twitter.com/voxdotcom/status/1219937802386886656)
 
-# Freedom of Press
+# Political aspects
+
+## Public Health Emergency of International Concern
+
+- meeting on Jan 22
+- decision postponed to Jan 23
+
+## Freedom of Press
 
 * https://twitter.com/HongKongFP/status/1216974257386733569
+* https://twitter.com/nytimes/status/1220059835644944384
 
 # Data aspects
 
@@ -45,10 +53,12 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [MRC Report estimating the number of cases](https://twitter.com/MRC_Outbreak/status/1218181597830221824)
   * summed up in https://twitter.com/seeshawn/status/1218210470777237504
 
-## Potential spread
+## Spread
 
 * data integration of disease vulnerability and air traffic
   * https://twitter.com/donal_bisanzio/status/1218190352848474119
+* [Mapping of cases so far](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+  - via https://twitter.com/TexasDownUnder/status/1220014483516592129
 
 ## Scholia
 
