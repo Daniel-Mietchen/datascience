@@ -24,9 +24,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - If not, then what was? 
 * [How does the virus spread?](https://twitter.com/suilee/status/1217730098494722048)
   - Can it be transmitted from human to human?
+    - apparently yes
   - Can it be transmitted sexually?
   - Can it be transmitted vertically, leading to congenital infection?
-
+* Some more questions [here](https://twitter.com/voxdotcom/status/1219937802386886656)
 
 # Freedom of Press
 
