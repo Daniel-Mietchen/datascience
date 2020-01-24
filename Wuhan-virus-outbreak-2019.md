@@ -29,6 +29,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - Can it be transmitted vertically, leading to congenital infection?
 * Some more questions [here](https://twitter.com/voxdotcom/status/1219937802386886656)
 * [WHO chief does not declare a public health emergency](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus) (part ii)
+* [Are snakes a natural reservoir?](https://www.kbcchannel.tv/2020/01/24/no-the-wuhan-virus-is-now-not-a-snake-flu/) &mdash; misinformation and responsibility around data sharing
 
 # Political aspects
 
