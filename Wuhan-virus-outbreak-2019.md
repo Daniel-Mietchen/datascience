@@ -37,10 +37,11 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 - meeting on Jan 22
 - decision postponed to Jan 23
 
-## Freedom of Press
+## Freedom of Information / Freedom of Press
 
 * https://twitter.com/HongKongFP/status/1216974257386733569
 * https://twitter.com/nytimes/status/1220059835644944384
+* https://twitter.com/danhaddock3/status/1220718365943091200
 
 # Data aspects
 
