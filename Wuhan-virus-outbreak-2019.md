@@ -62,6 +62,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   * https://twitter.com/donal_bisanzio/status/1218190352848474119
 * [Mapping of cases so far](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
   - via https://twitter.com/TexasDownUnder/status/1220014483516592129
+* Virginia cases
+  - [overview](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
 
 ## Scholia
 
