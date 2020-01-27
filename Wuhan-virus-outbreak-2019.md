@@ -53,6 +53,14 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [Chinese researchers reveal draft genome of virus implicated in Wuhan pneumonia outbreak](https://doi.org/10.1126/science.aba8829)
   * With comments &mdash; including [by Jeremy Farrar](https://twitter.com/JeremyFarrar/status/1215913768670068736) &mdash; on data sharing and (the lack of) attribution
 
+## Publishing
+
+* https://twitter.com/JeremyFarrar/status/1221477164115275777
+
+## Protein structure data
+
+* https://twitter.com/tsrabbit3/status/1221464975761297409
+
 ## Number of cases
 
 * [MRC Report estimating the number of cases](https://twitter.com/MRC_Outbreak/status/1218181597830221824)
