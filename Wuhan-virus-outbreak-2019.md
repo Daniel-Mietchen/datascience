@@ -93,9 +93,15 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * https://tools.wmflabs.org/scholia/topic/Q82069695
 
+## Mask shortage
+
+* https://twitter.com/Jhonny_hidu/status/1222023746371780609
+* https://twitter.com/FLAHAULT/status/1221387863054606337
+
 # Timeline
 
 * [Here’s a Timeline of How China’s Viral Outbreak Spread Worldwide](https://futurism.com/neoscope/timeline-china-viral-outbreak-spread-worldwide) (as of January 24, 2020)
 - Situation reports by 
   - [WHO](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200126-sitrep-6-2019--ncov.pdf?sfvrsn=beaeee0c_4)
   - [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
+
