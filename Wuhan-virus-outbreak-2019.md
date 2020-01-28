@@ -62,6 +62,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * [https://nextstrain.org/ncov](https://nextstrain.org/ncov)
   - based on GISAID data
+* [Preliminary phylogenetic analysis of 11 nCoV2019 genomes, 2020-01-19 ](http://virological.org/t/preliminary-phylogenetic-analysis-of-11-ncov2019-genomes-2020-01-19/329)
 
 ## Publishing
 
@@ -94,3 +95,6 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 # Timeline
 
 * [Here’s a Timeline of How China’s Viral Outbreak Spread Worldwide](https://futurism.com/neoscope/timeline-china-viral-outbreak-spread-worldwide) (as of January 24, 2020)
+- Situation reports by 
+  - [WHO](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200126-sitrep-6-2019--ncov.pdf?sfvrsn=beaeee0c_4)
+  - [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
