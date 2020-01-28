@@ -77,6 +77,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - via https://twitter.com/TexasDownUnder/status/1220014483516592129
 * Virginia cases
   - [overview](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
+* [German case](https://www.stmgp.bayern.de/presse/bestaetigter-coronavirus-fall-in-bayern-infektionsschutzmassnahmen-laufen/)
 * [Map of destinations from Wuhan Tianhe International Airport](https://w.wiki/GDz)
 
 ## Scholia
