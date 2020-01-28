@@ -55,6 +55,12 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [Pre-release tweet by WHO](https://twitter.com/WHO/status/1216108498188230657)
 * [Chinese researchers reveal draft genome of virus implicated in Wuhan pneumonia outbreak](https://doi.org/10.1126/science.aba8829)
   * With comments &mdash; including [by Jeremy Farrar](https://twitter.com/JeremyFarrar/status/1215913768670068736) &mdash; on data sharing and (the lack of) attribution
+* GISAID collects sequence data and makes it available to registered users under https://gisaid.org/CoV2020
+
+## Phylogenetics
+
+* [https://nextstrain.org/ncov](https://nextstrain.org/ncov)
+  - based on GISAID data
 
 ## Publishing
 
