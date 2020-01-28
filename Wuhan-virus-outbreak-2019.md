@@ -48,6 +48,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/SalahidinU1/status/1221623656171917314
 * https://twitter.com/asianpocunite/status/1221566767161626630
 * https://www.spiegel.de/wissenschaft/mensch/coronavirus-drei-lehren-aus-der-krise-kolumne-a-566d9c89-4c5e-445c-beb0-84050e0c308e
+* https://twitter.com/Anfield_king/status/1222017662898724865
 
 # Data aspects
 
