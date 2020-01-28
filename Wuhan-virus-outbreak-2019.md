@@ -37,6 +37,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 - meeting on Jan 22
 - decision postponed to Jan 23
+- January 23: ["I am not declaring a public health emergency of international concern today."](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus)
+  - [background](https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))
 
 ## Freedom of Information / Freedom of Press / Misinformation
 
