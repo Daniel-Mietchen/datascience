@@ -81,3 +81,6 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * https://tools.wmflabs.org/scholia/topic/Q82069695
 
+# Timeline
+
+* [Here’s a Timeline of How China’s Viral Outbreak Spread Worldwide](https://futurism.com/neoscope/timeline-china-viral-outbreak-spread-worldwide) (as of January 24, 2020)
