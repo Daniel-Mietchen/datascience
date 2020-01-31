@@ -102,7 +102,9 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * On January 24, 2020, the Washington Post ran a piece specifically on the pace and openness of research on the virus and how it reflects a change in the scientific culture ["Scientists are unraveling the Chinese coronavirus with unprecedented speed and opennessScientists are unraveling the Chinese coronavirus with unprecedented speed and openness"](http://web.archive.org/web/20200131132127/https://www.washingtonpost.com/science/2020/01/24/scientists-are-unraveling-chinese-coronavirus-with-unprecedented-speed-openness/)
   - lots of good tidbits there, albeit encumbered by aggressive DRM
-    - > “Imagine walking from Chicago to San Francisco, and then imagine taking a plane from Chicago to San Francisco. That’s kind of the difference,”
+    - > “Imagine walking from Chicago to San Francisco, and then imagine taking a plane from Chicago to San Francisco. That’s kind of the difference,” Mesecar said.
+    - > He hopes revealing the secrets of how the virus works will help calm the spreading panic. He noted that influenza sickens and kills large numbers of people in the United States and globally each year, but doesn’t trigger a worldwide panic because the risks are understood and a vaccine exists.
+    - > “When you don’t understand something, you panic. You have fear. When you gain an understanding, you don’t fear something as much — you know how it’s going to operate,” Mesecar said. “By sharing that information faster ... both research as well as what’s happening on the ground with individuals, I’m hoping that panic and that fear are going to go down.”
 
 # Timeline
 
