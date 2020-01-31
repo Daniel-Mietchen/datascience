@@ -6,6 +6,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 # Twitter
 
 * https://twitter.com/search?q=(wuhan%20AND%20(virus%20OR%20outbreak%20OR%20viral%20OR%20epidemic))%20OR%20(ncov%20OR%20(novel%20AND%20coronavirus))
+* bot: https://twitter.com/ncovscience
 
 # Community portal
 
