@@ -59,6 +59,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * GISAID collects sequence data and makes it available to registered users under https://gisaid.org/CoV2020
 * [Genbank](https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/)
 
+## Mask shortage
+
+* https://twitter.com/Jhonny_hidu/status/1222023746371780609
+* https://twitter.com/FLAHAULT/status/1221387863054606337
 ## Phylogenetics
 
 * [https://nextstrain.org/ncov](https://nextstrain.org/ncov)
@@ -93,10 +97,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * https://tools.wmflabs.org/scholia/topic/Q82069695
 
-## Mask shortage
+## Scientific culture
 
-* https://twitter.com/Jhonny_hidu/status/1222023746371780609
-* https://twitter.com/FLAHAULT/status/1221387863054606337
+* On January 24, 2020, the Washington Post ran a piece specifically on the pace and openness of research on the virus and how it reflects a change in the scientific culture ["Scientists are unraveling the Chinese coronavirus with unprecedented speed and opennessScientists are unraveling the Chinese coronavirus with unprecedented speed and openness"](http://web.archive.org/web/20200131132127/https://www.washingtonpost.com/science/2020/01/24/scientists-are-unraveling-chinese-coronavirus-with-unprecedented-speed-openness/)
+  - lots of good tidbits there, albeit encumbered by aggressive DRM
 
 # Timeline
 
