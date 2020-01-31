@@ -49,6 +49,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/asianpocunite/status/1221566767161626630
 * https://www.spiegel.de/wissenschaft/mensch/coronavirus-drei-lehren-aus-der-krise-kolumne-a-566d9c89-4c5e-445c-beb0-84050e0c308e
 * https://twitter.com/Anfield_king/status/1222017662898724865
+* https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related
 
 # Data aspects
 
@@ -64,6 +65,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * https://twitter.com/Jhonny_hidu/status/1222023746371780609
 * https://twitter.com/FLAHAULT/status/1221387863054606337
+
 ## Phylogenetics
 
 * [https://nextstrain.org/ncov](https://nextstrain.org/ncov)
