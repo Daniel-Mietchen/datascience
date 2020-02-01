@@ -119,6 +119,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [German cases](https://www.stmgp.bayern.de/presse/bestaetigter-coronavirus-fall-in-bayern-infektionsschutzmassnahmen-laufen/)
   - https://twitter.com/2019nCoVCroatia/status/1223290593616519169
 * [Map of destinations from Wuhan Tianhe International Airport](https://w.wiki/GDz)
+* https://twitter.com/DNLandkar/status/1223582465165611009
 
 # Scientific culture
 
