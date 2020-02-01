@@ -2,15 +2,14 @@
 
 This file tracks information related to the viral outbreak in Wuhan, China, in 2019-2020.
 
+# Community portal
+
+* reusing http://virological.org/
 
 # Twitter
 
 * https://twitter.com/search?q=(wuhan%20AND%20(virus%20OR%20outbreak%20OR%20viral%20OR%20epidemic))%20OR%20(ncov%20OR%20(novel%20AND%20coronavirus))
 * bot: https://twitter.com/ncovscience
-
-# Community portal
-
-* reusing http://virological.org/
 
 # Open questions
 
@@ -55,12 +54,20 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related
 * [Google launched SOS alerts](https://twitter.com/DrTedros/status/1223419759527677959)
 * https://twitter.com/DrTedros/status/1223288483265089537
+* https://twitter.com/The_Dr_Caveman/status/1223361888647622657
+* https://twitter.com/rocza/status/1223268734166609920
+* https://twitter.com/ncovscience/status/1223273856330235905
+
 
 # Data aspects
 
 ## Data sharing policy
 
 * Wellcome-led statement [Sharing research data and findings relevant to the novel coronavirus](https://wellcome.ac.uk/press-release/sharing-research-data-and-findings-relevant-novel-coronavirus-ncov-outbreak), reaffirming the 2016 one
+
+## Epidemiology
+
+* https://twitter.com/RH4N6/status/1223325945110704131
 
 ## Genome data
 * [Pre-release tweet by WHO](https://twitter.com/WHO/status/1216108498188230657)
@@ -94,10 +101,23 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [MRC Report estimating the number of cases](https://twitter.com/MRC_Outbreak/status/1218181597830221824)
   * summed up in https://twitter.com/seeshawn/status/1218210470777237504
 
+## Scholia
+
+* https://tools.wmflabs.org/scholia/topic/Q82069695
+
+## Screening
+
+- modeling of effectiveness of airport screening
+  - [tweet](https://twitter.com/BQuilty/status/1222965246832336900)
+  - [blog](https://cmmid.github.io/ncov/airport-screening)
+  - [app](https://cmmid-lshtm.shinyapps.io/traveller_screening/)
+  - [preprint](https://cmmid.github.io/ncov/airport_screening_report/airport_screening_preprint_2020_01_30.pdf)
+
 ## Spread
 
 * data integration of disease vulnerability and air traffic
   * https://twitter.com/donal_bisanzio/status/1218190352848474119
+  * https://twitter.com/richardhorton1/status/1223264064719216640
 * [Mapping of cases so far](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
   - via https://twitter.com/TexasDownUnder/status/1220014483516592129
 * Virginia cases
@@ -105,11 +125,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [German case](https://www.stmgp.bayern.de/presse/bestaetigter-coronavirus-fall-in-bayern-infektionsschutzmassnahmen-laufen/)
 * [Map of destinations from Wuhan Tianhe International Airport](https://w.wiki/GDz)
 
-## Scholia
-
-* https://tools.wmflabs.org/scholia/topic/Q82069695
-
-## Scientific culture
+# Scientific culture
 
 * On January 24, 2020, the Washington Post ran a piece specifically on the pace and openness of research on the virus and how it reflects a change in the scientific culture ["Scientists are unraveling the Chinese coronavirus with unprecedented speed and opennessScientists are unraveling the Chinese coronavirus with unprecedented speed and openness"](http://web.archive.org/web/20200131132127/https://www.washingtonpost.com/science/2020/01/24/scientists-are-unraveling-chinese-coronavirus-with-unprecedented-speed-openness/)
   - lots of good tidbits there, albeit encumbered by aggressive DRM
@@ -117,16 +133,25 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
     - > He hopes revealing the secrets of how the virus works will help calm the spreading panic. He noted that influenza sickens and kills large numbers of people in the United States and globally each year, but doesn’t trigger a worldwide panic because the risks are understood and a vaccine exists.
     - > “When you don’t understand something, you panic. You have fear. When you gain an understanding, you don’t fear something as much — you know how it’s going to operate,” Mesecar said. “By sharing that information faster ... both research as well as what’s happening on the ground with individuals, I’m hoping that panic and that fear are going to go down.”
 
+# Pharma
+
+* https://twitter.com/_B_I_O_T_E_C_H_/status/1223227059343937537
+
 # Funding
 
 * [Wellcome pledges £10 million to tackle novel coronavirus epidemic](https://wellcome.ac.uk/news/wellcome-pledges-10-million-tackle-novel-coronavirus-epidemic)
+  - [background](https://twitter.com/JeremyFarrar/status/1223284336943935490)
 
-# Timeline
+# Timeline(s)
 
 * [Here’s a Timeline of How China’s Viral Outbreak Spread Worldwide](https://futurism.com/neoscope/timeline-china-viral-outbreak-spread-worldwide) (as of January 24, 2020)
-- Situation reports by 
-  - [WHO](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200126-sitrep-6-2019--ncov.pdf?sfvrsn=beaeee0c_4)
-  - [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
-  - [New England Journal of Medicine](https://www.nejm.org/coronavirus)
-  - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
+- [Reuters](https://twitter.com/Reuters/status/1223362921411088387)
 
+# Situation reports
+
+- [WHO](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200126-sitrep-6-2019--ncov.pdf?sfvrsn=beaeee0c_4)
+- [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
+- [New England Journal of Medicine](https://www.nejm.org/coronavirus)
+- [The Lancet](https://www.thelancet.com/coronavirus)
+- [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
+- [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/)
