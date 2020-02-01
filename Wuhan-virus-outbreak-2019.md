@@ -173,4 +173,4 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/balajis/status/1223377720593338372
 * https://twitter.com/Laurie_Garrett/status/1223290234437238786
 * https://twitter.com/Dali_Yang/status/1222570017239203841
-
+* https://twitter.com/mugecevik/status/1223692268672032774 - preprint withdrawn
