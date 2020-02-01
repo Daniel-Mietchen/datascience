@@ -152,6 +152,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 ## Freedom of Information / Freedom of Press / Misinformation
 
+* https://www.theguardian.com/world/2020/jan/31/bat-soup-dodgy-cures-and-diseasology-the-spread-of-coronavirus-bunkum
 * https://twitter.com/HongKongFP/status/1216974257386733569
 * https://twitter.com/nytimes/status/1220059835644944384
 * https://twitter.com/danhaddock3/status/1220718365943091200
