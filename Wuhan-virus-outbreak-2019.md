@@ -174,3 +174,4 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/Laurie_Garrett/status/1223290234437238786
 * https://twitter.com/Dali_Yang/status/1222570017239203841
 * https://twitter.com/mugecevik/status/1223692268672032774 - preprint withdrawn
+* https://twitter.com/davidpaulk/status/1223603801363365893 - one of the 8 doctors who sounded a virus alarm in Wuhan in early December and were detained for it has been reported as being infected himself
