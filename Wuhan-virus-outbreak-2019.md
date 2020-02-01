@@ -56,6 +56,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 ## Epidemiology
 
 * https://twitter.com/RH4N6/status/1223325945110704131
+* https://twitter.com/DrDenaGrayson/status/1223241354479906816
 
 ## Genome data
 * [Pre-release tweet by WHO](https://twitter.com/WHO/status/1216108498188230657)
@@ -64,6 +65,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   * the [original post](http://web.archive.org/web/20200120180343/http://virological.org/t/novel-2019-coronavirus-genome/319) is not available any more
 * GISAID collects sequence data and makes it available to registered users under https://gisaid.org/CoV2020
 * [Genbank](https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/)
+* origin in bats: https://twitter.com/CDCgov/status/1223259675573080064
 
 ## Mask shortage
 
@@ -83,6 +85,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 ## Protein structure data
 
 * https://twitter.com/tsrabbit3/status/1221464975761297409
+* https://twitter.com/dryusufyesil/status/1223318011463028742
 
 ## Number of cases
 
@@ -108,9 +111,12 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   * https://twitter.com/richardhorton1/status/1223264064719216640
 * [Mapping of cases so far](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
   - via https://twitter.com/TexasDownUnder/status/1220014483516592129
+  - https://twitter.com/DingYan01668803/status/1223348479344500736
+  - https://twitter.com/RSAC_Nurses/status/1223465515265380352
 * Virginia cases
   - [overview](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
-* [German case](https://www.stmgp.bayern.de/presse/bestaetigter-coronavirus-fall-in-bayern-infektionsschutzmassnahmen-laufen/)
+* [German cases](https://www.stmgp.bayern.de/presse/bestaetigter-coronavirus-fall-in-bayern-infektionsschutzmassnahmen-laufen/)
+  - https://twitter.com/2019nCoVCroatia/status/1223290593616519169
 * [Map of destinations from Wuhan Tianhe International Airport](https://w.wiki/GDz)
 
 # Scientific culture
@@ -157,3 +163,11 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/rocza/status/1223268734166609920
 * https://twitter.com/ncovscience/status/1223273856330235905
 * https://twitter.com/kaluhm333h/status/1223226233988751360
+* https://twitter.com/EpiEllie/status/1223449835791114241
+* https://twitter.com/Laurie_Garrett/status/1223426726732226562
+* https://twitter.com/NoisyTurtle2600/status/1223424512256929792
+* https://twitter.com/rreithinger/status/1223380549785485312
+* https://twitter.com/balajis/status/1223377720593338372
+* https://twitter.com/Laurie_Garrett/status/1223290234437238786
+
+
