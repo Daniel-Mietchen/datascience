@@ -31,34 +31,6 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [WHO chief does not declare a public health emergency](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus) (part ii)
 * [Are snakes a natural reservoir?](https://www.kbcchannel.tv/2020/01/24/no-the-wuhan-virus-is-now-not-a-snake-flu/) &mdash; misinformation and responsibility around data sharing
 
-# Political aspects
-
-## Public Health Emergency of International Concern
-
-- meeting on Jan 22
-- decision postponed to Jan 23
-- January 23: ["I am not declaring a public health emergency of international concern today."](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus)
-  - [background](https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))
-- next meeting [announced for January 30](https://twitter.com/DrTedros/status/1222543539587964930)
-- [Public Health Emergency of International Concern declared on January 30](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-ihr-emergency-committee-on-novel-coronavirus-%282019-ncov%29)
-
-## Freedom of Information / Freedom of Press / Misinformation
-
-* https://twitter.com/HongKongFP/status/1216974257386733569
-* https://twitter.com/nytimes/status/1220059835644944384
-* https://twitter.com/danhaddock3/status/1220718365943091200
-* https://twitter.com/SalahidinU1/status/1221623656171917314
-* https://twitter.com/asianpocunite/status/1221566767161626630
-* https://www.spiegel.de/wissenschaft/mensch/coronavirus-drei-lehren-aus-der-krise-kolumne-a-566d9c89-4c5e-445c-beb0-84050e0c308e
-* https://twitter.com/Anfield_king/status/1222017662898724865
-* https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related
-* [Google launched SOS alerts](https://twitter.com/DrTedros/status/1223419759527677959)
-* https://twitter.com/DrTedros/status/1223288483265089537
-* https://twitter.com/The_Dr_Caveman/status/1223361888647622657
-* https://twitter.com/rocza/status/1223268734166609920
-* https://twitter.com/ncovscience/status/1223273856330235905
-
-
 # Data aspects
 
 ## Data sharing policy
@@ -141,6 +113,34 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * [Wellcome pledges £10 million to tackle novel coronavirus epidemic](https://wellcome.ac.uk/news/wellcome-pledges-10-million-tackle-novel-coronavirus-epidemic)
   - [background](https://twitter.com/JeremyFarrar/status/1223284336943935490)
+
+# Political aspects
+
+## Public Health Emergency of International Concern
+
+- meeting on Jan 22
+- decision postponed to Jan 23
+- January 23: ["I am not declaring a public health emergency of international concern today."](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus)
+  - [background](https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))
+- next meeting [announced for January 30](https://twitter.com/DrTedros/status/1222543539587964930)
+- [Public Health Emergency of International Concern declared on January 30](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-ihr-emergency-committee-on-novel-coronavirus-%282019-ncov%29)
+
+## Freedom of Information / Freedom of Press / Misinformation
+
+* https://twitter.com/HongKongFP/status/1216974257386733569
+* https://twitter.com/nytimes/status/1220059835644944384
+* https://twitter.com/danhaddock3/status/1220718365943091200
+* https://twitter.com/SalahidinU1/status/1221623656171917314
+* https://twitter.com/asianpocunite/status/1221566767161626630
+* https://www.spiegel.de/wissenschaft/mensch/coronavirus-drei-lehren-aus-der-krise-kolumne-a-566d9c89-4c5e-445c-beb0-84050e0c308e
+* https://twitter.com/Anfield_king/status/1222017662898724865
+* https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related
+* [Google launched SOS alerts](https://twitter.com/DrTedros/status/1223419759527677959)
+* https://twitter.com/DrTedros/status/1223288483265089537
+* https://twitter.com/The_Dr_Caveman/status/1223361888647622657
+* https://twitter.com/rocza/status/1223268734166609920
+* https://twitter.com/ncovscience/status/1223273856330235905
+* https://twitter.com/kaluhm333h/status/1223226233988751360
 
 # Timeline(s)
 
