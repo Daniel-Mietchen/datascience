@@ -54,6 +54,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 # Data aspects
 
+## Data sharing policy
+
+* Wellcome-led statement [Sharing research data and findings relevant to the novel coronavirus](https://wellcome.ac.uk/press-release/sharing-research-data-and-findings-relevant-novel-coronavirus-ncov-outbreak), reaffirming the 2016 one
+
 ## Genome data
 * [Pre-release tweet by WHO](https://twitter.com/WHO/status/1216108498188230657)
 * [Chinese researchers reveal draft genome of virus implicated in Wuhan pneumonia outbreak](https://doi.org/10.1126/science.aba8829)
@@ -108,6 +112,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
     - > “Imagine walking from Chicago to San Francisco, and then imagine taking a plane from Chicago to San Francisco. That’s kind of the difference,” Mesecar said.
     - > He hopes revealing the secrets of how the virus works will help calm the spreading panic. He noted that influenza sickens and kills large numbers of people in the United States and globally each year, but doesn’t trigger a worldwide panic because the risks are understood and a vaccine exists.
     - > “When you don’t understand something, you panic. You have fear. When you gain an understanding, you don’t fear something as much — you know how it’s going to operate,” Mesecar said. “By sharing that information faster ... both research as well as what’s happening on the ground with individuals, I’m hoping that panic and that fear are going to go down.”
+
+# Funding
+
+* [Wellcome pledges £10 million to tackle novel coronavirus epidemic](https://wellcome.ac.uk/news/wellcome-pledges-10-million-tackle-novel-coronavirus-epidemic)
 
 # Timeline
 
