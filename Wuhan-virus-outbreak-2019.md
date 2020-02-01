@@ -22,6 +22,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * https://twitter.com/search?q=(wuhan%20AND%20(virus%20OR%20outbreak%20OR%20viral%20OR%20epidemic))%20OR%20(ncov%20OR%20(novel%20AND%20coronavirus))
 * bot: https://twitter.com/ncovscience
+* Thread Reader app: https://twitter.com/threadreaderapp ([example](https://twitter.com/KarlaNney/status/1222607212432035841))
 
 # Timeline(s)
 
@@ -171,5 +172,5 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/rreithinger/status/1223380549785485312
 * https://twitter.com/balajis/status/1223377720593338372
 * https://twitter.com/Laurie_Garrett/status/1223290234437238786
-
+* https://twitter.com/Dali_Yang/status/1222570017239203841
 
