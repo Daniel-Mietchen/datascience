@@ -8,7 +8,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 # Situation reports
 
-- [WHO](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200126-sitrep-6-2019--ncov.pdf?sfvrsn=beaeee0c_4)
+- [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
+  - [sitaution dashboard](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
 - [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
 - [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
