@@ -6,10 +6,24 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * reusing http://virological.org/
 
+# Situation reports
+
+- [WHO](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200126-sitrep-6-2019--ncov.pdf?sfvrsn=beaeee0c_4)
+- [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
+- [New England Journal of Medicine](https://www.nejm.org/coronavirus)
+- [The Lancet](https://www.thelancet.com/coronavirus)
+- [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
+- [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/)
+
 # Twitter
 
 * https://twitter.com/search?q=(wuhan%20AND%20(virus%20OR%20outbreak%20OR%20viral%20OR%20epidemic))%20OR%20(ncov%20OR%20(novel%20AND%20coronavirus))
 * bot: https://twitter.com/ncovscience
+
+# Timeline(s)
+
+* [Here’s a Timeline of How China’s Viral Outbreak Spread Worldwide](https://futurism.com/neoscope/timeline-china-viral-outbreak-spread-worldwide) (as of January 24, 2020)
+- [Reuters](https://twitter.com/Reuters/status/1223362921411088387)
 
 # Open questions
 
@@ -141,17 +155,3 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/rocza/status/1223268734166609920
 * https://twitter.com/ncovscience/status/1223273856330235905
 * https://twitter.com/kaluhm333h/status/1223226233988751360
-
-# Timeline(s)
-
-* [Here’s a Timeline of How China’s Viral Outbreak Spread Worldwide](https://futurism.com/neoscope/timeline-china-viral-outbreak-spread-worldwide) (as of January 24, 2020)
-- [Reuters](https://twitter.com/Reuters/status/1223362921411088387)
-
-# Situation reports
-
-- [WHO](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200126-sitrep-6-2019--ncov.pdf?sfvrsn=beaeee0c_4)
-- [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
-- [New England Journal of Medicine](https://www.nejm.org/coronavirus)
-- [The Lancet](https://www.thelancet.com/coronavirus)
-- [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
-- [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/)
