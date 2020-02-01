@@ -40,6 +40,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 - decision postponed to Jan 23
 - January 23: ["I am not declaring a public health emergency of international concern today."](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus)
   - [background](https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))
+- next meeting [announced for January 30](https://twitter.com/DrTedros/status/1222543539587964930)
+- [Public Health Emergency of International Concern declared on January 30](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-ihr-emergency-committee-on-novel-coronavirus-%282019-ncov%29)
 
 ## Freedom of Information / Freedom of Press / Misinformation
 
@@ -51,6 +53,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://www.spiegel.de/wissenschaft/mensch/coronavirus-drei-lehren-aus-der-krise-kolumne-a-566d9c89-4c5e-445c-beb0-84050e0c308e
 * https://twitter.com/Anfield_king/status/1222017662898724865
 * https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related
+* [Google launched SOS alerts](https://twitter.com/DrTedros/status/1223419759527677959)
+* https://twitter.com/DrTedros/status/1223288483265089537
 
 # Data aspects
 
