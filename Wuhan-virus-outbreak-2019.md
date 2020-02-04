@@ -2,21 +2,31 @@
 
 This file tracks information related to the viral outbreak in Wuhan, China, in 2019-2020.
 
-# Community portal
+# Community portals
 
-* reusing http://virological.org/
+- http://virological.org/ for specialists
+- [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/) for broader public
+
 
 # Situation reports
+
+## Governmental organizations
 
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
   - [situation dashboard](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
 - [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
+
+## Tools
+
 - [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
+
+## Publishers, journals and repositories
+
 - [New England Journal of Medicine](https://www.nejm.org/coronavirus)
 - [The Lancet](https://www.thelancet.com/coronavirus)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
-- [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/)
+- [MedRxiv](https://www.medrxiv.org/search/coronavirus%20numresults:10%20sort:publication-date%20direction:descending)
 
 # Twitter
 
