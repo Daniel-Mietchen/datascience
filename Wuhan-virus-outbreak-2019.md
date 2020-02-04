@@ -16,11 +16,13 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - [situation dashboard](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
 - [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
+- [질병관리본부](https://www.cdc.go.kr/search/search.es?mid=a20101000000)
 
 ## Tools
 
 - [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
 - [BeOutBreakPrepared](https://github.com/beoutbreakprepared/nCoV2019)
+- [nCoV2019 Data Explorer](https://scarpino.shinyapps.io/Emergent_Epidemics_Lab_nCoV2019/)
 
 
 ## Publishers, journals and repositories
@@ -163,6 +165,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * [Wellcome pledges £10 million to tackle novel coronavirus epidemic](https://wellcome.ac.uk/news/wellcome-pledges-10-million-tackle-novel-coronavirus-epidemic)
   - [background](https://twitter.com/JeremyFarrar/status/1223284336943935490)
+* EU: [Advancing knowledge for the clinical and public health response to the 2019-nCoV epidemic (SC1-PHE-CORONAVIRUS-2020)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/interested-org-list/42862854)
+* UKRI: [2019-nCoV Rapid Response Call](https://mrc.ukri.org/funding/browse/2019-ncov-rapid-response-call/2019-ncov-rapid-response-call/)
 
 # Political aspects
 
