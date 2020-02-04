@@ -177,3 +177,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/Dali_Yang/status/1222570017239203841
 * https://twitter.com/mugecevik/status/1223692268672032774 - preprint withdrawn
 * https://twitter.com/davidpaulk/status/1223603801363365893 - one of the 8 doctors who sounded a virus alarm in Wuhan in early December and were detained for it has been reported as being infected himself
+
+* Quarantine
+
+* [Chinese boy with cerebral palsy dies while father is in virus quarantine](https://www.rappler.com/world/regions/asia-pacific/250951-chinese-boy-cerebral-palsy-dies-father-virus-quarantine)
+* [Japan testing 3,700 people quarantined on cruise ship after Hong Kong novel coronavirus case](https://www.channelnewsasia.com/news/asia/japan-wuhan-coronavirus-cruise-ship-quarantine-virus-12388092)
