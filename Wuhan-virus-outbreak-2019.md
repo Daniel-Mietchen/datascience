@@ -20,6 +20,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 ## Tools
 
 - [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
+- [BeOutBreakPrepared](https://github.com/beoutbreakprepared/nCoV2019)
+
 
 ## Publishers, journals and repositories
 
