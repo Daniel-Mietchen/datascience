@@ -98,6 +98,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [MRC Report estimating the number of cases](https://twitter.com/MRC_Outbreak/status/1218181597830221824)
   * summed up in https://twitter.com/seeshawn/status/1218210470777237504
 
+## Outbreak prediction
+
+* [How artificial intelligence provided early warnings of the Wuhan virus](https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/)
+
 ## Scholia
 
 * https://tools.wmflabs.org/scholia/topic/Q82069695
