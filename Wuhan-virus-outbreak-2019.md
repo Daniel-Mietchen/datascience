@@ -89,6 +89,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/tsrabbit3/status/1221464975761297409
 * https://twitter.com/dryusufyesil/status/1223318011463028742
 
+## RNA Structure prediction algorithm
+
+* [Baidu Open-Sources RNA Prediction Algorithm for 2019 Novel Coronavirus](https://syncedreview.com/2020/02/04/baidu-open-sources-rna-prediction-algorithm-for-2019-novel-coronavirus/)
+
 ## Number of cases
 
 * [MRC Report estimating the number of cases](https://twitter.com/MRC_Outbreak/status/1218181597830221824)
