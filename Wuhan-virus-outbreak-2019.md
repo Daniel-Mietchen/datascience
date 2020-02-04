@@ -21,7 +21,9 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 ## Tools
 
 - [Nextstrain](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=0)
-- [BeOutBreakPrepared](https://github.com/beoutbreakprepared/nCoV2019)
+- [HealthMap](https://www.healthmap.org/ncov2019/) ([acknowledgements](https://twitter.com/Ben_Sheldon_EGI/status/1224435126550982656))
+  - based on [BeOutBreakPrepared](https://github.com/beoutbreakprepared/nCoV2019)
+  - [call for help](https://twitter.com/MOUGK/status/1223379769976291328) receives great digital response
 - [nCoV2019 Data Explorer](https://scarpino.shinyapps.io/Emergent_Epidemics_Lab_nCoV2019/)
 
 
