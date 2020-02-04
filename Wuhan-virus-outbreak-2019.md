@@ -161,6 +161,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [in China](http://www.chictr.org.cn/searchprojen.aspx?title=&officialname=nCov&subjectid=&secondaryid=&applier=&studyleader=&ethicalcommitteesanction=&sponsor=&studyailment=&studyailmentcode=&studytype=0&studystage=0&studydesign=0&minstudyexecutetime=&maxstudyexecutetime=&recruitmentstatus=0&gender=0&agreetosign=&secsponsor=&regno=&regstatus=0&country=&province=&city=&institution=&institutionlevel=&measure=&intercode=&sourceofspends=&createyear=0&isuploadrf=&whetherpublic=&btngo=btn&verifycode=&page=1)
 * [in the US](https://clinicaltrials.gov/ct2/results?cond=coronavirus&Search=Apply&recrs=b&recrs=a&recrs=f&age_v=&gndr=&type=&rslt=)
 
+# Clinical protocols
+
+- [2019-nCoV Clinical Characterisation Protocol](https://isaric.tghn.org/CCP/)
+
 # Funding
 
 * [Wellcome pledges £10 million to tackle novel coronavirus epidemic](https://wellcome.ac.uk/news/wellcome-pledges-10-million-tackle-novel-coronavirus-epidemic)
