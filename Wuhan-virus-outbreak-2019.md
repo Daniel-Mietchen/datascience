@@ -29,8 +29,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 ## Publishers, journals and repositories
 
+- [STAT News](https://www.statnews.com/tag/coronavirus/)
 - [New England Journal of Medicine](https://www.nejm.org/coronavirus)
 - [The Lancet](https://www.thelancet.com/coronavirus)
+- [Science](https://www.sciencemag.org/tags/coronavirus)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
 - [MedRxiv](https://www.medrxiv.org/search/coronavirus%20numresults:10%20sort:publication-date%20direction:descending)
 
@@ -64,6 +66,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * Some more questions [here](https://twitter.com/voxdotcom/status/1219937802386886656)
 * [WHO chief does not declare a public health emergency](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus) (part ii)
 * [Are snakes a natural reservoir?](https://www.kbcchannel.tv/2020/01/24/no-the-wuhan-virus-is-now-not-a-snake-flu/) &mdash; misinformation and responsibility around data sharing
+* 2020-02-03: [Scientific Puzzles Surrounding the Wuhan Novel Coronavirus ](https://www.theepochtimes.com/scientific-puzzles-surrounding-the-wuhan-novel-coronavirus_3225405.html)
 
 # Data aspects
 
@@ -113,6 +116,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * [MRC Report estimating the number of cases](https://twitter.com/MRC_Outbreak/status/1218181597830221824)
   * summed up in https://twitter.com/seeshawn/status/1218210470777237504
+* https://twitter.com/evdefender/status/1224516837318307840
 
 ## Outbreak prediction
 
@@ -145,6 +149,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - https://twitter.com/2019nCoVCroatia/status/1223290593616519169
 * [Map of destinations from Wuhan Tianhe International Airport](https://w.wiki/GDz)
 * https://twitter.com/DNLandkar/status/1223582465165611009
+* 2020-02-04: [Experts envision two scenarios if the new coronavirus isn’t contained](https://www.statnews.com/2020/02/04/two-scenarios-if-new-coronavirus-isnt-contained/)
 
 # Scientific culture
 
@@ -180,10 +185,12 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 - meeting on Jan 22
 - decision postponed to Jan 23
+  - [WHO says no need—yet—to declare spread of novel virus is an international emergency](https://doi.org/10.1126/science.abb0277)
 - January 23: ["I am not declaring a public health emergency of international concern today."](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus)
   - [background](https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))
 - next meeting [announced for January 30](https://twitter.com/DrTedros/status/1222543539587964930)
 - [Public Health Emergency of International Concern declared on January 30](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-ihr-emergency-committee-on-novel-coronavirus-%282019-ncov%29)
+  - [Outbreak of virus from China declared global emergency](https://doi.org/10.1126/science.abb1079)
 
 ## Freedom of Information / Freedom of Press / Misinformation
 
@@ -212,6 +219,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/Dali_Yang/status/1222570017239203841
 * https://twitter.com/mugecevik/status/1223692268672032774 - preprint withdrawn
 * https://twitter.com/davidpaulk/status/1223603801363365893 - one of the 8 doctors who sounded a virus alarm in Wuhan in early December and were detained for it has been reported as being infected himself
+* https://twitter.com/evdefender/status/1224516837318307840 - suspicion of falsified data about number of cases
 
 * Quarantine
 
