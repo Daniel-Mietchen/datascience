@@ -163,6 +163,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * https://twitter.com/_B_I_O_T_E_C_H_/status/1223227059343937537
 
+## Drug supply
+
+* [The Coronavirus Is a Threat to the Global Drug Supply](http://web.archive.org/web/20200205022948/https://www.wired.com/story/the-coronavirus-is-a-threat-to-the-global-drug-supply/)
+
 ## Clinical trials
 
 * [in China](http://www.chictr.org.cn/searchprojen.aspx?title=&officialname=nCov&subjectid=&secondaryid=&applier=&studyleader=&ethicalcommitteesanction=&sponsor=&studyailment=&studyailmentcode=&studytype=0&studystage=0&studydesign=0&minstudyexecutetime=&maxstudyexecutetime=&recruitmentstatus=0&gender=0&agreetosign=&secsponsor=&regno=&regstatus=0&country=&province=&city=&institution=&institutionlevel=&measure=&intercode=&sourceofspends=&createyear=0&isuploadrf=&whetherpublic=&btngo=btn&verifycode=&page=1)
