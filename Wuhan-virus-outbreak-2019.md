@@ -224,6 +224,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/mugecevik/status/1223692268672032774 - preprint withdrawn
 * https://twitter.com/davidpaulk/status/1223603801363365893 - one of the 8 doctors who sounded a virus alarm in Wuhan in early December and were detained for it has been reported as being infected himself
 * https://twitter.com/evdefender/status/1224516837318307840 - suspicion of falsified data about number of cases
+* http://web.archive.org/save/https://news.abs-cbn.com/overseas/02/07/20/death-of-chinese-doctor-fuels-anger-demands-for-change-on-chinas-handling-of-virus-crisis
 
 * Quarantine
 
