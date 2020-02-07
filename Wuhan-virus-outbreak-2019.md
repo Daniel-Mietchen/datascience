@@ -117,6 +117,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [MRC Report estimating the number of cases](https://twitter.com/MRC_Outbreak/status/1218181597830221824)
   * summed up in https://twitter.com/seeshawn/status/1218210470777237504
 * https://twitter.com/evdefender/status/1224516837318307840
+* https://twitter.com/VGKnightinArmor/status/1225065199801004037 real numbers accidentally leaked, allegedly
 
 ## Outbreak prediction
 
@@ -225,6 +226,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/davidpaulk/status/1223603801363365893 - one of the 8 doctors who sounded a virus alarm in Wuhan in early December and were detained for it has been reported as being infected himself
 * https://twitter.com/evdefender/status/1224516837318307840 - suspicion of falsified data about number of cases
 * http://web.archive.org/save/https://news.abs-cbn.com/overseas/02/07/20/death-of-chinese-doctor-fuels-anger-demands-for-change-on-chinas-handling-of-virus-crisis
+* https://twitter.com/VGKnightinArmor/status/1225065199801004037 real numbers accidentally leaked, allegedly
 
 * Quarantine
 
