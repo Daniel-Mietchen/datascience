@@ -227,6 +227,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/davidpaulk/status/1223603801363365893 - one of the 8 doctors who sounded a virus alarm in Wuhan in early December and were detained for it has been reported as being infected himself
 * https://twitter.com/evdefender/status/1224516837318307840 - suspicion of falsified data about number of cases
 * http://web.archive.org/save/https://news.abs-cbn.com/overseas/02/07/20/death-of-chinese-doctor-fuels-anger-demands-for-change-on-chinas-handling-of-virus-crisis
+  - English translation of the note that the police had made him sign after he had warned of the outbreak: https://twitter.com/alanwongw/status/1225777055024869376
 * https://twitter.com/VGKnightinArmor/status/1225065199801004037 real numbers accidentally leaked, allegedly
 
 * Quarantine
