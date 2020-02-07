@@ -118,6 +118,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   * summed up in https://twitter.com/seeshawn/status/1218210470777237504
 * https://twitter.com/evdefender/status/1224516837318307840
 * https://twitter.com/VGKnightinArmor/status/1225065199801004037 real numbers accidentally leaked, allegedly
+  - https://twitter.com/rohitindians/status/1225268657330089985 more comment on this
 
 ## Outbreak prediction
 
