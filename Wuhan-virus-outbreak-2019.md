@@ -31,6 +31,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 - [STAT News](https://www.statnews.com/tag/coronavirus/)
 - [New England Journal of Medicine](https://www.nejm.org/coronavirus)
+- [Nature](https://doi.org/10.1038/d41586-020-00154-w)
+  - [Coronavirus collection](https://www.nature.com/collections/hajgidghjb) (continuously updated content tagged with the same DOI)
 - [The Lancet](https://www.thelancet.com/coronavirus)
 - [Science](https://www.sciencemag.org/tags/coronavirus)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
