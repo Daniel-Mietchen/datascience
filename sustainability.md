@@ -155,3 +155,5 @@ This file hosts information regarding sustainability, especially the sustainabil
   - report on how current and planned spending align with emissions reduction targets
   - make their annual reports publicly accessible (ideally in a FAIR manner)
 * [10 basic facts on climate action](https://threadreaderapp.com/thread/1213328993354756096.html)
+- [4 Charts Explain Greenhouse Gas Emissions by Countries and Sectors](https://www.wri.org/blog/2020/02/greenhouse-gas-emissions-by-country-sector)
+  - seen [here](https://twitter.com/MaxCRoser/status/1225647561014304770)
