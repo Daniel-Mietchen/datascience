@@ -231,8 +231,9 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * http://web.archive.org/save/https://news.abs-cbn.com/overseas/02/07/20/death-of-chinese-doctor-fuels-anger-demands-for-change-on-chinas-handling-of-virus-crisis
   - English translation of the note that the police had made him sign after he had warned of the outbreak: https://twitter.com/alanwongw/status/1225777055024869376
 * https://twitter.com/VGKnightinArmor/status/1225065199801004037 real numbers accidentally leaked, allegedly
+* [On Wikipedia, a fight is raging over coronavirus disinformation](http://web.archive.org/web/20200211104616/https://www.wired.co.uk/article/wikipedia-coronavirus)
 
-* Quarantine
+# Quarantine
 
 * [Chinese boy with cerebral palsy dies while father is in virus quarantine](https://www.rappler.com/world/regions/asia-pacific/250951-chinese-boy-cerebral-palsy-dies-father-virus-quarantine)
 * [Japan testing 3,700 people quarantined on cruise ship after Hong Kong novel coronavirus case](https://www.channelnewsasia.com/news/asia/japan-wuhan-coronavirus-cruise-ship-quarantine-virus-12388092)
