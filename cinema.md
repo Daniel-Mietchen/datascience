@@ -385,6 +385,7 @@
 
 # Maybe watch in the future
 
+* [Wikidata and Beyond – Knowledge for everyone by everyone - Keynote by Denny Vrandečić at SWAT4HCLS 2019](https://www.youtube.com/watch?v=yzVA7YLwhTE)
 * [Jane Morton: Don’t mention the emergency?](https://www.youtube.com/watch?v=MBGHTRx6xAU)
   - [discusses the white paper with the same title](https://climateemergencydeclaration.org/wp-content/uploads/2018/09/DontMentionTheEmergency2018.pdf)
     - [background on the white paper](https://renew.org.au/renew-magazine/climate-change/dont-mention-the-emergency/)
