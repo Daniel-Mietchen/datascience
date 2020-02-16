@@ -232,6 +232,9 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - English translation of the note that the police had made him sign after he had warned of the outbreak: https://twitter.com/alanwongw/status/1225777055024869376
 * https://twitter.com/VGKnightinArmor/status/1225065199801004037 real numbers accidentally leaked, allegedly
 * [On Wikipedia, a fight is raging over coronavirus disinformation](http://web.archive.org/web/20200211104616/https://www.wired.co.uk/article/wikipedia-coronavirus)
+* [The possible origins of 2019-nCoV coronavirus](https://web.archive.org/web/20200214144447/https://www.researchgate.net/publication/339070128_The_possible_origins_of_2019-nCoV_coronavirus) 
+  - looks at two virology labs closed to the market where the outbreak originated and suggests studies of bats and their viruses performed there could be at the origin of the outbreak
+  - manuscript published on Researchgate (rather than through a preprint server) and quickly taken down afterwards
 
 # Quarantine
 
