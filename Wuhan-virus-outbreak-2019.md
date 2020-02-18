@@ -25,6 +25,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - based on [BeOutBreakPrepared](https://github.com/beoutbreakprepared/nCoV2019)
   - [call for help](https://twitter.com/MOUGK/status/1223379769976291328) receives great digital response
 - [nCoV2019 Data Explorer](https://scarpino.shinyapps.io/Emergent_Epidemics_Lab_nCoV2019/)
+- [Coronavirus Tracker](https://visalist.io/emergency/coronavirus)
 
 
 ## Publishers, journals and repositories
