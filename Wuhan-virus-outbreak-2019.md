@@ -17,6 +17,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - [situation dashboard](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
 - [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
+  - [YouTube video series](https://www.youtube.com/watch?v=Nu9vla6RhWI)
+- [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
 - [질병관리본부](https://www.cdc.go.kr/search/search.es?mid=a20101000000)
 
 ## Tools
