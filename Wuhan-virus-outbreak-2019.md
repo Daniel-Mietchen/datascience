@@ -1,9 +1,10 @@
 # About 
 
-This file tracks information related to the viral outbreak in Wuhan, China, in 2019-2020.
+This file tracks information related to the viral outbreak in Wuhan, China, in 2019-2020, with an eye on data-related matters, especially data sharing or the lack of it.
 
 # Community portals
 
+- [English Wikipedia](https://en.wikipedia.org/wiki/Template:COVID-19)
 - http://virological.org/ for specialists
 - http://covidreport.net/ for public
 - [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/) for broader public
