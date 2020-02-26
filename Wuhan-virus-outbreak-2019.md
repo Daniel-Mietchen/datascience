@@ -42,6 +42,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 - [Science](https://www.sciencemag.org/tags/coronavirus)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
 - [MedRxiv](https://www.medrxiv.org/search/coronavirus%20numresults:10%20sort:publication-date%20direction:descending)
+- [Zeit](https://www.zeit.de/thema/coronavirus)
 
 # Twitter
 
@@ -130,6 +131,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 ## Outbreak prediction
 
 * [How artificial intelligence provided early warnings of the Wuhan virus](https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/)
+
+## Pandemic preparedness plan
+
+* For Germany, a detailed risk analysis is available via "[Risikoanalyse Bevölkerungsschutz Bund &mdash; Pandemie durch Virus „Modi-SARS“](http://dipbt.bundestag.de/dip21/btd/17/120/1712051.pdf)"
 
 ## Scholia
 
