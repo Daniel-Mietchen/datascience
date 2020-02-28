@@ -251,3 +251,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 * [Chinese boy with cerebral palsy dies while father is in virus quarantine](https://www.rappler.com/world/regions/asia-pacific/250951-chinese-boy-cerebral-palsy-dies-father-virus-quarantine)
 * [Japan testing 3,700 people quarantined on cruise ship after Hong Kong novel coronavirus case](https://www.channelnewsasia.com/news/asia/japan-wuhan-coronavirus-cruise-ship-quarantine-virus-12388092)
+
+
+# See also
+
+* [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus)
