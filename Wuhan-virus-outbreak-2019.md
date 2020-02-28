@@ -248,6 +248,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [Singapore makes details of COVID-19 patients public](https://twitter.com/BoboBichonFrise/status/1230647290039128064)
   - [more details](http://web.archive.org/web/20200228213654/https://www.straitstimes.com/singapore/health/novel-coronavirus-cases-in-singapore)
 * [Chinese laboratory that first shared coronavirus genome with world ordered to close for ‘rectification’, hindering its Covid-19 research](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered) &mdash; Chinese lab shut down after sharing the genome sequence of the virus
+* [The Coronavirus and How Political Spin Has Worsened Epidemics](web.archive.org/web/20200228234834/https://www.newyorker.com/news/daily-comment/the-coronavirus-and-how-political-spin-has-worsened-epidemics) &mdash; on past epidemics and what their analysis reveals about the relation between politicians and facts
 
 # Quarantine
 
