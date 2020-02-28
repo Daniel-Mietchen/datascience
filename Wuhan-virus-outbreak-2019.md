@@ -247,6 +247,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - manuscript published on Researchgate (rather than through a preprint server) and quickly taken down afterwards
 * [Singapore makes details of COVID-19 patients public](https://twitter.com/BoboBichonFrise/status/1230647290039128064)
   - [more details](http://web.archive.org/web/20200228213654/https://www.straitstimes.com/singapore/health/novel-coronavirus-cases-in-singapore)
+* [Chinese laboratory that first shared coronavirus genome with world ordered to close for ‘rectification’, hindering its Covid-19 research](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered) &mdash; Chinese lab shut down after sharing the genome sequence of the virus
 
 # Quarantine
 
