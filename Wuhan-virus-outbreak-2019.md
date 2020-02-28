@@ -246,6 +246,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - looks at two virology labs closed to the market where the outbreak originated and suggests studies of bats and their viruses performed there could be at the origin of the outbreak
   - manuscript published on Researchgate (rather than through a preprint server) and quickly taken down afterwards
 * [Singapore makes details of COVID-19 patients public](https://twitter.com/BoboBichonFrise/status/1230647290039128064)
+  - [more details](http://web.archive.org/web/20200228213654/https://www.straitstimes.com/singapore/health/novel-coronavirus-cases-in-singapore)
 
 # Quarantine
 
