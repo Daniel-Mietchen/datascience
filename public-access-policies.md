@@ -9,6 +9,7 @@ This file serves the collection of information related to public access policies
 
 ## US
 
+* [Request for Information: Public Access to Peer-Reviewed Scholarly Publications, Data and Code Resulting From Federally Funded Research](https://www.federalregister.gov/documents/2020/02/19/2020-03189/request-for-information-public-access-to-peer-reviewed-scholarly-publications-data-and-code)
 * [Open, Public, Electronic, and Necessary Government Data Act (OPEN Government Data Act)](https://www.congress.gov/bill/114th-congress/senate-bill/2852)
   - [commentary from SPARC](https://sparcopen.org/news/2019/huge-win-open-data-united-states/)
 * [Transparency and Open Government](https://www.whitehouse.gov/the-press-office/transparency-and-open-government) (January 21, 2009)
