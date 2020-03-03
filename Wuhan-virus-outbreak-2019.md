@@ -249,6 +249,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
   - [more details](http://web.archive.org/web/20200228213654/https://www.straitstimes.com/singapore/health/novel-coronavirus-cases-in-singapore)
 * [Chinese laboratory that first shared coronavirus genome with world ordered to close for ‘rectification’, hindering its Covid-19 research](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered) &mdash; Chinese lab shut down after sharing the genome sequence of the virus
 * [The Coronavirus and How Political Spin Has Worsened Epidemics](web.archive.org/web/20200228234834/https://www.newyorker.com/news/daily-comment/the-coronavirus-and-how-political-spin-has-worsened-epidemics) &mdash; on past epidemics and what their analysis reveals about the relation between politicians and facts
+* [Partly false claim: a 1981 book predicted the coronavirus 2019 outbreak](http://web.archive.org/web/20200303122038/https://www.reuters.com/article/uk-factcheck-coronavirus-koontz-book/partly-false-claima-1981-book-predicted-the-coronavirus-2019-outbreak-idUSKCN20M19I)
 
 # Quarantine
 
