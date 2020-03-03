@@ -250,6 +250,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * [Chinese laboratory that first shared coronavirus genome with world ordered to close for ‘rectification’, hindering its Covid-19 research](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered) &mdash; Chinese lab shut down after sharing the genome sequence of the virus
 * [The Coronavirus and How Political Spin Has Worsened Epidemics](web.archive.org/web/20200228234834/https://www.newyorker.com/news/daily-comment/the-coronavirus-and-how-political-spin-has-worsened-epidemics) &mdash; on past epidemics and what their analysis reveals about the relation between politicians and facts
 * [Partly false claim: a 1981 book predicted the coronavirus 2019 outbreak](http://web.archive.org/web/20200303122038/https://www.reuters.com/article/uk-factcheck-coronavirus-koontz-book/partly-false-claima-1981-book-predicted-the-coronavirus-2019-outbreak-idUSKCN20M19I)
+* [The West Is About to Fail the Coronavirus Test &mdash; China made huge mistakes managing the outbreak. The rest of the world may not do any better.](http://web.archive.org/web/20200224225949/https://foreignpolicy.com/2020/02/24/west-coronavirus-china-quarantine-covid-19-pandemic/) 
+  * > Unless governments choose to strengthen global health coordination and enact evidence-based policies, the result, in both authoritarian and democratic states alike, will be a man-made disaster as much as a natural one.
 
 # Quarantine
 
