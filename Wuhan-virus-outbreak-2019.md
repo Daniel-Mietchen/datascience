@@ -45,7 +45,7 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 - [Zeit](https://www.zeit.de/thema/coronavirus)
 
 ## WHO visit to China
-- [25 February 2020](https://twitter.com/WHO/status/1232321776928968705): [Live from Geneva with Dr Bruce Aylward, lead of the #COVID19 international experts mission in #China](https://www.pscp.tv/w/1yNxaQEyjjjxj)
+- [25 February 2020](https://twitter.com/WHO/status/1232321776928968705): [Live from Geneva with Dr Bruce Aylward, lead of the #COVID19 international experts mission in #China](http://web.archive.org/web/20200303130142/https://www.pscp.tv/w/1yNxaQEyjjjxj)
 - 2 March 2020: [China’s cases of Covid-19 are finally declining. A WHO expert explains why.](http://web.archive.org/web/20200303124443/https://www.vox.com/2020/3/2/21161067/coronavirus-covid19-china)
 
 # Twitter
