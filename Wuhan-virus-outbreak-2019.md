@@ -109,6 +109,26 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 * https://twitter.com/Jhonny_hidu/status/1222023746371780609
 * https://twitter.com/FLAHAULT/status/1221387863054606337
 
+## Number of cases
+
+* [MRC Report estimating the number of cases](https://twitter.com/MRC_Outbreak/status/1218181597830221824)
+  * summed up in https://twitter.com/seeshawn/status/1218210470777237504
+* https://twitter.com/evdefender/status/1224516837318307840
+* https://twitter.com/VGKnightinArmor/status/1225065199801004037 real numbers accidentally leaked, allegedly
+  - https://twitter.com/rohitindians/status/1225268657330089985 more comment on this
+
+## Number of tests
+
+* [Coronavirus Testing: Criteria and Numbers by Country](https://www.worldometers.info/coronavirus/covid-19-testing/)
+
+## Outbreak prediction
+
+* [How artificial intelligence provided early warnings of the Wuhan virus](https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/)
+
+## Pandemic preparedness plan
+
+* For Germany, a detailed risk analysis is available via "[Risikoanalyse Bevölkerungsschutz Bund &mdash; Pandemie durch Virus „Modi-SARS“](http://dipbt.bundestag.de/dip21/btd/17/120/1712051.pdf)"
+
 ## Phylogenetics
 
 * [https://nextstrain.org/ncov](https://nextstrain.org/ncov)
@@ -127,22 +147,6 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 ## RNA Structure prediction algorithm
 
 * [Baidu Open-Sources RNA Prediction Algorithm for 2019 Novel Coronavirus](https://syncedreview.com/2020/02/04/baidu-open-sources-rna-prediction-algorithm-for-2019-novel-coronavirus/)
-
-## Number of cases
-
-* [MRC Report estimating the number of cases](https://twitter.com/MRC_Outbreak/status/1218181597830221824)
-  * summed up in https://twitter.com/seeshawn/status/1218210470777237504
-* https://twitter.com/evdefender/status/1224516837318307840
-* https://twitter.com/VGKnightinArmor/status/1225065199801004037 real numbers accidentally leaked, allegedly
-  - https://twitter.com/rohitindians/status/1225268657330089985 more comment on this
-
-## Outbreak prediction
-
-* [How artificial intelligence provided early warnings of the Wuhan virus](https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/)
-
-## Pandemic preparedness plan
-
-* For Germany, a detailed risk analysis is available via "[Risikoanalyse Bevölkerungsschutz Bund &mdash; Pandemie durch Virus „Modi-SARS“](http://dipbt.bundestag.de/dip21/btd/17/120/1712051.pdf)"
 
 ## Scholia
 
