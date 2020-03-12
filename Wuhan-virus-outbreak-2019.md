@@ -20,6 +20,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 - [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
   - [YouTube video series](https://www.youtube.com/watch?v=Nu9vla6RhWI)
 - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
+  - e.g. [Thuringia](https://www.tmasgff.de/covid-19)
+    - [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus)
 - South Korea
   - Korean CDC [질병관리본부](https://www.cdc.go.kr/search/search.es?mid=a20101000000) (inactive)
   - Korean Ministry of Health and Welfare 
@@ -276,4 +278,3 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 # See also
 
-* [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus)
