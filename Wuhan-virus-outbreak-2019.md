@@ -8,7 +8,8 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 - http://virological.org/ for specialists
 - http://covidreport.net/ for public
 - [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/) for broader public
-
+- [UVA](https://www.virginia.edu/coronavirus)
+  - [Research Continuity Guidance for Laboratories and Research Facilities](https://research.virginia.edu/ResearchContinuity)
 
 # Situation reports
 
