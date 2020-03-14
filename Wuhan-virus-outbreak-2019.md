@@ -1,6 +1,6 @@
 # About 
 
-This file tracks information related to the viral outbreak in Wuhan, China, in 2019-2020, with an eye on data-related matters, especially data sharing or the lack of it.
+This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. The notes are being collected with with an eye on data-related matters, especially data sharing or the lack of it.
 
 # Community portals
 
@@ -20,8 +20,10 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
 - [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
   - [YouTube video series](https://www.youtube.com/watch?v=Nu9vla6RhWI)
-- [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
-  - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
+- Germany
+  - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
+    - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
+  - [hospital beds](http://ardsnetzwerk.de/ards-melderegister/)
   - [Thuringia](https://www.tmasgff.de/covid-19)
     - [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus)
 - South Korea
