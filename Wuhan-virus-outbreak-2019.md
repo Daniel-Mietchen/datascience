@@ -23,6 +23,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - Germany
   - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
     - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
+      - [overview](https://covid-19.openmedical.de/)
   - [hospital beds](http://ardsnetzwerk.de/ards-melderegister/)
   - [Thuringia](https://www.tmasgff.de/covid-19)
     - [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus)
