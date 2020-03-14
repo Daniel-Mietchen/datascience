@@ -280,3 +280,4 @@ This file tracks information related to the viral outbreak in Wuhan, China, in 2
 
 # See also
 
+* [Carbon footprint effects of the pandemic](http://web.archive.org/web/20200313231356/https://www.nytimes.com/2020/03/13/climate/coronavirus-habits-carbon-footprint.html)
