@@ -34,6 +34,9 @@ This file collects materials related to pledges and similar aspirational stateme
       - > "I hereby confirm that the signing organization commits to the Enabling FAIR Data objectives as defined in the Commitment Statement. We will review the commitment elements, develop a plan to address gaps, and complete the plan within one year of signing (or soonest)."
     - [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/endorsements-and-signatures/organization-list/)
     - [Sustainability Tracking, Assessment & Rating System](https://stars.aashe.org/)
+    - [LUCSUS travel policy](http://web.archive.org/web/20191207070441/https://www.lucsus.lu.se/article/lucsus-presents-new-travel-policy-to-reduce-work-related-emissions)
+      - [editable version](https://docs.google.com/document/d/1ZVRjoQAzWsx4e9okCP00d9rvXA28776hgiNTjZaDYko/edit)
+      - [background](http://web.archive.org/web/20190717041419/http://www.kimnicholas.com/academics-flying-less.html)
 
 # Potential dimensions of pledges
 
