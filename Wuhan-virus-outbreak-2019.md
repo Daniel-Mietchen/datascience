@@ -41,7 +41,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - [nCoV2019 Data Explorer](https://scarpino.shinyapps.io/Emergent_Epidemics_Lab_nCoV2019/)
 - [Coronavirus Tracker](https://visalist.io/emergency/coronavirus)
 - [NCoV2019 Live](https://ncov2019.live/data) &mdash; [built by a highschooler](https://ncov2019.live/data)
-
+- [nCovForecast](https://benflips.shinyapps.io/nCovForecast/)
 
 ## Publishers, journals and repositories
 
