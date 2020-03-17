@@ -4,7 +4,9 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 # Community portals
 
-- [English Wikipedia](https://en.wikipedia.org/wiki/Template:COVID-19)
+- WikiProject COVID-19
+  - [Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject%20COVID-19)
+  - [English Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_COVID-19)
 - http://virological.org/ for specialists
 - http://covidreport.net/ for public
 - [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/) for broader public
