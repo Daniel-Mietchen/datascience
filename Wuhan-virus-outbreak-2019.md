@@ -69,6 +69,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 * [Here’s a Timeline of How China’s Viral Outbreak Spread Worldwide](https://futurism.com/neoscope/timeline-china-viral-outbreak-spread-worldwide) (as of January 24, 2020)
 - [Reuters](https://twitter.com/Reuters/status/1223362921411088387)
+- [from supposed patient 1](http://web.archive.org/web/20200317214157/https://twitter.com/EllaContor/status/1234002441235906560)
 
 # Open questions
 
