@@ -1,6 +1,6 @@
 # About 
 
-This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. The notes are being collected with with an eye on data-related matters, especially data sharing or the lack of it.
+This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. The notes are being collected with an eye on data-related matters, especially data sharing or the lack of it.
 
 # Community portals
 
