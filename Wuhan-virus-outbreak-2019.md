@@ -188,6 +188,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * https://twitter.com/DNLandkar/status/1223582465165611009
 * 2020-02-04: [Experts envision two scenarios if the new coronavirus isn’t contained](https://www.statnews.com/2020/02/04/two-scenarios-if-new-coronavirus-isnt-contained/)
 * 2020-03-18: [At least 400,000 infections expected](https://www.bangkokpost.com/thailand/general/1880940/at-least-400-000-infections-expected) (in Thailand) &mdash; peak of infections projected for early 2021
+* ["the pandemic and some imposed restrictions could last two years."](https://www.dw.com/en/germany-coronavirus-threat-raised-to-high-alert/a-52809780) (in Germany)
 
 # Scientific culture
 
