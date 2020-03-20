@@ -105,6 +105,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 * https://twitter.com/RH4N6/status/1223325945110704131
 * https://twitter.com/DrDenaGrayson/status/1223241354479906816
+* 2020-03-20: [Politically infectious period](https://virologydownunder.com/politically-infectious-period/) &mdash; outlines differences and overlap between incubation period and infectious period
 
 ## Genome data
 * [Pre-release tweet by WHO](https://twitter.com/WHO/status/1216108498188230657)
