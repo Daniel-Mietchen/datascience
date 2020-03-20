@@ -172,6 +172,10 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - [app](https://cmmid-lshtm.shinyapps.io/traveller_screening/)
   - [preprint](https://cmmid.github.io/ncov/airport_screening_report/airport_screening_preprint_2020_01_30.pdf)
 
+## Social distancing
+
+* reframed as "healthy distancing" in [The Behavioral Side of COVID-19](https://www.ideas42.org/blog/the-behavioral-side-of-covid-19/)
+
 ## Spread
 
 * data integration of disease vulnerability and air traffic
