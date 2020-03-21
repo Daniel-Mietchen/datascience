@@ -294,6 +294,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * [Japan testing 3,700 people quarantined on cruise ship after Hong Kong novel coronavirus case](https://www.channelnewsasia.com/news/asia/japan-wuhan-coronavirus-cruise-ship-quarantine-virus-12388092)
 
 
-# See also
+# Environmental effects
 
 * [Carbon footprint effects of the pandemic](http://web.archive.org/web/20200313231356/https://www.nytimes.com/2020/03/13/climate/coronavirus-habits-carbon-footprint.html)
+* [New data of #COVID-19 effects on the significant decline of nitrogen dioxide over China, now again increasing as lockdown is over](https://www.severe-weather.eu/global-weather/nitrogen-dioxide-emissions-china-mk/)
