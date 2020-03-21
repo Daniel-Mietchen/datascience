@@ -46,6 +46,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - [NCoV2019 Live](https://ncov2019.live/data) &mdash; [built by a highschooler](https://ncov2019.live/data)
 - [nCovForecast](https://benflips.shinyapps.io/nCovForecast/)
 - [Coronavirus COVID-19 România](https://covid19.geo-spatial.org/dashboard/statistics/relation-cases)
+  - [with data sharing manifest](https://covid19.geo-spatial.org/dashboard/manifest)
 
 ## Publishers, journals and repositories
 
