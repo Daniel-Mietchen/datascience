@@ -127,8 +127,6 @@ This file tracks information related to the COVID-19 viral outbreak that started
     - [Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)](http://doi.org/10.1126/science.abb3221)
   - long Twitter thread ["Let’s talk about what happens if you get COVID19 and recover."](https://threadreaderapp.com/thread/1240689935557865472.html)
   - See also
-    - [Iceland is testing a random sample of its population systematically](https://www.government.is/news/article/2020/03/15/Large-scale-testing-of-general-population-in-Iceland-underway/)
-      - seen via https://twitter.com/surgeonretina/status/1241470494823636993
     - ["HOWEVER BIG FLOODS GET, there will always be a bigger one coming. So says one theory of extremes, and experience suggests it is true."](https://twitter.com/cubic_logic/status/1239935828169809926)
 
 ## Epidemiology
@@ -177,6 +175,14 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * [https://nextstrain.org/ncov](https://nextstrain.org/ncov)
   - based on GISAID data
 * [Preliminary phylogenetic analysis of 11 nCoV2019 genomes, 2020-01-19 ](http://virological.org/t/preliminary-phylogenetic-analysis-of-11-ncov2019-genomes-2020-01-19/329)
+
+## Population stats
+
+* Cruise ship Diamond Princess
+  - [Estimating the infection and case fatality ratio for COVID-19 using age-adjusted data from the outbreak on the Diamond Princess cruise ship](https://doi.org/10.1101/2020.03.05.20031773)
+    - [commentary](https://wattsupwiththat.com/2020/03/16/diamond-princess-mysteries/)
+* [Iceland is testing a random sample of its population systematically](https://www.government.is/news/article/2020/03/15/Large-scale-testing-of-general-population-in-Iceland-underway/)
+  - seen via https://twitter.com/surgeonretina/status/1241470494823636993
 
 ## Publishing
 
