@@ -1,6 +1,6 @@
 # About 
 
-This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. These notes were [started](https://github.com/Daniel-Mietchen/datascience/commit/7187877698f8640002a1cd1b1f6d59cf6383c219#diff-73fd4c8eea37e48004cbcf4cb85461a4) on January 17, 2020, with an eye on data-related matters, especially data sharing or the lack of it, as per the more broadly scoped umbrella file, [emergency-response.md](emergency-response.md). 
+This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. These notes were [started](https://github.com/Daniel-Mietchen/datascience/commit/7187877698f8640002a1cd1b1f6d59cf6383c219#diff-73fd4c8eea37e48004cbcf4cb85461a4) on January 17, 2020, with an eye on data-related matters, especially data sharing or the lack of it, as per the more broadly scoped umbrella file, [emergency-response.md](emergency-response.md). Since then, lots of sources of information (and misinformation) on the topic have sprung up, and I have tried to insert my notes into the Wikimedia ecosystem when appropriate, rather than detailing things here.
 
 # Community portals
 
@@ -136,6 +136,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * https://twitter.com/RH4N6/status/1223325945110704131
 * https://twitter.com/DrDenaGrayson/status/1223241354479906816
 * 2020-03-20: [Politically infectious period](https://virologydownunder.com/politically-infectious-period/) &mdash; outlines differences and overlap between incubation period and infectious period
+* 2020-03-20: [Why we’re not overreacting to the coronavirus, in one chart](https://www.vox.com/future-perfect/2020/3/20/21179040/coronavirus-us-italy-not-overreacting)
 
 ## Genome data
 * [Pre-release tweet by WHO](https://twitter.com/WHO/status/1216108498188230657)
