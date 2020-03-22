@@ -378,4 +378,5 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * [Case fatality risk of influenza A(H1N1pdm09): a systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3809029/)
 * [Nonpharmaceutical Interventions Implemented by US Cities During the 1918-1919 Influenza Pandemic](https://doi.org/10.1001/jama.298.6.644)
 * [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
+  - [commentary](https://necsi.edu/review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions)
 - [armchair epidemiology](https://medium.com/@noahhaber/flatten-the-curve-of-armchair-epidemiology-9aa8cf92d652)
