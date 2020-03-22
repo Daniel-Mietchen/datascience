@@ -1,6 +1,6 @@
 # About 
 
-This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. The notes are being collected with an eye on data-related matters, especially data sharing or the lack of it.
+This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. The file was [started](https://github.com/Daniel-Mietchen/datascience/commit/7187877698f8640002a1cd1b1f6d59cf6383c219#diff-73fd4c8eea37e48004cbcf4cb85461a4) on January 17, 2020, with an eye on data-related matters, especially data sharing or the lack of it, as per the more broadly scoped umbrella file, [emergency-response.md](emergency-response.md). 
 
 # Community portals
 
