@@ -118,7 +118,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - [A rebuttal to "A fiasco in the making?"](http://hildabastian.net/index.php/8-secondary/87) by Hilda Bastian
     - ["Fiasco" rebuttal postscript: What about that 0.3% case fatality estimate?](http://hildabastian.net/index.php/8-secondary/88) &mdash; part 2
   - short Twitter responses
-    - I saw a nice one here about essentially being confronted with a beast and then requesting data before deciding to run. It was referred to by some as having "nailed it", but I lost it in when juggling multiple tabs on the issue and could not find it via search yet.
+    - https://twitter.com/Firefly_fan/status/1240695004428787713
     - quoting WHO ED ["If you need to be right before you move, you will never win"](https://twitter.com/ClaudeDunn/status/1239993495764557827)
   - [Why you are harming others by not "overreacting"](https://twitter.com/nntaleb/status/1239243622916259841)
     - [Ethics of Precaution: Individual and Systemic Risk](https://www.youtube.com/watch?v=bWtMYCR6Adc)
