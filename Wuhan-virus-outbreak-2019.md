@@ -1,6 +1,6 @@
 # About 
 
-This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. The file was [started](https://github.com/Daniel-Mietchen/datascience/commit/7187877698f8640002a1cd1b1f6d59cf6383c219#diff-73fd4c8eea37e48004cbcf4cb85461a4) on January 17, 2020, with an eye on data-related matters, especially data sharing or the lack of it, as per the more broadly scoped umbrella file, [emergency-response.md](emergency-response.md). 
+This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. These notes were [started](https://github.com/Daniel-Mietchen/datascience/commit/7187877698f8640002a1cd1b1f6d59cf6383c219#diff-73fd4c8eea37e48004cbcf4cb85461a4) on January 17, 2020, with an eye on data-related matters, especially data sharing or the lack of it, as per the more broadly scoped umbrella file, [emergency-response.md](emergency-response.md). 
 
 # Community portals
 
@@ -9,6 +9,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - [English Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_COVID-19)
 - http://virological.org/ for specialists
 - http://covidreport.net/ for public
+- https://www.endcoronavirus.org/ for everyone to be part of the solution
 - [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/) for broader public
 - [UVA](https://www.virginia.edu/coronavirus)
   - [Research Continuity Guidance for Laboratories and Research Facilities](https://research.virginia.edu/ResearchContinuity)
@@ -47,6 +48,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - [nCovForecast](https://benflips.shinyapps.io/nCovForecast/)
 - [Coronavirus COVID-19 România](https://covid19.geo-spatial.org/dashboard/statistics/relation-cases)
   - [with data sharing manifest](https://covid19.geo-spatial.org/dashboard/manifest)
+- [University of Washington Virology COVID-19 Dashboard ](http://depts.washington.edu/labmed/covid19/)
 
 ## Publishers, journals and repositories
 
@@ -57,12 +59,14 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - [The Lancet](https://www.thelancet.com/coronavirus)
 - [Science](https://www.sciencemag.org/tags/coronavirus)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
+  - [ScienceDirect](https://www.sciencedirect.com/search/advanced?qs=%22COVID-19%22%20OR%20Coronavirus%20OR%20%22Corona%20virus%22%20OR%20%222019-nCoV%22%20OR%20%22SARS-CoV%22%20OR%20%22MERS-CoV%22%20OR%20%E2%80%9CSevere%20Acute%20Respiratory%20Syndrome%E2%80%9D%20OR%20%E2%80%9CMiddle%20East%20Respiratory%20Syndrome%E2%80%9D&show=100&ent=true)
 - [MedRxiv](https://www.medrxiv.org/search/coronavirus%20numresults:10%20sort:publication-date%20direction:descending)
 - [Zeit](https://www.zeit.de/thema/coronavirus)
 
 ## WHO visit to China
 - [25 February 2020](https://twitter.com/WHO/status/1232321776928968705): [Live from Geneva with Dr Bruce Aylward, lead of the #COVID19 international experts mission in #China](http://web.archive.org/web/20200303130142/https://www.pscp.tv/w/1yNxaQEyjjjxj)
 - 2 March 2020: [China’s cases of Covid-19 are finally declining. A WHO expert explains why.](http://web.archive.org/web/20200303124443/https://www.vox.com/2020/3/2/21161067/coronavirus-covid19-china)
+* [Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 
 # Twitter
 
@@ -75,9 +79,12 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * [Here’s a Timeline of How China’s Viral Outbreak Spread Worldwide](https://futurism.com/neoscope/timeline-china-viral-outbreak-spread-worldwide) (as of January 24, 2020)
 - [Reuters](https://twitter.com/Reuters/status/1223362921411088387)
 - [from supposed patient 1](http://web.archive.org/web/20200317214157/https://twitter.com/EllaContor/status/1234002441235906560)
+- [Timeline: The Regulations—and Regulators—That Delayed Coronavirus Testing](https://thedispatch.com/p/timeline-the-regulationsand-regulatorsthat)
 
 # Open questions
+*These are some of the questions that have been open at some point in the pandemic. Some have decent answers by now.*
 
+* [Why the Coronavirus Has Been So Successful](https://twitter.com/NAChristakis/status/1241198092143247361) &mdash; overview of what's known about the virus, the disease and the outbreak as of mid-March 2020
 * [Was the Huanan seafood market at the epicenter?](https://twitter.com/suilee/status/1217730098494722048)
   - If so, 
     - what there was it?
@@ -102,6 +109,27 @@ This file tracks information related to the COVID-19 viral outbreak that started
 ## Data sharing policy
 
 * Wellcome-led statement [Sharing research data and findings relevant to the novel coronavirus](https://wellcome.ac.uk/press-release/sharing-research-data-and-findings-relevant-novel-coronavirus-ncov-outbreak), reaffirming the 2016 one
+
+## Decision-making based on incomplete data
+
+* 2020-03-17: [A fiasco in the making? As the coronavirus pandemic takes hold, we are making decisions without reliable data](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/) by John Ioannidis
+  - [We know enough now to act decisively against Covid-19. Social distancing is a good place to start](https://www.statnews.com/2020/03/18/we-know-enough-now-to-act-decisively-against-covid-19/) &mdash; rebuttal by Marc Lipsitch
+  - [A fiasco in the making: More data is not the answer to the coronavirus pandemic ](https://www.researchers.one/article/2020-03-10) &mdash; another rebuttal by Harry Crane
+  - [A rebuttal to "A fiasco in the making?"](http://hildabastian.net/index.php/8-secondary/87) by Hilda Bastian
+    - ["Fiasco" rebuttal postscript: What about that 0.3% case fatality estimate?](http://hildabastian.net/index.php/8-secondary/88) &mdash; part 2
+  - short Twitter responses
+    - I saw a nice one here about essentially being confronted with a beast and then requesting data before deciding to run. It was referred to by some as having "nailed it", but I lost it in when juggling multiple tabs on the issue and could not find it via search yet.
+    - quoting WHO ED ["If you need to be right before you move, you will never win"](https://twitter.com/ClaudeDunn/status/1239993495764557827)
+  - [Why you are harming others by not "overreacting"](https://twitter.com/nntaleb/status/1239243622916259841)
+    - [Ethics of Precaution: Individual and Systemic Risk](https://www.youtube.com/watch?v=bWtMYCR6Adc)
+      - [Macadonian translation](https://drive.google.com/file/d/1aIuEqH17Yd-WhmaIQloAiOs_apTTXinZ/view)
+      - [Twitter thread](https://twitter.com/nntaleb/status/1239243622916259841)
+    - [Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)](http://doi.org/10.1126/science.abb3221)
+  - long Twitter thread ["Let’s talk about what happens if you get COVID19 and recover."](https://threadreaderapp.com/thread/1240689935557865472.html)
+  - See also
+    - [Iceland is testing a random sample of its population systematically](https://www.government.is/news/article/2020/03/15/Large-scale-testing-of-general-population-in-Iceland-underway/)
+      - seen via https://twitter.com/surgeonretina/status/1241470494823636993
+    - ["HOWEVER BIG FLOODS GET, there will always be a bigger one coming. So says one theory of extremes, and experience suggests it is true."](https://twitter.com/cubic_logic/status/1239935828169809926)
 
 ## Epidemiology
 
@@ -229,7 +257,17 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * EU: [Advancing knowledge for the clinical and public health response to the 2019-nCoV epidemic (SC1-PHE-CORONAVIRUS-2020)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/interested-org-list/42862854)
 * UKRI: [2019-nCoV Rapid Response Call](https://mrc.ukri.org/funding/browse/2019-ncov-rapid-response-call/2019-ncov-rapid-response-call/)
 
+# Open hardware
+
+* [Ventilators inserting a 3d printed valve into a Decathlon snorkling mask.](https://twitter.com/DellAnnaLuca/status/1241529620010119168)
+  - > [**we decided to urgently patent the link valve** (Charlotte Valve), to prevent any speculation on the price of the component. **We clarify that the patent will remain free to use, because it is in our intention that all hospitals in need could use it if necessary.**](https://www.isinnova.it/easy-covid19-eng/)
+
 # Political aspects
+
+* Nice overviews
+  - [Coronavirus Articles](http://web.archive.org/web/20200322062148/https://medium.com/@tomaspueyo/coronavirus-articles-endorsements-fdc68614f8e3)
+    - [Coronavirus: Why You Must Act Now](http://web.archive.org/web/20200322062226/https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+    - [Coronavirus: The Hammer and the Dance](http://web.archive.org/web/20200322061000/https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
 
 ## Public Health Emergency of International Concern
 
@@ -287,11 +325,22 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * [We Predicted a Coronavirus Pandemic. Here’s What Policymakers Could Have Seen Coming. Last year we ran a disaster scenario shockingly similar to the news now. Here’s what experts realized the world is getting wrong, and how they can fix it.](http://web.archive.org/web/20200309002258/https://www.politico.com/news/magazine/2020/03/07/coronavirus-epidemic-prediction-policy-advice-121172)
   > "We also concluded that communication is vital—but a decline in trust makes it harder. Dramatic shifts in the world also raised new alarm bells for health security in our exercise. The first of these is the need for consistent messaging and trusted sources of information. A critical ingredient for addressing pandemics is public order and obedience to protocols, rationing, and other measures that might be needed. Today, public trust in institutions and leaders is fragile, with routine evidence of intentional disinformation by foreign actors and elected officials alike."
   > "Across all the threat streams we examined, early detection, public and international trust and information sharing, and harnessing innovation in the private sector were vital to effective risk reduction."
+* Most trustworthy professions
+  - https://twitter.com/jayvanbavel/status/1241434830828699650
 
 # Quarantine
 
 * [Chinese boy with cerebral palsy dies while father is in virus quarantine](https://www.rappler.com/world/regions/asia-pacific/250951-chinese-boy-cerebral-palsy-dies-father-virus-quarantine)
 * [Japan testing 3,700 people quarantined on cruise ship after Hong Kong novel coronavirus case](https://www.channelnewsasia.com/news/asia/japan-wuhan-coronavirus-cruise-ship-quarantine-virus-12388092)
+
+# China
+
+* [The Demand for Inpatient and ICU Beds for COVID-19 in the US: Lessons From Chinese Cities](http://nrs.harvard.edu/urn-3:HUL.InstRepos:42599304)
+
+# Italy
+
+* [Coronavirus: Italy's hardest-hit city wants you to see how COVID-19 is affecting its hospitals ](http://web.archive.org/web/20200322045527/https://news.sky.com/story/coronavirus-they-call-it-the-apocalypse-inside-italys-hardest-hit-hospital-11960597)
+  - seen via https://twitter.com/NAChristakis/status/1241187307052564480
 
 # Germany
 * [COVID-19 flyer by Robert-Koch-Institut](https://gesundheit.jena.de/sites/default/files/2020-03/20_0075_Quarant%C3%A4ne_Flyer_V22.pdf)
@@ -310,6 +359,15 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * [New data of #COVID-19 effects on the significant decline of nitrogen dioxide over China, now again increasing as lockdown is over](https://www.severe-weather.eu/global-weather/nitrogen-dioxide-emissions-china-mk/)
   - based on [this ESA video](https://www.youtube.com/watch?v=6DWBhp-oKOI)
 
+# Long-term effects
+
+* [Coronavirus Will Change the World Permanently. Here’s How.](http://web.archive.org/web/20200320123532/https://www.politico.com/news/magazine/2020/03/19/coronavirus-effect-economy-life-society-analysis-covid-135579)
+
 # See also 
 
 * [CDC's weekly overview of clinical flu testing](https://www.cdc.gov/flu/weekly/#ClinicalLaboratories)
+* [Average disease deaths per day worldwide](https://twitter.com/BarrysStrawman/status/1239996302068305921) (underestimating the COVID-19 cases but putting them into perspective)
+* [Case fatality risk of influenza A(H1N1pdm09): a systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3809029/)
+* [Nonpharmaceutical Interventions Implemented by US Cities During the 1918-1919 Influenza Pandemic](https://doi.org/10.1001/jama.298.6.644)
+* [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
+- [armchair epidemiology](https://medium.com/@noahhaber/flatten-the-curve-of-armchair-epidemiology-9aa8cf92d652)
