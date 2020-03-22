@@ -342,6 +342,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 * [Coronavirus: Italy's hardest-hit city wants you to see how COVID-19 is affecting its hospitals ](http://web.archive.org/web/20200322045527/https://news.sky.com/story/coronavirus-they-call-it-the-apocalypse-inside-italys-hardest-hit-hospital-11960597)
   - seen via https://twitter.com/NAChristakis/status/1241187307052564480
+* [changes in the number of obituaries in a daily newspaper, Eco di Bergamo](https://twitter.com/NaomiOhReally/status/1238868163208634371)
 
 # Germany
 * [COVID-19 flyer by Robert-Koch-Institut](https://gesundheit.jena.de/sites/default/files/2020-03/20_0075_Quarant%C3%A4ne_Flyer_V22.pdf)
