@@ -29,6 +29,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
       - [overview](https://covid-19.openmedical.de/)
   - [hospital beds](http://ardsnetzwerk.de/ards-melderegister/)
     - site [moved](https://www.divi.de/register/intensivregister)
+     - [map](https://www.divi.de/register/kartenansicht)
   - [Thuringia](https://www.tmasgff.de/covid-19)
     - [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus)    
 - South Korea
