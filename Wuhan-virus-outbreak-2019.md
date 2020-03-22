@@ -29,7 +29,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - [hospital beds](http://ardsnetzwerk.de/ards-melderegister/)
     - site [moved](https://www.divi.de/register/intensivregister)
   - [Thuringia](https://www.tmasgff.de/covid-19)
-    - [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus)
+    - [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus)    
 - South Korea
   - Korean CDC [질병관리본부](https://www.cdc.go.kr/search/search.es?mid=a20101000000) (inactive)
   - Korean Ministry of Health and Welfare 
@@ -292,6 +292,16 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 * [Chinese boy with cerebral palsy dies while father is in virus quarantine](https://www.rappler.com/world/regions/asia-pacific/250951-chinese-boy-cerebral-palsy-dies-father-virus-quarantine)
 * [Japan testing 3,700 people quarantined on cruise ship after Hong Kong novel coronavirus case](https://www.channelnewsasia.com/news/asia/japan-wuhan-coronavirus-cruise-ship-quarantine-virus-12388092)
+
+# Germany
+* [COVID-19 flyer by Robert-Koch-Institut](https://gesundheit.jena.de/sites/default/files/2020-03/20_0075_Quarant%C3%A4ne_Flyer_V22.pdf)
+* Thuringia
+  - Jena
+    - [Allgemeinverfügung 18 March](https://gesundheit.jena.de/sites/default/files/2020-03/Allgemeinverfu%CC%88gung%20der%20Stadt%20Jena%20vom%2018.03.2020.pdf) &mdash; details on partial lockdown
+    - [Allgemeinverfügung 19 March](https://gesundheit.jena.de/sites/default/files/2020-03/Allgemeinverfu%CC%88gung%20Erweiterung%20Risikogebiete%20%28Stand%2019.03.20%29.pdf)
+    - posters 
+      - [Coronavirus – was tun?](https://gesundheit.jena.de/sites/default/files/2020-03/poster_neu_0.pdf)
+      - [Meldepflicht und  sofortige Quarantäne](https://gesundheit.jena.de/sites/default/files/2020-03/poster_meldepflicht.pdf)
 
 
 # Environmental effects
