@@ -370,7 +370,30 @@ This file tracks information related to the COVID-19 viral outbreak that started
 # Long-term effects
 
 * [Coronavirus Will Change the World Permanently. Here’s How.](http://web.archive.org/web/20200320123532/https://www.politico.com/news/magazine/2020/03/19/coronavirus-effect-economy-life-society-analysis-covid-135579)
-
+  - some quotes
+    - > "“Is there any good reason to do this in person?”"
+    - > "Maybe the de-militarization of American patriotism and love of community will be one of the benefits to come out of this whole awful mess."
+    - > "The coronavirus pandemic marks the end of our romance with market society and hyper-individualism."
+    - > "All faiths have dealt with the challenge of keeping faith alive under the adverse conditions of war or diaspora or persecution—but never all faiths at the same time."
+    - > "Plagues drive change."
+    - > "The resistance—led by teachers’ unions and the politicians beholden to them—to allowing partial homeschooling or online learning for K-12 kids has been swept away by necessity."
+    - > "This is breaking open a medium with human generosity and empathy."
+    - > "VR allows us to have the experiences we want even if we have to be isolated, quarantined or alone. Maybe that will be how we adapt and stay safe in the next outbreak."
+    - > "Out of necessity, remote office visits could skyrocket in popularity as traditional-care settings are overwhelmed by the pandemic."
+    - > "This crisis should unleash widespread political support for Universal Family Care"
+    - > "The coronavirus has laid bare the failures of our costly, inefficient, market-based system for developing, researching and manufacturing medicines and vaccines."
+    - > "Unlike with tobacco use or climate change, science doubters will be able to see the impacts of the coronavirus immediately."
+    - > "Coronavirus is going to force many institutions to go virtual. One that would greatly benefit from the change is the U.S. Congress."
+    - > "The widely accepted idea that government is inherently bad won’t persist after coronavirus."
+    - > " The coronavirus is this century’s most urgent challenge to humanity. Harnessing a new sense of solidarity, citizens of states and cities will rise to face the enormous challenges ahead such as climate change and transforming our era of historic inequality into one of economic inclusion."
+    - > "It’s clear that in a crisis, the rules don’t apply—which makes you wonder why they are rules in the first place. This is an unprecedented opportunity to not just hit the pause button and temporarily ease the pain, but to permanently change the rules so that untold millions of people aren’t so vulnerable to begin with."
+    - > "Most of all, we need to remember that public trust is crucial to governance—and that trust depends on telling the truth."
+    - > "Expect a political uprising"
+    - > "Electronic voting goes mainstream"
+    - > "Election Day will become Election Month"
+    - > "Voting by mail will become the norm"
+ 
+ 
 # See also 
 
 * [CDC's weekly overview of clinical flu testing](https://www.cdc.gov/flu/weekly/#ClinicalLaboratories)
