@@ -21,13 +21,14 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
   - [situation dashboard](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
-- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
-- [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
-  - [YouTube video series](https://www.youtube.com/watch?v=Nu9vla6RhWI)
+- US
+  - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
 - Germany
   - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
     - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
       - [overview](https://covid-19.openmedical.de/)
+  - [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
+    - [YouTube video series](https://www.youtube.com/watch?v=Nu9vla6RhWI)
   - [hospital beds](http://ardsnetzwerk.de/ards-melderegister/)
     - site [moved](https://www.divi.de/register/intensivregister)
      - [map](https://www.divi.de/register/kartenansicht)
