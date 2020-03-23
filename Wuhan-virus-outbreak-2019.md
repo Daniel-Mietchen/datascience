@@ -52,6 +52,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - [University of Washington Virology COVID-19 Dashboard ](http://depts.washington.edu/labmed/covid19/)
 - [Total confirmed cases versus total confirmed deaths](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-confirmed-deaths) (by country)
 - [Comparing the infection curves of different countries](https://cream.io/?m=tc&r=United%20States%2C-49&r=Italy%2C-40&r=South%20Korea%2C-36&r=Germany%2C-49&r=France%2C-48&s=linear&z=3)
+- [CoVID 19 Worldwide Growth Rates](http://nrg.cs.ucl.ac.uk/mjh/covid19/)
 
 ## Publishers, journals and repositories
 
