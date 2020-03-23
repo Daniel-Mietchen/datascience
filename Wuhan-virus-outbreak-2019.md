@@ -241,6 +241,12 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * 2020-03-18: [At least 400,000 infections expected](https://www.bangkokpost.com/thailand/general/1880940/at-least-400-000-infections-expected) (in Thailand) &mdash; peak of infections projected for early 2021
 * ["the pandemic and some imposed restrictions could last two years."](https://www.dw.com/en/germany-coronavirus-threat-raised-to-high-alert/a-52809780) (in Germany)
 
+# Education
+
+* about half the world's schools are closed as of mid-March
+* lots of online initiatives
+  - https://www.covidtutoring.org/
+
 # Scientific culture
 
 * On January 24, 2020, the Washington Post ran a piece specifically on the pace and openness of research on the virus and how it reflects a change in the scientific culture ["Scientists are unraveling the Chinese coronavirus with unprecedented speed and opennessScientists are unraveling the Chinese coronavirus with unprecedented speed and openness"](http://web.archive.org/web/20200131132127/https://www.washingtonpost.com/science/2020/01/24/scientists-are-unraveling-chinese-coronavirus-with-unprecedented-speed-openness/)
