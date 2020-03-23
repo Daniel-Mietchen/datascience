@@ -343,17 +343,24 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * [Chinese boy with cerebral palsy dies while father is in virus quarantine](https://www.rappler.com/world/regions/asia-pacific/250951-chinese-boy-cerebral-palsy-dies-father-virus-quarantine)
 * [Japan testing 3,700 people quarantined on cruise ship after Hong Kong novel coronavirus case](https://www.channelnewsasia.com/news/asia/japan-wuhan-coronavirus-cruise-ship-quarantine-virus-12388092)
 
-# China
+# Web traffic
+
+* [Wikimedia](https://addshore.com/2020/03/covid-19-wikipedia-pageviews/)
+* [Cloudflare](https://blog.cloudflare.com/on-the-shoulders-of-giants-recent-changes-in-internet-traffic/)
+
+# Individual countries
+
+## China
 
 * [The Demand for Inpatient and ICU Beds for COVID-19 in the US: Lessons From Chinese Cities](http://nrs.harvard.edu/urn-3:HUL.InstRepos:42599304)
 
-# Italy
+## Italy
 
 * [Coronavirus: Italy's hardest-hit city wants you to see how COVID-19 is affecting its hospitals ](http://web.archive.org/web/20200322045527/https://news.sky.com/story/coronavirus-they-call-it-the-apocalypse-inside-italys-hardest-hit-hospital-11960597)
   - seen via https://twitter.com/NAChristakis/status/1241187307052564480
 * [changes in the number of obituaries in a daily newspaper, Eco di Bergamo](https://twitter.com/NaomiOhReally/status/1238868163208634371)
 
-# Germany
+## Germany
 * [COVID-19 flyer by Robert-Koch-Institut](https://gesundheit.jena.de/sites/default/files/2020-03/20_0075_Quarant%C3%A4ne_Flyer_V22.pdf)
 * Thuringia
   - Jena
