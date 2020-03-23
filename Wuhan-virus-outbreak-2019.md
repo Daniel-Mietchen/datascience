@@ -10,6 +10,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - http://virological.org/ for specialists
 - http://covidreport.net/ for public
 - https://www.endcoronavirus.org/ for everyone to be part of the solution
+- [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) &mdash; similar to the above, but conscious of licensing
 - [Reddit](https://www.reddit.com/r/China/comments/ev1biz/megathread_3_wuhan_viral_outbreak/) for broader public
 - [UVA](https://www.virginia.edu/coronavirus)
   - [Research Continuity Guidance for Laboratories and Research Facilities](https://research.virginia.edu/ResearchContinuity)
