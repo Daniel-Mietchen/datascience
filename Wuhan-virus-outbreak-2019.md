@@ -369,6 +369,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * [Carbon footprint effects of the pandemic](http://web.archive.org/web/20200313231356/https://www.nytimes.com/2020/03/13/climate/coronavirus-habits-carbon-footprint.html)
 * [New data of #COVID-19 effects on the significant decline of nitrogen dioxide over China, now again increasing as lockdown is over](https://www.severe-weather.eu/global-weather/nitrogen-dioxide-emissions-china-mk/)
   - based on [this ESA video](https://www.youtube.com/watch?v=6DWBhp-oKOI)
+  - also mentioned in [this Twitter thread](https://twitter.com/iraghislain/status/1241538106995720197), along with airline capacity reductions and dolphins visibly returning to Venice due to clearer waters
 
 # Long-term effects
 
