@@ -273,6 +273,12 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * EU: [Advancing knowledge for the clinical and public health response to the 2019-nCoV epidemic (SC1-PHE-CORONAVIRUS-2020)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/interested-org-list/42862854)
 * UKRI: [2019-nCoV Rapid Response Call](https://mrc.ukri.org/funding/browse/2019-ncov-rapid-response-call/2019-ncov-rapid-response-call/)
 
+# Hackathons
+
+* [DEVPOST Coronavirus hackathons](https://devpost.com/hackathons) (multiple times and places)
+* [Wir versus Virus hackathon](https://wirvsvirushackathon.org/) (online, all around Germany, 20-22 March 2020)
+* [Hack the Crisis Finland](https://www.hackthecrisisfinland.com/) (online, all around Finland, 20-22 March 2020)
+
 # Open hardware
 
 * [Ventilators inserting a 3d printed valve into a Decathlon snorkling mask.](https://twitter.com/DellAnnaLuca/status/1241529620010119168)
