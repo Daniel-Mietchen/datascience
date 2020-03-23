@@ -286,6 +286,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 # Hackathons
 
 * [DEVPOST Coronavirus hackathons](https://devpost.com/hackathons) (multiple times and places)
+* [Virtual Biohackathon](https://github.com/virtual-biohackathons/covid-19-bh20) (online, 5-11 April 2020)
 * [Wir versus Virus hackathon](https://wirvsvirushackathon.org/) (online, all around Germany, 20-22 March 2020)
 * [Hack the Crisis Finland](https://www.hackthecrisisfinland.com/) (online, all around Finland, 20-22 March 2020)
 
