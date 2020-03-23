@@ -23,6 +23,8 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - [situation dashboard](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
 - US
   - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
+  - https://www.coronavirus.gov/
+  - https://www.nih.gov/coronavirus
 - Germany
   - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
     - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
