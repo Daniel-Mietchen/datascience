@@ -16,6 +16,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - [UVA](https://www.virginia.edu/coronavirus)
   - [Confirmed cases](https://www.virginia.edu/coronavirus/confirmed-cases)
   - [Research Continuity Guidance for Laboratories and Research Facilities](https://research.virginia.edu/ResearchContinuity)
+  - [Faculty/Staff Technology Checklist for Working Remotely](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=d8614580dba788d4d6655595ce9619eb)
 
 # Situation reports
 
