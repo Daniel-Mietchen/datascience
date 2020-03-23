@@ -25,6 +25,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - US
   - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
   - https://www.coronavirus.gov/
+  - https://www.usa.gov/coronavirus
   - https://www.nih.gov/coronavirus
 - Germany
   - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
