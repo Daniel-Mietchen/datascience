@@ -60,16 +60,16 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 ## Publishers, journals and repositories
 
-- [STAT News](https://www.statnews.com/tag/coronavirus/)
-- [New England Journal of Medicine](https://www.nejm.org/coronavirus)
 - [Nature](https://doi.org/10.1038/d41586-020-00154-w)
   - [Coronavirus collection](https://www.nature.com/collections/hajgidghjb) (continuously updated content tagged with the same DOI)
+- [New England Journal of Medicine](https://www.nejm.org/coronavirus)
 - [The Lancet](https://www.thelancet.com/coronavirus)
 - [Science](https://www.sciencemag.org/tags/coronavirus)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
   - [ScienceDirect](https://www.sciencedirect.com/search/advanced?qs=%22COVID-19%22%20OR%20Coronavirus%20OR%20%22Corona%20virus%22%20OR%20%222019-nCoV%22%20OR%20%22SARS-CoV%22%20OR%20%22MERS-CoV%22%20OR%20%E2%80%9CSevere%20Acute%20Respiratory%20Syndrome%E2%80%9D%20OR%20%E2%80%9CMiddle%20East%20Respiratory%20Syndrome%E2%80%9D&show=100&ent=true)
 - [MedRxiv](https://www.medrxiv.org/search/coronavirus%20numresults:10%20sort:publication-date%20direction:descending)
 - [Zeit](https://www.zeit.de/thema/coronavirus)
+- [STAT News](https://www.statnews.com/tag/coronavirus/)
 
 ## WHO visit to China
 - [25 February 2020](https://twitter.com/WHO/status/1232321776928968705): [Live from Geneva with Dr Bruce Aylward, lead of the #COVID19 international experts mission in #China](http://web.archive.org/web/20200303130142/https://www.pscp.tv/w/1yNxaQEyjjjxj)
