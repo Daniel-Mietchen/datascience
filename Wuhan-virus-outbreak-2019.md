@@ -396,8 +396,15 @@ This file tracks information related to the COVID-19 viral outbreak that started
     - > "Electronic voting goes mainstream"
     - > "Election Day will become Election Month"
     - > "Voting by mail will become the norm"
- 
- 
+    - > "In the best-case scenario, the trauma of the pandemic will force society to accept restraints on mass consumer culture as a reasonable price to pay to defend ourselves against future contagions and climate disasters alike."
+    - > "The coronavirus pandemic will create move pressure on corporations to weigh the efficiency and costs/benefits of a globalized supply chain system against the robustness of a domestic-based supply chain."
+    - > "The inequality gap will widen"
+    - > "Probably, given past behavior, when this pandemic is over, human beings will respond with the same sense of relief and a search for community, relief from stress and pleasure."
+    - > "Less communal dining—but maybe more cooking"
+    - > "Urban parks—in which most major cities have made significant investments over the past decade—are big enough to accommodate both crowds and social distancing."
+    - > "Urban parks—in which most major cities have made significant investments over the past decade—are big enough to accommodate both crowds and social distancing."
+    - > "This current plague time might see a recharged commitment to a closer-to-the-bone worldview that recognizes we have a short time on earth, the Doomsday Clock is a minute from midnight, and living peacefully and meaningfully together is going to take much more than bed-making and canny investments. The Power of No Habits. "
+
 # See also 
 
 * [CDC's weekly overview of clinical flu testing](https://www.cdc.gov/flu/weekly/#ClinicalLaboratories)
