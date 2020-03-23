@@ -121,6 +121,11 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 * Wellcome-led statement [Sharing research data and findings relevant to the novel coronavirus](https://wellcome.ac.uk/press-release/sharing-research-data-and-findings-relevant-novel-coronavirus-ncov-outbreak), reaffirming the 2016 one
 
+## Datasets
+
+* [COVID-19 literature](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
+* [COVID-19 tweets](https://groups.google.com/d/msg/virtual-biohackathon/9SS4LZqLbdI/URUhCn5BBAAJ)
+
 ## Decision-making based on incomplete data
 
 * 2020-03-17: [A fiasco in the making? As the coronavirus pandemic takes hold, we are making decisions without reliable data](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/) by John Ioannidis
