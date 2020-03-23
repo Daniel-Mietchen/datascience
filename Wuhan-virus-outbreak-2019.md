@@ -131,6 +131,8 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - long Twitter thread ["Let’s talk about what happens if you get COVID19 and recover."](https://threadreaderapp.com/thread/1240689935557865472.html)
   - See also
     - ["HOWEVER BIG FLOODS GET, there will always be a bigger one coming. So says one theory of extremes, and experience suggests it is true."](https://twitter.com/cubic_logic/status/1239935828169809926)
+    - [Evidence over hysteria — COVID-19](http://web.archive.org/web/20200321144004/https://medium.com/six-four-six-nine/evidence-over-hysteria-covid-19-1b767def5894) (deleted shortly after publication)
+      - [debunked](https://twitter.com/CT_Bergstrom/status/1241522140559503360) by Carl Bergstrom
 
 ## Epidemiology
 
