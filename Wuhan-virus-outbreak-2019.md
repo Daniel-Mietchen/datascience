@@ -36,8 +36,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
     - [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus)    
 - South Korea
   - Korean CDC [질병관리본부](https://www.cdc.go.kr/search/search.es?mid=a20101000000) (inactive)
-  - Korean Ministry of Health and Welfare 
-    - dedicated SARS-CoV-2 website [코로나바이러스감염증](http://ncov.mohw.go.kr/)
+    - replaced by dedicated SARS-CoV-2 website [코로나바이러스감염증-19](http://ncov.mohw.go.kr/) at Korean Ministry of Health and Welfare 
 
 ## Tools
 
