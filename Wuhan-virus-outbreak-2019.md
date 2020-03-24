@@ -29,6 +29,10 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - https://www.coronavirus.gov/
   - https://www.usa.gov/coronavirus
   - https://www.nih.gov/coronavirus
+  - California
+    - https://covid19.ca.gov/
+  - Virginia
+    - https://www.dhrm.virginia.gov/covid-19
 - Germany
   - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
     - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
