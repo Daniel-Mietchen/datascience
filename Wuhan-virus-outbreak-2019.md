@@ -264,6 +264,9 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - [dashboard](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures)
 * lots of online initiatives
   - https://www.covidtutoring.org/
+  - Internet Archive
+    - [Sharing Courses not Viruses—Educational Innovators Respond to COVID-19](https://blog.archive.org/2020/03/17/sharing-courses-not-viruses-educational-innovators-respond-to-covid-19/)
+    - [Announcing a National Emergency Library to Provide Digitized Books to Students and the Public](https://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/)
 
 # Scientific culture
 
