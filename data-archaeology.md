@@ -14,6 +14,7 @@ Here, I will be using the term in a broader sense of *recovering data from natur
   - reuses astronomical data recorded on Babylonian clay tables
 * [1970s and ‘Patient 0’ HIV-1 genomes illuminate early HIV/AIDS history in North America](https://doi.org/10.1038/nature19827)
   - reused blood samples to sequence patient genomes to analyze the spread of HIV
+  - [similar story on Spanish flu, by overlapping investigators](A shot-in-the-dark email leads to a century-old family treasure — and hope of cracking a deadly flu’s secret)
 * [Human Sera Collected between 1979 and 2010 Possess Blocking-Antibody Titers to Pandemic GII.4 Noroviruses Isolated over Three Decades](https://doi.org/10.1128/JVI.00567-17)
 * The meteorological data gathered by [Billy Barr](https://en.wikipedia.org/wiki/Billy_Barr_(naturalist))
 * [Wikipedia's oldest articles](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia%27s_oldest_articles)
