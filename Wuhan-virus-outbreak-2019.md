@@ -259,7 +259,8 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 # Education
 
-* about half the world's schools are closed as of mid-March
+* [about 85% of the "officially enrolled" learners have been affected by their schools being closed as of mid-March 2020](https://en.unesco.org/news/137-billion-students-now-home-covid-19-school-closures-expand-ministers-scale-multimedia)
+  - [dashboard](https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures)
 * lots of online initiatives
   - https://www.covidtutoring.org/
 
