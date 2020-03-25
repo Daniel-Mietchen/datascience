@@ -269,30 +269,17 @@ This file tracks information related to the COVID-19 viral outbreak that started
     - [Sharing Courses not Viruses—Educational Innovators Respond to COVID-19](https://blog.archive.org/2020/03/17/sharing-courses-not-viruses-educational-innovators-respond-to-covid-19/)
     - [Announcing a National Emergency Library to Provide Digitized Books to Students and the Public](https://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/)
 
-# Scientific culture
+# Ethics
 
-* On January 24, 2020, the Washington Post ran a piece specifically on the pace and openness of research on the virus and how it reflects a change in the scientific culture ["Scientists are unraveling the Chinese coronavirus with unprecedented speed and opennessScientists are unraveling the Chinese coronavirus with unprecedented speed and openness"](http://web.archive.org/web/20200131132127/https://www.washingtonpost.com/science/2020/01/24/scientists-are-unraveling-chinese-coronavirus-with-unprecedented-speed-openness/)
-  - lots of good tidbits there, albeit encumbered by aggressive DRM
-    - > “Imagine walking from Chicago to San Francisco, and then imagine taking a plane from Chicago to San Francisco. That’s kind of the difference,” Mesecar said.
-    - > He hopes revealing the secrets of how the virus works will help calm the spreading panic. He noted that influenza sickens and kills large numbers of people in the United States and globally each year, but doesn’t trigger a worldwide panic because the risks are understood and a vaccine exists.
-    - > “When you don’t understand something, you panic. You have fear. When you gain an understanding, you don’t fear something as much — you know how it’s going to operate,” Mesecar said. “By sharing that information faster ... both research as well as what’s happening on the ground with individuals, I’m hoping that panic and that fear are going to go down.”
-
-# Pharma
-
-* https://twitter.com/_B_I_O_T_E_C_H_/status/1223227059343937537
-
-## Drug supply
-
-* [The Coronavirus Is a Threat to the Global Drug Supply](http://web.archive.org/web/20200205022948/https://www.wired.com/story/the-coronavirus-is-a-threat-to-the-global-drug-supply/)
-
-## Clinical trials
-
-* [in China](http://www.chictr.org.cn/searchprojen.aspx?title=&officialname=nCov&subjectid=&secondaryid=&applier=&studyleader=&ethicalcommitteesanction=&sponsor=&studyailment=&studyailmentcode=&studytype=0&studystage=0&studydesign=0&minstudyexecutetime=&maxstudyexecutetime=&recruitmentstatus=0&gender=0&agreetosign=&secsponsor=&regno=&regstatus=0&country=&province=&city=&institution=&institutionlevel=&measure=&intercode=&sourceofspends=&createyear=0&isuploadrf=&whetherpublic=&btngo=btn&verifycode=&page=1)
-* [in the US](https://clinicaltrials.gov/ct2/results?cond=coronavirus&Search=Apply&recrs=b&recrs=a&recrs=f&age_v=&gndr=&type=&rslt=)
-
-# Clinical protocols
-
-- [2019-nCoV Clinical Characterisation Protocol](https://isaric.tghn.org/CCP/)
+* Some key themes that are emerging
+  - How to triage patients when fewer healthcare resources are available than needed?
+    - guidelines by professional bodies
+      - Italy
+      - Germany
+      - [Fair Allocation of Scarce Medical Resources in the Time of Covid-19](https://doi.org/10.1056/NEJMsb2005114)
+  - How to balance population health with 
+    - individual freedoms
+    - economics
 
 # Funding
 
@@ -312,6 +299,24 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 * [Ventilators inserting a 3d printed valve into a Decathlon snorkling mask.](https://twitter.com/DellAnnaLuca/status/1241529620010119168)
   - > [**we decided to urgently patent the link valve** (Charlotte Valve), to prevent any speculation on the price of the component. **We clarify that the patent will remain free to use, because it is in our intention that all hospitals in need could use it if necessary.**](https://www.isinnova.it/easy-covid19-eng/)
+
+# Pharma
+
+* https://twitter.com/_B_I_O_T_E_C_H_/status/1223227059343937537
+
+## Drug supply
+
+* [The Coronavirus Is a Threat to the Global Drug Supply](http://web.archive.org/web/20200205022948/https://www.wired.com/story/the-coronavirus-is-a-threat-to-the-global-drug-supply/)
+
+## Clinical trials
+
+* [in China](http://www.chictr.org.cn/searchprojen.aspx?title=&officialname=nCov&subjectid=&secondaryid=&applier=&studyleader=&ethicalcommitteesanction=&sponsor=&studyailment=&studyailmentcode=&studytype=0&studystage=0&studydesign=0&minstudyexecutetime=&maxstudyexecutetime=&recruitmentstatus=0&gender=0&agreetosign=&secsponsor=&regno=&regstatus=0&country=&province=&city=&institution=&institutionlevel=&measure=&intercode=&sourceofspends=&createyear=0&isuploadrf=&whetherpublic=&btngo=btn&verifycode=&page=1)
+* [in the US](https://clinicaltrials.gov/ct2/results?cond=coronavirus&Search=Apply&recrs=b&recrs=a&recrs=f&age_v=&gndr=&type=&rslt=)
+
+## Clinical protocols
+
+- [2019-nCoV Clinical Characterisation Protocol](https://isaric.tghn.org/CCP/)
+
 
 # Political aspects
 
@@ -383,6 +388,15 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 * [Chinese boy with cerebral palsy dies while father is in virus quarantine](https://www.rappler.com/world/regions/asia-pacific/250951-chinese-boy-cerebral-palsy-dies-father-virus-quarantine)
 * [Japan testing 3,700 people quarantined on cruise ship after Hong Kong novel coronavirus case](https://www.channelnewsasia.com/news/asia/japan-wuhan-coronavirus-cruise-ship-quarantine-virus-12388092)
+
+
+# Scientific culture
+
+* On January 24, 2020, the Washington Post ran a piece specifically on the pace and openness of research on the virus and how it reflects a change in the scientific culture ["Scientists are unraveling the Chinese coronavirus with unprecedented speed and opennessScientists are unraveling the Chinese coronavirus with unprecedented speed and openness"](http://web.archive.org/web/20200131132127/https://www.washingtonpost.com/science/2020/01/24/scientists-are-unraveling-chinese-coronavirus-with-unprecedented-speed-openness/)
+  - lots of good tidbits there, albeit encumbered by aggressive DRM
+    - > “Imagine walking from Chicago to San Francisco, and then imagine taking a plane from Chicago to San Francisco. That’s kind of the difference,” Mesecar said.
+    - > He hopes revealing the secrets of how the virus works will help calm the spreading panic. He noted that influenza sickens and kills large numbers of people in the United States and globally each year, but doesn’t trigger a worldwide panic because the risks are understood and a vaccine exists.
+    - > “When you don’t understand something, you panic. You have fear. When you gain an understanding, you don’t fear something as much — you know how it’s going to operate,” Mesecar said. “By sharing that information faster ... both research as well as what’s happening on the ground with individuals, I’m hoping that panic and that fear are going to go down.”
 
 # Web traffic
 
