@@ -171,6 +171,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
   * the [original post](http://web.archive.org/web/20200120180343/http://virological.org/t/novel-2019-coronavirus-genome/319) is not available any more
 * GISAID collects sequence data and makes it available to registered users under https://gisaid.org/CoV2020
 * [Genbank](https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/)
+* [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus)
 * origin in bats: https://twitter.com/CDCgov/status/1223259675573080064
 
 ## Mask shortage
