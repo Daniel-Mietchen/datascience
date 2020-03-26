@@ -469,6 +469,8 @@ This file tracks information related to the COVID-19 viral outbreak that started
     - > "Urban parks—in which most major cities have made significant investments over the past decade—are big enough to accommodate both crowds and social distancing."
     - > "Urban parks—in which most major cities have made significant investments over the past decade—are big enough to accommodate both crowds and social distancing."
     - > "This current plague time might see a recharged commitment to a closer-to-the-bone worldview that recognizes we have a short time on earth, the Doomsday Clock is a minute from midnight, and living peacefully and meaningfully together is going to take much more than bed-making and canny investments. The Power of No Habits. "
+* [International Affairs & the Global Geopolitical Order after Coronavirus](http://web.archive.org/web/20200326203710/https://internationalinsider.org/international-affairs-the-global-geopolitical-order-after-coronavirus/)
+  - > "Countries like China, South Korea, and Singapore have responded best to the pandemic crisis. The response in the West has been slow and haphazard by comparison, further clouding the aura of the Western global hegemony."
 
 # See also 
 
