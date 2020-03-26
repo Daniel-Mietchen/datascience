@@ -481,3 +481,4 @@ This file tracks information related to the COVID-19 viral outbreak that started
 * [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
   - [commentary](https://necsi.edu/review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions)
 - [armchair epidemiology](https://medium.com/@noahhaber/flatten-the-curve-of-armchair-epidemiology-9aa8cf92d652)
+* [Scams and rogue traders](https://www.royalgreenwich.gov.uk/info/200154/council_and_elections/2197/coronavirus_covid-19/14) &mdash; includes examples of scams and other crimes with a COVID-19 theme
