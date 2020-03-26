@@ -70,6 +70,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 - [CoVID 19 Worldwide Growth Rates](http://nrg.cs.ucl.ac.uk/mjh/covid19/)
 - [Track the virus &mdash; report your symptoms](https://www.trackthevirus.org/) &mdash; a citizen science approach to surveillance
 - [COVID-19_virus dashboard](https://coronavirus.thebaselab.com/) &mdash; by a college student
+* [Daily estimates of case fatality rate](https://cmmid.github.io/topics/covid19/severity/global_cfr_estimates.html)
 
 ## Publishers, journals and repositories
 
