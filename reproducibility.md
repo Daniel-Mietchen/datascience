@@ -90,3 +90,4 @@ post publication peer review. Or improve research training and mentorship. Or ..
         - [public alerts](https://gracedb.ligo.org/superevents/public/O3/)
         - e.g. [S190901ap](https://gracedb.ligo.org/superevents/S190901ap/)
     - [Data analysis guide](https://www.ligo.org/science/Publication-DataAnalysisGuide/index.php)
+* [BIG Data, BIG responsibility &mdash; (Reproducible paper template for research data management](http://akhlaghi.org/pdf/reproducible-paper.pdf)
