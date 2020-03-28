@@ -157,4 +157,5 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [10 basic facts on climate action](https://threadreaderapp.com/thread/1213328993354756096.html)
 - [4 Charts Explain Greenhouse Gas Emissions by Countries and Sectors](https://www.wri.org/blog/2020/02/greenhouse-gas-emissions-by-country-sector)
   - seen [here](https://twitter.com/MaxCRoser/status/1225647561014304770)
- * [Locust Watch](http://www.fao.org/ag/locusts/)
+* [Locust Watch](http://www.fao.org/ag/locusts/)
+* [How does Our Research Influence Policy on Global Societal Changes? A Bibliometric Proof of Concept Targeting the Sustainable Development Goals of the United Nations](https://doi.org/10.5281/zenodo.3260279) 
