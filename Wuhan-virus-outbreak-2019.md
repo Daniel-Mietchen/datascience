@@ -170,6 +170,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 * https://twitter.com/RH4N6/status/1223325945110704131
 * https://twitter.com/DrDenaGrayson/status/1223241354479906816
+* 2020-02-23: [Past Time to Tell the Public: “It Will Probably Go Pandemic, and We Should All Prepare Now”](https://virologydownunder.com/past-time-to-tell-the-public-it-will-probably-go-pandemic-and-we-should-all-prepare-now/)
 * 2020-03-20: [Politically infectious period](https://virologydownunder.com/politically-infectious-period/) &mdash; outlines differences and overlap between incubation period and infectious period
 * 2020-03-20: [Why we’re not overreacting to the coronavirus, in one chart](https://www.vox.com/future-perfect/2020/3/20/21179040/coronavirus-us-italy-not-overreacting)
 
