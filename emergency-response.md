@@ -1,6 +1,8 @@
 # About
 
-This page collects information on open collaboration in the context of emergency response or disaster relief efforts. Open here refers to a subset of the digital response that can be characterized by
+Humanity has a long history of experiencing disasters of various kinds, responding to them, and preparing for future ones. Sharing and withholding of resources as well as collaboration at unprecedented scales have been an essential feature and recurring theme of disaster relief efforts.
+
+With that in mind, this page collects information on open collaboration in the context of emergency response or disaster relief efforts. Open here refers to a subset of the digital response that can be characterized by
 * the preparedness of accepting contributions from anyone, making use of the Web;
 * results being available under open licenses, as per the [Open Definition](http://opendefinition.org/).
 
