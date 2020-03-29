@@ -485,3 +485,4 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - [commentary](https://necsi.edu/review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions)
 - [armchair epidemiology](https://medium.com/@noahhaber/flatten-the-curve-of-armchair-epidemiology-9aa8cf92d652)
 * [Scams and rogue traders](https://www.royalgreenwich.gov.uk/info/200154/council_and_elections/2197/coronavirus_covid-19/14) &mdash; includes examples of scams and other crimes with a COVID-19 theme
+* [Eviction stops](https://www.thelocal.de/20200322/german-government-promises-relief-for-renters-amid-coronavirus-crisis)
