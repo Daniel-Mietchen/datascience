@@ -437,6 +437,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
   - based on [this ESA video](https://www.youtube.com/watch?v=6DWBhp-oKOI)
   - also mentioned in [this Twitter thread](https://twitter.com/iraghislain/status/1241538106995720197), along with airline capacity reductions and dolphins visibly returning to Venice due to clearer waters
 * [Air quality in Los Angeles before and after lockdown](https://twitter.com/GaryWockner/status/1241732803965960192)
+* [Bird breeding on car that is parking long-term due to the COVID-19 lockdown](https://twitter.com/sarcarsten/status/1243579368192049152)
 
 # Long-term effects
 
