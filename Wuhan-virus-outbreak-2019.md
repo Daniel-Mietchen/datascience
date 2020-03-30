@@ -142,6 +142,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 ## Datasets
 
+* [Summaries and analyses of data related to n-CoV 2019](https://github.com/beoutbreakprepared/nCoV2019)
+  - commentary: [Open access epidemiological data from the COVID-19 outbreak](https://pubmed.ncbi.nlm.nih.gov/32087115/) &mdash; not open access, but undersigned by 
 * [COVID-19 literature](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
 * [COVID-19 tweets](https://groups.google.com/d/msg/virtual-biohackathon/9SS4LZqLbdI/URUhCn5BBAAJ)
 
