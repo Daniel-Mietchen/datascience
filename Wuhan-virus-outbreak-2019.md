@@ -143,7 +143,9 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 ## Datasets
 
 * [Summaries and analyses of data related to n-CoV 2019](https://github.com/beoutbreakprepared/nCoV2019)
-  - commentary: [Open access epidemiological data from the COVID-19 outbreak](https://pubmed.ncbi.nlm.nih.gov/32087115/) &mdash; not open access, but undersigned by 
+  - commentary: [Open access epidemiological data from the COVID-19 outbreak](https://pubmed.ncbi.nlm.nih.gov/32087115/) &mdash; not open access, but undersigned by "Open COVID-19 Data Curation Group"
+  - [Meet the International Team Mapping the Real-Time Spread of COVID-19](http://web.archive.org/web/20200330050116/https://www.vice.com/en_ca/article/y3m44y/meet-the-international-team-mapping-the-real-time-spread-of-covid-19)
+    - [video](https://www.youtube.com/watch?v=J1PqzS8E2Ro)
 * [COVID-19 literature](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
 * [COVID-19 tweets](https://groups.google.com/d/msg/virtual-biohackathon/9SS4LZqLbdI/URUhCn5BBAAJ)
 
