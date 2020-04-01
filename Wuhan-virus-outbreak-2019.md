@@ -230,6 +230,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 ## Publishing
 
 * https://twitter.com/JeremyFarrar/status/1221477164115275777
+* 2020-02-19: [Reuters reviews the COVID-19 publication landscape](https://graphics.reuters.com/CHINA-HEALTH-RESEARCH/0100B5ES3MG/index.html)
 
 ## Protein structure data
 
