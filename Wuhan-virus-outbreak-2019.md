@@ -451,6 +451,14 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - also mentioned in [this Twitter thread](https://twitter.com/iraghislain/status/1241538106995720197), along with airline capacity reductions and dolphins visibly returning to Venice due to clearer waters
 * [Air quality in Los Angeles before and after lockdown](https://twitter.com/GaryWockner/status/1241732803965960192)
 * [Bird breeding on car that is parking long-term due to the COVID-19 lockdown](https://twitter.com/sarcarsten/status/1243579368192049152)
+* 2020-03-18: [The world is coming together to fight coronavirus. It can do the same for the climate crisis](http://web.archive.org/web/20200401142538/https://edition.cnn.com/2020/03/18/world/coronavirus-and-climate-crisis-response-intl-hnk/)
+* [‘We can’t go back to normal’: how will coronavirus change the world?](http://web.archive.org/web/20200401143039/https://www.theguardian.com/world/2020/mar/31/how-will-the-world-emerge-from-the-coronavirus-crisis)
+  - > "Any glance at history reveals that crises and disasters have continually set the stage for change, often for the better."
+  - > "But crises can also send societies down darker paths."
+  - > "In her 2009 book, A Paradise Built in Hell, Solnit used case studies of disasters – including the 1985 Mexico City earthquake, the 2001 terror attacks and Hurricane Katrina – to argue that emergencies aren’t just moments when bad things get worse, or when people inevitably become more scared, suspicious and self-centred. Instead she foregrounded the ways in which disasters opened up human reserves of improvisation, solidarity and resolve, pockets of purpose and joy, even in the midst of loss and pain."
+  - > "That screaming buzzsaw noise in the background of this conversation is the sound of the climate crisis. If 2008 is the disaster that Klein and like-minded thinkers want to avoid repeating, climate change is the much bigger disaster they see coming – that they know is already here – and that they want to fight off."
+  - > "Although Covid-19 is likely the biggest global crisis since the second world war, it is still dwarfed in the long term by climate change. Yet the two problems have suggestive similarities."
+  - > " if we truly accepted we were in a climate emergency, then every day the news would lead with updates about which countries were reducing their emissions the fastest, and people would be clamouring to make sure their leaders were adopting the policies that worked"
 
 # Long-term effects
 
