@@ -400,6 +400,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   > "Across all the threat streams we examined, early detection, public and international trust and information sharing, and harnessing innovation in the private sector were vital to effective risk reduction."
 * Most trustworthy professions
   - https://twitter.com/jayvanbavel/status/1241434830828699650
+* ['More scary than coronavirus': South Korea's health alerts expose private lives](http://web.archive.org/web/20200401143111/https://www.theguardian.com/world/2020/mar/06/more-scary-than-coronavirus-south-koreas-health-alerts-expose-private-lives)
 
 # Quarantine
 
