@@ -391,6 +391,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - manuscript published on Researchgate (rather than through a preprint server) and quickly taken down afterwards
 * [Singapore makes details of COVID-19 patients public](https://twitter.com/BoboBichonFrise/status/1230647290039128064)
   - [more details](http://web.archive.org/web/20200228213654/https://www.straitstimes.com/singapore/health/novel-coronavirus-cases-in-singapore)
+  - [thread with details](https://threadreaderapp.com/thread/1234616723615166465.html)
 * [Chinese laboratory that first shared coronavirus genome with world ordered to close for ‘rectification’, hindering its Covid-19 research](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered) &mdash; Chinese lab shut down after sharing the genome sequence of the virus
 * [The Coronavirus and How Political Spin Has Worsened Epidemics](http://web.archive.org/web/20200228234834/https://www.newyorker.com/news/daily-comment/the-coronavirus-and-how-political-spin-has-worsened-epidemics) &mdash; on past epidemics and what their analysis reveals about the relation between politicians and facts
 * [Partly false claim: a 1981 book predicted the coronavirus 2019 outbreak](http://web.archive.org/web/20200303122038/https://www.reuters.com/article/uk-factcheck-coronavirus-koontz-book/partly-false-claima-1981-book-predicted-the-coronavirus-2019-outbreak-idUSKCN20M19I)
