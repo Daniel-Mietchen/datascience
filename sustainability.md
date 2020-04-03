@@ -160,3 +160,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Locust Watch](http://www.fao.org/ag/locusts/)
 * [How does Our Research Influence Policy on Global Societal Changes? A Bibliometric Proof of Concept Targeting the Sustainable Development Goals of the United Nations](https://doi.org/10.5281/zenodo.3260279) 
   - [background](https://twitter.com/hylkeannema/status/1188885980306124801)
+* [Climate perks](https://www.climateperks.com/)
