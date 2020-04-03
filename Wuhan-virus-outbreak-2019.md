@@ -496,6 +496,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - > "This current plague time might see a recharged commitment to a closer-to-the-bone worldview that recognizes we have a short time on earth, the Doomsday Clock is a minute from midnight, and living peacefully and meaningfully together is going to take much more than bed-making and canny investments. The Power of No Habits. "
 * [International Affairs & the Global Geopolitical Order after Coronavirus](http://web.archive.org/web/20200326203710/https://internationalinsider.org/international-affairs-the-global-geopolitical-order-after-coronavirus/)
   - > "Countries like China, South Korea, and Singapore have responded best to the pandemic crisis. The response in the West has been slow and haphazard by comparison, further clouding the aura of the Western global hegemony."
+* [How the Pandemic Will End &mdash; The U.S. may end up with the worst COVID-19 outbreak in the industrialized world. This is how it’s going to play out.](http://web.archive.org/web/20200403031518/https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/?linkId=85439737)
 
 # See also 
 
