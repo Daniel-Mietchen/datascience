@@ -56,3 +56,4 @@ This file collects information about the ethics of data science as well as about
 * [Data Sharing in Public Health Emergencies: Anthropological and Historical PerspectivesonData Sharing during the 2014-2016 Ebola Epidemic and the 2016 Yellow Fever Epidemic](http://www.glopid-r.org/wp-content/uploads/2019/07/data-sharing-in-public-health-emergencies-yellow-fever-and-ebola.pdf)
 * [UVA Researchers: Does My Smartphone Know I Am Sick?](https://news.virginia.edu/content/uva-researchers-does-my-smartphone-know-i-am-sick?utm_source=UTwitter&utm_medium=social&utm_campaign=news)
 * [Spiders and crawlers and scrapers, oh my! The law and ethics of researchers violating terms of service](https://medium.com/@cfiesler/spiders-and-crawlers-and-scrapers-oh-my-law-and-ethics-of-researchers-violating-terms-of-service-27496894f6de)
+* [COVID-19 case-level data sharing in Singapore](https://threadreaderapp.com/thread/1234616723615166465.html)
