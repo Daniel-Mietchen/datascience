@@ -447,6 +447,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 ## United States
 
+* EPA's [List N: Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2)
 * [State Tax Filing relief](https://www.aicpa.org/content/dam/aicpa/advocacy/tax/downloadabledocuments/coronavirus-state-filing-relief.pdf)
 
 # Environmental effects
