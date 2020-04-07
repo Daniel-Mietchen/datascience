@@ -142,6 +142,12 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 # Data aspects
 
+## Data modelling
+
+* [Schema for Coronavirus special announcements, Covid-19 Testing Facilities and more](http://blog.schema.org/2020/03/schema-for-coronavirus-special.html)
+* [COVID-19 schema for CDC hospital reporting](http://blog.schema.org/2020/04/covid-19-schema-for-cdc-hospital.html)
+* []()
+
 ## Data sharing policy
 
 * Wellcome-led statement [Sharing research data and findings relevant to the novel coronavirus](https://wellcome.ac.uk/press-release/sharing-research-data-and-findings-relevant-novel-coronavirus-ncov-outbreak), reaffirming the 2016 one
@@ -154,6 +160,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - [video](https://www.youtube.com/watch?v=J1PqzS8E2Ro)
 * [COVID-19 literature](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
 * [COVID-19 tweets](https://groups.google.com/d/msg/virtual-biohackathon/9SS4LZqLbdI/URUhCn5BBAAJ)
+* [Google Dataset Search for COVID-19](https://datasetsearch.research.google.com/search?query=coronavirus%20covid-19&docid=g3oiDuHtkLygNkWHAAAAAA%3D%3D)
 
 ## Decision-making based on incomplete data
 
@@ -412,6 +419,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * Most trustworthy professions
   - https://twitter.com/jayvanbavel/status/1241434830828699650
 * ['More scary than coronavirus': South Korea's health alerts expose private lives](http://web.archive.org/web/20200401143111/https://www.theguardian.com/world/2020/mar/06/more-scary-than-coronavirus-south-koreas-health-alerts-expose-private-lives)
+* [Google Fact Check Explorer for coronavirus](https://toolbox.google.com/factcheck/explorer/search/coronavirus%20OR%20COVID%20OR%20COVID19%20OR%20SARS;hl=en)
 
 # Quarantine
 
