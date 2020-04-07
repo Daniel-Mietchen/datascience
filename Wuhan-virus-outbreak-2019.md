@@ -25,6 +25,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - [Research Continuity Guidance for Laboratories and Research Facilities](https://research.virginia.edu/ResearchContinuity)
   - [Faculty/Staff Technology Checklist for Working Remotely](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=d8614580dba788d4d6655595ce9619eb)
 - [CoronaWiki](https://coronawiki.org/)
+- [RDA Working Group on COVID-19](https://www.rd-alliance.org/groups/rda-covid19)
+  - with 5 subgroups on Omics, Clinical, Epidemiology, Social Sciences, Community Participation
 
 # Situation reports
 
