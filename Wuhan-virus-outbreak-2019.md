@@ -27,6 +27,9 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 - [CoronaWiki](https://coronawiki.org/)
 - [RDA Working Group on COVID-19](https://www.rd-alliance.org/groups/rda-covid19)
   - with 5 subgroups on Omics, Clinical, Epidemiology, Social Sciences, Community Participation
+- GitHub
+  - [search for COVID-19 repositories under CC0](https://github.com/search?q=license%3Acc0-1.0+covid&type=Repositories)
+  - [Awesome COVID-19 resources](https://github.com/fnielsen/awesome-covid-19-resources) &mdash; curated by Finn Nielsen
 
 # Situation reports
 
