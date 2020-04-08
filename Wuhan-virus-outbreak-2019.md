@@ -74,6 +74,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 - [Coronavirus Tracker](https://visalist.io/emergency/coronavirus)
 - [NCoV2019 Live](https://ncov2019.live/data) &mdash; [built by a highschooler](https://ncov2019.live/data)
 - [nCovForecast](https://benflips.shinyapps.io/nCovForecast/)
+- [Worldometer](https://www.worldometers.info/coronavirus/)
 - [Coronavirus COVID-19 România](https://covid19.geo-spatial.org/dashboard/statistics/relation-cases)
   - [with data sharing manifest](https://covid19.geo-spatial.org/dashboard/manifest)
 - [University of Washington Virology COVID-19 Dashboard ](http://depts.washington.edu/labmed/covid19/)
