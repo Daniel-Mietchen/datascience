@@ -324,6 +324,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Virtual Biohackathon](https://github.com/virtual-biohackathons/covid-19-bh20) (online, 5-11 April 2020)
   - [Event dashboard](https://outreachdashboard.wmflabs.org/courses/Virtual_Biohackathon/Covid19-_Virtual_Biohackathon)
   - [master Etherpad](https://etherpad.wikimedia.org/p/covid-19-bh20)
+  - [computing resources](https://github.com/virtual-biohackathons/covid-19-bh20/blob/master/compute_resources.md)
   - [shared calendar](https://calendar.google.com/calendar/r?cid=bWljZWxpby5iZV9rN21qdmxlZHR1aDRlcXRldXJrMW84ajNuc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [OHDSI COVID-19 virtual study-a-thon](https://www.ohdsi.org/covid-19-updates/) (online, 26-29 March 2020)
 * [Wir versus Virus hackathon](https://wirvsvirushackathon.org/) (online, all around Germany, 20-22 March 2020)
