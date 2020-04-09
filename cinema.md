@@ -5,6 +5,7 @@
 
 * ["The greatest shortcoming of the human race is our inability to understand the exponential function. But this kind of steady growth is the centrepiece of the entire global economy. Who would realise at 5 minutes to 12, that there is a problem? Think about it." — Prof. Al Bartlett](https://twitter.com/Jumpsteady/status/1178918445229981696)
 * [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
+  - see also [Covid-19: Are we flattening the curve?](https://www.datafied.world/covid19-are-we-flattening-the-curve-179), a Jupyter notebook inspired by the video
 * ["The only sustainable growth is degrowth"](https://twitter.com/parents4future/status/1206694192740786179)
   - actually, not &mdash; what we need is a [steady-state economy](https://en.wikipedia.org/wiki/Steady-state_economy)
 * [What we can and need to change to keep climate change low - the scientist view ](https://media.ccc.de/v/36c3-10991-science_for_future)
