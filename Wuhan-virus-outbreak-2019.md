@@ -472,6 +472,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 # Environmental effects
 
+*There is now a Wikipedia article [2019–20 coronavirus pandemic and climate change](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic_and_climate_change)*
+
 * [Carbon footprint effects of the pandemic](http://web.archive.org/web/20200313231356/https://www.nytimes.com/2020/03/13/climate/coronavirus-habits-carbon-footprint.html)
 * [New data of #COVID-19 effects on the significant decline of nitrogen dioxide over China, now again increasing as lockdown is over](https://www.severe-weather.eu/global-weather/nitrogen-dioxide-emissions-china-mk/)
   - based on [this ESA video](https://www.youtube.com/watch?v=6DWBhp-oKOI)
