@@ -4,6 +4,7 @@
 # Watched
 
 * ["The greatest shortcoming of the human race is our inability to understand the exponential function. But this kind of steady growth is the centrepiece of the entire global economy. Who would realise at 5 minutes to 12, that there is a problem? Think about it." — Prof. Al Bartlett](https://twitter.com/Jumpsteady/status/1178918445229981696)
+* [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
 * ["The only sustainable growth is degrowth"](https://twitter.com/parents4future/status/1206694192740786179)
   - actually, not &mdash; what we need is a [steady-state economy](https://en.wikipedia.org/wiki/Steady-state_economy)
 * [What we can and need to change to keep climate change low - the scientist view ](https://media.ccc.de/v/36c3-10991-science_for_future)
@@ -104,7 +105,6 @@
   - see also the documentary [Running out of Time](https://www.youtube.com/watch?v=q7pI7IYaJLI)
     - This YouTube video included an [ad that I actually watched](https://youtu.be/vdT8EprNE8A), about the U.S. Farmers and Ranchers Alliance's [30 Harvests](https://usfarmersandranchers.org/30-harvests/)  initiative towards sustainable agriculture
 * [The Daily Show With Trevor Noah: Greta Thunberg - Inspiring Others to Take a Stand Against Climate Change - Extended Interview](http://www.cc.com/video-clips/ed6ma7/the-daily-show-with-trevor-noah-greta-thunberg---inspiring-others-to-take-a-stand-against-climate-change---extended-interview?xrs=tds_091219_3)
-* [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
 * [A Message From the Future With Alexandria Ocasio-Cortez](https://www.youtube.com/watch?v=d9uTH0iprVQ)
   - describes a future in which the current climate crisis was averted by concerted climate action
 * [Alexander von Humboldt: der erste Wikipedianer?](https://www.zdf.de/dokumentation/terra-x/war-humboldt-der-erste-wikipedianer-100.html)
