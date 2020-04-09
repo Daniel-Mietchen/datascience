@@ -104,6 +104,7 @@
   - see also the documentary [Running out of Time](https://www.youtube.com/watch?v=q7pI7IYaJLI)
     - This YouTube video included an [ad that I actually watched](https://youtu.be/vdT8EprNE8A), about the U.S. Farmers and Ranchers Alliance's [30 Harvests](https://usfarmersandranchers.org/30-harvests/)  initiative towards sustainable agriculture
 * [The Daily Show With Trevor Noah: Greta Thunberg - Inspiring Others to Take a Stand Against Climate Change - Extended Interview](http://www.cc.com/video-clips/ed6ma7/the-daily-show-with-trevor-noah-greta-thunberg---inspiring-others-to-take-a-stand-against-climate-change---extended-interview?xrs=tds_091219_3)
+* [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
 * [A Message From the Future With Alexandria Ocasio-Cortez](https://www.youtube.com/watch?v=d9uTH0iprVQ)
   - describes a future in which the current climate crisis was averted by concerted climate action
 * [Alexander von Humboldt: der erste Wikipedianer?](https://www.zdf.de/dokumentation/terra-x/war-humboldt-der-erste-wikipedianer-100.html)
