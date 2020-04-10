@@ -322,6 +322,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 # Hackathons
 
 * [DEVPOST Coronavirus hackathons](https://devpost.com/hackathons) (multiple times and places)
+* [The Resiliency Challenge](https://theresiliencychallenge.devpost.com/) (3 April - 7 June)
 * [Virtual Biohackathon](https://github.com/virtual-biohackathons/covid-19-bh20) (online, 5-11 April 2020)
   - [Opening videoconf](https://www.youtube.com/watch?v=x-QTP5Z_WIU)
     - with [table of contents](https://togotv.dbcls.jp/20200407.html)
