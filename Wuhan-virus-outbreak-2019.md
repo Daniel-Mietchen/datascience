@@ -545,3 +545,4 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Scams and rogue traders](https://www.royalgreenwich.gov.uk/info/200154/council_and_elections/2197/coronavirus_covid-19/14) &mdash; includes examples of scams and other crimes with a COVID-19 theme
 * [Eviction stops](https://www.thelocal.de/20200322/german-government-promises-relief-for-renters-amid-coronavirus-crisis)
 * [Google's COVID-19 mobility portal](https://www.google.com/covid19/mobility/)
+* [Coronavirus is the greatest global science policy failure in a generation](https://www.theguardian.com/commentisfree/2020/apr/09/deadly-virus-britain-failed-prepare-mers-sars-ebola-coronavirus)
