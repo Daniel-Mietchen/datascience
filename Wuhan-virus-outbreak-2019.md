@@ -497,6 +497,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - > "That screaming buzzsaw noise in the background of this conversation is the sound of the climate crisis. If 2008 is the disaster that Klein and like-minded thinkers want to avoid repeating, climate change is the much bigger disaster they see coming – that they know is already here – and that they want to fight off."
   - > "Although Covid-19 is likely the biggest global crisis since the second world war, it is still dwarfed in the long term by climate change. Yet the two problems have suggestive similarities."
   - > " if we truly accepted we were in a climate emergency, then every day the news would lead with updates about which countries were reducing their emissions the fastest, and people would be clamouring to make sure their leaders were adopting the policies that worked"
+* [Coronavirus: What could lifestyle changes mean for tackling climate change?](https://www.carbonbrief.org/coronavirus-what-could-lifestyle-changes-mean-for-tackling-climate-change)
 
 # Long-term effects
 
