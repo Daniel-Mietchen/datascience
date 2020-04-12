@@ -86,6 +86,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 - [COVID-19 Event Horizon](http://rocs.hu-berlin.de/corona/)
   - described [here](https://doi.org/10.1126/science.abb2161)
 * [Daily estimates of case fatality rate](https://cmmid.github.io/topics/covid19/severity/global_cfr_estimates.html)
+* Generic [Epidemic Graphin Calculator](https://kottke.org/20/03/an-epidemic-graphing-calculator)
 
 ## Publishers, journals and repositories
 
