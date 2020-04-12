@@ -498,6 +498,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - > "Although Covid-19 is likely the biggest global crisis since the second world war, it is still dwarfed in the long term by climate change. Yet the two problems have suggestive similarities."
   - > " if we truly accepted we were in a climate emergency, then every day the news would lead with updates about which countries were reducing their emissions the fastest, and people would be clamouring to make sure their leaders were adopting the policies that worked"
 * [Coronavirus: What could lifestyle changes mean for tackling climate change?](https://www.carbonbrief.org/coronavirus-what-could-lifestyle-changes-mean-for-tackling-climate-change)
+* [There is no vaccine for climate change](https://courtofthegrandchildren.com/?p=411)
 
 # Long-term effects
 
