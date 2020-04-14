@@ -57,3 +57,4 @@ This file collects information about the ethics of data science as well as about
 * [UVA Researchers: Does My Smartphone Know I Am Sick?](https://news.virginia.edu/content/uva-researchers-does-my-smartphone-know-i-am-sick?utm_source=UTwitter&utm_medium=social&utm_campaign=news)
 * [Spiders and crawlers and scrapers, oh my! The law and ethics of researchers violating terms of service](https://medium.com/@cfiesler/spiders-and-crawlers-and-scrapers-oh-my-law-and-ethics-of-researchers-violating-terms-of-service-27496894f6de)
 * [COVID-19 case-level data sharing in Singapore](https://threadreaderapp.com/thread/1234616723615166465.html)
+* [Despite its commitment to ‘trustworthy’ #AI, the EU is bankrolling AI projects that are questionable](https://twitter.com/eaDigitalEU/status/1219881752950386688)
