@@ -99,3 +99,4 @@ This file hosts information regarding data management plans and how they could b
 * [Policy Models](http://dvnweb-vm1.hmdc.harvard.edu/) &mdash; a prototype tool for creating formal models of policies
 * Swiss National Science Fund (SNF) [Data Management Plan (DMP) - Guidelines for researchers](http://www.snf.ch/en/theSNSF/research-policies/open_research_data/Pages/data-management-plan-dmp-guidelines-for-researchers.aspx)
 * Outreach via coffee table: [Aalto University's Data Management team offers reviewing DMPs](https://twitter.com/adivea/status/1188038207201595393)
+* [What to Keep: A Jisc research data study](https://repository.jisc.ac.uk/7262/1/JR0100_WHAT_RESEARCH_DATA_TO_KEEP_FEB2019_v5_WEB.pdf)
