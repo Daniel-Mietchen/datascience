@@ -102,3 +102,4 @@ This file hosts information regarding data management plans and how they could b
 * [What to Keep: A Jisc research data study](https://repository.jisc.ac.uk/7262/1/JR0100_WHAT_RESEARCH_DATA_TO_KEEP_FEB2019_v5_WEB.pdf)
 * [Research Data Management as a national service](https://gurdoncomputing.blog/2020/01/29/research-data-management-as-a-national-service/)
   - see also [this email thread](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A2=ind2001&L=RESEARCH-DATAMAN&D=0&P=25696)
+* [Datasheets for Datasets](https://www.wikidata.org/wiki/Q60487752)
