@@ -100,3 +100,4 @@ This file hosts information regarding data management plans and how they could b
 * Swiss National Science Fund (SNF) [Data Management Plan (DMP) - Guidelines for researchers](http://www.snf.ch/en/theSNSF/research-policies/open_research_data/Pages/data-management-plan-dmp-guidelines-for-researchers.aspx)
 * Outreach via coffee table: [Aalto University's Data Management team offers reviewing DMPs](https://twitter.com/adivea/status/1188038207201595393)
 * [What to Keep: A Jisc research data study](https://repository.jisc.ac.uk/7262/1/JR0100_WHAT_RESEARCH_DATA_TO_KEEP_FEB2019_v5_WEB.pdf)
+* [Research Data Management as a national service](https://gurdoncomputing.blog/2020/01/29/research-data-management-as-a-national-service/)
