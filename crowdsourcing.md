@@ -119,6 +119,7 @@ This file collects information on crowdsourcing in relation to research, especia
 * [Research Involvement and Engagement](http://www.researchinvolvement.com/)
 
 # See also
+* [EU-Citizen.Science](https://eu-citizen.science/)
 * [Neuchâtel herbarium](https://commons.wikimedia.org/wiki/File:Lugano_May5_2015b.pdf)
 * [List of highest funded crowdfunding projects](https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects)
 * [Holdren memo: Addressing Societal and Scientific Challenges through Citizen Science and Crowdsourcing](https://www.whitehouse.gov/sites/default/files/microsites/ostp/holdren_citizen_science_memo_092915_0.pdf)
