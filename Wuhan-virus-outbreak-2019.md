@@ -550,3 +550,4 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Eviction stops](https://www.thelocal.de/20200322/german-government-promises-relief-for-renters-amid-coronavirus-crisis)
 * [Google's COVID-19 mobility portal](https://www.google.com/covid19/mobility/)
 * [Coronavirus is the greatest global science policy failure in a generation](https://www.theguardian.com/commentisfree/2020/apr/09/deadly-virus-britain-failed-prepare-mers-sars-ebola-coronavirus)
+* ['It’s a Moral Imperative:' Archivists Made a Directory of 5,000 Coronavirus Studies to Bypass Paywalls](http://web.archive.org/web/20200416230608/https://www.vice.com/en_us/article/z3b3v5/archivists-are-bypassing-paywalls-to-share-studies-about-coronaviruses)
