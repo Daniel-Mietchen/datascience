@@ -88,6 +88,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Daily estimates of case fatality rate](https://cmmid.github.io/topics/covid19/severity/global_cfr_estimates.html)
 * Generic [Epidemic Graphing Calculator](http://gabgoh.github.io/COVID/index.html)
   - [explanatory blog post](https://kottke.org/20/03/an-epidemic-graphing-calculator)
+- [Scotland](https://www.ed.ac.uk/roslin/news-events/latest-news/covid-19-tracker-scotland?platform=hootsuite&utm_campaign=HSCampaign)
 
 ## Publishers, journals and repositories
 
@@ -157,6 +158,10 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 ## Datasets
 
+* [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+  - the basis for almost everyone's visualizations
+* [Novel Coronavirus 2019 time series data on cases](https://github.com/datasets/covid-19)
+  - cleaned and streamlined version of the Johns Hopkins data above
 * [Summaries and analyses of data related to n-CoV 2019](https://github.com/beoutbreakprepared/nCoV2019)
   - commentary: [Open access epidemiological data from the COVID-19 outbreak](https://pubmed.ncbi.nlm.nih.gov/32087115/) &mdash; not open access, but undersigned by "Open COVID-19 Data Curation Group"
   - [Meet the International Team Mapping the Real-Time Spread of COVID-19](http://web.archive.org/web/20200330050116/https://www.vice.com/en_ca/article/y3m44y/meet-the-international-team-mapping-the-real-time-spread-of-covid-19)
