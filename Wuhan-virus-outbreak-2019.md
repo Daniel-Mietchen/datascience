@@ -350,6 +350,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 * [Ventilators inserting a 3d printed valve into a Decathlon snorkling mask.](https://twitter.com/DellAnnaLuca/status/1241529620010119168)
   - > [**we decided to urgently patent the link valve** (Charlotte Valve), to prevent any speculation on the price of the component. **We clarify that the patent will remain free to use, because it is in our intention that all hospitals in need could use it if necessary.**](https://www.isinnova.it/easy-covid19-eng/)
+* [Open Source Pandemic Ventilator with Raspberry Pi, Arduino and off the shelve parts](https://github.com/Mascobot/pandemic-ventilator-2.0)
 
 # Pharma
 
