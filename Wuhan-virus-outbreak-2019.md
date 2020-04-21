@@ -123,7 +123,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 - [Timeline: The Regulations—and Regulators—That Delayed Coronavirus Testing](https://thedispatch.com/p/timeline-the-regulationsand-regulatorsthat)
 
 # Open questions
-*These are some of the questions that have been open at some point in the pandemic. Some have decent answers by now.*
+*These are some of the questions that have been open at some point in the pandemic. Loads of them have been posted in places like the [biological](https://biology.stackexchange.com/questions/tagged/coronavirus) or [medical](https://medicalsciences.stackexchange.com/questions/tagged/covid-19) Stack Exchange sites. Some have decent answers by now.*
 
 * [Why the Coronavirus Has Been So Successful](https://twitter.com/NAChristakis/status/1241198092143247361) &mdash; overview of what's known about the virus, the disease and the outbreak as of mid-March 2020
 * [Was the Huanan seafood market at the epicenter?](https://twitter.com/suilee/status/1217730098494722048)
