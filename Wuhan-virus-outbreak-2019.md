@@ -458,6 +458,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 * [Wikimedia](https://addshore.com/2020/03/covid-19-wikipedia-pageviews/)
 * [Cloudflare](https://blog.cloudflare.com/on-the-shoulders-of-giants-recent-changes-in-internet-traffic/)
+* [Stack Exchange/ Stack Overflow](https://stackoverflow.blog/2020/04/20/pandemic-changed-traffic-trends-stack-exchange-sites/?cb=1) &mdash; high surge on multiple sites, highest for Academia, with [collection](https://academia.meta.stackexchange.com/questions/4680/i-need-help-adapting-my-academic-workflow-to-the-covid-19-coronavirus-crisis-w) of resources around online education
 
 # Individual countries
 
