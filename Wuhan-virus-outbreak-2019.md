@@ -11,6 +11,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 - WikiProject COVID-19
   - [Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject%20COVID-19)
+    - [Wikidata-based COVID-19 Dashboard](https://speed.ieee.tn/)
   - [English Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_COVID-19)
     - [global case count curation](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_COVID-19/Case_Count_Task_Force)
   - [Meta](https://meta.wikimedia.org/wiki/Template:Navbox/COVID-19)
