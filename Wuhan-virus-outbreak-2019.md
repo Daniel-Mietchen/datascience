@@ -560,3 +560,4 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Google's COVID-19 mobility portal](https://www.google.com/covid19/mobility/)
 * [Coronavirus is the greatest global science policy failure in a generation](https://www.theguardian.com/commentisfree/2020/apr/09/deadly-virus-britain-failed-prepare-mers-sars-ebola-coronavirus)
 * ['It’s a Moral Imperative:' Archivists Made a Directory of 5,000 Coronavirus Studies to Bypass Paywalls](http://web.archive.org/web/20200416230608/https://www.vice.com/en_us/article/z3b3v5/archivists-are-bypassing-paywalls-to-share-studies-about-coronaviruses)
+* [Open Data Institute offers data-related help for COVID-19 efforts](https://theodi.org/article/need-help-to-share-data-to-tackle-the-coronavirus-crisis-get-in-touch)
