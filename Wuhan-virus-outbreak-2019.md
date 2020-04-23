@@ -2,7 +2,7 @@
 
 This file tracks information related to the COVID-19 viral outbreak that started in Wuhan, China, in late 2019. 
 
-These notes were [started](https://github.com/Daniel-Mietchen/datascience/commit/7187877698f8640002a1cd1b1f6d59cf6383c219#diff-73fd4c8eea37e48004cbcf4cb85461a4) on January 17, 2020, with an eye on data-related matters, especially data sharing (or the lack of it), as per the more broadly scoped umbrella file, [emergency-response.md](emergency-response.md).
+These notes were [started](https://github.com/Daniel-Mietchen/datascience/commit/7187877698f8640002a1cd1b1f6d59cf6383c219#diff-73fd4c8eea37e48004cbcf4cb85461a4) on January 17, 2020, with an eye on data-related matters, especially data sharing (or the lack of it), as per the more broadly scoped umbrella file, [emergency-response.md](emergency-response.md). By that date, the virus and the disease had not been named, and the outbreak was thought to be largely limited to Wuhan, which explains the name of this file.
 
 Since then, lots of sources of information (and misinformation) on the topic have sprung up, both the virus and the disease have received official names, and I have tried to insert my notes into the Wikimedia ecosystem when appropriate, rather than detailing things here.
 
@@ -563,3 +563,4 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * ['It’s a Moral Imperative:' Archivists Made a Directory of 5,000 Coronavirus Studies to Bypass Paywalls](http://web.archive.org/web/20200416230608/https://www.vice.com/en_us/article/z3b3v5/archivists-are-bypassing-paywalls-to-share-studies-about-coronaviruses)
 * [Open Data Institute offers data-related help for COVID-19 efforts](https://theodi.org/article/need-help-to-share-data-to-tackle-the-coronavirus-crisis-get-in-touch)
 * [Indigenous people are most vulnerable to the spread of coronavirus in Latin America](http://web.archive.org/save/https://news.mongabay.com/2020/03/indigenous-people-are-most-vulnerable-to-the-spread-of-coronavirus-in-latin-america/)
+* [Be A Citizen Scientist: Help Track The Spread Of The COVID-19 Coronavirus](http://web.archive.org/web/20200417191616/https://www.forbes.com/sites/farahqaiser/2020/04/17/be-a-citizen-scientist-help-track-the-spread-of-the-covid-19-coronavirus/)
