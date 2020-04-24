@@ -197,7 +197,7 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 ## [Hurricane Dorian (2019)](https://en.wikipedia.org/wiki/Hurricane_Dorian)
 * see details in [Hurricane-Dorian-2019.md](Hurricane-Dorian-2019.md)
 
-## [Novel coronavirus (2019-nCoV)](https://en.wikipedia.org/wiki/2019_novel_coronavirus_(2019-nCoV))
+## [Novel coronavirus (2019-nCoV)/Severe acute respiratory syndrome coronavirus 2/SARS-CoV-2](https://en.wikipedia.org/wiki/2019_novel_coronavirus_(2019-nCoV))
 * see details in [Wuhan-virus-outbreak-2019.md](Wuhan-virus-outbreak-2019.md)
 
 # Other crises
