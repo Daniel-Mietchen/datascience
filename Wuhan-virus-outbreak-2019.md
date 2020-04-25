@@ -157,6 +157,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 ## Data sharing policy
 
 * Wellcome-led statement [Sharing research data and findings relevant to the novel coronavirus](https://wellcome.ac.uk/press-release/sharing-research-data-and-findings-relevant-novel-coronavirus-ncov-outbreak), reaffirming the 2016 one
+* [RDA-COVID19 Working Group](https://www.rd-alliance.org/groups/rda-covid19)
+  - [RDA COVID-19; recommendations and guidelines, 1st release 24 April 2020](https://doi.org/10.15497/rda00046)
 
 ## Datasets
 
