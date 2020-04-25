@@ -567,3 +567,4 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Open Data Institute offers data-related help for COVID-19 efforts](https://theodi.org/article/need-help-to-share-data-to-tackle-the-coronavirus-crisis-get-in-touch)
 * [Indigenous people are most vulnerable to the spread of coronavirus in Latin America](http://web.archive.org/save/https://news.mongabay.com/2020/03/indigenous-people-are-most-vulnerable-to-the-spread-of-coronavirus-in-latin-america/)
 * [Be A Citizen Scientist: Help Track The Spread Of The COVID-19 Coronavirus](http://web.archive.org/web/20200417191616/https://www.forbes.com/sites/farahqaiser/2020/04/17/be-a-citizen-scientist-help-track-the-spread-of-the-covid-19-coronavirus/)
+* [Colorona book &mdash; a coloring book about the corona virus](http://www.colorona-book.org/)
