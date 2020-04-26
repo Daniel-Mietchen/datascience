@@ -83,7 +83,6 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 - [Total confirmed cases versus total confirmed deaths](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-confirmed-deaths) (by country)
 - [Comparing the infection curves of different countries](https://cream.io/?m=tc&r=United%20States%2C-55&r=Italy%2C-46&r=South%20Korea%2C-42&r=Germany%2C-55&r=France%2C-54&r=Spain%2C-52&s=linear&z=3)
 - [CoVID 19 Worldwide Growth Rates](http://nrg.cs.ucl.ac.uk/mjh/covid19/)
-- [Track the virus &mdash; report your symptoms](https://www.trackthevirus.org/) &mdash; a citizen science approach to surveillance
 - [COVID-19_virus dashboard](https://coronavirus.thebaselab.com/) &mdash; by a college student
 - [COVID-19 Event Horizon](http://rocs.hu-berlin.de/corona/)
   - described [here](https://doi.org/10.1126/science.abb2161)
@@ -550,6 +549,13 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - > "Countries like China, South Korea, and Singapore have responded best to the pandemic crisis. The response in the West has been slow and haphazard by comparison, further clouding the aura of the Western global hegemony."
 * [How the Pandemic Will End &mdash; The U.S. may end up with the worst COVID-19 outbreak in the industrialized world. This is how it’s going to play out.](http://web.archive.org/web/20200403031518/https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/?linkId=85439737)
 
+# Citizen science
+
+* [Track the virus &mdash; report your symptoms](https://www.trackthevirus.org/) &mdash; a citizen science approach to surveillance
+* [COVID near you](https://covidnearyou.org/)
+* [Covid-19 Can’t Stop Citizen Science](https://undark.org/2020/04/17/covid-19-citizen-science/)
+* [Be A Citizen Scientist: Help Track The Spread Of The COVID-19 Coronavirus](http://web.archive.org/web/20200417191616/https://www.forbes.com/sites/farahqaiser/2020/04/17/be-a-citizen-scientist-help-track-the-spread-of-the-covid-19-coronavirus/)
+
 # See also 
 
 * [CDC's weekly overview of clinical flu testing](https://www.cdc.gov/flu/weekly/#ClinicalLaboratories)
@@ -566,5 +572,4 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * ['It’s a Moral Imperative:' Archivists Made a Directory of 5,000 Coronavirus Studies to Bypass Paywalls](http://web.archive.org/web/20200416230608/https://www.vice.com/en_us/article/z3b3v5/archivists-are-bypassing-paywalls-to-share-studies-about-coronaviruses)
 * [Open Data Institute offers data-related help for COVID-19 efforts](https://theodi.org/article/need-help-to-share-data-to-tackle-the-coronavirus-crisis-get-in-touch)
 * [Indigenous people are most vulnerable to the spread of coronavirus in Latin America](http://web.archive.org/save/https://news.mongabay.com/2020/03/indigenous-people-are-most-vulnerable-to-the-spread-of-coronavirus-in-latin-america/)
-* [Be A Citizen Scientist: Help Track The Spread Of The COVID-19 Coronavirus](http://web.archive.org/web/20200417191616/https://www.forbes.com/sites/farahqaiser/2020/04/17/be-a-citizen-scientist-help-track-the-spread-of-the-covid-19-coronavirus/)
 * [Colorona book &mdash; a coloring book about the corona virus](http://www.colorona-book.org/)
