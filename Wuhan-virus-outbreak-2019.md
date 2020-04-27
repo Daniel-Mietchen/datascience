@@ -173,6 +173,9 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [COVID-19 literature](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
 * [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
   - [visualization engine](https://coviz.apps.allenai.org/bc5cdr/)
+  - search engine on top of that
+    - [code](https://github.com/Daniel-Mietchen/Covid19-SearchEngine)
+    - [implementation](http://covid19papers.expdata.xyz/) &mdash; defunct as of 20 April 2020, [no copy on Internat Archive](http://web.archive.org/web/*/http://covid19papers.expdata.xyz//*)
 * [COVID-19 tweets](https://groups.google.com/d/msg/virtual-biohackathon/9SS4LZqLbdI/URUhCn5BBAAJ)
 * [Google Dataset Search for COVID-19](https://datasetsearch.research.google.com/search?query=coronavirus%20covid-19&docid=g3oiDuHtkLygNkWHAAAAAA%3D%3D)
 * [Covid19Relay](https://covid19relay.org/wiki/Covid19Relay) &mdash; a dedicated Wikibase instance for COVID-19-related information
