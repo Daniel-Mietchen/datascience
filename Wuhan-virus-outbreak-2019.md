@@ -314,6 +314,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - Internet Archive
     - [Sharing Courses not Viruses—Educational Innovators Respond to COVID-19](https://blog.archive.org/2020/03/17/sharing-courses-not-viruses-educational-innovators-respond-to-covid-19/)
     - [Announcing a National Emergency Library to Provide Digitized Books to Students and the Public](https://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/)
+* [Earth School](https://ed.ted.com/earth-school) &mdash; [background](https://www.unenvironment.org/news-and-stories/press-release/earth-school-launches-keep-students-connected-nature-time-covid-19)
+* [Colorona book &mdash; a coloring book about the corona virus](http://www.colorona-book.org/)
 
 # Ethics
 
@@ -574,4 +576,3 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * ['It’s a Moral Imperative:' Archivists Made a Directory of 5,000 Coronavirus Studies to Bypass Paywalls](http://web.archive.org/web/20200416230608/https://www.vice.com/en_us/article/z3b3v5/archivists-are-bypassing-paywalls-to-share-studies-about-coronaviruses)
 * [Open Data Institute offers data-related help for COVID-19 efforts](https://theodi.org/article/need-help-to-share-data-to-tackle-the-coronavirus-crisis-get-in-touch)
 * [Indigenous people are most vulnerable to the spread of coronavirus in Latin America](http://web.archive.org/save/https://news.mongabay.com/2020/03/indigenous-people-are-most-vulnerable-to-the-spread-of-coronavirus-in-latin-america/)
-* [Colorona book &mdash; a coloring book about the corona virus](http://www.colorona-book.org/)
