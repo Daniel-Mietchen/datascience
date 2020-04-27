@@ -442,6 +442,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - https://twitter.com/jayvanbavel/status/1241434830828699650
 * ['More scary than coronavirus': South Korea's health alerts expose private lives](http://web.archive.org/web/20200401143111/https://www.theguardian.com/world/2020/mar/06/more-scary-than-coronavirus-south-koreas-health-alerts-expose-private-lives)
 * [Google Fact Check Explorer for coronavirus](https://toolbox.google.com/factcheck/explorer/search/coronavirus%20OR%20COVID%20OR%20COVID19%20OR%20SARS;hl=en)
+* [Authors to correct influential Imperial College COVID-19 report after learning it cited a withdrawn preprint](https://retractionwatch.com/2020/04/26/authors-to-correct-influential-imperial-college-covid-19-report-after-learning-it-cited-a-withdrawn-preprint/)
 
 # Quarantine
 
