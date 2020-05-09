@@ -163,3 +163,4 @@ This file hosts information regarding sustainability, especially the sustainabil
 * [Climate perks](https://www.climateperks.com/)
 * [importance of digital technologies in addressing market failures along the global agri-food value chains](https://www.iamo.de/en/press/news/article/iamo-forum-2020-interview-with-keynote-speaker-kateryna-schroeder-world-bank/)
 * [Planetary Computer ("AI for Earth")[https://innovation.microsoft.com/en-us/planetary-computer]
+* [Food waste reduction](https://lovefoodhatewaste.com/article/food-storage-a-z)
