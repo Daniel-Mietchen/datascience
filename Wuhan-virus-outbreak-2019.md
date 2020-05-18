@@ -552,6 +552,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 # See also 
 
 * COVID-19 and indigenous people ([Twitter search](https://twitter.com/search?q=(sarscov2%20OR%20sars%20OR%20covid%20OR%20covid19%20OR%20(wuhan%20AND%20virus)%20OR%20coronavirus)%20AND%20(indigenous%20OR%20aboriginal%20OR%20maori%20OR%20%22first%20nations%22%20OR%20%22native%20american%22%20OR%20%22native%20americans%22)))
+  - [Australia](https://www.abc.net.au/news/2020-05-15/nt-biosecurity-act-lifted-allowing-free-travel-remote-community/12247292)
   - Brazil
     - [Brazil’s Coronavirus Cases Soar as Toll on Indigenous Communities Raises Alarm](https://www.democracynow.org/2020/5/18/headlines/brazils_coronavirus_cases_soar_as_toll_on_indigenous_communities_raises_alarm)
   - [Canada](https://covid19indigenous.ca/)
