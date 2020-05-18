@@ -556,3 +556,4 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - [Brazil’s Coronavirus Cases Soar as Toll on Indigenous Communities Raises Alarm](https://www.democracynow.org/2020/5/18/headlines/brazils_coronavirus_cases_soar_as_toll_on_indigenous_communities_raises_alarm)
   - [Canada](https://covid19indigenous.ca/)
     - [COVIDIndigenous](https://twitter.com/COVIDIndigenous)
+  - [Chad and internationally](https://www.weforum.org/agenda/2020/05/how-coronavirus-impacts-indigenous-people)
