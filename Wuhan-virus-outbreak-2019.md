@@ -548,3 +548,11 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - > "Most of all, we need to remember that public trust is crucial to governance—and that trust depends on telling the truth."
     - > "Expect a political uprising"
     - > "Electronic voting g
+
+# See also 
+
+* COVID-19 and indigenous people
+  - Brazil
+    - [Brazil’s Coronavirus Cases Soar as Toll on Indigenous Communities Raises Alarm](https://www.democracynow.org/2020/5/18/headlines/brazils_coronavirus_cases_soar_as_toll_on_indigenous_communities_raises_alarm)
+  - [Canada](https://covid19indigenous.ca/)
+    - [COVIDIndigenous](https://twitter.com/COVIDIndigenous)
