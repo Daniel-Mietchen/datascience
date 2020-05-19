@@ -558,3 +558,4 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - [Canada](https://covid19indigenous.ca/)
     - [COVIDIndigenous](https://twitter.com/COVIDIndigenous)
   - [Chad and internationally](https://www.weforum.org/agenda/2020/05/how-coronavirus-impacts-indigenous-people)
+  - RDA is working on [Indigenous data related to COVID-19](https://docs.google.com/document/d/1jfj0Vw2pHs0JEJwVnPY3PGNvbAXp4_sAAQP_k0rGBJo/edit#heading=h.9uh9w3viwdrx)
