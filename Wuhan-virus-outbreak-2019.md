@@ -547,7 +547,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - > "It’s clear that in a crisis, the rules don’t apply—which makes you wonder why they are rules in the first place. This is an unprecedented opportunity to not just hit the pause button and temporarily ease the pain, but to permanently change the rules so that untold millions of people aren’t so vulnerable to begin with."
     - > "Most of all, we need to remember that public trust is crucial to governance—and that trust depends on telling the truth."
     - > "Expect a political uprising"
-    - > "Electronic voting g
+    - > "Electronic voting goes mainstream"
 
 # See also 
 
