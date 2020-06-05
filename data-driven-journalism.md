@@ -210,3 +210,5 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [The 2018 Atlas of Sustainable Development Goals: an all-new visual guide to data and development ](http://blogs.worldbank.org/opendata/2018-atlas-sustainable-development-goals-all-new-visual-guide-data-and-development)
   > It’s filled with annotated data visualizations, which can be reproducibly built from source code and data. You can view the SDG Atlas online, download the PDF publication (30Mb), and access the data and source code behind the figures.
 * [Data journalism awards](https://datajournalismawards.org/) &mdash; [some background](https://www.europeandataportal.eu/en/highlights/data-driven-journalism)
+* [GitHub repo for Computational journalism at Columbia University](https://github.com/computationaljournalism)
+* [The (Twitter) Follower Factory](http://web.archive.org/web/20200604234608/https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
