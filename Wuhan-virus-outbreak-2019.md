@@ -53,6 +53,9 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - https://covid19.ca.gov/
   - Virginia
     - https://www.dhrm.virginia.gov/covid-19
+- Brazil
+  - [Brazil stops releasing Covid-19 death toll and wipes data from official site](https://www.theguardian.com/world/2020/jun/07/brazil-stops-releasing-covid-19-death-toll-and-wipes-data-from-official-site)
+    - > "Doctors across Brazil said the lack of information would hinder management of the pandemic as cases moved from big cities into its vast interior. “How is a manager going to reallocate resources and organise vacancies and transporting the sick if they don’t have data?” said Guilherme Pivoto, an infectious diseases specialist in Manaus, one of Brazil’s worst-hit cities."
 - Cuba
   - [web.archive.org/web/20200607205440/https://www.theguardian.com/world/2020/jun/07/cuba-coronavirus-success-contact-tracing-isolation Cuba sets example with successful programme to contain coronavirus]
 - Germany
