@@ -53,6 +53,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - https://covid19.ca.gov/
   - Virginia
     - https://www.dhrm.virginia.gov/covid-19
+- Cuba
+  - [web.archive.org/web/20200607205440/https://www.theguardian.com/world/2020/jun/07/cuba-coronavirus-success-contact-tracing-isolation Cuba sets example with successful programme to contain coronavirus]
 - Germany
   - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
     - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
