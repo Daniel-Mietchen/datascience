@@ -136,6 +136,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 - [Reuters](https://twitter.com/Reuters/status/1223362921411088387)
 - [from supposed patient 1](http://web.archive.org/web/20200317214157/https://twitter.com/EllaContor/status/1234002441235906560)
 - [Timeline: The Regulations—and Regulators—That Delayed Coronavirus Testing](https://thedispatch.com/p/timeline-the-regulationsand-regulatorsthat)
+- [Coronavirus may have been in Wuhan in August, study suggests](https://www.theguardian.com/world/2020/jun/09/coronavirus-may-have-been-in-wuhan-in-august-study-suggests)
+  - [source preprint](https://dash.harvard.edu/handle/1/42669767)
 
 # Open questions
 *These are some of the questions that have been open at some point in the pandemic. Loads of them have been posted in places like the [biological](https://biology.stackexchange.com/questions/tagged/coronavirus) or [medical](https://medicalsciences.stackexchange.com/questions/tagged/covid-19) Stack Exchange sites. Some have decent answers by now.*
