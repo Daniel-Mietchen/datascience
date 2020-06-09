@@ -39,6 +39,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 # Situation reports
 
+*This section started out as being about situation reports from various sources, but has since evolved. For an overview of the situation in different contexts, see [Wikipedia](https://en.wikipedia.org/wiki/Template:COVID-19_pandemic).*
+
 ## Governmental organizations
 
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
@@ -72,6 +74,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
       - [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus) 
     - [rules, regulations and updates](https://www.landesregierung-thueringen.de/corona-bulletin/)
     - [Vorläufige Thüringer Grund-Verordnung zur Eindämmung der Corona-Pandemie (Corona EindämmungsVO)](https://www.landesregierung-thueringen.de/medien/medieninformationen/detailseite/26-2020/)
+- Japan
+  - Presentation: [Japan’s COVID-19 Response](https://www.mhlw.go.jp/content/10900000/000635891.pdf) (as of June 1, 2020)
 - South Korea
   - Korean CDC [질병관리본부](https://www.cdc.go.kr/search/search.es?mid=a20101000000) (inactive)
     - replaced by dedicated SARS-CoV-2 website [코로나바이러스감염증-19](http://ncov.mohw.go.kr/) at Korean Ministry of Health and Welfare 
