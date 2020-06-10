@@ -83,6 +83,10 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 - South Korea
   - Korean CDC [질병관리본부](https://www.cdc.go.kr/search/search.es?mid=a20101000000) (inactive)
     - replaced by dedicated SARS-CoV-2 website [코로나바이러스감염증-19](http://ncov.mohw.go.kr/) at Korean Ministry of Health and Welfare 
+- Vietnam
+  - [half a year into the pandemic, and still no single COVID-19 death in a population of 94 million, with only a few hundred infected](https://twitter.com/WorldwideFP/status/1270597706864525312)
+- Yemen
+  - [danger of ending up with no physicians in the country](https://twitter.com/QuickTake/status/1270617117906395136)
 
 ## Tools
 
