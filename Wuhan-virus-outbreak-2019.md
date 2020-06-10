@@ -306,6 +306,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 ## Social distancing
 
 * reframed as "healthy distancing" in [The Behavioral Side of COVID-19](https://www.ideas42.org/blog/the-behavioral-side-of-covid-19/)
+* [party conventions in drive-in movie theatre](https://www.ruhrnachrichten.de/dortmund/autokino-und-aula-dortmunds-spd-und-cdu-starten-in-ihre-parteitage-1527243.html)
 
 ## Spread
 
