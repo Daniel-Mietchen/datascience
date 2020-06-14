@@ -71,7 +71,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
       - [overview](https://covid-19.openmedical.de/)
   - [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
     - [YouTube video series](https://www.youtube.com/watch?v=Nu9vla6RhWI)
-  - [3 R0-based scnarios developed by the Helmholtz Society](https://www.helmholtz.de/fileadmin/user_upload/01_forschung/Helmholtz-COVID-19-Papier_02.pdf)
+  - [3 R0-based scenarios developed by the Helmholtz Society](https://www.helmholtz.de/fileadmin/user_upload/01_forschung/Helmholtz-COVID-19-Papier_02.pdf)
   - [hospital beds](http://ardsnetzwerk.de/ards-melderegister/)
     - site [moved](https://www.divi.de/register/intensivregister)
      - [map](https://www.divi.de/register/kartenansicht)
