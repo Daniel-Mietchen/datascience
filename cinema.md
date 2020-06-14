@@ -97,6 +97,10 @@
       - Downtime (gives balance)
         - rest and relaxation are a key prerequisite to adaptability
           - essentially, a breakthrough starts with a break
+* [Andy Harris: How to Begin Thinking Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k)
+  - nice intro to programming, focusing on getting the algorithm part sorted out before jumping into a specific language and its syntax, reusing the algorithm sketch as comments
+  - always writes while loops as ```while(KeepGoing)```
+  - end with an explanation as to why Python is a good language to learn for beginners
 * [The Spring](https://vimeo.com/180467014)
   - inspiring approach to realizing the vision of providing every human with clean drinking water
   - [they use open hardware sensors](https://www.charitywater.org/projects/sensors/)
