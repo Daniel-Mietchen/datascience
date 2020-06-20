@@ -428,6 +428,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 ## Freedom of Information / Freedom of Press / Misinformation
 
+* > "Misconceptions disappear only if there is some equally simple but more relevant way of thinking to replace them." ([Hans Rosling](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think))
 * https://www.theguardian.com/world/2020/jan/31/bat-soup-dodgy-cures-and-diseasology-the-spread-of-coronavirus-bunkum
 * https://www.theguardian.com/commentisfree/2020/jan/31/coronavirus-misinformation-spread-facebook-conspiracy-theories
 * https://twitter.com/HongKongFP/status/1216974257386733569
