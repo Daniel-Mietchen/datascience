@@ -314,6 +314,8 @@
 * [Jay Gattuso: From nothing to daily use - How Python changed my work life](https://www.youtube.com/watch?v=fCSAOcTbe8g)
 * [Meet the dazzling flying machines of the future | Raffaello D'Andrea](https://www.youtube.com/watch?v=RCXGpEmFbOw)
   - demonstrates a number of drones, quadrocopters and friends, including an octocopter and a monocopter, and discusses topics like safety features, minimal number of movable parts, or the value for artistic expression
+* [The Future of Flying Robots | Vijay Kumar | TED Talks](https://www.youtube.com/watch?v=ge3--1hOm1s)
+  - demonstrates applications of drones in agriculture, e.g. to count the number of fruits in an orchard or to identify the need for water, fertilizer or pesticides
 * [Data Management Hub](https://www.youtube.com/watch?v=MYFyr2NmWdg) &mdash; introductory talk by [Ingo Keck](https://kubrik.io/about/team/ingo.html) on the [Data Management Hub](https://damahub.com/), a kind of blockchain-based distributed Dropbox for researchers
 * [Matthew DeGennaro: Mutant mosquitoes hold key to life-saving perfume](https://www.youtube.com/watch?v=HbMhbrn1PoA)
 * [Ogie Shaw: Winning The Mental Battle of Physical Fitness and Obesity](https://www.youtube.com/watch?v=K60xHx836T0)
