@@ -37,7 +37,7 @@
   - plan
 * [What One Person Can Do About Climate Change | Ella Lagé](https://www.youtube.com/watch?v=LRQWXFCaOGs)
   - got involved with 350.org
-    - joined a group demanding the the city of Berlin divest from fossil fuels
+    - joined a group demanding that the city of Berlin divest from fossil fuels
       - success
   - website http://was-macht-mein-geld.de/
 * [Forget climate Apocalypse. There's hope for our warming planet | Jelmer Mommers](https://www.youtube.com/watch?v=gtu9GHhiK0o)
