@@ -178,7 +178,6 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 * [Schema for Coronavirus special announcements, Covid-19 Testing Facilities and more](http://blog.schema.org/2020/03/schema-for-coronavirus-special.html)
 * [COVID-19 schema for CDC hospital reporting](http://blog.schema.org/2020/04/covid-19-schema-for-cdc-hospital.html)
-* []()
 
 ## Data sharing policy
 
@@ -207,6 +206,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Covid19Relay](https://covid19relay.org/wiki/Covid19Relay) &mdash; a dedicated Wikibase instance for COVID-19-related information
   - [grant proposal](https://wikiconference.org/wiki/2019/Grants/Covid19Relay:_a_graph_database_of_coronavirus_research_and_concepts)
 * [Simulation of school closures in Berlin as a function of epidemiological parameters](https://matsim-vsp.github.io/covid-sim/v4)
+* [Publon's COVID-19 corpus](https://publons.com/publon/covid-19/?abstract_keywords=s.%20korea&sort_by=date)
 
 ## Decision-making based on incomplete data
 
