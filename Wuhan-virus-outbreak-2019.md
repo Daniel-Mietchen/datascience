@@ -385,6 +385,10 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Wir versus Virus hackathon](https://wirvsvirushackathon.org/) (online, all around Germany, 20-22 March 2020)
 * [Hack the Crisis Finland](https://www.hackthecrisisfinland.com/) (online, all around Finland, 20-22 March 2020)
 
+# Humor
+
+* [A Message from Your University’s Vice President for Magical Thinking](http://web.archive.org/web/20200628153728/https://www.mcsweeneys.net/articles/a-message-from-your-universitys-vice-president-for-magical-thinking)
+
 # Open hardware
 
 * [Ventilators inserting a 3d printed valve into a Decathlon snorkling mask.](https://twitter.com/DellAnnaLuca/status/1241529620010119168)
