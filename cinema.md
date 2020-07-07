@@ -25,6 +25,8 @@
   - broadcast in 2015, with the initial ruling of the district court featured as the highlight, which was uphelp in later instances twice, the latest being by the Dutch Supreme Court in December 2020
   - remarkably car-centric for a piece on climate change and emissions from fossil fuels
     - also multiple depictions of single-use plastics and of upper-class lifestyle
+* [I am 30 years old, and a month ago I got my first passport | Maha Mamo](https://www.youtube.com/watch?v=RzffChmXKyA)
+  - about what it means to be stateless, and how to end statelessness by providing everyone with an environment where they belong
 * [Sustainable Investing: What you didn't know could make you money. | Karina Funk | TEDxWilmington](https://www.youtube.com/watch?v=fno1QIuA6EQ)
   - makes the case that profits and environment need not be as much at odds as they are often pereceived to be
   - she highlights what she called "environmental business advantage", i.e. some business advantage gained from reducing the environmental footprint of the company
