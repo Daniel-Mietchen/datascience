@@ -249,6 +249,8 @@
       - a fair chance to live their lives to the fullest, without compromising the chances of current or future generations to do the same
     - How do these people change as a result of your activities?
       - become more collaborative themselves, both in the present and with past or future generations, as well as with other species and technology
+* [Learning how to learn | Barbara Oakley](https://www.youtube.com/watch?v=O96fE1E-rf8)
+  - on the importance of focused learning and diffuse learning/ relaxation
 * [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
   * introduces the Web annotation tool [Hypothes.is](https://hypothes.is/) as an element of human cultural evolution
 * [Tess Posner, AI4ALL Diverse and Inclusive AI - H2O World San Francisco](https://www.youtube.com/watch?v=5pIsLg7Ga_w)
