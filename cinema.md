@@ -396,6 +396,8 @@
 * [Sabine Hossenfelder: Was läuft falsch in der gegenwärtigen Physik? (What's wrong with Physics today?)](https://www.youtube.com/watch?v=99hVAu1k6G8)
   - with comments (starting at about [53min](https://www.youtube.com/watch?v=99hVAu1k6G8#t=53m)) on the current academic system, e.g. preregistration at 56 min or social norms at 57 min
 * [Harald Lesch: Sind wir allein im Universum?](https://www.youtube.com/watch?v=Fdjg_ep90Mc) &mdash; quite entertaining 
+* [Learning styles & the importance of critical self-reflection | Tesia Marshik](https://www.youtube.com/watch?v=855Now8h5Rs)
+  - does away with the common notion that people have learning styles (auditory/ visual/ tactile/ olfactory)
 * [Rio 2016 Opening Ceremony](https://www.youtube.com/watch?v=N_qXm9HY9Ro#t=53m) &mdash; I did not watch the whole thing but just the ca. 5 min related to climate change, prompted by [this tweet](https://twitter.com/mxfh/status/1131323607257419778)
 
 # Maybe watch in the future
