@@ -270,6 +270,8 @@
   * nice [collection of images taken with Foldscope](https://microcosmos.foldscope.com/) 
 * [Thomas Suarez: A 12-year-old app developer](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
   * title says it all
+* [The art of focus – a crucial ability | Christina Bengtsson](https://www.youtube.com/watch?v=xF80HzqvAoA)
+  - suggests to skip writing to-do lists and to think about no-to-do lists instead
 * [Bitcoin Blockchain Ethereum - Vitalik Buterin](https://www.youtube.com/watch?v=aGYmNidVLWY)
   * Visually appealing but still useful summary of blockchains
 * [A Better Default Colormap for Matplotlib](https://www.youtube.com/watch?v=xAoljeRJ3lU)
