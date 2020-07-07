@@ -80,15 +80,9 @@ Since then, lots of sources of information (and misinformation) on the topic hav
       - [Coronavirus page of Gesundheitsamt Jena](https://gesundheit.jena.de/de/coronavirus) 
     - [rules, regulations and updates](https://www.landesregierung-thueringen.de/corona-bulletin/)
     - [Vorläufige Thüringer Grund-Verordnung zur Eindämmung der Corona-Pandemie (Corona EindämmungsVO)](https://www.landesregierung-thueringen.de/medien/medieninformationen/detailseite/26-2020/)
-- Japan
-  - Presentation: [Japan’s COVID-19 Response](https://www.mhlw.go.jp/content/10900000/000635891.pdf) (as of June 1, 2020)
 - South Korea
   - Korean CDC [질병관리본부](https://www.cdc.go.kr/search/search.es?mid=a20101000000) (inactive)
     - replaced by dedicated SARS-CoV-2 website [코로나바이러스감염증-19](http://ncov.mohw.go.kr/) at Korean Ministry of Health and Welfare 
-- Vietnam
-  - [half a year into the pandemic, and still no single COVID-19 death in a population of 94 million, with only a few hundred infected](https://twitter.com/WorldwideFP/status/1270597706864525312)
-- Yemen
-  - [danger of ending up with no physicians in the country](https://twitter.com/QuickTake/status/1270617117906395136)
 
 ## Tools
 
@@ -513,12 +507,6 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 * [The Demand for Inpatient and ICU Beds for COVID-19 in the US: Lessons From Chinese Cities](http://nrs.harvard.edu/urn-3:HUL.InstRepos:42599304)
 
-## Italy
-
-* [Coronavirus: Italy's hardest-hit city wants you to see how COVID-19 is affecting its hospitals ](http://web.archive.org/web/20200322045527/https://news.sky.com/story/coronavirus-they-call-it-the-apocalypse-inside-italys-hardest-hit-hospital-11960597)
-  - seen via https://twitter.com/NAChristakis/status/1241187307052564480
-* [changes in the number of obituaries in a daily newspaper, Eco di Bergamo](https://twitter.com/NaomiOhReally/status/1238868163208634371)
-
 ## Germany
 * [COVID-19 flyer by Robert-Koch-Institut](https://gesundheit.jena.de/sites/default/files/2020-03/20_0075_Quarant%C3%A4ne_Flyer_V22.pdf)
 * Thuringia
@@ -529,10 +517,33 @@ Since then, lots of sources of information (and misinformation) on the topic hav
       - [Coronavirus – was tun?](https://gesundheit.jena.de/sites/default/files/2020-03/poster_neu_0.pdf)
       - [Meldepflicht und  sofortige Quarantäne](https://gesundheit.jena.de/sites/default/files/2020-03/poster_meldepflicht.pdf)
 
+## Italy
+
+* [Coronavirus: Italy's hardest-hit city wants you to see how COVID-19 is affecting its hospitals ](http://web.archive.org/web/20200322045527/https://news.sky.com/story/coronavirus-they-call-it-the-apocalypse-inside-italys-hardest-hit-hospital-11960597)
+  - seen via https://twitter.com/NAChristakis/status/1241187307052564480
+* [changes in the number of obituaries in a daily newspaper, Eco di Bergamo](https://twitter.com/NaomiOhReally/status/1238868163208634371)
+
+## Mongolia
+
+* [Like a Gaulish village of democracy](https://www.ips-journal.eu/topics/democracy/article/show/like-a-gaulish-village-of-democracy-4481/)
+
+## New Zealand
+
+* [Will Jacinda Ardern's popularity endure?](https://www.ips-journal.eu/regions/asia/article/show/will-jacinda-arderns-popularity-endure-4440/)
+
 ## United States
 
 * EPA's [List N: Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2)
 * [State Tax Filing relief](https://www.aicpa.org/content/dam/aicpa/advocacy/tax/downloadabledocuments/coronavirus-state-filing-relief.pdf)
+
+## Japan
+  - Presentation: [Japan’s COVID-19 Response](https://www.mhlw.go.jp/content/10900000/000635891.pdf) (as of June 1, 2020)
+
+## Vietnam
+  - [half a year into the pandemic, and still no single COVID-19 death in a population of 94 million, with only a few hundred infected](https://twitter.com/WorldwideFP/status/1270597706864525312)
+
+## Yemen
+  - [danger of ending up with no physicians in the country](https://twitter.com/QuickTake/status/1270617117906395136)
 
 # Environmental effects
 
