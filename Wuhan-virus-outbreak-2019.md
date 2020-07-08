@@ -523,6 +523,14 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - seen via https://twitter.com/NAChristakis/status/1241187307052564480
 * [changes in the number of obituaries in a daily newspaper, Eco di Bergamo](https://twitter.com/NaomiOhReally/status/1238868163208634371)
 
+
+## Japan
+  - Presentation: [Japan’s COVID-19 Response](https://www.mhlw.go.jp/content/10900000/000635891.pdf) (as of June 1, 2020)
+
+## Lithuania
+
+* Wikipedia: [COVID-19 pandemic in Lithuania](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Lithuania)
+
 ## Mongolia
 
 * [Like a Gaulish village of democracy](https://www.ips-journal.eu/topics/democracy/article/show/like-a-gaulish-village-of-democracy-4481/)
@@ -531,13 +539,14 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 * [Will Jacinda Ardern's popularity endure?](https://www.ips-journal.eu/regions/asia/article/show/will-jacinda-arderns-popularity-endure-4440/)
 
+## Taiwan
+
+* Wikipedia: [COVID-19 pandemic in Taiwan](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Taiwan)
+
 ## United States
 
 * EPA's [List N: Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2)
 * [State Tax Filing relief](https://www.aicpa.org/content/dam/aicpa/advocacy/tax/downloadabledocuments/coronavirus-state-filing-relief.pdf)
-
-## Japan
-  - Presentation: [Japan’s COVID-19 Response](https://www.mhlw.go.jp/content/10900000/000635891.pdf) (as of June 1, 2020)
 
 ## Vietnam
   - [half a year into the pandemic, and still no single COVID-19 death in a population of 94 million, with only a few hundred infected](https://twitter.com/WorldwideFP/status/1270597706864525312)
