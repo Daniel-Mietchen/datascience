@@ -161,6 +161,7 @@
   - proposes a new approach to designing an academic poster
   - I pinged the presenter about participation in his [study](https://www.youtube.com/watch?v=1RwJbhkCA58#t=19m)
   - He also has a manifesto [Let's Make Science User-Friendly](https://www.youtube.com/watch?v=WBjhxjWDiHw)
+  - [PART II](https://www.youtube.com/watch?v=SYk29tnxASs)
 * [A free world needs satire | Patrick Chappatte](https://www.youtube.com/watch?v=MIGtyaVb2Xc)
   - numerous good examples of how caricature nails certain conversations, and how antidemocratic measures make caricature suffer
 * [A new way to remove CO2 from the atmosphere | Jennifer Wilcox](https://www.youtube.com/watch?v=XY_lzonfE3I)
