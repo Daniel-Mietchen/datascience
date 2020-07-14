@@ -55,6 +55,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - https://www.coronavirus.gov/
   - https://www.usa.gov/coronavirus
   - https://www.nih.gov/coronavirus
+    - https://www.nih.gov/health-information/nih-guidance-travel-meetings
   - [FDA page on drug shortages](https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm)
   - California
     - https://covid19.ca.gov/
