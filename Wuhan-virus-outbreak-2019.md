@@ -61,11 +61,6 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - https://covid19.ca.gov/
   - Virginia
     - https://www.dhrm.virginia.gov/covid-19
-- Brazil
-  - [Brazil stops releasing Covid-19 death toll and wipes data from official site](https://www.theguardian.com/world/2020/jun/07/brazil-stops-releasing-covid-19-death-toll-and-wipes-data-from-official-site)
-    - > "Doctors across Brazil said the lack of information would hinder management of the pandemic as cases moved from big cities into its vast interior. “How is a manager going to reallocate resources and organise vacancies and transporting the sick if they don’t have data?” said Guilherme Pivoto, an infectious diseases specialist in Manaus, one of Brazil’s worst-hit cities."
-- Cuba
-  - [Cuba sets example with successful programme to contain coronavirus](http://web.archive.org/web/20200607205440/https://www.theguardian.com/world/2020/jun/07/cuba-coronavirus-success-contact-tracing-isolation)
 - Germany
   - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
     - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
@@ -504,6 +499,13 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 # Individual countries
 
+## Brazil
+  - [Brazil stops releasing Covid-19 death toll and wipes data from official site](https://www.theguardian.com/world/2020/jun/07/brazil-stops-releasing-covid-19-death-toll-and-wipes-data-from-official-site)
+    - > "Doctors across Brazil said the lack of information would hinder management of the pandemic as cases moved from big cities into its vast interior. “How is a manager going to reallocate resources and organise vacancies and transporting the sick if they don’t have data?” said Guilherme Pivoto, an infectious diseases specialist in Manaus, one of Brazil’s worst-hit cities."
+
+## Cuba
+  - [Cuba sets example with successful programme to contain coronavirus](http://web.archive.org/web/20200607205440/https://www.theguardian.com/world/2020/jun/07/cuba-coronavirus-success-contact-tracing-isolation)
+
 ## China
 
 * [The Demand for Inpatient and ICU Beds for COVID-19 in the US: Lessons From Chinese Cities](http://nrs.harvard.edu/urn-3:HUL.InstRepos:42599304)
@@ -551,6 +553,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 ## Vietnam
   - [half a year into the pandemic, and still no single COVID-19 death in a population of 94 million, with only a few hundred infected](https://twitter.com/WorldwideFP/status/1270597706864525312)
+  - [Zero COVID-19 Deaths in Vietnam](https://www.outbreakobservatory.org/outbreakthursday-1/7/9/2020/zero-covid-19-deaths-in-vietnam) (July 9)
 
 ## Yemen
   - [danger of ending up with no physicians in the country](https://twitter.com/QuickTake/status/1270617117906395136)
