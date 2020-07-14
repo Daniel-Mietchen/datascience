@@ -552,9 +552,11 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [State Tax Filing relief](https://www.aicpa.org/content/dam/aicpa/advocacy/tax/downloadabledocuments/coronavirus-state-filing-relief.pdf)
 
 ## Vietnam
-  - [half a year into the pandemic, and still no single COVID-19 death in a population of 94 million, with only a few hundred infected](https://twitter.com/WorldwideFP/status/1270597706864525312)
+  - [Containing the coronavirus (COVID-19): Lessons from Vietnam](https://blogs.worldbank.org/health/containing-coronavirus-covid-19-lessons-vietnam) (April 30)
+  - [half a year into the pandemic, and still no single COVID-19 death in a population of 94 million, with only a few hundred infected](https://twitter.com/WorldwideFP/status/1270597706864525312) (June 10)
+  - [Vietnam: COVID-19 Response](https://www.cdc.gov/globalhealth/healthprotection/fetp-40th-anniversary/stories/vietnam-covid-response.html) (June 17)
   - [Zero COVID-19 Deaths in Vietnam](https://www.outbreakobservatory.org/outbreakthursday-1/7/9/2020/zero-covid-19-deaths-in-vietnam) (July 9)
-
+  
 ## Yemen
   - [danger of ending up with no physicians in the country](https://twitter.com/QuickTake/status/1270617117906395136)
 
