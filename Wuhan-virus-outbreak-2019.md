@@ -262,6 +262,11 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 * For Germany, a detailed risk analysis is available via "[Risikoanalyse Bevölkerungsschutz Bund &mdash; Pandemie durch Virus „Modi-SARS“](http://dipbt.bundestag.de/dip21/btd/17/120/1712051.pdf)"
 
+## Platforms
+
+* [JOGL's COVID-19 Challenges](https://app.jogl.io/program/opencovid19)
+* [Terra's COVID-19 workspace with analysis workflows for viral genomic data](https://terra.bio/covid19)
+
 ## Phylogenetics
 
 * [https://nextstrain.org/ncov](https://nextstrain.org/ncov)
