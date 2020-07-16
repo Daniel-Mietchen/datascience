@@ -550,6 +550,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 * EPA's [List N: Disinfectants for Use Against SARS-CoV-2](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2)
 * [State Tax Filing relief](https://www.aicpa.org/content/dam/aicpa/advocacy/tax/downloadabledocuments/coronavirus-state-filing-relief.pdf)
+* [Documenting COVID-19](https://documentingcovid19.io/)
 
 ## Vietnam
   - [Containing the coronavirus (COVID-19): Lessons from Vietnam](https://blogs.worldbank.org/health/containing-coronavirus-covid-19-lessons-vietnam) (April 30)
