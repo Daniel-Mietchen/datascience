@@ -113,6 +113,7 @@
   - about [holistic management (planned grazing)](https://en.wikipedia.org/wiki/Holistic_management_(agriculture))
   - see also the documentary [Running out of Time](https://www.youtube.com/watch?v=q7pI7IYaJLI)
     - This YouTube video included an [ad that I actually watched](https://youtu.be/vdT8EprNE8A), about the U.S. Farmers and Ranchers Alliance's [30 Harvests](https://usfarmersandranchers.org/30-harvests/)  initiative towards sustainable agriculture
+* [Climate change – living on the water](https://www.youtube.com/watch?v=vy3gMVGwjuc) &mdash; nice documentary of (mainly architectural) approaches to living above and below water, featuring both existing and futuristic examples, including some barrier buildings
 * [The Daily Show With Trevor Noah: Greta Thunberg - Inspiring Others to Take a Stand Against Climate Change - Extended Interview](http://www.cc.com/video-clips/ed6ma7/the-daily-show-with-trevor-noah-greta-thunberg---inspiring-others-to-take-a-stand-against-climate-change---extended-interview?xrs=tds_091219_3)
 * [A Message From the Future With Alexandria Ocasio-Cortez](https://www.youtube.com/watch?v=d9uTH0iprVQ)
   - describes a future in which the current climate crisis was averted by concerted climate action
