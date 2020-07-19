@@ -82,7 +82,8 @@
         - nicely explained
       - The question is not whether climate legislation will happen but whether it will happen in time before major climate tipping points are reached
 * [Wikimedia Research Showcase - July 2020](https://www.youtube.com/watch?v=qIV26lWrD9c) &mdash; on [Wikipedia and COVID-19](https://twitter.com/WikiResearch/status/1282704993808723969)
-  - the first presentation by Denise Smith is essentially a summary of her paper "[Situating Wikipedia as a health information resource in various contexts: A scoping review](https://doi.org/10.1371/journal.pone.0228786)", published in February 2020
+  - the first presentation by Denise Smith is essentially a summary of her paper "[Situating Wikipedia as a health information resource in various contexts: A scoping review](https://doi.org/10.1371/journal.pone.0228786)", published in February 2020, which concluded
+    - > The literature positions Wikipedia as a prominent health information resource in various contexts for the public, patients, students, and practitioners seeking health information online. Wikipedia’s health content is accessed frequently, and its pages regularly rank highly in Google search results. While Wikipedia itself is well into its second decade, the academic discourse around Wikipedia within the context of health is still young and the academic literature is limited when attempts are made to understand Wikipedia as a health information resource. Possibilities for future research will be discussed.
 * [Mensch gegen Virus - 11.05.2020 ∙ Geschichte im Ersten ∙ Das Erste](https://www.ardmediathek.de/daserste/video/geschichte-im-ersten/mensch-gegen-virus/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL2dlc2NoaWNodGUtaW0tZXJzdGVuLzU4ZDE1MDI5LWQ2OTAtNDFkZC1hMDRiLWM0YTRlZjYxNTAwMw/)
   - looks at past epidemics from the perspective of the current one
 * [Why the majority is always wrong | Paul Rulkens](https://www.youtube.com/watch?v=VNGFep6rncY)
