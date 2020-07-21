@@ -480,6 +480,12 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Google Fact Check Explorer for coronavirus](https://toolbox.google.com/factcheck/explorer/search/coronavirus%20OR%20COVID%20OR%20COVID19%20OR%20SARS;hl=en)
 * [Authors to correct influential Imperial College COVID-19 report after learning it cited a withdrawn preprint](https://retractionwatch.com/2020/04/26/authors-to-correct-influential-imperial-college-covid-19-report-after-learning-it-cited-a-withdrawn-preprint/)
 * [Florida scientist says she was ousted after refusing to manipulate state’s COVID-19 data](https://www.msnbc.com/msnbc/watch/florida-scientist-says-she-was-ousted-after-refusing-to-manipulate-state-s-covid-19-data-83685957617)
+* [Coronavirus data has already disappeared after Trump administration shifted control from CDC](https://www.cnbc.com/2020/07/16/us-coronavirus-data-has-already-disappeared-after-trump-administration-shifted-control-from-cdc-to-hhs.html)
+  - new [HHS portal for COVID-19](https://protect-public.hhs.gov/)
+  - see also the [CDC dashboard](https://www.cdc.gov/nhsn/covid19/report-patient-impact.html) and a note displayed there
+    - > "	IMPORTANT: Data displayed on this page was submitted directly to CDC’s National Healthcare Safety Network (NHSN) and does not include data submitted to other entities contracted by or within the federal government."
+  - [An Open Letter from the American Medical Informatics Association and the American College of Medical Informatics Regarding Public Health Reporting Deficiencies During the COVID-19 Pandemic](https://www.amia.org/news-and-publications/press-release/open-letter-american-medical-informatics-association-and-american#.XxXA1NNkACo.twitter)
+  - [HHS memo](https://www.hhs.gov/sites/default/files/covid-19-faqs-hospitals-hospital-laboratory-acute-care-facility-data-reporting.pdf) ties compliance with these new reporting requirements to availability of remdesivir for the data-reporting facilities
 
 # Quarantine
 
