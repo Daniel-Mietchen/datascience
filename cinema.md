@@ -130,6 +130,7 @@
   - nice idea to frame his desire to share his research with the widest possible audiences as a precursor to Wikipedia
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
   - lots of insightful demos about artistic aspects of various programming languages and software in general
+  - backstory about the creation of the [Rockstar](https://github.com/RockstarLang/rockstar) language
 * [The three secrets of resilient people | Lucy Hone](https://www.youtube.com/watch?v=NWH8N-BvhAw)
   - resilient people 
     - know that suffering is part of life
