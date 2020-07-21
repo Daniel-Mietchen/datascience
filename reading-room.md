@@ -724,3 +724,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
       - [Promoting the work of the Data Champions Poster](http://doi.org/10.5281/zenodo.3519499)
   - https://www.data.cam.ac.uk/intro-data-champions
 * [Nice thread by Michael Nielsen on the history of open science](https://threadreaderapp.com/thread/1197254585339002881.html)
+* [The first city in the world that is switching to Bitcoin](https://medium.com/@melis.io/the-first-city-in-the-world-that-is-switching-to-bitcoin-c995e32ad549)
