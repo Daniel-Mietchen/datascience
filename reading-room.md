@@ -725,3 +725,7 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   - https://www.data.cam.ac.uk/intro-data-champions
 * [Nice thread by Michael Nielsen on the history of open science](https://threadreaderapp.com/thread/1197254585339002881.html)
 * [The first city in the world that is switching to Bitcoin](https://medium.com/@melis.io/the-first-city-in-the-world-that-is-switching-to-bitcoin-c995e32ad549)
+* [Robert Koch Institute is using Internet Archive](https://twitter.com/rki_updates/status/1275472127576203264)
+* [ESA, NASA and JAXA to unveil COVID-19 Earth Observation Dashboard](http://www.esa.int/Newsroom/Press_Releases/Call_for_Media_ESA_NASA_and_JAXA_to_unveil_COVID-19_Earth_Observation_Dashboard)
+  - [Earth Observation Dashboard](https://eodashboard.org/)
+    - [NASA, ESA and JAXA Partner to Create COVID-19 Earth Observation Dashboard](https://svs.gsfc.nasa.gov/13650)
