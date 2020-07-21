@@ -41,6 +41,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 - GitHub
   - [search for COVID-19 repositories under CC0](https://github.com/search?q=license%3Acc0-1.0+covid&type=Repositories)
   - [Awesome COVID-19 resources](https://github.com/fnielsen/awesome-covid-19-resources) &mdash; curated by Finn Nielsen
+- [COVID-19 Earth Observation Dashboard](https://eodashboard.org/)  
 
 # Situation reports
 
