@@ -630,4 +630,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - [COVIDIndigenous](https://twitter.com/COVIDIndigenous)
   - [Chad and internationally](https://www.weforum.org/agenda/2020/05/how-coronavirus-impacts-indigenous-people)
   - RDA is working on [Indigenous data related to COVID-19](https://docs.google.com/document/d/1jfj0Vw2pHs0JEJwVnPY3PGNvbAXp4_sAAQP_k0rGBJo/edit#heading=h.9uh9w3viwdrx)
+  - semi-global [map of native land](https://native-land.ca/)
 * [OpenCV Social Distancing Detector &mdash; Use computer vision to measuree social distancing](https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/)
+* [International COVID-19 Data Research Alliance and Workbench](https://www.hdruk.ac.uk/covid-19/international-covid-19-data-alliance/)
+* [Public Health Emergency COVID-19 Initiative](https://www.ncbi.nlm.nih.gov/pmc/about/covid-19/)
+
