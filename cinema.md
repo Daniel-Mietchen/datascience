@@ -436,6 +436,7 @@
       - [44 min: explanation why it is critical to act now](https://www.youtube.com/watch?v=OzQsjuzr3_M#t=44m00s)
   - watched parts of it via [this Twitter thread](https://twitter.com/Jumpsteady/status/1163718889139818496)
   - see also this paper: [Trajectories of the Earth System in the Anthropocene](https://doi.org/10.1073/pnas.1810141115)
+* [COVID Research Synergies / Social Sciences Research](https://www.youtube.com/watch?v=UmWEfW7YtyM)  
 * [“We Are Striking to Disrupt the System”: An Hour with 16-Year-Old Climate Activist Greta Thunberg](https://www.youtube.com/watch?v=Dgi30Wy_V74)
 * Recordings from Chaos Communication Congresses
   - e.g. [from 36C3 (2019)](https://github.com/Daniel-Mietchen/events/issues/638#issuecomment-569464433)
