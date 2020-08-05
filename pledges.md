@@ -58,14 +58,13 @@ This file collects materials related to pledges and similar aspirational stateme
 * simple
 * modular
 * easily forkable
-* regular (e.g. annual) review
 * openly licensed
 * have some obligatory components
 * allow for publicly documented exceptions
   - e.g. as in [this vision for a scientific journal of the future](https://en.wikiversity.org/w/index.php?title=Wikiversity:Journal_of_the_future&oldid=1838552#Core_criteria), which states:
     - > "Flexibility: Innovation is stifled by inflexible rules. Exceptions to the above rules are possible if justified in public."
 * be integrated into strategies around hiring, promotion, diversity, reproducibility, FAIR etc.
-* contain provisions for regular (yearly or so) review
+* contain provisions for regular (yearly or so) review &mdash; GitHub does it [semi-annually](http://web.archive.org/web/20200805040931/https://github.com/github/site-policy#how-often-will-github-review-these-policies)
 * transition phase
 
 # Open issues
