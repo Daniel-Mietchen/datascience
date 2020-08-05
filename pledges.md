@@ -42,6 +42,8 @@ This file collects materials related to pledges and similar aspirational stateme
 
 * diversity (e.g. [manels](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/time-end-manel-tradition))
 * ethics
+  - signed the [Data Values and Principles](https://datapractices.org/manifesto/) on August 5, 2020
+  - [similar proposed oath](https://teachdatascience.com/oath/)
 * openness
 * sustainability (e.g. as per [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/read-the-position-statement/), which I signed on 28 June 2019)
 * cover all aspects of research, teaching and academic community service
