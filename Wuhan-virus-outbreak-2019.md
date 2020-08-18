@@ -174,8 +174,13 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 ## Data sharing policy
 
 * Wellcome-led statement [Sharing research data and findings relevant to the novel coronavirus](https://wellcome.ac.uk/press-release/sharing-research-data-and-findings-relevant-novel-coronavirus-ncov-outbreak), reaffirming the 2016 one
+* [7 Funder principles for research in epidemics](https://www.ukcdr.org.uk/resource/funder-principles-for-research-in-epidemics/)
+  - ["Research should be grounded in equity, transparency & open data. These principles represent a paradigm shift in approach to global research funding in epidemics going forward"](https://twitter.com/UKCDR/status/1285197775127314433)
+  - number 4: " 4. Open science and data sharing"
+    - "To require that research findings and data relevant to the epidemic are shared rapidly and openly to inform the public health response. "
 * [RDA-COVID19 Working Group](https://www.rd-alliance.org/groups/rda-covid19)
   - [RDA COVID-19; recommendations and guidelines, 1st release 24 April 2020](https://doi.org/10.15497/rda00046)
+    - [Final releasee (June 30)](https://doi.org/10.15497/rda00052)
 
 ## Datasets and databases
 
