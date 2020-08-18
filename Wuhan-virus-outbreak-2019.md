@@ -177,7 +177,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [RDA-COVID19 Working Group](https://www.rd-alliance.org/groups/rda-covid19)
   - [RDA COVID-19; recommendations and guidelines, 1st release 24 April 2020](https://doi.org/10.15497/rda00046)
 
-## Datasets
+## Datasets and databases
 
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
   - the basis for almost everyone's visualizations
@@ -199,6 +199,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - [grant proposal](https://wikiconference.org/wiki/2019/Grants/Covid19Relay:_a_graph_database_of_coronavirus_research_and_concepts)
 * [Simulation of school closures in Berlin as a function of epidemiological parameters](https://matsim-vsp.github.io/covid-sim/v4)
 * [Publon's COVID-19 corpus](https://publons.com/publon/covid-19/?abstract_keywords=s.%20korea&sort_by=date)
+* [Coronavirus Immunotherapy Consortium](https://covic.lji.org/)
+  - ["The CoVIC database (CoVIC-DB) will serve as a clearinghouse for monoclonal antibodies against SARS-CoV-2."](https://covic.lji.org/databases/)
 
 ## Decision-making based on incomplete data
 
