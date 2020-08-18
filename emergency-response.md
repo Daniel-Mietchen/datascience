@@ -319,3 +319,6 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 * ["A huge research literature shows disaster makes people *more* pro-social. They cooperate. They support each other. They're better than ever"](https://threadreaderapp.com/thread/1243144205167362048.html) (thread on disaster-related myths)
   - also paraphrased as ["Science shows that throughout history when disaster strikes the most common response has been collaboration, empathy and shared purpose - not panic, division and disorder."](https://twitter.com/charlieclarkyxe/status/1243907903829893122)
 * [Containment as Signal: Swine Flu Risk Miscommunication](https://www.psandman.com/col/swineflu2.htm)
+* [The CDC Field Epidemiology Manual](https://www.cdc.gov/eis/field-epi-manual/index.html)
+  - lots of [chapters](https://www.cdc.gov/eis/field-epi-manual/chapters.html), including several with a focus on specific types of data
+  
