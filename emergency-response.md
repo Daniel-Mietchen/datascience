@@ -199,6 +199,10 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
 
 ## [Novel coronavirus (2019-nCoV)/Severe acute respiratory syndrome coronavirus 2/SARS-CoV-2](https://en.wikipedia.org/wiki/2019_novel_coronavirus_(2019-nCoV))
 * see details in [Wuhan-virus-outbreak-2019.md](Wuhan-virus-outbreak-2019.md)
+* [7 Funder principles for research in epidemics](https://www.ukcdr.org.uk/resource/funder-principles-for-research-in-epidemics/)
+  - ["Research should be grounded in equity, transparency & open data. These principles represent a paradigm shift in approach to global research funding in epidemics going forward"](https://twitter.com/UKCDR/status/1285197775127314433)
+  - number 4: " 4. Open science and data sharing"
+    - "To require that research findings and data relevant to the epidemic are shared rapidly and openly to inform the public health response. "
 
 # Other crises
 ## [Flint water Crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
