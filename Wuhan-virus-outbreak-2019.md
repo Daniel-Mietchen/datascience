@@ -488,6 +488,20 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - [An Open Letter from the American Medical Informatics Association and the American College of Medical Informatics Regarding Public Health Reporting Deficiencies During the COVID-19 Pandemic](https://www.amia.org/news-and-publications/press-release/open-letter-american-medical-informatics-association-and-american#.XxXA1NNkACo.twitter)
   - [HHS memo](https://www.hhs.gov/sites/default/files/covid-19-faqs-hospitals-hospital-laboratory-acute-care-facility-data-reporting.pdf) ties compliance with these new reporting requirements to availability of remdesivir for the data-reporting facilities
 
+## COVID and indigenous communities
+
+* COVID-19 and indigenous people ([Twitter search](https://twitter.com/search?q=(sarscov2%20OR%20sars%20OR%20covid%20OR%20covid19%20OR%20(wuhan%20AND%20virus)%20OR%20coronavirus)%20AND%20(indigenous%20OR%20aboriginal%20OR%20maori%20OR%20%22first%20nations%22%20OR%20%22native%20american%22%20OR%20%22native%20americans%22)))
+  - [Australia](https://www.abc.net.au/news/2020-05-15/nt-biosecurity-act-lifted-allowing-free-travel-remote-community/12247292)
+  - Brazil
+    - [Brazil’s Coronavirus Cases Soar as Toll on Indigenous Communities Raises Alarm](https://www.democracynow.org/2020/5/18/headlines/brazils_coronavirus_cases_soar_as_toll_on_indigenous_communities_raises_alarm)
+    - [The Covid-19 pandemic is threatening vital rainforests](https://www.vox.com/2020/6/22/21295975/covid-19-coronavirus-amazon-rainforest-fire-brazil-indonesia)
+  - [Canada](https://covid19indigenous.ca/)
+    - [COVIDIndigenous](https://twitter.com/COVIDIndigenous)
+  - [Chad and internationally](https://www.weforum.org/agenda/2020/05/how-coronavirus-impacts-indigenous-people)
+  - RDA is working on [Indigenous data related to COVID-19](https://docs.google.com/document/d/1jfj0Vw2pHs0JEJwVnPY3PGNvbAXp4_sAAQP_k0rGBJo/edit#heading=h.9uh9w3viwdrx)
+  - semi-global [map of native land](https://native-land.ca/)
+    - [Tribe, environmentalists fight rollback of US water rule](https://apnews.com/7b39b239131b446dadd29d58de4d185b) &mdash; on Navajo protest against rescinding of water protection
+  
 # Quarantine
 
 * [Chinese boy with cerebral palsy dies while father is in virus quarantine](https://www.rappler.com/world/regions/asia-pacific/250951-chinese-boy-cerebral-palsy-dies-father-virus-quarantine)
@@ -622,15 +636,6 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 # See also 
 
-* COVID-19 and indigenous people ([Twitter search](https://twitter.com/search?q=(sarscov2%20OR%20sars%20OR%20covid%20OR%20covid19%20OR%20(wuhan%20AND%20virus)%20OR%20coronavirus)%20AND%20(indigenous%20OR%20aboriginal%20OR%20maori%20OR%20%22first%20nations%22%20OR%20%22native%20american%22%20OR%20%22native%20americans%22)))
-  - [Australia](https://www.abc.net.au/news/2020-05-15/nt-biosecurity-act-lifted-allowing-free-travel-remote-community/12247292)
-  - Brazil
-    - [Brazil’s Coronavirus Cases Soar as Toll on Indigenous Communities Raises Alarm](https://www.democracynow.org/2020/5/18/headlines/brazils_coronavirus_cases_soar_as_toll_on_indigenous_communities_raises_alarm)
-  - [Canada](https://covid19indigenous.ca/)
-    - [COVIDIndigenous](https://twitter.com/COVIDIndigenous)
-  - [Chad and internationally](https://www.weforum.org/agenda/2020/05/how-coronavirus-impacts-indigenous-people)
-  - RDA is working on [Indigenous data related to COVID-19](https://docs.google.com/document/d/1jfj0Vw2pHs0JEJwVnPY3PGNvbAXp4_sAAQP_k0rGBJo/edit#heading=h.9uh9w3viwdrx)
-  - semi-global [map of native land](https://native-land.ca/)
 * [OpenCV Social Distancing Detector &mdash; Use computer vision to measuree social distancing](https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/)
 * [International COVID-19 Data Research Alliance and Workbench](https://www.hdruk.ac.uk/covid-19/international-covid-19-data-alliance/)
 * [Public Health Emergency COVID-19 Initiative](https://www.ncbi.nlm.nih.gov/pmc/about/covid-19/)
