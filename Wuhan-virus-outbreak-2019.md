@@ -616,6 +616,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - > " if we truly accepted we were in a climate emergency, then every day the news would lead with updates about which countries were reducing their emissions the fastest, and people would be clamouring to make sure their leaders were adopting the policies that worked"
 * [Coronavirus: What could lifestyle changes mean for tackling climate change?](https://www.carbonbrief.org/coronavirus-what-could-lifestyle-changes-mean-for-tackling-climate-change)
 * [There is no vaccine for climate change](https://courtofthegrandchildren.com/?p=411)
+* [What the coronavirus can teach us about fighting climate change](http://web.archive.org/web/20200828153037if_/https://www.washingtonpost.com/climate-solutions/2020/08/21/questions-about-cimate-change-virus/)
 
 # Long-term effects
 
