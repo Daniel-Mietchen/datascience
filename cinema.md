@@ -424,6 +424,8 @@
 
 # Maybe watch in the future
 
+* [Deep Code: Jordan (Green) Hall Documentary](https://www.youtube.com/watch?v=_j3cCrpXERg)
+* [The Unfolding Meta-Crisis, Jordan Hall](https://www.youtube.com/watch?v=933qDMh1J3g)
 * [Wikidata and Beyond – Knowledge for everyone by everyone - Keynote by Denny Vrandečić at SWAT4HCLS 2019](https://www.youtube.com/watch?v=yzVA7YLwhTE)
 * [Jane Morton: Don’t mention the emergency?](https://www.youtube.com/watch?v=MBGHTRx6xAU)
   - [discusses the white paper with the same title](https://climateemergencydeclaration.org/wp-content/uploads/2018/09/DontMentionTheEmergency2018.pdf)
