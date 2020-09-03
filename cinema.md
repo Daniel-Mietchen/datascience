@@ -438,6 +438,8 @@
       - [44 min: explanation why it is critical to act now](https://www.youtube.com/watch?v=OzQsjuzr3_M#t=44m00s)
   - watched parts of it via [this Twitter thread](https://twitter.com/Jumpsteady/status/1163718889139818496)
   - see also this paper: [Trajectories of the Earth System in the Anthropocene](https://doi.org/10.1073/pnas.1810141115)
+* [The Antarctica Challenge: A Global Warning](https://www.youtube.com/watch?v=9Im2O6dzpUE)
+* [Nick Miller presents: An Inconvenient Truth](https://www.youtube.com/watch?v=C_mr9EqJg18)
 * [COVID Research Synergies / Social Sciences Research](https://www.youtube.com/watch?v=UmWEfW7YtyM)  
 * [“We Are Striking to Disrupt the System”: An Hour with 16-Year-Old Climate Activist Greta Thunberg](https://www.youtube.com/watch?v=Dgi30Wy_V74)
 * Recordings from Chaos Communication Congresses
