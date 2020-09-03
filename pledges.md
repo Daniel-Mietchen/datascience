@@ -85,3 +85,4 @@ This file collects materials related to pledges and similar aspirational stateme
 * [Urban Institute's Funding Principles](https://www.urban.org/aboutus/our-funding/funding-principles)
 * [GitHub's site policies](https://github.com/github/site-policy) 
   - includes the [bug bounty policy](https://bounty.github.com/)
+* [Values and Principles Framework and Assessment Checklist](https://commonplace.knowledgefutures.org/pub/5se1i1qy/release/4)
