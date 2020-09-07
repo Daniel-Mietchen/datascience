@@ -53,6 +53,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - [situation dashboard](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667)
 - US
   - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
+    - see also their [Epidemic Prediction Initiative](https://predict.cdc.gov/)
   - https://www.coronavirus.gov/
   - https://www.usa.gov/coronavirus
   - https://www.nih.gov/coronavirus
