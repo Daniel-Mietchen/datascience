@@ -4,7 +4,7 @@ This file tracks information related to the COVID-19 viral outbreak that started
 
 These notes were [started](https://github.com/Daniel-Mietchen/datascience/commit/7187877698f8640002a1cd1b1f6d59cf6383c219#diff-73fd4c8eea37e48004cbcf4cb85461a4) on January 17, 2020, with an eye on data-related matters, especially data sharing (or the lack of it), as per the more broadly scoped umbrella file, [emergency-response.md](emergency-response.md). By that date, the virus and the disease had not been named, and the outbreak was thought to be largely limited to Wuhan, which explains the name of this file.
 
-Since then, lots of sources of information (and misinformation) on the topic have sprung up, both the virus and the disease have received official names, and rather than detailing things here, I have tried to insert my notes into the Wikimedia ecosystem when appropriate, and into the [documentation](https://github.com/QIDSOD/QIDSOD-documentation) of the project "Quantifying the Impact of Data Sharing on Outbreak Dynamics" (QIDSOD).
+Since then, lots of sources of information (and misinformation) on the topic have sprung up, both the virus and the disease have received official names, and rather than detailing things here, I have tried to insert my notes into the Wikimedia ecosystem when appropriate, and into the [documentation](https://github.com/QIDSOD/QIDSOD-documentation) of the project "Quantifying the Impact of Data Sharing on Outbreak Dynamics" (QIDSOD). Similar &mdash; and by now more comprehensive &mdash; documentation has sprung up in many places, e.g. [here](https://academicdatascience.org/covid).
 
 
 # Community portals
