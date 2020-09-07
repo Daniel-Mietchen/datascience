@@ -28,6 +28,7 @@ This file collects materials related to pledges and similar aspirational stateme
     - [Montreal Neurological Institute](https://openscienceneuro.org/)
     - [Ghent University](https://www.ugent.be/en/news-events/ghent-university-talent-rat-race-transformation-career-evaluation-model.htm) &mdash; "'We are transforming our university into a place where talent once again feels valued and nurtured’"
       - [commentary](https://www.insidehighered.com/news/2019/01/23/ghent-university-belgium-embraces-new-approach-faculty-evaluation-less-focused#.XE6ivx11n2k.twitter)
+    - [TU Delft](https://doi.org/10.4233/uuid:f2faff07-408f-4cec-bd87-0919c9e4c26f)
     - [CITEC](https://www.cit-ec.de/en/open-science/manifesto)
     - [DORA](https://sfdora.org/signers/) (also individuals)
     - [Leiden Manifesto](http://www.leidenmanifesto.org/)
