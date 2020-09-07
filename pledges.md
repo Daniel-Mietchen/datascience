@@ -19,6 +19,7 @@ This file collects materials related to pledges and similar aspirational stateme
       - > "I hereby confirm that the signing individual commits to the Enabling FAIR Data objectives as defined in the Commitment Statement. I will review the commitment elements, develop a plan to address gaps, and complete the plan within one year of signing (or soonest)."
     - [Berlin call to action for open science](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program/Berlin_Call_to_Action)
     - [Position Statement on Economic Growth](https://steadystate.org/act/sign-the-position/endorsements-and-signatures/view-all-individual-signatures/)
+    - [Withholding unpaid review work from profitable publishers](https://github.com/FreeOurKnowledge/discussion/issues/9)
 * Legal entities
   - [What is a good starting point for an Open Science Manifesto or Research Data Policy a university could issue?](https://ask-open-science.org/1060)
   - examples:
