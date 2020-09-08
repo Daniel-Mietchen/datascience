@@ -19,3 +19,5 @@ Thoughts and activities around [research data](http://datascience.nih.gov/), wit
   * [How can quality data journalism be supported?](https://github.com/Daniel-Mietchen/datascience/blob/master/data-driven-journalism.md)
 
 as well as a collection of further relevant resources in the [reading room](https://github.com/Daniel-Mietchen/datascience/blob/master/reading-room.md).
+
+For a quick overview of some of the key elements of data science, see [this infographic](http://web.archive.org/web/20181127210055/https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Infographics/8-easy-steps-to-become-a-data-scientist.jpg).
