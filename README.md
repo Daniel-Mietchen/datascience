@@ -1,5 +1,5 @@
 # Data science
-Thoughts and activities around [research data](http://datascience.nih.gov/), with a focus on
+This repo contains thoughts and activities around [research data](http://datascience.nih.gov/), with a focus on
 * Analysis of different kinds of open models for use in research funding.
   * [How can research funding be opened up to the benefit of research?](https://github.com/Daniel-Mietchen/datascience/blob/master/open-research-funding.md)
   * [How can peer review be made more efficient?](https://github.com/Daniel-Mietchen/datascience/blob/master/peer-review.md)
