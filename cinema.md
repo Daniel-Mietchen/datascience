@@ -142,6 +142,8 @@
 * [1177 BC: The Year Civilization Collapsed (Eric Cline, PhD)](https://www.youtube.com/watch?v=bRcu-ysocX4)
   - essentially argues that a situation of crisis stacking, rather than a linear sequence of crises, lead to the end of eight of the ca. nine major powers of the Bronze age in the Eastern Mediterranean
   - those "G8" were globally interconnected through marriages, trade and defense pacts, and with the exception of Egypt, went down together during about a century after invasions commonly attributed to the [Sea peoples](https://en.wikipedia.org/wiki/Sea_Peoples)
+* [I don't like notebooks - Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)  
+  - demonstrates in an engaging way how ceertain key elements of Jupyter notebooks conflict with good data science and software development practice and teaching
 * [Moral behavior in animals | Frans de Waal](https://www.youtube.com/watch?v=GcJxRqTs5nk)
   - nice overview on how to use behavioral experiments with animals to deconstruct the components of their morality: 
     - empathy and consolation
