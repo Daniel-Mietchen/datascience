@@ -124,8 +124,10 @@
     - This YouTube video included an [ad that I actually watched](https://youtu.be/vdT8EprNE8A), about the U.S. Farmers and Ranchers Alliance's [30 Harvests](https://usfarmersandranchers.org/30-harvests/)  initiative towards sustainable agriculture
 * [Climate change – living on the water](https://www.youtube.com/watch?v=vy3gMVGwjuc) &mdash; nice documentary of (mainly architectural) approaches to living above and below water, featuring both existing and futuristic examples, including some barrier buildings
 * [The Daily Show With Trevor Noah: Greta Thunberg - Inspiring Others to Take a Stand Against Climate Change - Extended Interview](http://www.cc.com/video-clips/ed6ma7/the-daily-show-with-trevor-noah-greta-thunberg---inspiring-others-to-take-a-stand-against-climate-change---extended-interview?xrs=tds_091219_3)
+* [Data Science: A Vision of Things to Come -- Joel Grus -- Keynote at #SDSC2020](https://www.youtube.com/watch?v=D6asD2owXts)
+  - takes some data science-related topics, trains a mental model on their states in 2010 and 2020 and then predicts their states for 2030 and 2040
 * [A Message From the Future With Alexandria Ocasio-Cortez](https://www.youtube.com/watch?v=d9uTH0iprVQ)
-  - describes a future in which the current climate crisis was averted by concerted climate action
+  - describes a future in which the current climate crisis was averted by concerted climate action  
 * [Alexander von Humboldt: der erste Wikipedianer?](https://www.zdf.de/dokumentation/terra-x/war-humboldt-der-erste-wikipedianer-100.html)
   - nice idea to frame his desire to share his research with the widest possible audiences as a precursor to Wikipedia
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
