@@ -41,6 +41,7 @@ This file collects materials related to pledges and similar aspirational stateme
     - [LUCSUS travel policy](http://web.archive.org/web/20191207070441/https://www.lucsus.lu.se/article/lucsus-presents-new-travel-policy-to-reduce-work-related-emissions)
       - [editable version](https://docs.google.com/document/d/1ZVRjoQAzWsx4e9okCP00d9rvXA28776hgiNTjZaDYko/edit)
       - [background](http://web.archive.org/web/20190717041419/http://www.kimnicholas.com/academics-flying-less.html)
+  - [University of California's 18 Principles to Transform Scholarly Communication](https://senate.universityofcalifornia.edu/_files/committees/ucolasc/scholcommprinciples-20180425.pdf)
 
 # Potential dimensions of pledges
 
