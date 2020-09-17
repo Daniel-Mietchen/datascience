@@ -45,6 +45,7 @@ This file collects materials related to pledges and similar aspirational stateme
 
 # Potential dimensions of pledges
 
+* [Values](https://humetricshss.org/our-work/values/)
 * diversity (e.g. [manels](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/time-end-manel-tradition))
 * ethics
   - signed the [Data Values and Principles](https://datapractices.org/manifesto/) on August 5, 2020
