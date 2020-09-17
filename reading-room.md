@@ -729,3 +729,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
 * [ESA, NASA and JAXA to unveil COVID-19 Earth Observation Dashboard](http://www.esa.int/Newsroom/Press_Releases/Call_for_Media_ESA_NASA_and_JAXA_to_unveil_COVID-19_Earth_Observation_Dashboard)
   - [Earth Observation Dashboard](https://eodashboard.org/)
     - [NASA, ESA and JAXA Partner to Create COVID-19 Earth Observation Dashboard](https://svs.gsfc.nasa.gov/13650)
+* [OpenAI begins publicly tracking AI model efficiency](https://venturebeat.com/2020/05/05/openai-begins-publicly-tracking-ai-model-efficiency/)
