@@ -84,6 +84,10 @@ This file collects materials related to pledges and similar aspirational stateme
   - openness facilitates reporting
 
 # See also
+
+* ethical matrix
+  - [The Ethical Matrix, A Framework For Ethical Debates](https://www.foodethicscouncil.org/resource/ethical-matrix/)
+  - [Scholia](https://scholia.toolforge.org/topic/Q99438538)
 * [What can research institutions do to encourage open science?](https://ask-open-science.org/882)
 * [Pledges at Ask Open Science](https://ask-open-science.org/tag/pledges)
 * [Grimpact – Time to acknowledge the dark side of the impact agenda](https://blogs.lse.ac.uk/impactofsocialsciences/2019/05/28/grimpact-time-to-acknowledge-the-dark-side-of-the-impact-agenda/)
