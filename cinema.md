@@ -503,6 +503,8 @@
 * [Ending infectious diseases | Susan Desmond-Hellman, CEO Gates Foundation | Code Conference 2016](https://www.youtube.com/watch?v=OJGd2E7Tjn8)
 * [Why Open Blockchains Matter](https://www.youtube.com/watch?v=uZPIz3ArQww) &mdash; seen [here](https://twitter.com/BKBrianKelly/status/1015985989574160385)
 * [HPC and AI: Helping to Solve Humanity’s Grand Challenges](https://www.youtube.com/watch?time_continue=335&v=H7JJHUz9cv8)
+* [Observable: Vega-Lite: A Crash Course](https://www.youtube.com/watch?v=ZV_Yjcs5WtM) 
+  - > For rapid charting and fast explorations of data in Observable, we recommend Vega-Lite: you get all the classic, standard charts in just a few lines of code, and then build on them with advanced faceting, layering, and interactivity. Vega-Lite is more powerful than making an off-the-shelf chart in Excel, and faster than making a totally custom visualization in D3. 
 * older [TED MED](https://www.youtube.com/user/tedmed) talks 
 * [Sandra Collins: Memory Keepers](https://www.youtube.com/watch?v=i4mbHb5wqKo)
 * [Frank Miedema: Science in Transition](https://www.youtube.com/watch?v=sUf1ajkIAhY)
