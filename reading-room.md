@@ -730,3 +730,4 @@ Killing Efficiency in Open Knowledge Production?](http://crowston.syr.edu/conten
   - [Earth Observation Dashboard](https://eodashboard.org/)
     - [NASA, ESA and JAXA Partner to Create COVID-19 Earth Observation Dashboard](https://svs.gsfc.nasa.gov/13650)
 * [OpenAI begins publicly tracking AI model efficiency](https://venturebeat.com/2020/05/05/openai-begins-publicly-tracking-ai-model-efficiency/)
+* [Every Machine Learning Algorithm Can Be Represented as a Neural Network](https://towardsdatascience.com/every-machine-learning-algorithm-can-be-represented-as-a-neural-network-82dcdfb627e3)
