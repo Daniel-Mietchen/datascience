@@ -476,6 +476,10 @@
 * [Wikidata Turns 6: A Special Interview with Denny Vrandečić](https://www.youtube.com/watch?v=VdAc0JReVSw)
 * [Donner vie à la science ouverte à l'INM, par Guy Rouleau](https://www.youtube.com/watch?v=QWicBeQ_xiI)
   - seen via https://twitter.com/captic/status/1006122730566160385
+* [How to Generate Your Own Wikipedia Articles (LIVE)](https://www.youtube.com/watch?v=ZGU5kIG7b2I)
+* [Python : Bar Chart Word Cloud from text file, Wikipedia by Using jupyter Notebook](https://www.youtube.com/watch?v=RdqcHAVmqEQ)
+* [Web Scraping Wikipedia tables using Python](https://www.youtube.com/watch?v=ICXR9nDbudk)
+* [Building Interactive Maps: Pt 1 - Web Scraping Wikipedia](https://www.youtube.com/watch?v=XB-fKUwXX4E)
 * [Image Synthesis From Text With Deep Learning | Two Minute Papers #116](https://www.youtube.com/watch?v=rAbhypxs1qQ)
 * [Which country does the most good for the world? | Simon Anholt](https://www.youtube.com/watch?v=1X7fZoDs9KU)
 * [A teen scientist's invention to help wounds heal](https://www.ted.com/talks/anushka_naiknaware_a_teen_scientist_s_invention_to_help_wounds_heal)
