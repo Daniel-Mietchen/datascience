@@ -96,3 +96,4 @@ This file collects materials related to pledges and similar aspirational stateme
 * [GitHub's site policies](https://github.com/github/site-policy) 
   - includes the [bug bounty policy](https://bounty.github.com/)
 * [Values and Principles Framework and Assessment Checklist](https://commonplace.knowledgefutures.org/pub/5se1i1qy/release/4)
+* [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
