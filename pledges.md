@@ -13,6 +13,7 @@ This file collects materials related to pledges and similar aspirational stateme
     - [grant peer review](https://ask-open-science.org/835)
 * Groups of individuals
   - examples:
+    - [A pledge for planetary health to unite health professionals in the Anthropocene](https://doi.org/10.1016/S0140-6736(20)32039-0)
     - [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
     - [Research Without Walls](http://www.researchwithoutwalls.org/451)
     - [Commitment Statement in the Earth, Space, and Environmental Sciences for depositing and sharing data](http://www.copdess.org/enabling-fair-data-project/commitment-to-enabling-fair-data-in-the-earth-space-and-environmental-sciences/)
