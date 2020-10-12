@@ -581,6 +581,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 ## Taiwan
 
 * Wikipedia: [COVID-19 pandemic in Taiwan](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Taiwan)
+* Wired: [How Taiwan’s Unlikely Digital Minister Hacked the Pandemic](http://web.archive.org/web/20201012044814/https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
 
 ## United States
 
