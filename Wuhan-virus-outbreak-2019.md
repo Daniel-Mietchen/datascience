@@ -579,6 +579,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Will Jacinda Ardern's popularity endure?](https://www.ips-journal.eu/regions/asia/article/show/will-jacinda-arderns-popularity-endure-4440/)
 * [Lessons from New Zealand's COVID-19 outbreak response](https://doi.org/10.1016/S2468-2667(20)30237-1)
 * [COVID-19 in New Zealand and the impact of the national response: a descriptive epidemiological study](https://doi.org/10.1016/S2468-2667(20)30225-5)
+* [commentary on the two papers above](https://threadreaderapp.com/thread/1316315250937921537.html)
 
 ## Taiwan
 
