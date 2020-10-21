@@ -626,6 +626,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Will COVID-19 fiscal recovery packages accelerate or retard progress on climate change?](https://www.smithschool.ox.ac.uk/publications/wpapers/workingpaper20-02.pdf)
 * [COVID-19 recovery funds dwarf clean energy investment needs](https://doi.org/10.1126/science.abc9697)
   - popular summary: [How the global coronavirus stimulus could put Paris Agreement on track](https://www.carbonbrief.org/guest-post-how-the-global-coronavirus-stimulus-could-put-paris-agreement-on-track)
+  - further commentary: [Tackling climate change seemed expensive. Then COVID happened.](https://grist.org/climate/tackling-climate-change-seemed-expensive-then-covid-happened/)
 * [Coronavirus: Tracking how the world’s ‘green recovery’ plans aim to cut emissions](https://www.carbonbrief.org/coronavirus-tracking-how-the-worlds-green-recovery-plans-aim-to-cut-emissions)
 
 # Long-term effects
