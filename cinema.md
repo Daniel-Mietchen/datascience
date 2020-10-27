@@ -20,6 +20,11 @@
   - Resilience &mdash; things we absolutely do not want to let go, i.e. our core values
   - Relinquishment &mdash; things we absolutely need to let go
   - Restauration &mdash; things that we may have lost and that are worth getting back into our lives
+* [Jane Morton: Don’t mention the emergency?](https://www.youtube.com/watch?v=MBGHTRx6xAU) &mdash; the entire talk is about how to mention it
+  - [discusses the white paper with the same title](https://climateemergencydeclaration.org/wp-content/uploads/2018/09/DontMentionTheEmergency2018.pdf)
+    - [background on the white paper](https://renew.org.au/renew-magazine/climate-change/dont-mention-the-emergency/)
+  - [explains scientist's relationship with recent developments following an exponential function](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=9m20s)
+  - [discusses](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=21m55s) [Appealing to Fear: A Meta-Analysis of Fear Appeal Effectivenessand Theories](http://dx.doi.org/10.1037/a0039729)
 * [This country isn't just carbon neutral — it's carbon negative | Tshering Tobgay](https://www.youtube.com/watch?v=7Lc_dlVrg5M) &mdash; about Bhutan's [Gross National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness) policy and how it can inspire effective measures towards sustainability and climate justice, both in their country and around the world
 * [De klimaatzaak](https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2015-2016/de-klimaatzaak.html)
   - about [State of the Netherlands v. Urgenda Foundation](https://en.wikipedia.org/wiki/State_of_the_Netherlands_v._Urgenda_Foundation)
@@ -438,11 +443,6 @@
 * [Deep Code: Jordan (Green) Hall Documentary](https://www.youtube.com/watch?v=_j3cCrpXERg)
 * [The Unfolding Meta-Crisis, Jordan Hall](https://www.youtube.com/watch?v=933qDMh1J3g)
 * [Wikidata and Beyond – Knowledge for everyone by everyone - Keynote by Denny Vrandečić at SWAT4HCLS 2019](https://www.youtube.com/watch?v=yzVA7YLwhTE)
-* [Jane Morton: Don’t mention the emergency?](https://www.youtube.com/watch?v=MBGHTRx6xAU)
-  - [discusses the white paper with the same title](https://climateemergencydeclaration.org/wp-content/uploads/2018/09/DontMentionTheEmergency2018.pdf)
-    - [background on the white paper](https://renew.org.au/renew-magazine/climate-change/dont-mention-the-emergency/)
-  - [explains scientist's relationship with recent developments following an exponential function](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=9m20s)
-  - [discusses](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=21m55s) [Appealing to Fear: A Meta-Analysis of Fear Appeal Effectivenessand Theories](http://dx.doi.org/10.1037/a0039729)
 * [The success of nonviolent civil resistance: Erica Chenoweth at TEDxBoulder](https://www.youtube.com/watch?v=YJSehRlU34w)
 * [The Big U-Turn Ahead: Calling Australia to Action on Climate Change](https://www.youtube.com/watch?v=OzQsjuzr3_M)
   - one of the most powerful presentations outlining what is known about climate change and what this means for climate action
