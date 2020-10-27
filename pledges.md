@@ -100,3 +100,5 @@ This file collects materials related to pledges and similar aspirational stateme
 * [Values and Principles Framework and Assessment Checklist](https://commonplace.knowledgefutures.org/pub/5se1i1qy/release/4)
 * [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 * [What values do you live by?](https://sharing.values20.com/)
+* ["Transparency is openness in only one direction"](https://www.youtube.com/watch?v=CEN4XNth61o#t=16m35s)
+  - followed by "being given a dashboard without a steering wheel has never been the core promise a democracy makes to its citizens"
