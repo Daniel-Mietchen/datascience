@@ -441,6 +441,8 @@
 * [Jane Morton: Don’t mention the emergency?](https://www.youtube.com/watch?v=MBGHTRx6xAU)
   - [discusses the white paper with the same title](https://climateemergencydeclaration.org/wp-content/uploads/2018/09/DontMentionTheEmergency2018.pdf)
     - [background on the white paper](https://renew.org.au/renew-magazine/climate-change/dont-mention-the-emergency/)
+  - [explains scientist's relationship with recent developments following an exponential function](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=9m20s)
+  - [discusses](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=21m55s) [Appealing to Fear: A Meta-Analysis of Fear Appeal Effectivenessand Theories](http://dx.doi.org/10.1037/a0039729)
 * [The success of nonviolent civil resistance: Erica Chenoweth at TEDxBoulder](https://www.youtube.com/watch?v=YJSehRlU34w)
 * [The Big U-Turn Ahead: Calling Australia to Action on Climate Change](https://www.youtube.com/watch?v=OzQsjuzr3_M)
   - one of the most powerful presentations outlining what is known about climate change and what this means for climate action
