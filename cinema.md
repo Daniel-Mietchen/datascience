@@ -454,6 +454,7 @@
 * [The Antarctica Challenge: A Global Warning](https://www.youtube.com/watch?v=9Im2O6dzpUE)
 * [Nick Miller presents: An Inconvenient Truth](https://www.youtube.com/watch?v=C_mr9EqJg18)
 * [COVID Research Synergies / Social Sciences Research](https://www.youtube.com/watch?v=UmWEfW7YtyM)  
+* [An Introduction to Disease Modeling: Understanding COVID-19 Means Understanding Disease Modeling](https://www.youtube.com/watch?v=TdFmy-MeJ4s)
 * [“We Are Striking to Disrupt the System”: An Hour with 16-Year-Old Climate Activist Greta Thunberg](https://www.youtube.com/watch?v=Dgi30Wy_V74)
 * Recordings from Chaos Communication Congresses
   - e.g. [from 36C3 (2019)](https://github.com/Daniel-Mietchen/events/issues/638#issuecomment-569464433)
