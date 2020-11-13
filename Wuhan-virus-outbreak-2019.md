@@ -67,6 +67,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
   - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
     - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
       - [overview](https://covid-19.openmedical.de/)
+      - [dashboard](https://corona.rki.de)
   - [Bundeszentale für gesundheitliche Aufklärung](https://www.infektionsschutz.de/coronavirus-2019-ncov.html)
     - [YouTube video series](https://www.youtube.com/watch?v=Nu9vla6RhWI)
   - [3 R0-based scenarios developed by the Helmholtz Society](https://www.helmholtz.de/fileadmin/user_upload/01_forschung/Helmholtz-COVID-19-Papier_02.pdf)
@@ -555,6 +556,10 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - posters 
       - [Coronavirus – was tun?](https://gesundheit.jena.de/sites/default/files/2020-03/poster_neu_0.pdf)
       - [Meldepflicht und  sofortige Quarantäne](https://gesundheit.jena.de/sites/default/files/2020-03/poster_meldepflicht.pdf)
+
+## Ireland
+
+* [clear rules for second wave](https://twitter.com/bernitravel/status/1326826936572801025) ([details](https://web.archive.org/web/20201113070623/https://www.gov.ie/en/publication/2dc71-level-5/))
 
 ## Italy
 
