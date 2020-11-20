@@ -536,6 +536,9 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 # Individual countries
 
+## Austria
+  - [Complexity, transparency and time pressure: practical insights into science communication in times of crisis](https://doi.org/10.22323/2.19050801)
+
 ## Brazil
   - [Brazil stops releasing Covid-19 death toll and wipes data from official site](https://www.theguardian.com/world/2020/jun/07/brazil-stops-releasing-covid-19-death-toll-and-wipes-data-from-official-site)
     - > "Doctors across Brazil said the lack of information would hinder management of the pandemic as cases moved from big cities into its vast interior. “How is a manager going to reallocate resources and organise vacancies and transporting the sick if they don’t have data?” said Guilherme Pivoto, an infectious diseases specialist in Manaus, one of Brazil’s worst-hit cities."
