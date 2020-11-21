@@ -63,6 +63,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - https://covid19.ca.gov/
   - Virginia
     - https://www.dhrm.virginia.gov/covid-19
+  - Bureau of Labor Statistics
+    - [A bibliography of economicsof the covid era](http://econterms.net/innovation/images/2/2d/Bibliography-covid-econ-2020-0827-presentation.pdf)
 - Germany
   - [Robert-Koch-institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html)
     - [national and international case numbers](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
