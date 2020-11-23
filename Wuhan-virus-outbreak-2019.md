@@ -591,6 +591,12 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [COVID-19 in New Zealand and the impact of the national response: a descriptive epidemiological study](https://doi.org/10.1016/S2468-2667(20)30225-5)
 * [commentary on the two papers above](https://threadreaderapp.com/thread/1316315250937921537.html)
 
+## South Africa
+
+* [Use of Available Data To Inform The COVID-19 Outbreak in South Africa: A Case Study](http://doi.org/10.5334/dsj-2020-019)
+  - [GitHub repo](https://github.com/dsfsi/covid19za)
+  - blog: [An Effort to Collate COVID-19 Case Data Across Africa](https://dsfsi.github.io/blog/covida19africa-call-to-action/)
+
 ## Taiwan
 
 * Wikipedia: [COVID-19 pandemic in Taiwan](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Taiwan)
