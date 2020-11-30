@@ -311,7 +311,7 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 
 ## Scholia
 
-* https://tools.wmflabs.org/scholia/topic/Q82069695
+* https://scholia.toolforge.org/topic/Q82069695
 
 ## Screening
 
