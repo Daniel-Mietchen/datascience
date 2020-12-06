@@ -566,6 +566,10 @@ Since then, lots of sources of information (and misinformation) on the topic hav
       - [Coronavirus – was tun?](https://gesundheit.jena.de/sites/default/files/2020-03/poster_neu_0.pdf)
       - [Meldepflicht und  sofortige Quarantäne](https://gesundheit.jena.de/sites/default/files/2020-03/poster_meldepflicht.pdf)
 
+## Ghana
+
+* [COVID Underdogs: Ghana](http://web.archive.org/web/20201206223105/https://medium.com/indica/covid-underdogs-ghana-b77ca29192a7)
+
 ## Ireland
 
 * [clear rules for second wave](https://twitter.com/bernitravel/status/1326826936572801025) ([details](https://web.archive.org/web/20201113070623/https://www.gov.ie/en/publication/2dc71-level-5/))
@@ -600,6 +604,10 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Use of Available Data To Inform The COVID-19 Outbreak in South Africa: A Case Study](http://doi.org/10.5334/dsj-2020-019)
   - [GitHub repo](https://github.com/dsfsi/covid19za)
   - blog: [An Effort to Collate COVID-19 Case Data Across Africa](https://dsfsi.github.io/blog/covida19africa-call-to-action/)
+
+## Sri Lanka
+
+* [COVID Underdogs: Sri Lanka](http://web.archive.org/web/20201206223248/https://medium.com/indica/covid-underdogs-sri-lanka-db6eca164a35)
 
 ## Taiwan
 
