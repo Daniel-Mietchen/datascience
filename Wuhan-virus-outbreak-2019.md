@@ -688,3 +688,4 @@ Since then, lots of sources of information (and misinformation) on the topic hav
 * [Public Health Emergency COVID-19 Initiative](https://www.ncbi.nlm.nih.gov/pmc/about/covid-19/)
 * [Overnight, COVID-19 heightens the need for Open Science](https://sparceurope.org/overnight-covid-19-heightens-the-need-for-open-science/)
 * [Wastewater COVID-19 Tracking - Massachusetts Water Resources Authority](https://www.mwra.com/biobot/biobotdata.htm)
+  - [similar plans for Charlottesville](http://web.archive.org/web/20201225115950/https://dailyprogress.com/news/local/govt-and-politics/wastewater-surveillance-for-covid-expands-to-greater-charlottesville-area/article_532223c0-37d7-11eb-8268-cb15607ce35e.html)
