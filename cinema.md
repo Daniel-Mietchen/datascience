@@ -32,7 +32,7 @@
   - remarkably car-centric for a piece on climate change and emissions from fossil fuels
     - also multiple depictions of single-use plastics and of upper-class lifestyle
 * [Why you should define your fears instead of your goals | Tim Ferriss](https://www.youtube.com/watch?v=5J6jAC6XxAI)
-  - 3-page exercise, "fear setting"
+  - 3-page exercise, "fear setting", with respect to a looming decision
     - Page 1: What if X happened?
       - Define your fears
       - Consider strategies to prevent them
