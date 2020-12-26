@@ -111,7 +111,7 @@
 * [What one skill = an awesome life? | Dr. Shimi Kang](https://www.youtube.com/watch?v=1EHZAQmw2JA)
   - spoiler: Adaptability
   - mentions three things that humans are not doing that are throwing us off balance
-    - "P.O.D" (she wrote abook on it: "The Dolphin Way")
+    - "P.O.D" (she wrote a book on it: "The Dolphin Way")
       - Play (gives passion)
         - unstructured, like the Lego of old times, not overprescribed and directed
       - Others (connecting with them gives purpose)
@@ -161,6 +161,12 @@
     - empathy and consolation
     - prosocial tendencies
     - reciprocity and fairness
+* [Atomic Habits: How to Get 1% Better Every Day - James Clear](https://www.youtube.com/watch?v=U_nzqnXWvSo)
+  - [summary](https://www.youtube.com/watch?v=U_nzqnXWvSo&lc=Ugw5Sfy_PsO-pHFszqh4AaABAg):
+    - > a. Noticing - People think they lack motivation, when in fact they lack clarity.
+    - > b. Wanting - Environment plays a role. Create environment for you to succeed in your goal.
+    - > c. Doing - Optimize for the start line, not finish line.
+    - > d. Liking what you do - We repeat behaviors, because we like them.
 * [Ecosia as a place to work](https://www.youtube.com/watch?v=qCdK-ifNpRs)
   - with concrete examples of policies, practices and perks
 * [Die Zerstörung der CDU.](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) &mdash; most solid commentary I have come across regarding the [2019 European Parliament election](https://en.wikipedia.org/wiki/2019_European_Parliament_election) in May 2019
