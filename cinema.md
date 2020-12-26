@@ -31,6 +31,20 @@
   - broadcast in 2015, with the initial ruling of the district court featured as the highlight, which was uphelp in later instances twice, the latest being by the Dutch Supreme Court in December 2020
   - remarkably car-centric for a piece on climate change and emissions from fossil fuels
     - also multiple depictions of single-use plastics and of upper-class lifestyle
+* [Why you should define your fears instead of your goals | Tim Ferriss](https://www.youtube.com/watch?v=5J6jAC6XxAI)
+  - 3-page exercise, "fear setting"
+    - Page 1: What if X happened?
+      - Define your fears
+      - Consider strategies to prevent them
+      - Consider what could be done about them if they did come true
+    - Page 2: What might be the benefits of an attempt or partial success?
+      - emotionally, physically, financially etc.
+    - Page 3: What is the cost of inaction?
+      - emotionally, physically, financially etc.
+      - on several time horizons, e.g.
+        - in 6 months
+        - in 1 year
+        - in 3 years
 * [I am 30 years old, and a month ago I got my first passport | Maha Mamo](https://www.youtube.com/watch?v=RzffChmXKyA)
   - about what it means to be stateless, and how to end statelessness by providing everyone with an environment where they belong
 * [Sustainable Investing: What you didn't know could make you money. | Karina Funk | TEDxWilmington](https://www.youtube.com/watch?v=fno1QIuA6EQ)
