@@ -565,6 +565,8 @@ Since then, lots of sources of information (and misinformation) on the topic hav
     - posters 
       - [Coronavirus – was tun?](https://gesundheit.jena.de/sites/default/files/2020-03/poster_neu_0.pdf)
       - [Meldepflicht und  sofortige Quarantäne](https://gesundheit.jena.de/sites/default/files/2020-03/poster_meldepflicht.pdf)
+ * COVID cold spots
+   - [Rostock](https://translate.google.com/translate?hl=en&sl=de&u=https://www.mopo.de/im-norden/kaum-infektionen-was-macht-rostock-anders-als-andere-staedte--herr-oberbuergermeister--37827038&prev=search&pto=aue)
 
 ## Ghana
 
