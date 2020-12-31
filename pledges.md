@@ -105,3 +105,4 @@
 * [What values do you live by?](https://sharing.values20.com/)
 * ["Transparency is openness in only one direction"](https://www.youtube.com/watch?v=CEN4XNth61o#t=16m35s)
   - followed by "being given a dashboard without a steering wheel has never been the core promise a democracy makes to its citizens"
+* [Geschäftsmodell des Teilens](https://ebildungslabor.de/blog/gdt/) &mdash; about a business model based on the free sharing of materials resulting from freelance work
