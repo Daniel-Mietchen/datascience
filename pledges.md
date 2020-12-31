@@ -90,6 +90,8 @@
 * [Twitter search for examples](https://twitter.com/search?q=(pledge%20OR%20pledges%20OR%20pledged%20OR%20pledging)%20AND%20(opendata%20OR%20openscience%20OR%20%22open%20data%22%20OR%20%22open%20science%22)&src=typed_query)
 * ethical matrix
   - [The Ethical Matrix, A Framework For Ethical Debates](https://www.foodethicscouncil.org/resource/ethical-matrix/)
+    - analysed in [Technology assessment and the'ethical matrix'](http://clok.uclan.ac.uk/9696/)
+      - they propose to add another row for future geenrations and to replace the "justice" column with a "solidarity" one
   - [Scholia](https://scholia.toolforge.org/topic/Q99438538)
 * [What can research institutions do to encourage open science?](https://ask-open-science.org/882)
 * [Pledges at Ask Open Science](https://ask-open-science.org/tag/pledges)
