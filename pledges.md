@@ -2,6 +2,8 @@
 
 *This file collects materials related to pledges and similar aspirational statements regarding values like sustainability, openness, diversity and ethics, particularly in the context of research, teaching and academia.*
 
+**Update: There is now a dedicated repo at [https://github.com/Daniel-Mietchen/pledges](https://github.com/Daniel-Mietchen/pledges) that contains information about pledges I made.**
+
 # Potential levels of pledges
 
 * Individuals
