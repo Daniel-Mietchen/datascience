@@ -45,6 +45,28 @@
         - in 6 months
         - in 1 year
         - in 3 years
+* [21 Lessons for the 21st Century | Yuval Noah Harari](https://www.youtube.com/watch?v=Bw9P_ZXWDJU)
+  - [some key ideas](https://www.youtube.com/watch?v=Bw9P_ZXWDJU&lc=UgzTAh8JqnJ9KM0HtA54AaABAg):
+    - > 3:08 Most important things to emphasize in education are Emotional intelligence and mental stability.
+    - > 3:30 Kids need to reinvent themselves repeatedly because of rapid change.
+    - > 4:15 Build identities like tents.
+    - > 5:32 The old political and economic models assume that ultimate authority is the free choice of individuals.
+    - > 6:58 Free will is not a scientific reality.
+    - > 9:10 Govts and  Corporations will have privileged access to your brain.
+    - > They can understand you better than you.
+    - > 11:30 Humans will no longer be black boxes.
+    - > 12:25 AI becomes revolutionary only with the help of AI
+    - > 15:02 Technology isn't deterministic
+    - > 18:50 Religions and God
+    - > 21:45 Religion vs. spirituality (Religion is about definite answers. Spirituality is a quest for questions.)
+    - > 23:00 Engineers are forced to think about philosophy
+    - > 26:42 The role of fiction in organizing ourselves. (Even economies and corporations are basically a story)
+    - > 30:30 Reality exists.  If an entity can suffer then it is real.
+    - > 33:00 Fiction doesn't mean it's bad or unimportant
+    - > 34:30 Exciting ree news model creates fake news.  - nice quotes:
+  - key quotes:
+    - > ["History is not the study of past. History is the study of change." ](https://www.youtube.com/watch?v=Bw9P_ZXWDJU&lc=UgyrXhtEwnbPGdGOr2d4AaABAg)
+    - > [“There are many kinds of Gods. People usually have two very different Gods in mind when they say the word ‘God’. One God is the cosmic mystery. We don’t understand why there is something rather than nothing, why the Big Bang happened, what human consciousness is. There are many things we don’t understand about the world and some people choose to call these mysteries by the name “God’. God is the reason there is something rather than nothing. God is behind human consciousness. The most characteristic thing about this God is we know absolutely nothing about him / her / it / they. There is nothing concrete. It’s a mystery. This is the God we talk about late at night in the desert as we sit around the camp fire and think about the meaning of life. That’s one meaning of God. I have no problem with this version of God, in fact I like it very much. Then there is another God which is the petty law giver. The characteristic of this God is we know a lot of concrete things about that God. We know what he thinks about female dress code, we know what he think about sexuality, we know what he feels about food, about politics. This is the God people talk about when they stand around while burning a heretic. We will burn you because you did something that God doesn’t like. It’s like a magic trick. How do you know God exists?  Well, the Big Bang and human consciousness and science can’t explain this and that, and then like a magician swapping one card for another, they will take out the mystery God and replace it with the petty law giver and you end up with something strange like because we don’t understand the Big Bang, women must dress with long sleeves and men shouldn’t have sex together. What’s the connection?  How did you get from here to there?”](https://www.youtube.com/watch?v=Bw9P_ZXWDJU&lc=UgwwKsVrmh60G19xAUB4AaABAg)
 * [I am 30 years old, and a month ago I got my first passport | Maha Mamo](https://www.youtube.com/watch?v=RzffChmXKyA)
   - about what it means to be stateless, and how to end statelessness by providing everyone with an environment where they belong
 * [Sustainable Investing: What you didn't know could make you money. | Karina Funk | TEDxWilmington](https://www.youtube.com/watch?v=fno1QIuA6EQ)
