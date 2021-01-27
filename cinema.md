@@ -25,6 +25,9 @@
     - [background on the white paper](https://renew.org.au/renew-magazine/climate-change/dont-mention-the-emergency/)
   - [explains scientist's relationship with recent developments following an exponential function](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=9m20s)
   - [discusses](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=21m55s) [Appealing to Fear: A Meta-Analysis of Fear Appeal Effectivenessand Theories](http://dx.doi.org/10.1037/a0039729)
+* [The reality of climate change](https://www.youtube.com/watch?v=SBjtO-0tbKU) &mdash; by [David Puttnam](https://en.wikipedia.org/wiki/David_Puttnam) of [Climate Change Act](https://en.wikipedia.org/wiki/Climate_Change_Act_2008) fame
+  - multiple historic examples (from economics, health, environmental sustainability and leadership) around the theme of 
+    - > disregard of human suffering (of some) in the pursuit of economic profit (for others)
 * [This country isn't just carbon neutral — it's carbon negative | Tshering Tobgay](https://www.youtube.com/watch?v=7Lc_dlVrg5M) &mdash; about Bhutan's [Gross National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness) policy and how it can inspire effective measures towards sustainability and climate justice, both in their country and around the world
 * [De klimaatzaak](https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2015-2016/de-klimaatzaak.html)
   - about [State of the Netherlands v. Urgenda Foundation](https://en.wikipedia.org/wiki/State_of_the_Netherlands_v._Urgenda_Foundation)
