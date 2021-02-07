@@ -1,4 +1,4 @@
-*[About](cinema.md#about)・ [Maybe watch in the future](cinema.md#maybe-watch-in-the-future)・ [Watched](cinema.md#watched)*
+*[About](cinema.md#about)・ [Maybe watch in the future](cinema.md#maybe-watch-in-the-future)・ [Started but not finished yet](started-but-not-finished-yet)・ [Watched](cinema.md#watched)*
 
 
 # Watched
@@ -487,6 +487,10 @@
 * [Learning styles & the importance of critical self-reflection | Tesia Marshik](https://www.youtube.com/watch?v=855Now8h5Rs)
   - does away with the common notion that people have learning styles (auditory/ visual/ tactile/ olfactory)
 * [Rio 2016 Opening Ceremony](https://www.youtube.com/watch?v=N_qXm9HY9Ro#t=53m) &mdash; I did not watch the whole thing but just the ca. 5 min related to climate change, prompted by [this tweet](https://twitter.com/mxfh/status/1131323607257419778)
+
+# Started but not finished yet
+
+* [Virologin Melanie Brinkmann über #NoCovid](https://www.youtube.com/watch?v=aMp35eBaTIA)
 
 # Maybe watch in the future
 
