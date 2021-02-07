@@ -1,4 +1,4 @@
-*[About](cinema.md#about)・ [Maybe watch in the future](cinema.md#maybe-watch-in-the-future)・ [Started but not finished yet](started-but-not-finished-yet)・ [Watched](cinema.md#watched)*
+*[About](cinema.md#about)・ [Maybe watch in the future](cinema.md#maybe-watch-in-the-future)・ [Started but not finished yet](cinema.md#started-but-not-finished-yet)・ [Watched](cinema.md#watched)*
 
 
 # Watched
