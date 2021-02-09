@@ -34,6 +34,19 @@
   - broadcast in 2015, with the initial ruling of the district court featured as the highlight, which was uphelp in later instances twice, the latest being by the Dutch Supreme Court in December 2020
   - remarkably car-centric for a piece on climate change and emissions from fossil fuels
     - also multiple depictions of single-use plastics and of upper-class lifestyle
+* [Bruce Caron on "Open Science, Culture Change, and You"](https://www.youtube.com/watch?v=yVaqJYPCYF0#t=27m)
+  - part of a talk series by the Ronin Institute
+  - nice intro to his anthropological [research](http://ronininstitute.org/research-scholars/bruce-caron/) on the open science community and especially the [Open Scientist Handbook](https://openscientist.pubpub.org/pub/play/release/1)
+  - some key quotes that resonated with me
+    - > Best advice I got when I entered academia: "We're all smart. Distinguish yourself by being kind."
+      - [mentioned at 22:09 min](https://www.youtube.com/watch?v=yVaqJYPCYF0#t=22m9s)
+        - then [this Twitter search](https://twitter.com/search?q=everyone%20here%20is%20smart%20distinguish%20kind%20&src=typed_query&f=live), which gave
+          - [this related tweet](https://twitter.com/dolly_sud/status/1213571665826910211)
+          - [the original](https://twitter.com/annegalloway/status/438412389319319552) (perhaps)
+      - write-ups:
+        - [Should we steer clear of the winner-takes-all approach?](https://doi.org/10.1038/d41586-018-00482-y)
+        - partly based on [Being Kind](https://freshwater-science.org/news/presidents-environment-being-kind)
+    - [“The level and quality of current knowing in any science discipline increases as the square of the number of scientists times the amount of available conversation.”](https://cybersocialstructure.org/2020/03/21/knowing-and-conversation-in-the-academy/) (at 27 min)
 * [Why you should define your fears instead of your goals | Tim Ferriss](https://www.youtube.com/watch?v=5J6jAC6XxAI)
   - 3-page exercise, "fear setting", with respect to a looming decision
     - Page 1: What if X happened?
