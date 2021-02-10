@@ -223,6 +223,7 @@
     - > b. Wanting - Environment plays a role. Create environment for you to succeed in your goal.
     - > c. Doing - Optimize for the start line, not finish line.
     - > d. Liking what you do - We repeat behaviors, because we like them.
+* [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4) &mdash; nicely presents in a beginner-friendly way some key approaches to machine learning: linear regression, logistic regression, decision trees, naive Bayesian statistics, support vector machines, neural networks, K-means and hierarchical clustering
 * [Ecosia as a place to work](https://www.youtube.com/watch?v=qCdK-ifNpRs)
   - with concrete examples of policies, practices and perks
 * [Die Zerstörung der CDU.](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) &mdash; most solid commentary I have come across regarding the [2019 European Parliament election](https://en.wikipedia.org/wiki/2019_European_Parliament_election) in May 2019
