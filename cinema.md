@@ -308,6 +308,7 @@
 * [Why it's so hard to make healthy decisions | David Asch](https://www.youtube.com/watch?v=PI5V1-IFvlI)
   * highlights how behavioral economics can help improve behavior
   * with side notes on the role of Batman in the introduction of seatbelts in America
+* [Music Theory in 16 Minutes](https://www.youtube.com/watch?v=_eKTOMhpy2w) &mdash; very clearly laid out overview of major and minor scales, intervals, chords and the circle of fifths
 * [Programmieren Lernen für Kids - in Minecraft](https://media.ccc.de/v/36c3-104-programmieren-lernen-fr-kids-in-minecraft) (36C3)
   - instructor created a simplified world in Minecraft that 
     - has no distractions
