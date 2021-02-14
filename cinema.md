@@ -143,6 +143,7 @@
       - Carbon tax
         - nicely explained
       - The question is not whether climate legislation will happen but whether it will happen in time before major climate tipping points are reached
+* [Knowledge Graphs for AI: Wikidata and beyond](https://www.youtube.com/watch?v=mTz0zSNSKEY) &mdash; nice overview of Wikidata in the context of enriching machine learning with machine knowing, i.e. structured representation of knowledge
 * [Exploration and Explanation in Computational Notebooks](https://www.youtube.com/watch?v=trlfzLyDI6U)
   - analyzed over a million Jupyter notebooks and looked at document features and use cases
   - accompanying paper: [Exploration and Explanation in Computational Notebooks](https://www.wikidata.org/wiki/Q99485348)
