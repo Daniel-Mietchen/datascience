@@ -207,6 +207,8 @@
       - focus on things they can change and somehow accept what they can't
       - can find something they are grateful for despite their negative experience
     - ask themselves whether what they are doing is helping or harming them
+* [Virologin Melanie Brinkmann über #NoCovid](https://www.youtube.com/watch?v=aMp35eBaTIA) &mdash; good overview about the societal issues related to the COVID-19 pandemic and about the scientific approaches to documenting the problems and working on solutions
+  - highlights that if a community strives to reach a stage where all COVID-19 cases can be completely documented, then that goal is more easily reachable than via an endless chain of half-hearted lockdowns and re-openings
 * [1177 BC: The Year Civilization Collapsed (Eric Cline, PhD)](https://www.youtube.com/watch?v=bRcu-ysocX4)
   - essentially argues that a situation of crisis stacking, rather than a linear sequence of crises, lead to the end of eight of the ca. nine major powers of the Bronze age in the Eastern Mediterranean
   - those "G8" were globally interconnected through marriages, trade and defense pacts, and with the exception of Egypt, went down together during about a century after invasions commonly attributed to the [Sea peoples](https://en.wikipedia.org/wiki/Sea_Peoples)
@@ -505,7 +507,6 @@
 
 # Started but not finished yet
 
-* [Virologin Melanie Brinkmann über #NoCovid](https://www.youtube.com/watch?v=aMp35eBaTIA)
 
 # Maybe watch in the future
 
