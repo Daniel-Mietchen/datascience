@@ -28,6 +28,9 @@
 * [The reality of climate change](https://www.youtube.com/watch?v=SBjtO-0tbKU) &mdash; by [David Puttnam](https://en.wikipedia.org/wiki/David_Puttnam) of [Climate Change Act](https://en.wikipedia.org/wiki/Climate_Change_Act_2008) fame
   - multiple historic examples (from economics, health, environmental sustainability and leadership) around the theme of 
     - > disregard of human suffering (of some) in the pursuit of economic profit (for others)
+* [Simon Anholt at EAIE Helsinki 2019](https://www.youtube.com/watch?v=mzeT8fBnZJ4#t=6m5s) &mdash; keynote given at the 2019 annual meeting of the [European Association for International Education](https://en.wikipedia.org/wiki/European_Association_for_International_Education)
+  - "We have to learn to change the culture of governance worldwide from one that is fundamentally competitive to one that is fundamentally collaborative"
+    - applies likewise if "governance" is substituted by "research" but he actually frames it such that governments could learn a lesson from universities
 * [This country isn't just carbon neutral — it's carbon negative | Tshering Tobgay](https://www.youtube.com/watch?v=7Lc_dlVrg5M) &mdash; about Bhutan's [Gross National Happiness](https://en.wikipedia.org/wiki/Gross_National_Happiness) policy and how it can inspire effective measures towards sustainability and climate justice, both in their country and around the world
 * [De klimaatzaak](https://www.vpro.nl/programmas/tegenlicht/kijk/afleveringen/2015-2016/de-klimaatzaak.html)
   - about [State of the Netherlands v. Urgenda Foundation](https://en.wikipedia.org/wiki/State_of_the_Netherlands_v._Urgenda_Foundation)
