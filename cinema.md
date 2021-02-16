@@ -50,6 +50,9 @@
         - [Should we steer clear of the winner-takes-all approach?](https://doi.org/10.1038/d41586-018-00482-y)
         - partly based on [Being Kind](https://freshwater-science.org/news/presidents-environment-being-kind)
     - [“The level and quality of current knowing in any science discipline increases as the square of the number of scientists times the amount of available conversation.”](https://cybersocialstructure.org/2020/03/21/knowing-and-conversation-in-the-academy/) (at 27 min)
+* [The incredible inventions of intuitive AI | Maurice Conti](https://www.youtube.com/watch?v=aR5N2Jl8k14) &mdash; with a good range of examples for 
+  - unconventional solutions by AI-based systems
+  - how humans, robots and AI can collaborate
 * [Why you should define your fears instead of your goals | Tim Ferriss](https://www.youtube.com/watch?v=5J6jAC6XxAI)
   - 3-page exercise, "fear setting", with respect to a looming decision
     - Page 1: What if X happened?
