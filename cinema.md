@@ -3,6 +3,9 @@
 
 # Watched
 
+* [Dr Mike Ryan : Covid-19 is a wake-up call to how we live our lives](https://vimeo.com/513844215)
+  - background story: [5 lessons Dr. Mike Ryan says we need to learn from Covid-19](https://www.trocaire.org/news/5-lessons-dr-mike-ryan-says-we-need-to-learn-from-covid-19/)  
+  - seen via [this tweet](https://twitter.com/rice_e/status/1362427619275341831) 
 * ["The greatest shortcoming of the human race is our inability to understand the exponential function. But this kind of steady growth is the centrepiece of the entire global economy. Who would realise at 5 minutes to 12, that there is a problem? Think about it." — Prof. Al Bartlett](https://twitter.com/Jumpsteady/status/1178918445229981696)
   - [another take on the exponential function](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=9m20s)
 * [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
