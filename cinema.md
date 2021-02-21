@@ -527,7 +527,7 @@
 * [The Unfolding Meta-Crisis, Jordan Hall](https://www.youtube.com/watch?v=933qDMh1J3g)
 * [Wikidata and Beyond – Knowledge for everyone by everyone - Keynote by Denny Vrandečić at SWAT4HCLS 2019](https://www.youtube.com/watch?v=yzVA7YLwhTE)
 * [The success of nonviolent civil resistance: Erica Chenoweth at TEDxBoulder](https://www.youtube.com/watch?v=YJSehRlU34w)
-* [The Big U-Turn Ahead: Calling Australia to Action on Climate Change](https://www.youtube.com/watch?v=OzQsjuzr3_M)
+* [The Big U-Turn Ahead: Calling Australia to Action on Climate Change](https://www.youtube.com/watch?v=OzQsjuzr3_M) &mdash; Will Steffen
   - one of the most powerful presentations outlining what is known about climate change and what this means for climate action
     - key points: 
       - [36 min: visualization of current global warming projections versus the last 2000 years](https://www.youtube.com/watch?v=OzQsjuzr3_M#t=35m27s)
