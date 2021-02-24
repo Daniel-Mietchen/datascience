@@ -558,6 +558,7 @@
 * [We are all connected with nature: Nixiwaka Yawanawa](https://www.youtube.com/watch?v=xk0-yebNA_o) &mdash; an indigenous perspective from Brazil
 * [Lessons from Oak Ridge National Laboratory by Syd Ball, ORNL at Thorium Energy Conference 2018](https://www.youtube.com/watch?v=lPYKRH7Ijtw)
 * [Lernen sichtbar machen](https://www.youtube.com/watch?v=dnftZiBjPDs) &mdash; critical appraisal of John Hattie's [Visible Learning](https://en.wikipedia.org/wiki/Visible_Learning)
+* [Jim Keller: The Future of Computing, AI, Life, and Consciousness](https://www.youtube.com/watch?v=G4hL5Om4IJ4)
 * [Strands of the modern semantic web: schema.org, Wikidata, and the Knowledge Graph](https://www.youtube.com/watch?v=UzyIlAXOAP8)
 * [Wikimania 2016, Hackathon: Running bots and executive code on labs with just a web terminal (PAWS)](https://www.youtube.com/watch?v=70oYKPaGuMc)
 * [Entrega Cap. 2 Nueva Telenovela Cubana](https://www.youtube.com/watch?v=c1zHCZi9JwA) &mdash; about Wikipedia in Cuba
