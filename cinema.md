@@ -191,6 +191,7 @@
   - nice intro to programming, focusing on getting the algorithm part sorted out before jumping into a specific language and its syntax, reusing the algorithm sketch as comments
   - always writes while loops as ```while(KeepGoing)```
   - end with an explanation as to why Python is a good language to learn for beginners
+* [Top hacker shows us how it's done | Pablos Holman](https://www.youtube.com/watch?v=hqKafI7Amd8) &mdash; introduces a number of hacks, from lock picking to hotel WiFi and Bluetooth surveillance to car keys, and then explains that he is applying this hacker mindset to humanity's biggest problems, e.g. by hacking into the life cycle of Anopheles stephensi mosquitoes in various ways, including using an excimer laser to cut off their wings in flight
 * [The Spring](https://vimeo.com/180467014)
   - inspiring approach to realizing the vision of providing every human with clean drinking water
   - [they use open hardware sensors](https://www.charitywater.org/projects/sensors/)
