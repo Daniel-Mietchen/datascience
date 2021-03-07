@@ -659,7 +659,7 @@
 * [Making robots more like children | Rodney Brooks](https://www.youtube.com/watch?v=m2ViWnfbADE)
 * [Stephen Krashen on Language Acquisition](https://www.youtube.com/watch?v=NiTsduRreug)
   * language acquisition happens 
-    - > **only** when we get comprehensible input in a low-anxiety environment
+    - > [**only** when we get comprehensible input in a low-anxiety environment](https://www.youtube.com/watch?v=NiTsduRreug#t=15m6s)
 * [Sharon Terry: Science didn&#39;t understand my kids&#39; rare disease until I decided to study it](https://www.ted.com/talks/sharon_terry_science_didn_t_understand_my_kids_rare_disease_until_i_decided_to_study_it)
   - had watched that during TEDMED 2016 &mdash; notes at https://github.com/Daniel-Mietchen/events/issues/51
 * [Why Astronomers Love Python And Why You Should Too](https://www.youtube.com/watch?v=W9dwGZ6yY0k)
