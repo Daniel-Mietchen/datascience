@@ -505,6 +505,8 @@
 * [How Pandemics Spread](https://www.youtube.com/watch?v=UG8YbNbdaco) &mdash; really nice 7-min introduction to the topic
 * [Der "Tyrannosaurus" von Tambach-Dietharz](https://www.ardmediathek.de/tv/Der-Osten-Entdecke-wo-du-lebst/Der-Tyrannosaurus-von-Tambach-Dietharz/MDR-Fernsehen/Video?bcastId=9397858&documentId=57097606) &mdash; provides background on the fossil site [Bromacker](https://www.wikidata.org/wiki/Q926184) and the discovery of [Orobates pabsti](https://www.wikidata.org/wiki/Q20718907)
 * [Asaf Bartov: Wiki + data = Wikidata (and why you should care)](https://www.youtube.com/watch?v=24DOvuZWaD0)
+* [Lýdia Machová - Ten things polyglots do differently](https://www.youtube.com/watch?v=ROh_-RG3OVg)
+  - summary at [30:35min](https://www.youtube.com/watch?v=ROh_-RG3OVg#t=30m35s) 
 * [1,204,986 Votes Decided: What Is The Best Thing?](https://www.youtube.com/watch?v=ALy6e7GbDRQ)
   - uses Wikidata to define what a "thing" is
 * [35C3 - Freude ist nur ein Mangel an Information](https://www.youtube.com/watch?v=MRqWaRMFsPs)
