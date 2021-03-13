@@ -582,6 +582,8 @@
   - seen via https://twitter.com/Karim_Sandid/status/1006064751464603649
 * [Aled Edwards: Why biomedical philanthropy supports redundant science](https://www.youtube.com/watch?v=Wtp7R97jz5k)
 * [Become a Citizen Data Scientist](https://www.youtube.com/watch?v=zgijAGkdjZc)
+* [soil carbon cowboys](https://www.youtube.com/watch?v=MDoUDLbg8tg) &mdash; on holistic grazing as an approach to harmonize animal husbandry with strengthening biodiversity, improving resilience to extreme weather events, and potentially even capturing carbon via soil organic matter
+  - background: [carboncowboys.org/]{https://carboncowboys.org/] 
 * Reconciliation in OpenRefine for Wikidata
   - a two-part screencast
     - https://www.youtube.com/watch?v=q8ffvdeyuNQ
