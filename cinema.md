@@ -524,6 +524,8 @@
 # Started but not finished yet
 
 * [See a Salamander Grow From a Single Cell in this Incredible Time-lapse](https://www.youtube.com/watch?v=SEejivHRIbE)
+* [Stephen Axford: How fungi changed my view of the world](https://www.youtube.com/watch?v=KYunPJQWZ1o)
+* [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM)
 
 # Maybe watch in the future
 
