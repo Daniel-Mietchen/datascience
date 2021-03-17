@@ -170,6 +170,8 @@
 * [You Should Learn How to Hack | Ymir Vigfusson](https://www.youtube.com/watch?v=IaJtUCU004o) &mdash; makes the case that essentially everyone should adopt a hacker's mindset when thinking about systems they are engaged in, because that can help expose (and eventually address) vulnerabilities
 * [Mensch gegen Virus - 11.05.2020 ∙ Geschichte im Ersten ∙ Das Erste](https://www.ardmediathek.de/daserste/video/geschichte-im-ersten/mensch-gegen-virus/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL2dlc2NoaWNodGUtaW0tZXJzdGVuLzU4ZDE1MDI5LWQ2OTAtNDFkZC1hMDRiLWM0YTRlZjYxNTAwMw/)
   - looks at past epidemics from the perspective of the current one
+* [Quantum Biology: The Hidden Nature of Nature](https://www.youtube.com/watch?v=ADiql3FG5is) &mdash; very entertaining discussion (from June 1, 2012) between John Hockenberry (moderator) and quantum physicists Paul Davies, Seth Lloyd, Thorsten Ritz about quantum phenomena in biological systems
+   - see also the 2021 review article [Quantum Biology: An Update and Perspective](https://doi.org/10.3390/QUANTUM3010006)
 * [Why the majority is always wrong | Paul Rulkens](https://www.youtube.com/watch?v=VNGFep6rncY)
   - intro story about Einstein being challenged about using the same questions in an exam as he did the year before, to which he is reported to have replied
     - > "The questions are the same, but the answers have changed."
