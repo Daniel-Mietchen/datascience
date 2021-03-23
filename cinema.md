@@ -500,6 +500,8 @@
 * [The Distributed Web, and the Browser I Wrote to Surf It (Beaker Browser Demo)](https://www.youtube.com/watch?v=pi-kreA52oI) (18 min, with some more background as well as demos)
 * [Open Litter Map: Challenging Plastic Pollution with Open Data | Sean Lynch | TEDxTallaght](https://www.youtube.com/watch?v=my7Cx-kZhT4)
   - introduces [Open Litter Map](https://openlittermap.com/)
+* [Natalie Portman and Yuval Noah Harari in Conversation](https://www.youtube.com/watch?v=ledJBbRfH8g)
+  * mostly her moderating him into fascinating monologues &mdash; with occasional interaction &mdash; about some of the most important facets of life, both at the individual and societal levels
 * [The Visual Microphone: Passive Recovery of Sound from Video](https://www.youtube.com/watch?v=FKXOucXB4a8)
   - commentary: [If you watch closely enough, everything is a speaker](https://kottke.org/18/01/if-you-watch-closely-enough-everything-is-a-speaker)
 * [Data from half a world away helps rescue stranded Thai football team](https://www.youtube.com/watch?v=RVU3sEn5_uU)
