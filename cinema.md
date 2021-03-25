@@ -325,6 +325,10 @@
 * [Why it's so hard to make healthy decisions | David Asch](https://www.youtube.com/watch?v=PI5V1-IFvlI)
   * highlights how behavioral economics can help improve behavior
   * with side notes on the role of Batman in the introduction of seatbelts in America
+* [How boredom can lead to your most brilliant ideas | Manoush Zomorodi](https://www.youtube.com/watch?v=c73Q8oQmwzo)
+  - nice pic at [8:47 min in](https://www.youtube.com/watch?v=c73Q8oQmwzo#t=8m47s) about how mobile screens capture our attention
+  - quote ([9:40](https://www.youtube.com/watch?v=c73Q8oQmwzo#t=9m40s)):
+    - > the only people who refer to their customers as users are drug dealers and technologists
 * [Music Theory in 16 Minutes](https://www.youtube.com/watch?v=_eKTOMhpy2w) &mdash; very clearly laid out overview of major and minor scales, intervals, chords and the circle of fifths
 * [Programmieren Lernen für Kids - in Minecraft](https://media.ccc.de/v/36c3-104-programmieren-lernen-fr-kids-in-minecraft) (36C3)
   - instructor created a simplified world in Minecraft that 
