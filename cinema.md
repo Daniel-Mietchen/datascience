@@ -426,6 +426,7 @@
 * [Back to the thesis: Francis Collins](https://www.youtube.com/watch?v=e3QAWyGW1DY) 
   * useful
   * great illustrations
+* [Derek Muller (Veritasium): The key to effective educational science videos](https://www.youtube.com/watch?v=RQaW2bFieo8)
 * [Wanda Diaz Merced: How a blind astronomer found a way to hear the stars](https://www.ted.com/talks/wanda_diaz_merced_how_a_blind_astronomer_found_a_way_to_hear_the_stars)
   * sonification as a way to (a) explore data, (b) help bridge gaps between the sighted and un-sighted
 * [Big Data: Biomedicine](https://www.youtube.com/watch?v=F6CI7jXHGWg)
