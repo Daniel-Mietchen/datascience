@@ -9,14 +9,16 @@
 * ["The greatest shortcoming of the human race is our inability to understand the exponential function. But this kind of steady growth is the centrepiece of the entire global economy. Who would realise at 5 minutes to 12, that there is a problem? Think about it." — Prof. Al Bartlett](https://twitter.com/Jumpsteady/status/1178918445229981696)
   - [another take on the exponential function](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=9m20s)
   - see also [Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
-* [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
-  - see also [Covid-19: Are we flattening the curve?](https://www.datafied.world/covid19-are-we-flattening-the-curve-179), a Jupyter notebook inspired by the video
 * ["The only sustainable growth is degrowth"](https://twitter.com/parents4future/status/1206694192740786179)
   - actually, not &mdash; what we need is a [steady-state economy](https://en.wikipedia.org/wiki/Steady-state_economy)
 * [What we can and need to change to keep climate change low - the scientist view ](https://media.ccc.de/v/36c3-10991-science_for_future)
   - not the best talk rhetorically, didactically or in terms of slides, but a decent coverage of one of today's key issues
   - with lots of examples drawn directly from the IPCC reports, to which commentary and contextualization are provided
 * [Shell Oil's Stark Climate Change Warning from 1991](https://www.youtube.com/watch?v=vTlYYlRN0LY) &mdash; lays out in useful detail what was known about climate change back then
+* [The electrical blueprints that orchestrate life | Michael Levin](https://www.youtube.com/watch?v=XheAMrS8Q1c)
+  - about [A scalable pipeline for designing reconfigurable organisms](https://doi.org/10.1073/pnas.1910837117)
+    - CC BY, has two videos
+  - see also [this infographic](http://web.archive.org/web/20210405214814/https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fbies.201900146&file=bies201900146-sup-0001-figureS1.jpg) 
 * [Inside the mind of a climate change scientist | Corinne Le Quéré](https://www.youtube.com/watch?v=O6f4Q_ReMxA)
   - "I have a mountain of data on my shoulders" [that tell the story of climate change]
     - engaging story around using data as a basis for getting people to act
@@ -41,6 +43,8 @@
   - broadcast in 2015, with the initial ruling of the district court featured as the highlight, which was uphelp in later instances twice, the latest being by the Dutch Supreme Court in December 2020
   - remarkably car-centric for a piece on climate change and emissions from fossil fuels
     - also multiple depictions of single-use plastics and of upper-class lifestyle
+* [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
+  - see also [Covid-19: Are we flattening the curve?](https://www.datafied.world/covid19-are-we-flattening-the-curve-179), a Jupyter notebook inspired by the video
 * [Bruce Caron on "Open Science, Culture Change, and You"](https://www.youtube.com/watch?v=yVaqJYPCYF0#t=27m)
   - part of a talk series by the Ronin Institute
   - nice intro to his anthropological [research](http://ronininstitute.org/research-scholars/bruce-caron/) on the open science community and especially the [Open Scientist Handbook](https://openscientist.pubpub.org/pub/play/release/1)
