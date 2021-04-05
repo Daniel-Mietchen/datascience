@@ -18,6 +18,8 @@
 * [The electrical blueprints that orchestrate life | Michael Levin](https://www.youtube.com/watch?v=XheAMrS8Q1c)
   - about [A scalable pipeline for designing reconfigurable organisms](https://doi.org/10.1073/pnas.1910837117)
     - CC BY, has two videos
+    - [Computer-designed organisms](https://cdorgs.github.io/)
+      - [Xenobots](https://en.wikipedia.org/wiki/Xenobot)
   - see also [this infographic](http://web.archive.org/web/20210405214814/https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fbies.201900146&file=bies201900146-sup-0001-figureS1.jpg) 
 * [Inside the mind of a climate change scientist | Corinne Le Quéré](https://www.youtube.com/watch?v=O6f4Q_ReMxA)
   - "I have a mountain of data on my shoulders" [that tell the story of climate change]
@@ -43,6 +45,7 @@
   - broadcast in 2015, with the initial ruling of the district court featured as the highlight, which was uphelp in later instances twice, the latest being by the Dutch Supreme Court in December 2020
   - remarkably car-centric for a piece on climate change and emissions from fossil fuels
     - also multiple depictions of single-use plastics and of upper-class lifestyle
+* [This 3D-Printed Bunny Could Be the Future of Data Storage](https://www.youtube.com/watch?v=gNzHcaQov80)
 * [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
   - see also [Covid-19: Are we flattening the curve?](https://www.datafied.world/covid19-are-we-flattening-the-curve-179), a Jupyter notebook inspired by the video
 * [Bruce Caron on "Open Science, Culture Change, and You"](https://www.youtube.com/watch?v=yVaqJYPCYF0#t=27m)
