@@ -201,6 +201,16 @@
   - nice intro to programming, focusing on getting the algorithm part sorted out before jumping into a specific language and its syntax, reusing the algorithm sketch as comments
   - always writes while loops as ```while(KeepGoing)```
   - end with an explanation as to why Python is a good language to learn for beginners
+* [Stephen Axford: How fungi changed my view of the world](https://www.youtube.com/watch?v=KYunPJQWZ1o)
+  - great intro on how photos and videos of fungi can help explore the interconnectedness of life forms on the planet
+  - My draft email to them (to be posted via [this form](https://www.planetfungi.movie/contact)):
+    -> Reusing some of your materials in research and education
+    -> 
+    -> Dear Catherine and Stephen, 
+    -> 
+    -> I am a biophysicist, data scientist and science communicator and came across your work via the video recommendations on YouTube, which pointed me to your video "Stephen Axford: How fungi changed my view of the world" at https://www.youtube.com/watch?v=KYunPJQWZ1o . It got me thinking about how such materials could be put to use in education both for the broader public and for specialists in mycology, ecology, forestry, nature conservation and related fields.
+    -> 
+    -> [ask for them to release somee of their materials under open licenses, for wiki and/ or via RIO]. See also [https://scholia.toolforge.org/work/Q106399457](https://scholia.toolforge.org/work/Q106399457)
 * [Top hacker shows us how it's done | Pablos Holman](https://www.youtube.com/watch?v=hqKafI7Amd8) &mdash; introduces a number of hacks, from lock picking to hotel WiFi and Bluetooth surveillance to car keys, and then explains that he is applying this hacker mindset to humanity's biggest problems, e.g. by hacking into the life cycle of Anopheles stephensi mosquitoes in various ways, including using an excimer laser to cut off their wings in flight
 * [The Spring](https://vimeo.com/180467014)
   - inspiring approach to realizing the vision of providing every human with clean drinking water
@@ -541,7 +551,6 @@
 # Started but not finished yet
 
 * [See a Salamander Grow From a Single Cell in this Incredible Time-lapse](https://www.youtube.com/watch?v=SEejivHRIbE)
-* [Stephen Axford: How fungi changed my view of the world](https://www.youtube.com/watch?v=KYunPJQWZ1o)
 * [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM)
 
 # Maybe watch in the future
