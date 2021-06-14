@@ -321,6 +321,8 @@
   * in both scenarios, signal is enhanced through quorum sensing
 * [Thomas Goetz: It's time to redesign medical data](https://www.youtube.com/watch?v=bCGlWQnzDVE)
    * about how to link patient data to patient's course of action, with thoughts on redesigning the forms that are used to convey the result of clinical diagnostics to patients
+* [A guided tour through Cellosaurus](https://www.youtube.com/watch?v=p5ET5ykJ5oQ)
+  * nice overview of the data structure, cross-referencing and context
 * [Atheism 2.0 | Alain de Botton](https://www.youtube.com/watch?v=2Oe6HUgrRlQ)
   - looks at aspects of religions that atheists can learn from to enrich their lives, e.g. around arts, education, travel
 * [Five dangerous things every school should do | Gever Tulley](https://www.youtube.com/watch?v=oyWA3p4aVHM)
