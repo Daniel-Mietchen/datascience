@@ -576,6 +576,7 @@
   - see also this paper: [Trajectories of the Earth System in the Anthropocene](https://doi.org/10.1073/pnas.1810141115)
 * [The Antarctica Challenge: A Global Warning](https://www.youtube.com/watch?v=9Im2O6dzpUE)
 * [Forschung, Fake und faule Tricks | Doku | ARTE](https://www.youtube.com/watch?v=N2zcsmrVIDQ)
+* [Yeonmi Park: North Korea | Lex Fridman Podcast #196](https://www.youtube.com/watch?v=usDqSEKDVsA)
 * [Nick Miller presents: An Inconvenient Truth](https://www.youtube.com/watch?v=C_mr9EqJg18)
 * [COVID Research Synergies / Social Sciences Research](https://www.youtube.com/watch?v=UmWEfW7YtyM)  
 * [An Introduction to Disease Modeling: Understanding COVID-19 Means Understanding Disease Modeling](https://www.youtube.com/watch?v=TdFmy-MeJ4s)
