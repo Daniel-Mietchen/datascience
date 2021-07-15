@@ -25,6 +25,7 @@
     - [Free our knowledge](https://www.freeourknowledge.org) have several campaigns, e.g.
       - [Withholding unpaid review work from profitable publishers](https://github.com/FreeOurKnowledge/discussion/issues/9)
       - also allow [starting a new campaign](https://www.freeourknowledge.org/campaign/create-your-own-campaign)
+    - [Fraser Lab Lab Compact and Philosophy](https://fraserlab.com/compact/)
 * Legal entities
   - [What is a good starting point for an Open Science Manifesto or Research Data Policy a university could issue?](https://ask-open-science.org/1060)
   - examples:
