@@ -11,6 +11,8 @@
   - see also [Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
 * ["The only sustainable growth is degrowth"](https://twitter.com/parents4future/status/1206694192740786179)
   - actually, not &mdash; what we need is a [steady-state economy](https://en.wikipedia.org/wiki/Steady-state_economy)
+* [Ecocide law: protecting the future of life on Earth | Jojo Mehta | TEDxStroud](https://www.youtube.com/watch?v=BftYb3G52og)
+  - provides an overview of the issue of ecocide law and the idea of recognizing ecocide at the level of the International Criminal Court
 * [What we can and need to change to keep climate change low - the scientist view ](https://media.ccc.de/v/36c3-10991-science_for_future)
   - not the best talk rhetorically, didactically or in terms of slides, but a decent coverage of one of today's key issues
   - with lots of examples drawn directly from the IPCC reports, to which commentary and contextualization are provided
