@@ -18,6 +18,9 @@
   - not the best talk rhetorically, didactically or in terms of slides, but a decent coverage of one of today's key issues
   - with lots of examples drawn directly from the IPCC reports, to which commentary and contextualization are provided
 * [Shell Oil's Stark Climate Change Warning from 1991](https://www.youtube.com/watch?v=vTlYYlRN0LY) &mdash; lays out in useful detail what was known about climate change back then
+* [Icy Warning from the World's Highest Mountains | Lonnie Thompson](https://www.youtube.com/watch?v=vrmiygm3QfM) 
+  - about glaciers as climate archives and why their loss is important
+  - with important side notes on research funding, international collaboration and heart transplantation
 * [The electrical blueprints that orchestrate life | Michael Levin](https://www.youtube.com/watch?v=XheAMrS8Q1c)
   - about [A scalable pipeline for designing reconfigurable organisms](https://doi.org/10.1073/pnas.1910837117)
     - CC BY, has two videos
