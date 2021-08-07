@@ -565,6 +565,7 @@
 
 # Maybe watch in the future
 
+* [The Third Industrial Revolution: A Radical New Sharing Economy](https://www.youtube.com/watch?v=QX3M8Ka9vUA)
 * [Python Tutorial for Beginners (5 Hours)](https://www.youtube.com/watch?v=t8pPdKYpowI)
 * [The New Climate War: The Fight to Take Back Our Planet: Michael E. Mann](https://www.youtube.com/watch?v=xZaZnfVflxY) &mdash; for background, see [here](https://www.lse.ac.uk/granthaminstitute/events/the-new-climate-war-the-fight-to-take-back-our-planet-michael-e-mann/)
 * [Hoimar von Ditfurth : Der Ast auf dem wir sitzen](https://www.youtube.com/watch?v=F2K-wnCuntg) &mdash; TV show "Querschnitt" (ZDF, Germany) from 1978 about global warming and climate action
