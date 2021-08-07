@@ -3,6 +3,7 @@
 
 # Watched
 
+* [Charlie Chaplin: A Message For All Of Humanity](http://web.archive.org/web/20210807183118/https://www.charliechaplin.com/en/articles/29-the-final-speech-from-the-great-dictator-) &mdash; a masterpiece of communication, especially considering the time. Could perhaps be a fruitful exercise to [annotate it](https://github.com/Daniel-Mietchen/ideas/issues/1448) to explore what I (now) would have expressed differently.
 * [Dr Mike Ryan : Covid-19 is a wake-up call to how we live our lives](https://vimeo.com/513844215)
   - background story: [5 lessons Dr. Mike Ryan says we need to learn from Covid-19](https://www.trocaire.org/news/5-lessons-dr-mike-ryan-says-we-need-to-learn-from-covid-19/)  
   - seen via [this tweet](https://twitter.com/rice_e/status/1362427619275341831) 
