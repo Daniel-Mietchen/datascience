@@ -53,6 +53,7 @@
     - also multiple depictions of single-use plastics and of upper-class lifestyle
 * [Yuval Noah Harari on the need of ethical training for "coders"](https://www.youtube.com/watch?v=efohpI3sOCI#t=29m40s)
   - makes the case for including "ethics for coders" in education
+  - also calls for an "antivirus for the brain" a few min later
 * [This 3D-Printed Bunny Could Be the Future of Data Storage](https://www.youtube.com/watch?v=gNzHcaQov80)
 * [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
   - see also [Covid-19: Are we flattening the curve?](https://www.datafied.world/covid19-are-we-flattening-the-curve-179), a Jupyter notebook inspired by the video
