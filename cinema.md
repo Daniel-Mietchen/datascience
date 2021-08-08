@@ -21,7 +21,23 @@
 * [Icy Warning from the World's Highest Mountains | Lonnie Thompson](https://www.youtube.com/watch?v=vrmiygm3QfM) 
   - about glaciers as climate archives and why their loss is important
   - with important side notes on research funding, international collaboration and heart transplantation
-* [The electrical blueprints that orchestrate life | Michael Levin](https://www.youtube.com/watch?v=XheAMrS8Q1c)
+* [The Third Industrial Revolution: A Radical New Sharing Economy](https://www.youtube.com/watch?v=QX3M8Ka9vUA) by [Jeremy Rifkin](https://en.wikipedia.org/wiki/Jeremy_Rifkin) ([official website](https://www.foet.org/))
+  - decomposes the three industrial revolutions so far into contemporaneous shifts along three key elements of an economy: 
+    - communication technologies
+    - energy production
+    - mobility of goods, services and people
+  - Timeline:
+    - Chapter 1: The Great Economic Revolutions in History 12:40
+    - Chapter 2: The Science of Productivity 20:56
+    - Chapter 3: A New Smart Infrastructure 29:12
+    - Chapter 4: Zero Marginal Cost and the Rise of the Sharing Economy 35:30
+      - at [about 37 min](https://www.youtube.com/watch?v=QX3M8Ka9vUA#t=37m38s), he brings up Wikipedia in a very positive light, for having democratized knownledge in 15 years, at high accuracy
+    - Chapter 5: Financing the Transition 54:32
+    - Chapter 6: The Generation of Mass Employment 56:30
+    - Chapter 7: A New Consciousness for A New Era 1:00:06
+    - Q&A: 1:12:58
+    - at 1:41:54 in the end credits, the URL ```www.thethirdindustrialrevolution.com/``` is shown, which is dysfunctional now, but [here](http://web.archive.org/web/20170315040401/https://www.thethirdindustrialrevolution.com/) is an archival copy
+ * [The electrical blueprints that orchestrate life | Michael Levin](https://www.youtube.com/watch?v=XheAMrS8Q1c)
   - about [A scalable pipeline for designing reconfigurable organisms](https://doi.org/10.1073/pnas.1910837117)
     - CC BY, has two videos
     - [Computer-designed organisms](https://cdorgs.github.io/)
@@ -574,7 +590,6 @@
 
 # Maybe watch in the future
 
-* [The Third Industrial Revolution: A Radical New Sharing Economy](https://www.youtube.com/watch?v=QX3M8Ka9vUA)
 * [Python Tutorial for Beginners (5 Hours)](https://www.youtube.com/watch?v=t8pPdKYpowI)
 * [The New Climate War: The Fight to Take Back Our Planet: Michael E. Mann](https://www.youtube.com/watch?v=xZaZnfVflxY) &mdash; for background, see [here](https://www.lse.ac.uk/granthaminstitute/events/the-new-climate-war-the-fight-to-take-back-our-planet-michael-e-mann/)
 * [Hoimar von Ditfurth : Der Ast auf dem wir sitzen](https://www.youtube.com/watch?v=F2K-wnCuntg) &mdash; TV show "Querschnitt" (ZDF, Germany) from 1978 about global warming and climate action
