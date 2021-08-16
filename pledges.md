@@ -70,3 +70,4 @@
   - followed by "being given a dashboard without a steering wheel has never been the core promise a democracy makes to its citizens"
 * [Geschäftsmodell des Teilens](https://ebildungslabor.de/blog/gdt/) &mdash; about a business model based on the free sharing of materials resulting from freelance work
 * [Land acknowledgement pledge](https://usdac.us/nativeland)
+* [Critical Engineering Manifesto](https://criticalengineering.org/)
