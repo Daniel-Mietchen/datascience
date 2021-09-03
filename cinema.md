@@ -607,6 +607,7 @@
   - watched parts of it via [this Twitter thread](https://twitter.com/Jumpsteady/status/1163718889139818496)
   - see also this paper: [Trajectories of the Earth System in the Anthropocene](https://doi.org/10.1073/pnas.1810141115)
 * [The Antarctica Challenge: A Global Warning](https://www.youtube.com/watch?v=9Im2O6dzpUE)
+* [Alternative Personalmodelle für Universitäten in Deutschland](https://www.youtube.com/watch?v=AnCp0euetuk)
 * [Forschung, Fake und faule Tricks | Doku | ARTE](https://www.youtube.com/watch?v=N2zcsmrVIDQ)
 * [Yeonmi Park: North Korea | Lex Fridman Podcast #196](https://www.youtube.com/watch?v=usDqSEKDVsA)
 * [Nick Miller presents: An Inconvenient Truth](https://www.youtube.com/watch?v=C_mr9EqJg18)
