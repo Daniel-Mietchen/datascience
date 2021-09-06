@@ -462,6 +462,8 @@
     * [horse manure crisis of New York in 1960, as discussed in 1860](https://fee.org/articles/the-great-horse-manure-crisis-of-1894/)
 * [Flashmob Nürnberg 2014 - Ode an die Freude](https://www.youtube.com/watch?v=a23945btJYw)
   * a very special, deeply emotional kind of public engagement
+* [Why Are Scorpions Fluorescent?](https://www.youtube.com/watch?v=f-Nr2z5X7Rs)
+  - briefly discusses six hypotheses and a bit of evidence for or against them 
 * [Is stigma an invisible killer? &mdash; Nahid Bhadelia](https://www.youtube.com/watch?v=DR8GOoE91Lk)
   * discusses the stigma that patients and caregivers often experience, and what can be done about it
     * key factor: education
