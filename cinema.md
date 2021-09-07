@@ -135,6 +135,20 @@
   - [spolier](https://www.youtube.com/watch?v=x6tMLAjPVyo&lc=Ugymt6un0lq6ruRxNe14AaABAg): 
     1. Emotional Intelligence
     2. Mental balance
+* [If Brains are Computers, Who Designs the Software? - with Daniel Dennett](https://www.youtube.com/watch?v=TTFoJQSd48c)
+  - entertaining tour through the world of comparisons between neural and computer systems 
+    - ponders how evolution could bring about intelligent designers 
+      - tree of life at [1m:58s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=1m58s)
+      - > How could a slow mindless process build a thing that could build a thing that a slow mindless process couldn't build on it's own. ([4m:39s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=4m39s))
+      - cites Tecumseh Fitch's ["nano-intentionality" paper](https://scholia.toolforge.org/doi/10.1007/s10539-007-9079-5) ([11m:17s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=11m17s))
+    - compares termite and human architecture ([23m:32s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=23m32s)
+    - quotes Goethe "When ideas fail, words come in very handy" ([42m:18s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=42m18s))
+    - quotes MacCready ([46m:46s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=46m46s)):
+      - > Over billions of years on a unique sphere, chance has painted a thin covering of life -- complex, improbable, wonderful and fragile. Suddenly, we humans, … have grown in population, technology and intelligence to a position of terrible power: we now wield the paintbrush.
+    - quotes Richard Dawkins' introduction of the concept of a meme ([56m:56s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=56m56s)):
+      - > I think that a new kind of replicator has recently emerged on this very planet. It is staring us in 
+the face. It is still in its infancy, still drifting clumsily about in its primeval soup, but already it is achieving 
+evolutionary change at a rate that leaves the old gene panting far behind. The new soup is the soup of human culture.
 * [I am 30 years old, and a month ago I got my first passport | Maha Mamo](https://www.youtube.com/watch?v=RzffChmXKyA)
   - about what it means to be stateless, and how to end statelessness by providing everyone with an environment where they belong
 * [Sustainable Investing: What you didn't know could make you money. | Karina Funk | TEDxWilmington](https://www.youtube.com/watch?v=fno1QIuA6EQ)
@@ -598,7 +612,6 @@
   - see also [this short excerpt](https://www.zdf.de/dokumentation/terra-x/hoimar-von-ditfurth-querschnitt-1978-ueber-co2-und-klimawandel-100.html) and this copy ([Part I](https://www.youtube.com/watch?v=6W2cL7Vop88), [Part 2](https://www.youtube.com/watch?v=QYfbOOQHxiM))
 * [Deep Code: Jordan (Green) Hall Documentary](https://www.youtube.com/watch?v=_j3cCrpXERg)
 * [The Unfolding Meta-Crisis, Jordan Hall](https://www.youtube.com/watch?v=933qDMh1J3g)
-* [If Brains are Computers, Who Designs the Software? - with Daniel Dennett](https://www.youtube.com/watch?v=TTFoJQSd48c)
 * [Wikidata and Beyond – Knowledge for everyone by everyone - Keynote by Denny Vrandečić at SWAT4HCLS 2019](https://www.youtube.com/watch?v=yzVA7YLwhTE)
 * [The success of nonviolent civil resistance: Erica Chenoweth at TEDxBoulder](https://www.youtube.com/watch?v=YJSehRlU34w)
 * [The Big U-Turn Ahead: Calling Australia to Action on Climate Change](https://www.youtube.com/watch?v=OzQsjuzr3_M) &mdash; Will Steffen
