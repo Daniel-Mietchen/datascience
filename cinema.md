@@ -141,7 +141,7 @@
       - tree of life at [1m:58s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=1m58s)
       - > How could a slow mindless process build a thing that could build a thing that a slow mindless process couldn't build on it's own. ([4m:39s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=4m39s))
       - cites Tecumseh Fitch's ["nano-intentionality" paper](https://scholia.toolforge.org/doi/10.1007/s10539-007-9079-5) ([11m:17s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=11m17s))
-    - compares termite and human architecture ([23m:32s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=23m32s)
+    - compares termite and human architecture ([23m:32s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=23m32s))
     - quotes Goethe "When ideas fail, words come in very handy" ([42m:18s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=42m18s))
     - quotes MacCready ([46m:46s](https://www.youtube.com/watch?v=TTFoJQSd48c#t=46m46s)):
       - > Over billions of years on a unique sphere, chance has painted a thin covering of life -- complex, improbable, wonderful and fragile. Suddenly, we humans, … have grown in population, technology and intelligence to a position of terrible power: we now wield the paintbrush.
