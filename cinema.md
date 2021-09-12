@@ -242,6 +242,8 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
       - Downtime (gives balance)
         - rest and relaxation are a key prerequisite to adaptability
           - essentially, a breakthrough starts with a break
+* [Ronin Institute Seminar: Jon Wilkins, 15 February 2018](https://www.youtube.com/watch?v=Vff9PTl7X2o#t=33m40s)
+  - > "Our capitalist system is reasonably efficient at distributing rivalrous goods. It is not very good at dealing with non-rivalrous goods. "
 * [Andy Harris: How to Begin Thinking Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k)
   - nice intro to programming, focusing on getting the algorithm part sorted out before jumping into a specific language and its syntax, reusing the algorithm sketch as comments
   - always writes while loops as ```while(KeepGoing)```
