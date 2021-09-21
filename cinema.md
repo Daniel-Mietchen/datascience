@@ -607,6 +607,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 
 * [See a Salamander Grow From a Single Cell in this Incredible Time-lapse](https://www.youtube.com/watch?v=SEejivHRIbE)
 * [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM)
+* [5 Major Reasons Religion Is the No.1 Cause of Poverty in Africa | Rev Walter Mwambazi | TEDxLusaka](https://www.youtube.com/watch?v=DfBzEAieaAM)
 
 # Maybe watch in the future
 
