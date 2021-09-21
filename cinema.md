@@ -38,11 +38,11 @@
     - Q&A: 1:12:58
     - at 1:41:54 in the end credits, the URL ```www.thethirdindustrialrevolution.com/``` is shown, which is dysfunctional now, but [here](http://web.archive.org/web/20170315040401/https://www.thethirdindustrialrevolution.com/) is an archival copy
  * [The electrical blueprints that orchestrate life | Michael Levin](https://www.youtube.com/watch?v=XheAMrS8Q1c)
-  - about [A scalable pipeline for designing reconfigurable organisms](https://doi.org/10.1073/pnas.1910837117)
-    - CC BY, has two videos
-    - [Computer-designed organisms](https://cdorgs.github.io/)
-      - [Xenobots](https://en.wikipedia.org/wiki/Xenobot)
-  - see also [this infographic](http://web.archive.org/web/20210405214814/https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fbies.201900146&file=bies201900146-sup-0001-figureS1.jpg) 
+   - about [A scalable pipeline for designing reconfigurable organisms](https://doi.org/10.1073/pnas.1910837117)
+     - CC BY, has two videos
+     - [Computer-designed organisms](https://cdorgs.github.io/)
+       - [Xenobots](https://en.wikipedia.org/wiki/Xenobot)
+   - see also [this infographic](http://web.archive.org/web/20210405214814/https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fbies.201900146&file=bies201900146-sup-0001-figureS1.jpg) 
   - some more details in [What Bodies Think About: Bioelectric Computation Outside the Nervous System - NeurIPS 2018](https://www.youtube.com/watch?v=RjD1aLm4Thg)
 * [Inside the mind of a climate change scientist | Corinne Le Quéré](https://www.youtube.com/watch?v=O6f4Q_ReMxA)
   - "I have a mountain of data on my shoulders" [that tell the story of climate change]
