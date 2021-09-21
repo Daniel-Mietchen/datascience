@@ -43,7 +43,7 @@
      - [Computer-designed organisms](https://cdorgs.github.io/)
        - [Xenobots](https://en.wikipedia.org/wiki/Xenobot)
      - see also [this infographic](http://web.archive.org/web/20210405214814/https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fbies.201900146&file=bies201900146-sup-0001-figureS1.jpg) 
-  - some more details in [What Bodies Think About: Bioelectric Computation Outside the Nervous System - NeurIPS 2018](https://www.youtube.com/watch?v=RjD1aLm4Thg)
+   - some more details in [What Bodies Think About: Bioelectric Computation Outside the Nervous System - NeurIPS 2018](https://www.youtube.com/watch?v=RjD1aLm4Thg)
 * [Inside the mind of a climate change scientist | Corinne Le Quéré](https://www.youtube.com/watch?v=O6f4Q_ReMxA)
   - "I have a mountain of data on my shoulders" [that tell the story of climate change]
     - engaging story around using data as a basis for getting people to act
