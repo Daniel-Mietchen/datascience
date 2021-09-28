@@ -225,6 +225,8 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
   - looks at past epidemics from the perspective of the current one
 * [Quantum Biology: The Hidden Nature of Nature](https://www.youtube.com/watch?v=ADiql3FG5is) &mdash; very entertaining discussion (from June 1, 2012) between John Hockenberry (moderator) and quantum physicists Paul Davies, Seth Lloyd, Thorsten Ritz about quantum phenomena in biological systems
    - see also the 2021 review article [Quantum Biology: An Update and Perspective](https://doi.org/10.3390/QUANTUM3010006)
+* [What Are You Doing With Your Life? The Tail End](https://www.youtube.com/watch?v=JXeJANDKwDc) (also [in German](https://www.youtube.com/watch?v=w9J6D4r30HY))
+   - Basic idea is to visualize life as a matrix of 52 weeks by 100 years and then pondering the meaning of the elements of that matrix. Well done.
 * [Why the majority is always wrong | Paul Rulkens](https://www.youtube.com/watch?v=VNGFep6rncY)
   - intro story about Einstein being challenged about using the same questions in an exam as he did the year before, to which he is reported to have replied
     - > "The questions are the same, but the answers have changed."
