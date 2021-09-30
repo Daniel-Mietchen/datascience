@@ -614,6 +614,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 # Maybe watch in the future
 
 * [Python Tutorial for Beginners (5 Hours)](https://www.youtube.com/watch?v=t8pPdKYpowI)
+* [Jordan Peterson: The collapse of our values is a greater threat than climate change](https://www.youtube.com/watch?v=q4zZ2ker1iI)
 * [The New Climate War: The Fight to Take Back Our Planet: Michael E. Mann](https://www.youtube.com/watch?v=xZaZnfVflxY) &mdash; for background, see [here](https://www.lse.ac.uk/granthaminstitute/events/the-new-climate-war-the-fight-to-take-back-our-planet-michael-e-mann/)
 * [Hoimar von Ditfurth : Der Ast auf dem wir sitzen](https://www.youtube.com/watch?v=F2K-wnCuntg) &mdash; TV show "Querschnitt" (ZDF, Germany) from 1978 about global warming and climate action
   - see also [this short excerpt](https://www.zdf.de/dokumentation/terra-x/hoimar-von-ditfurth-querschnitt-1978-ueber-co2-und-klimawandel-100.html) and this copy ([Part I](https://www.youtube.com/watch?v=6W2cL7Vop88), [Part 2](https://www.youtube.com/watch?v=QYfbOOQHxiM))
