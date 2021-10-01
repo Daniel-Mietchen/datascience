@@ -668,6 +668,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Wikidata Turns 6: A Special Interview with Denny Vrandečić](https://www.youtube.com/watch?v=VdAc0JReVSw)
 * [Donner vie à la science ouverte à l'INM, par Guy Rouleau](https://www.youtube.com/watch?v=QWicBeQ_xiI)
   - seen via https://twitter.com/captic/status/1006122730566160385
+* [Disintegrating Rockets - Softwarefehler in der Raumfahrt (und wie wir versuchen sie zu vermeiden](https://www.youtube.com/watch?v=zIKZKkPtmNs)
 * [How to Generate Your Own Wikipedia Articles (LIVE)](https://www.youtube.com/watch?v=ZGU5kIG7b2I)
 * [Python : Bar Chart Word Cloud from text file, Wikipedia by Using jupyter Notebook](https://www.youtube.com/watch?v=RdqcHAVmqEQ)
 * [Web Scraping Wikipedia tables using Python](https://www.youtube.com/watch?v=ICXR9nDbudk)
