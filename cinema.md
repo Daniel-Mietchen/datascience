@@ -640,6 +640,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Yeonmi Park: North Korea | Lex Fridman Podcast #196](https://www.youtube.com/watch?v=usDqSEKDVsA)
 * [Nick Miller presents: An Inconvenient Truth](https://www.youtube.com/watch?v=C_mr9EqJg18)
 * [COVID Research Synergies / Social Sciences Research](https://www.youtube.com/watch?v=UmWEfW7YtyM)  
+* [Ronin Seminars](https://www.youtube.com/c/RoninInstitute/videos)
 * [An Introduction to Disease Modeling: Understanding COVID-19 Means Understanding Disease Modeling](https://www.youtube.com/watch?v=TdFmy-MeJ4s)
 * [“We Are Striking to Disrupt the System”: An Hour with 16-Year-Old Climate Activist Greta Thunberg](https://www.youtube.com/watch?v=Dgi30Wy_V74)
 * Recordings from Chaos Communication Congresses
