@@ -10,6 +10,7 @@ Here, I will be using the term in a broader sense of *recovering data from natur
 
 # Examples
 
+* [Solar eclipse of 1207 BC helps to date pharaohs](https://doi.org/10.1093/astrogeo/atx178) &mdash; combines hints from the Bible with solar eclipse calculations and text from an Egyptian stele
 * [Measurement of the Earth's rotation: 720 BC to AD 2015](https://doi.org/10.1098/rspa.2016.0404)
   - reuses astronomical data recorded on Babylonian clay tables
 * [Bronze age chronology calibrated by volcano eruption](http://web.archive.org/web/20210525042236/https://news.uchicago.edu/story/worlds-oldest-weather-report-could-revise-bronze-age-chronology)
