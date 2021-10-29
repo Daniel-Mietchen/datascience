@@ -37,7 +37,8 @@
     - Chapter 7: A New Consciousness for A New Era 1:00:06
     - Q&A: 1:12:58
     - at 1:41:54 in the end credits, the URL ```www.thethirdindustrialrevolution.com/``` is shown, which is dysfunctional now, but [here](http://web.archive.org/web/20170315040401/https://www.thethirdindustrialrevolution.com/) is an archival copy
- * [The electrical blueprints that orchestrate life | Michael Levin](https://www.youtube.com/watch?v=XheAMrS8Q1c)
+* [The Neuroscience of Memory - Eleanor Maguire](https://www.youtube.com/watch?v=gdzmNwTLakg) &mdash; a great example for an engaging lecture
+* [The electrical blueprints that orchestrate life | Michael Levin](https://www.youtube.com/watch?v=XheAMrS8Q1c)
    - about [A scalable pipeline for designing reconfigurable organisms](https://doi.org/10.1073/pnas.1910837117)
      - CC BY, has two videos
      - [Computer-designed organisms](https://cdorgs.github.io/)
