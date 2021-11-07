@@ -261,6 +261,8 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
       - ask yourself why you chose the way you did 
     - connect with others who share your values
     - set life rules according to your values
+      - clarify what is not negotiable
+        - if that does not work as a starting point, maybe start from what has annoyed you and use that to figure out what is opposed to your values
 * [Stephen Axford: How fungi changed my view of the world](https://www.youtube.com/watch?v=KYunPJQWZ1o)
   - great intro on how photos and videos of fungi can help explore the interconnectedness of life forms on the planet
   - My draft email to them (to be posted via [this form](https://www.planetfungi.movie/contact)):
