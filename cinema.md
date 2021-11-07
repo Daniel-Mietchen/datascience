@@ -253,6 +253,14 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
   - nice intro to programming, focusing on getting the algorithm part sorted out before jumping into a specific language and its syntax, reusing the algorithm sketch as comments
   - always writes while loops as ```while(KeepGoing)```
   - end with an explanation as to why Python is a good language to learn for beginners
+* [Core Values - Your Inner Compass | Larisa Halilović | TEDxFerhadija](https://www.youtube.com/watch?v=mL4l75rMIiQ)
+  - some key recommendations at around [9min](https://www.youtube.com/watch?v=mL4l75rMIiQ#t=9m)
+    - recognize, name and define values
+    - critically analyze your values
+      - test them via dilemmas, cause and effect
+      - ask yourself why you chose the way you did 
+    - connect with others who share your values
+    - set life rules according to your values
 * [Stephen Axford: How fungi changed my view of the world](https://www.youtube.com/watch?v=KYunPJQWZ1o)
   - great intro on how photos and videos of fungi can help explore the interconnectedness of life forms on the planet
   - My draft email to them (to be posted via [this form](https://www.planetfungi.movie/contact)):
