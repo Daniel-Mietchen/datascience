@@ -81,6 +81,7 @@
 * [This 3D-Printed Bunny Could Be the Future of Data Storage](https://www.youtube.com/watch?v=gNzHcaQov80)
 * [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) &mdash; discusses the merits of log-log plots for detecting changes in exponential growth
   - see also [Covid-19: Are we flattening the curve?](https://www.datafied.world/covid19-are-we-flattening-the-curve-179), a Jupyter notebook inspired by the video
+* [I Changed Astronomy Forever. He Won the Nobel Prize for It. | 'Almost Famous' by Op-Docs](https://www.youtube.com/watch?v=NDW9zKqvPJI) &mdash; about Jocelyn Bell's discovery of pulsars and the role of role models in making our world a more equitable place
 * [Bruce Caron on "Open Science, Culture Change, and You"](https://www.youtube.com/watch?v=yVaqJYPCYF0#t=27m)
   - part of a talk series by the Ronin Institute
   - nice intro to his anthropological [research](http://ronininstitute.org/research-scholars/bruce-caron/) on the open science community and especially the [Open Scientist Handbook](https://openscientist.pubpub.org/pub/play/release/1)
