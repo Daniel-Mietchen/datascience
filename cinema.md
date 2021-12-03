@@ -369,6 +369,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Jessica Richman: Why should science be limited to scientists?](https://www.youtube.com/watch?v=7lAlnEX4YQg)
   * another one by her: [The Future of Research: Citizen Science!](https://www.youtube.com/watch?v=a-xUXNbL04M)
   * see also [Only "Scientists" Can Do Science](http://edge.org/response-detail/25504)
+* [What is Regenerative Agriculture?](https://www.youtube.com/watch?v=fSEtiixgRJI) &mdash; quick intro to no-till farming, regenerative grazing and agro-forestry
 * [The Virginia Indians: Meet the Tribes](https://www.youtube.com/watch?v=3B2qp0r-Zxk)
   * introduces the 11 native tribes recognized by the State of Virginia
     - one of them are the [Nansemond](https://nansemond.org/)
