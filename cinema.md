@@ -334,6 +334,34 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [The most important thing you can do to fight climate change: talk about it (Katharine Hayhoe | TEDWomen 2018)](https://www.ted.com/talks/katharine_hayhoe_the_most_important_thing_you_can_do_to_fight_climate_change_talk_about_it)
   - The title says it all
   - With some remarks on travel impact and remote talks
+* [Ten "foods" to avoid](https://www.youtube.com/watch?v=UmRH6sv9rnA)
+  * Artifical sweeteners
+  * Donuts, Cake, Frosting
+  * Margarine, shortening, partially hydrogenated, trans fats
+  * Monosodium glutamate
+  * White flour, modern wheat, cereals
+  * Processed oils, anything deep fried
+  * Genetically modified food
+  * Processed meat
+  * No-fat or low-fat variants of foods
+* [Ten foods to prioritize](https://www.youtube.com/watch?v=F7gDIshc-S0)
+  * Non-starchy vegetables
+    * leafy greens, broccoli, cauliflower, Brussels sprouts 
+  * Berries
+    * straw, rasp, black, blue
+  * Meat from naturally raised animals
+  * Eggs from pasture-raised animals
+  * Natural fats and oils (unprocessed or low-processed)
+    * butter from grass-fed cattle, extra virgin olive oil, medium chain triglycerides (usually made from cocos oil), lard, tallow
+  * Nuts
+    * macadamia, pecan, walnut, almonds 
+  * Seeds
+    * chia, flax, hemp, pumpkin 
+  * Avocado
+  * Tubers
+    * sweet potatos, potatos, rutabaga, turnips, carrots
+  * Herbs and spices
+    * garlic, giner, turmeric, cinnamon, cloves, cilantro, parsley, dill, rosemary
 * [Andrew Winston: The Big Pivot](https://www.youtube.com/watch?v=2MzINS8eDDI)
   - outlines how businesses can rethink their operations and adjust them towards better alignment with the environment
   - highlights the importance of "heretic" questions, e.g. whether a house can generate more energy than it consumes
