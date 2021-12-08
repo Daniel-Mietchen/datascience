@@ -140,6 +140,7 @@ Soon, we may get to see one up close for the first time.](https://www.vox.com/sc
 * [Climate Clock](https://climateclock.net/) &mdash; indicates the time until we reach 1.5°C or 2°C of global warming with respect to pre-industrial levels.
 * [How iNternational is iNaturalist?](https://www.inaturalist.org/blog/11671-how-international-is-inaturalist)
 * [Show Me The Way](http://osmlab.github.io/show-me-the-way/) &mdash; visualizes recent OpenStreetMap edits
+* [Visualizing the Accumulation of Human-Made Mass on Earth](https://www.visualcapitalist.com/visualizing-the-accumulation-of-human-made-mass-on-earth/)
 
 ### Wikimedia examples
 
