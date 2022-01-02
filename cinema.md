@@ -322,6 +322,8 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
     - > b. Wanting - Environment plays a role. Create environment for you to succeed in your goal.
     - > c. Doing - Optimize for the start line, not finish line.
     - > d. Liking what you do - We repeat behaviors, because we like them.
+* [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+  - the importance of habits for learning, and how to create habits that assist it
 * [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4) &mdash; nicely presents in a beginner-friendly way some key approaches to machine learning: linear regression, logistic regression, decision trees, naive Bayesian statistics, support vector machines, neural networks, K-means and hierarchical clustering
 * [Ecosia as a place to work](https://www.youtube.com/watch?v=qCdK-ifNpRs)
   - with concrete examples of policies, practices and perks
