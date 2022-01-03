@@ -488,6 +488,9 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Dan Whaley | The Revolution Will Be Annotated](https://www.youtube.com/watch?v=2jTctBbX_kw)
   * introduces the Web annotation tool [Hypothes.is](https://hypothes.is/) as an element of human cultural evolution
 * [Tess Posner, AI4ALL Diverse and Inclusive AI - H2O World San Francisco](https://www.youtube.com/watch?v=5pIsLg7Ga_w)
+* [Thinking, Fast and Slow | Daniel Kahneman | Talks at Google](https://www.youtube.com/watch?v=CjVQJdIrDJ0)
+  - fast system (e.g. anger &mdash; about things that feel like they happen) and slow system (e.g. rational thought &mdash; about things that feel like you do / did them)
+  - see [Wikipedia about the underlying book](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) 
 * All of TEDMED 2015
   * [sessions](http://tedmed.com/event/stage2015) ([schedule](http://www.tedmed.com/files/Downloads/TEDMED_2015_Schedule.pdf))
   * notes on paper, since I watched in full screen mode
@@ -690,6 +693,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Nick Miller presents: An Inconvenient Truth](https://www.youtube.com/watch?v=C_mr9EqJg18)
 * [COVID Research Synergies / Social Sciences Research](https://www.youtube.com/watch?v=UmWEfW7YtyM)  
 * [Ronin Seminars](https://www.youtube.com/c/RoninInstitute/videos)
+* [Moonwalking with Einstein | Joshua Foer | Talks at Google](https://www.youtube.com/watch?v=VX3c8uDLBY8)
 * [An Introduction to Disease Modeling: Understanding COVID-19 Means Understanding Disease Modeling](https://www.youtube.com/watch?v=TdFmy-MeJ4s)
 * [“We Are Striking to Disrupt the System”: An Hour with 16-Year-Old Climate Activist Greta Thunberg](https://www.youtube.com/watch?v=Dgi30Wy_V74)
 * Recordings from Chaos Communication Congresses
