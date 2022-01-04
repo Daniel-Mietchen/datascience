@@ -18,6 +18,7 @@
   - not the best talk rhetorically, didactically or in terms of slides, but a decent coverage of one of today's key issues
   - with lots of examples drawn directly from the IPCC reports, to which commentary and contextualization are provided
 * [Shell Oil's Stark Climate Change Warning from 1991](https://www.youtube.com/watch?v=vTlYYlRN0LY) &mdash; lays out in useful detail what was known about climate change back then
+* [Wissenskompass](https://www.youtube.com/watch?v=XttqsSdrW5o) &mdash; Harald Lesch presents a compass for knowledge and education, with Raum (space), Zeit (time), Energie (energy) and Materie (matter) as the man dimensions; also mentions Copernicus, Darwin and Popper and points to coordinated videos from a philosopher and a historian
 * [Icy Warning from the World's Highest Mountains | Lonnie Thompson](https://www.youtube.com/watch?v=vrmiygm3QfM) 
   - about glaciers as climate archives and why their loss is important
   - with important side notes on research funding, international collaboration and heart transplantation
