@@ -626,6 +626,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
   - documentary about the Columbia disaster, highlighting the role of both data and human judgement for decision-making in complex contexts
 * [How lucky is too lucky?: The Minecraft Speedrunning Dream Controversy Explained](https://www.youtube.com/watch?v=8Ko3TdPy0TU) &mdash; explores the likelihood of extremely unlikely events in the context of gaming, with interesting trickshots, the observation that a century has about pi billion seconds and an interesting visualization of orders of magnitude similar to Avogadro's constant
 * [Introduction to Beaker Browser](https://www.youtube.com/watch?v=U2B9mwRFE8U) (2-min demo)
+* [Carl Sagan On Alien Civilizations](https://www.youtube.com/watch?v=q-yqVHrQP2Q) &mdash; includes remarks on the [Pioneer plaques](https://en.wikipedia.org/wiki/Pioneer_plaque)
 * [The Distributed Web, and the Browser I Wrote to Surf It (Beaker Browser Demo)](https://www.youtube.com/watch?v=pi-kreA52oI) (18 min, with some more background as well as demos)
 * [Open Litter Map: Challenging Plastic Pollution with Open Data | Sean Lynch | TEDxTallaght](https://www.youtube.com/watch?v=my7Cx-kZhT4)
   - introduces [Open Litter Map](https://openlittermap.com/)
