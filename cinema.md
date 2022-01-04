@@ -650,6 +650,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Harald Lesch: Sind wir allein im Universum?](https://www.youtube.com/watch?v=Fdjg_ep90Mc) &mdash; quite entertaining 
 * [Learning styles & the importance of critical self-reflection | Tesia Marshik](https://www.youtube.com/watch?v=855Now8h5Rs)
   - does away with the common notion that people have learning styles (auditory/ visual/ tactile/ olfactory)
+* [Why It's Almost Impossible to Skip a Stone 89 Times](https://www.youtube.com/watch?v=6GWL8Gt-BsQ) &mdash; explains some of the physics behind stone skipping, with reference to the current world record (88) and estimates of the theoretical maximum (about 300)
 * [Rio 2016 Opening Ceremony](https://www.youtube.com/watch?v=N_qXm9HY9Ro#t=53m) &mdash; I did not watch the whole thing but just the ca. 5 min related to climate change, prompted by [this tweet](https://twitter.com/mxfh/status/1131323607257419778)
 * [How to use BigBlueButton](https://www.youtube.com/watch?v=K9YnfLnTkvo) &mdash; explores the basics, except recordings
 
