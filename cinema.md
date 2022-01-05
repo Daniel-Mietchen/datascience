@@ -170,6 +170,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
     - joined a group demanding that the city of Berlin divest from fossil fuels
       - success
   - website http://was-macht-mein-geld.de/
+* [See what three degrees of global warming looks like](https://www.youtube.com/watch?v=uynhvHZUOOo) &mdash; with examples from Bangladesh and Fiji as well as some climate modeling and political perspective
 * [Forget climate Apocalypse. There's hope for our warming planet | Jelmer Mommers](https://www.youtube.com/watch?v=gtu9GHhiK0o)
   - climate change framed as the problem of visualizing an invisible problem
   - Focuses on three things
