@@ -674,6 +674,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [The New Climate War: The Fight to Take Back Our Planet: Michael E. Mann](https://www.youtube.com/watch?v=xZaZnfVflxY) &mdash; for background, see [here](https://www.lse.ac.uk/granthaminstitute/events/the-new-climate-war-the-fight-to-take-back-our-planet-michael-e-mann/)
 * [Hoimar von Ditfurth : Der Ast auf dem wir sitzen](https://www.youtube.com/watch?v=F2K-wnCuntg) &mdash; TV show "Querschnitt" (ZDF, Germany) from 1978 about global warming and climate action
   - see also [this short excerpt](https://www.zdf.de/dokumentation/terra-x/hoimar-von-ditfurth-querschnitt-1978-ueber-co2-und-klimawandel-100.html) and this copy ([Part I](https://www.youtube.com/watch?v=6W2cL7Vop88), [Part 2](https://www.youtube.com/watch?v=QYfbOOQHxiM))
+* [Michael Meyer-Hermann on COVID-19 and NoCOVID in Planatarium Jena](https://www.youtube.com/watch?v=koOzZxalR_g)
 * [Deep Code: Jordan (Green) Hall Documentary](https://www.youtube.com/watch?v=_j3cCrpXERg)
 * [The Unfolding Meta-Crisis, Jordan Hall](https://www.youtube.com/watch?v=933qDMh1J3g)
 * [Wikidata and Beyond – Knowledge for everyone by everyone - Keynote by Denny Vrandečić at SWAT4HCLS 2019](https://www.youtube.com/watch?v=yzVA7YLwhTE)
