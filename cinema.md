@@ -668,6 +668,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 
 # Maybe watch in the future
 
+* [The War in Ukraine Could Change Everything | Yuval Noah Harari | TED](https://www.youtube.com/watch?v=yQqthbvYE8M)
 * [Becoming As Ethical As We Think We Are | Morgan Hamel | TEDxYYC](https://www.youtube.com/watch?v=iLRJ4KNxp4Y)
 * [Hands On: SPARQL Query Dbpedia Wikidata Python](https://www.youtube.com/watch?v=YAqlDLCU1Gg)
 * [Python Tutorial for Beginners (5 Hours)](https://www.youtube.com/watch?v=t8pPdKYpowI)
