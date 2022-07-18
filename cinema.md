@@ -267,6 +267,11 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
     - set life rules according to your values
       - clarify what is not negotiable
         - if that does not work as a starting point, maybe start from what has annoyed you and use that to figure out what is opposed to your values
+* [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+  -  based on the assumption that the most useful skill in a programmer is problem decomposition, he outlines a draft set of software design principles and red flags for when the principles have been violated
+  -  talks about tactival versus strategic approaches to design
+  -  puts an emphasis on designing for the common use cases, such that deviations from them would result in added complexity
+  -  book: [A Philosophy of Software Design](https://inventaire.io/items/2d60b05a8af428716b756ea6743894e2)
 * [Stephen Axford: How fungi changed my view of the world](https://www.youtube.com/watch?v=KYunPJQWZ1o)
   - great intro on how photos and videos of fungi can help explore the interconnectedness of life forms on the planet
   - My draft email to them (to be posted via [this form](https://www.planetfungi.movie/contact)):
