@@ -439,6 +439,8 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
   - Let's agree that Everything is interesting
 * [Isaac Kohane : How can every clinical visit be used to advance medical science?](https://www.youtube.com/watch?v=P5O66e8r2QM)
    * starts with a nice analogy to hurrikane information, where available satellite and other data is integrated in almost real time into predictive models that clearly lay out the options people will be facing as a result. Why don't we integrate patient data with people's lifes in the same way?
+* [How breathing and metabolism are interconnected | Ruben Meerman](https://www.youtube.com/watch?v=nM-ySWyID9o)
+  - will-presented and easily understandable overview of the role of inspiration ("atoms in") and expiration ("atoms out") in metabolism ("chopping up" our food in order to "stick together" what we're made of)
 * [Peter Chiarelli: Accelerating open science and the urgency to act now](https://www.youtube.com/watch?v=Xz4xa0m1u5o)
   * highlights traumatic brain injury and post-traumatic stress disorder as major injuries incurred by US soldiers in Iraq
   * discusses research silos
