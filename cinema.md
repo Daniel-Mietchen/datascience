@@ -673,6 +673,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM)
 * [5 Major Reasons Religion Is the No.1 Cause of Poverty in Africa | Rev Walter Mwambazi | TEDxLusaka](https://www.youtube.com/watch?v=DfBzEAieaAM)
 * [Professor Pascal Hitzler, Kansas State University, U.S.: Semantic Web: A 20-year Perspective](https://www.youtube.com/watch?v=n0H5sPM7IjA) &mdash; only watched the Wikidata part at about 34 min so far
+* [Jordan: The mysterious Stone Age village](https://www.youtube.com/watch?v=q3KdGOcnMqw) &mdash; about excavations in [Ba'ja](https://en.wikipedia.org/wiki/Ba%27ja)
 
 # Maybe watch in the future
 
