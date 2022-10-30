@@ -677,6 +677,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 
 # Maybe watch in the future
 
+* [Herman Daly and Kate Raworth on Pandemic-Resistant Economies](https://www.youtube.com/watch?v=rnxCJ3Cqbto)
 * [The War in Ukraine Could Change Everything | Yuval Noah Harari | TED](https://www.youtube.com/watch?v=yQqthbvYE8M)
 * [Becoming As Ethical As We Think We Are | Morgan Hamel | TEDxYYC](https://www.youtube.com/watch?v=iLRJ4KNxp4Y)
 * [My life started when they said it was over | Elin Kjos | TEDxKI](https://www.youtube.com/watch?v=DClv5kj_TB8)
