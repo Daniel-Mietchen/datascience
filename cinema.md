@@ -682,6 +682,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Becoming As Ethical As We Think We Are | Morgan Hamel | TEDxYYC](https://www.youtube.com/watch?v=iLRJ4KNxp4Y)
 * [My life started when they said it was over | Elin Kjos | TEDxKI](https://www.youtube.com/watch?v=DClv5kj_TB8)
 * [Hands On: SPARQL Query Dbpedia Wikidata Python](https://www.youtube.com/watch?v=YAqlDLCU1Gg)
+* [Theory and Practice of Social Tipping Interventions - Event I](https://www.youtube.com/watch?v=ozw41ESYSNo)
 * [Python Tutorial for Beginners (5 Hours)](https://www.youtube.com/watch?v=t8pPdKYpowI)
 * [Jordan Peterson: The collapse of our values is a greater threat than climate change](https://www.youtube.com/watch?v=q4zZ2ker1iI)
 * [The New Climate War: The Fight to Take Back Our Planet: Michael E. Mann](https://www.youtube.com/watch?v=xZaZnfVflxY) &mdash; for background, see [here](https://www.lse.ac.uk/granthaminstitute/events/the-new-climate-war-the-fight-to-take-back-our-planet-michael-e-mann/)
