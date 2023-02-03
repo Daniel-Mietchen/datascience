@@ -682,6 +682,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Becoming As Ethical As We Think We Are | Morgan Hamel | TEDxYYC](https://www.youtube.com/watch?v=iLRJ4KNxp4Y)
 * [My life started when they said it was over | Elin Kjos | TEDxKI](https://www.youtube.com/watch?v=DClv5kj_TB8)
 * [Hands On: SPARQL Query Dbpedia Wikidata Python](https://www.youtube.com/watch?v=YAqlDLCU1Gg)
+* [Computer & Technology Basics Course for Absolute Beginners](https://www.youtube.com/watch?v=y2kg3MOk1sY)
 * [Theory and Practice of Social Tipping Interventions - Event I](https://www.youtube.com/watch?v=ozw41ESYSNo)
   - see also [https://planetary-health-academy.de/de/videomaterial/](https://planetary-health-academy.de/de/videomaterial/) and [https://planetary-health-academy.de/en/materials/lecture-materials/](https://planetary-health-academy.de/en/materials/lecture-materials/) 
 * [Python Tutorial for Beginners (5 Hours)](https://www.youtube.com/watch?v=t8pPdKYpowI)
