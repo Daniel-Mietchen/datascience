@@ -674,6 +674,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [5 Major Reasons Religion Is the No.1 Cause of Poverty in Africa | Rev Walter Mwambazi | TEDxLusaka](https://www.youtube.com/watch?v=DfBzEAieaAM)
 * [Professor Pascal Hitzler, Kansas State University, U.S.: Semantic Web: A 20-year Perspective](https://www.youtube.com/watch?v=n0H5sPM7IjA) &mdash; only watched the Wikidata part at about 34 min so far
 * [Jordan: The mysterious Stone Age village](https://www.youtube.com/watch?v=q3KdGOcnMqw) &mdash; about excavations in [Ba'ja](https://en.wikipedia.org/wiki/Ba%27ja)
+* [Computer & Technology Basics Course for Absolute Beginners](https://www.youtube.com/watch?v=y2kg3MOk1sY) &mdash; a good one-hour intro to basic computer topics for those who've never looked closely into how computers work
 
 # Maybe watch in the future
 
@@ -682,7 +683,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Becoming As Ethical As We Think We Are | Morgan Hamel | TEDxYYC](https://www.youtube.com/watch?v=iLRJ4KNxp4Y)
 * [My life started when they said it was over | Elin Kjos | TEDxKI](https://www.youtube.com/watch?v=DClv5kj_TB8)
 * [Hands On: SPARQL Query Dbpedia Wikidata Python](https://www.youtube.com/watch?v=YAqlDLCU1Gg)
-* [Computer & Technology Basics Course for Absolute Beginners](https://www.youtube.com/watch?v=y2kg3MOk1sY)
+* [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * [Theory and Practice of Social Tipping Interventions - Event I](https://www.youtube.com/watch?v=ozw41ESYSNo)
   - see also [https://planetary-health-academy.de/de/videomaterial/](https://planetary-health-academy.de/de/videomaterial/) and [https://planetary-health-academy.de/en/materials/lecture-materials/](https://planetary-health-academy.de/en/materials/lecture-materials/) 
 * [Python Tutorial for Beginners (5 Hours)](https://www.youtube.com/watch?v=t8pPdKYpowI)
