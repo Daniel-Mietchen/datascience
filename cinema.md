@@ -669,6 +669,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 
 * [Lothar Wieler on the COVID situation in Germany on 17 November 2021](https://www.youtube.com/watch?v=lH-gpVGJRd8)
   * I have already watched the snippets available in [this Twitter thread](https://twitter.com/MdBdesGrauens/status/1461050735395811330), which suggest that it may be worth watching the entire thing
+* [Dagen H, 3 september 1967, del 1](https://www.youtube.com/watch?v=pVR85jpTcn8)
 * [See a Salamander Grow From a Single Cell in this Incredible Time-lapse](https://www.youtube.com/watch?v=SEejivHRIbE)
 * [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM)
 * [5 Major Reasons Religion Is the No.1 Cause of Poverty in Africa | Rev Walter Mwambazi | TEDxLusaka](https://www.youtube.com/watch?v=DfBzEAieaAM)
