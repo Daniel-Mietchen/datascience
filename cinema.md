@@ -71,6 +71,9 @@
   - broadcast in 2015, with the initial ruling of the district court featured as the highlight, which was uphelp in later instances twice, the latest being by the Dutch Supreme Court in December 2020
   - remarkably car-centric for a piece on climate change and emissions from fossil fuels
     - also multiple depictions of single-use plastics and of upper-class lifestyle
+* [Hugues Lantuit: Collapsing Arctic coastlines](https://www.youtube.com/watch?v=z3IiIpVZfSc)
+  - outlines the dramatic increase of coastal erosion in the Arctic and its impact on both local communities and the global climate
+  - points out that scientists need to work together with affected communities, rather than [parachute science](https://doi.org/10.1016/j.cub.2021.01.029) (a term which he did not use)
 * [Yuval Noah Harari on the need of ethical training for "coders"](https://www.youtube.com/watch?v=efohpI3sOCI#t=29m40s)
   - makes the case for including "ethics for coders" in education
   - also calls for an "antivirus for the brain" a few min later
