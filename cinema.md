@@ -709,6 +709,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
   - see also this paper: [Trajectories of the Earth System in the Anthropocene](https://doi.org/10.1073/pnas.1810141115)
 * [The Antarctica Challenge: A Global Warning](https://www.youtube.com/watch?v=9Im2O6dzpUE)
 * [Michael Levin: Anatomical decision-making by cellular collectives](https://www.youtube.com/watch?v=Z-9rLlFgcm0)
+* [Introduction to Wikidata](https://www.youtube.com/watch?v=KonJqKquUSU) &mdash; Presented by the Monarch Initiative as part of the OBO Academy
 * [Michael Clarage: Electrical Shaping of Biology | Thunderbolts](https://www.youtube.com/watch?v=pQ-M_iPMPVk)
 * [Michael Clarage: Electrical Form and Function | Thunderbolts](https://www.youtube.com/watch?v=DnFvTyG5QZM)
 * [What Are the New Discoveries in Human Biology? - with Dan Davis](https://www.youtube.com/watch?v=SqrRW3CMOzo)
