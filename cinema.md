@@ -387,6 +387,9 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Doing Core Values | Bob Keiller | TEDxGlasgow](https://www.youtube.com/watch?v=ulWkN0k0MVE) &mdash; at about 10 min, he talks about how people were sharing stories about how the core values have been used
 * [How to take a picture of a black hole | Katie Bouman](https://www.youtube.com/watch?v=BIvezCVcsYs)
   - with lots of examples regarding how to integrate data of different kinds across sources, scales and assumptions
+* [Programmable Matter: Giving Physical Objects Digital Capabilities](https://www.youtube.com/watch?v=Ypgo5ReeDFk)
+  - they are developing photochromic dyes that allow the colors of suitably engineered physical objects to be changed persistently and reversibly
+  - odd vision of perhaps getting physical stuff for free, and having to pay just for the app 
 * [How to create a better research poster in less time (including templates)](https://www.youtube.com/watch?v=1RwJbhkCA58)
   - proposes a new approach to designing an academic poster
   - I pinged the presenter about participation in his [study](https://www.youtube.com/watch?v=1RwJbhkCA58#t=19m)
