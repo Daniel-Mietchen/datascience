@@ -395,6 +395,8 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
   - I pinged the presenter about participation in his [study](https://www.youtube.com/watch?v=1RwJbhkCA58#t=19m)
   - He also has a manifesto [Let's Make Science User-Friendly](https://www.youtube.com/watch?v=WBjhxjWDiHw)
   - [PART II](https://www.youtube.com/watch?v=SYk29tnxASs)
+* [The Mathematics of String Art](https://www.youtube.com/watch?v=WGccIFf6MF8)
+  - explains and calculates how images like [this](https://youtu.be/WGccIFf6MF8?t=21) can be created using one thread on a circular structure with a number of nails   
 * [Life in North Korea](https://www.youtube.com/watch?v=StjIv33zJ9c) &mdash; unusually close encounters with the populace
   - brings up the idea of North Korea as a pioneer in sustainable tourism
 * [A free world needs satire | Patrick Chappatte](https://www.youtube.com/watch?v=MIGtyaVb2Xc)
