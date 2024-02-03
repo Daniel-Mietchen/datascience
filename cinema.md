@@ -438,6 +438,8 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
   * in both scenarios, signal is enhanced through quorum sensing
 * [Thomas Goetz: It's time to redesign medical data](https://www.youtube.com/watch?v=bCGlWQnzDVE)
    * about how to link patient data to patient's course of action, with thoughts on redesigning the forms that are used to convey the result of clinical diagnostics to patients
+* [Mongolian nomads’ ultimate dilemma](https://www.youtube.com/watch?v=_NcTKQmdKl8)
+  - well-done documentary about the nomadic way of life and how it faces extinction  
 * [A guided tour through Cellosaurus](https://www.youtube.com/watch?v=p5ET5ykJ5oQ)
   * nice overview of the data structure, cross-referencing and context
 * [Atheism 2.0 | Alain de Botton](https://www.youtube.com/watch?v=2Oe6HUgrRlQ)
