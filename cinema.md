@@ -722,6 +722,7 @@ evolutionary change at a rate that leaves the old gene panting far behind. The n
 * [Introduction to Wikidata](https://www.youtube.com/watch?v=KonJqKquUSU) &mdash; Presented by the Monarch Initiative as part of the OBO Academy
 * [Michael Clarage: Electrical Shaping of Biology | Thunderbolts](https://www.youtube.com/watch?v=pQ-M_iPMPVk)
 * [Michael Clarage: Electrical Form and Function | Thunderbolts](https://www.youtube.com/watch?v=DnFvTyG5QZM)
+* [Die arktische Oase](https://www.youtube.com/watch?v=EX_x3DJxWVA)
 * [What Are the New Discoveries in Human Biology? - with Dan Davis](https://www.youtube.com/watch?v=SqrRW3CMOzo)
 * [Constructor Theory: A New Explanation of Fundamental Physics - Chiara Marletto and Marcus du Sautoy](https://www.youtube.com/watch?v=zFm-5uqvMWk)
 * [Alternative Personalmodelle für Universitäten in Deutschland](https://www.youtube.com/watch?v=AnCp0euetuk)
