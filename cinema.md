@@ -61,7 +61,7 @@
   - [discusses the white paper with the same title](https://climateemergencydeclaration.org/wp-content/uploads/2018/09/DontMentionTheEmergency2018.pdf)
     - [background on the white paper](https://renew.org.au/renew-magazine/climate-change/dont-mention-the-emergency/)
   - [explains scientist's relationship with recent developments following an exponential function](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=9m20s)
-  - [discusses](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=21m55s) [Appealing to Fear: A Meta-Analysis of Fear Appeal Effectivenessand Theories](http://dx.doi.org/10.1037/a0039729)
+  - [discusses](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=21m55s) [Appealing to Fear: A Meta-Analysis of Fear Appeal Effectiveness and Theories](http://dx.doi.org/10.1037/a0039729)
 * [The reality of climate change](https://www.youtube.com/watch?v=SBjtO-0tbKU) &mdash; by [David Puttnam](https://en.wikipedia.org/wiki/David_Puttnam) of [Climate Change Act](https://en.wikipedia.org/wiki/Climate_Change_Act_2008) fame
   - multiple historic examples (from economics, health, environmental sustainability and leadership) around the theme of 
     - > disregard of human suffering (of some) in the pursuit of economic profit (for others)
