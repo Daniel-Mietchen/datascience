@@ -10,7 +10,7 @@
 * [Dr Mike Ryan : Covid-19 is a wake-up call to how we live our lives](https://vimeo.com/513844215)
   - background story: [5 lessons Dr. Mike Ryan says we need to learn from Covid-19](https://www.trocaire.org/news/5-lessons-dr-mike-ryan-says-we-need-to-learn-from-covid-19/)  
   - seen via [this tweet](https://twitter.com/rice_e/status/1362427619275341831) 
-* ["The greatest shortcoming of the human race is our inability to understand the exponential function. But this kind of steady growth is the centrepiece of the entire global economy. Who would realise at 5 minutes to 12, that there is a problem? Think about it." — Prof. Al Bartlett](https://twitter.com/Jumpsteady/status/1178918445229981696) &mdash; [https://youtu.be/kZA9Hnp3aV4?t=1332 Full video]
+* ["The greatest shortcoming of the human race is our inability to understand the exponential function. But this kind of steady growth is the centrepiece of the entire global economy. Who would realise at 5 minutes to 12, that there is a problem? Think about it." — Prof. Al Bartlett](https://twitter.com/Jumpsteady/status/1178918445229981696) &mdash; [Full video](https://youtu.be/kZA9Hnp3aV4?t=1332]
   - [another take on the exponential function](https://www.youtube.com/watch?v=MBGHTRx6xAU#t=9m20s)
   - see also [Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
 * ["The only sustainable growth is degrowth"](https://twitter.com/parents4future/status/1206694192740786179)
