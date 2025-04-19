@@ -218,6 +218,9 @@ surveillance  and  data  collection,  which  are  required  under  the  Internat
     - > In partnership with our local partners, Mappoint Asia Thailand Public Company, and Chiang Rai University, Intermap supplied its newly-released NEXTMap One, a 1-meter resolution elevation dataset, to the Thai Department of National Parks on June 27th. This high resolution elevation data was supplied within three hours, and used in conjunction with other sensors to identify elevation coordinates, prioritize potential drilling points, identify drainage paths, provide a detailed and inter-active 3D model of the area, and determine alternate routes into the caves to help rescue the boys. NEXTMap One, which was provided for free, is substantially more detailed than the existing elevation data available from commercial and government sources.
 * [Thailand Cave Rescue Operation – A Meteorologist's Perspective](https://blog.weatherops.com/thailand-cave-rescue-operation-a-meteorologists-perspective)
 
+## [Eyjafjallajökull eruptions](https://en.wikipedia.org/wiki/2010_eruptions_of_Eyjafjallaj%C3%B6kull)
+* daily updates on volcano activity and its interactions with atmospheric weather, providing scientific data alongside routine meteorological data: "[Data on ground deformation, magma chemistry, petrology, tephra fallout, grain sizes and other characteristics of the eruption were published on the web page as soon as they were available.](https://futurevolc.hi.is/sites/futurevolc.hi.is/files/Pdf/Deliverables/fv_d3_1_submitted.pdf)"
+
 # Organizations
 * [Médecins Sans Frontières/Doctors without Borders](http://www.doctorswithoutborders.org/)
 * [OpenStreetMap: overview of humanitarian activities](http://wiki.openstreetmap.org/wiki/Category:Humanitarian_OSM_Team)
