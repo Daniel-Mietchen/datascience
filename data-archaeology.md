@@ -41,15 +41,16 @@ Here, I will be using the term in a broader sense of *recovering data from natur
   - > "Here we measure the 14C content in 484 individual tree rings formed in the periods 770–780 and 990–1000 CE. Distinct 14C excursions starting in the boreal summer of 774 and the boreal spring of 993 ensure the precise dating of 44 tree-ring records from five continents. We also identify a meridional decline of 11-year mean atmospheric radiocarbon concentrations across both hemispheres. Corroborated by historical eye-witness accounts of red auroras, our results suggest a global exposure to strong solar proton radiation."
 * [Deciphering scripts in ancient languages using deep learning](https://www.wikidata.org/wiki/Q67496406)
   - [news piece](https://weirdnews.info/2019/07/17/a-i-is-translating-messages-of-long-lost-languages/)
-  - [background on the conference]()
+  - [paper "Neural Decipherment via Minimum-Cost Flow: from Ugaritic to Linear B"](https://arxiv.org/abs/1906.06718)
+  - [background on the conference](https://aclanthology.org/events/acl-2019/)
   - [code](https://github.com/j-luo93/NeuroDecipher)
-    
-
-# Missing pieces
-
-- Lots of paper documents of the Secret Service of Eastern Germany have been physically shredded to pieces around the time that the Berlin Wall came down and virtually reassambled afterwards. There are multiple resources on this online but I have not gone through them systematically yet.
-- I remember from the time of my PhD (2004-ish) a story that some physically broken [phonograph records](https://en.wikipedia.org/wiki/Phonograph_record) were read by way of scanning them with laser technology and then reassembling them virtually. As far as I can tell, these are different from [laser turntables](https://eandt.theiet.org/content/articles/2011/11/laser-turntables-when-lasers-get-groovy/). Don't have further details at hand, though.
+* Lots of paper documents of the Secret Service of Eastern Germany have been physically shredded to pieces around the time that the Berlin Wall came down and virtually reassambled afterwards. There are multiple resources on this online but I have not gone through them systematically yet.
+  - [Bundesarchiv](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)
+  - Fraunhofer 
+* I remember from the time of my PhD (2004-ish) a story that some physically broken [phonograph records](https://en.wikipedia.org/wiki/Phonograph_record) were read by way of scanning them with laser technology and then reassembling them virtually. As far as I can tell, these are different from [laser turntables](https://eandt.theiet.org/content/articles/2011/11/laser-turntables-when-lasers-get-groovy/). Don't have further details at hand, though.
+  - This system is likely [IRENE](https://en.wikipedia.org/wiki/IRENE_(technology)) 
   - It seems that such a system is in operation at the [National Audio-Visual Conservation Center](https://en.wikipedia.org/wiki/National_Audio-Visual_Conservation_Center), as mentioned by [Kevin Kielbasa](http://web.archive.org/web/20200306221332/https://publicsearch.people.virginia.edu/person/jkk8j) in a meeting between the UVA School of Data Science and the Museum of Art on 6 March 2020
+* The paper "[The actual sky of Van Gogh’s Starry Night: a multidisciplinary reconstruction](https://doi.org/10.1038/s41598-026-73025-5)" combines astronomical and historical evidence regarding the astronomical accuracy of the depicted scene and the date when this painting was created. See also [Wikidata entry for the painting](https://www.wikidata.org/wiki/Q45585#sitelinks-wikipedia).
 
 # See also
 
