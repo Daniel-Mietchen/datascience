@@ -46,7 +46,7 @@ Here, I will be using the term in a broader sense of *recovering data from natur
   - [code](https://github.com/j-luo93/NeuroDecipher)
 * Lots of paper documents of the Secret Service of Eastern Germany have been physically shredded to pieces around the time that the Berlin Wall came down and virtually reassambled afterwards. There are multiple resources on this online but I have not gone through them systematically yet.
   - [Bundesarchiv](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)
-  - Fraunhofer 
+  - [Fraunhofer](https://www.ipk.fraunhofer.de/de/zusammenarbeit/referenzen/stasi-puzzle.html) 
 * I remember from the time of my PhD (2004-ish) a story that some physically broken [phonograph records](https://en.wikipedia.org/wiki/Phonograph_record) were read by way of scanning them with laser technology and then reassembling them virtually. As far as I can tell, these are different from [laser turntables](https://eandt.theiet.org/content/articles/2011/11/laser-turntables-when-lasers-get-groovy/). Don't have further details at hand, though.
   - This system is likely [IRENE](https://en.wikipedia.org/wiki/IRENE_(technology)) 
   - It seems that such a system is in operation at the [National Audio-Visual Conservation Center](https://en.wikipedia.org/wiki/National_Audio-Visual_Conservation_Center), as mentioned by [Kevin Kielbasa](http://web.archive.org/web/20200306221332/https://publicsearch.people.virginia.edu/person/jkk8j) in a meeting between the UVA School of Data Science and the Museum of Art on 6 March 2020
